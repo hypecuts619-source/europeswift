@@ -1,0 +1,527 @@
+[
+  {
+    "country": "United Kingdom",
+    "code": "GB",
+    "length": 22,
+    "format": "GBkk bbbb cccc cccc cccc",
+    "example": "GB12345678901234567890"
+  },
+  {
+    "country": "Germany",
+    "code": "DE",
+    "length": 22,
+    "format": "DEkk bbbb cccc cccc cccc",
+    "example": "DE12345678901234567890"
+  },
+  {
+    "country": "France",
+    "code": "FR",
+    "length": 27,
+    "format": "FRkk bbbb cccc cccc cccc",
+    "example": "FR12345678901234567890"
+  },
+  {
+    "country": "Spain",
+    "code": "ES",
+    "length": 24,
+    "format": "ESkk bbbb cccc cccc cccc",
+    "example": "ES12345678901234567890"
+  },
+  {
+    "country": "Italy",
+    "code": "IT",
+    "length": 27,
+    "format": "ITkk bbbb cccc cccc cccc",
+    "example": "IT12345678901234567890"
+  },
+  {
+    "country": "Netherlands",
+    "code": "NL",
+    "length": 18,
+    "format": "NLkk bbbb cccc cccc cccc",
+    "example": "NL12345678901234567890"
+  },
+  {
+    "country": "Austria",
+    "code": "AT",
+    "length": 20,
+    "format": "ATkk bbbb cccc cccc cccc",
+    "example": "AT12345678901234567890"
+  },
+  {
+    "country": "Belgium",
+    "code": "BE",
+    "length": 16,
+    "format": "BEkk bbbb cccc cccc cccc",
+    "example": "BE12345678901234567890"
+  },
+  {
+    "country": "Switzerland",
+    "code": "CH",
+    "length": 21,
+    "format": "CHkk bbbb cccc cccc cccc",
+    "example": "CH12345678901234567890"
+  },
+  {
+    "country": "Ireland",
+    "code": "IE",
+    "length": 22,
+    "format": "IEkk bbbb cccc cccc cccc",
+    "example": "IE12345678901234567890"
+  },
+  {
+    "country": "Poland",
+    "code": "PL",
+    "length": 28,
+    "format": "PLkk bbbb cccc cccc cccc",
+    "example": "PL12345678901234567890"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "length": 24,
+    "format": "SEkk bbbb cccc cccc cccc",
+    "example": "SE12345678901234567890"
+  },
+  {
+    "country": "Denmark",
+    "code": "DK",
+    "length": 18,
+    "format": "DKkk bbbb cccc cccc cccc",
+    "example": "DK12345678901234567890"
+  },
+  {
+    "country": "Norway",
+    "code": "NO",
+    "length": 15,
+    "format": "NOkk bbbb cccc cccc cccc",
+    "example": "NO12345678901234567890"
+  },
+  {
+    "country": "Finland",
+    "code": "FI",
+    "length": 18,
+    "format": "FIkk bbbb cccc cccc cccc",
+    "example": "FI12345678901234567890"
+  },
+  {
+    "country": "Portugal",
+    "code": "PT",
+    "length": 25,
+    "format": "PTkk bbbb cccc cccc cccc",
+    "example": "PT12345678901234567890"
+  },
+  {
+    "country": "Andorra",
+    "code": "AD",
+    "length": 27,
+    "format": "ADkk bbbb cccc cccc cccc",
+    "example": "AD12345678901234567890"
+  },
+  {
+    "country": "United Arab Emirates",
+    "code": "AE",
+    "length": 22,
+    "format": "AEkk bbbb cccc cccc cccc",
+    "example": "AE12345678901234567890"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "length": 25,
+    "format": "ALkk bbbb cccc cccc cccc",
+    "example": "AL12345678901234567890"
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "length": 24,
+    "format": "AZkk bbbb cccc cccc cccc",
+    "example": "AZ12345678901234567890"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "code": "BA",
+    "length": 21,
+    "format": "BAkk bbbb cccc cccc cccc",
+    "example": "BA12345678901234567890"
+  },
+  {
+    "country": "Bulgaria",
+    "code": "BG",
+    "length": 24,
+    "format": "BGkk bbbb cccc cccc cccc",
+    "example": "BG12345678901234567890"
+  },
+  {
+    "country": "Bahrain",
+    "code": "BH",
+    "length": 21,
+    "format": "BHkk bbbb cccc cccc cccc",
+    "example": "BH12345678901234567890"
+  },
+  {
+    "country": "Brazil",
+    "code": "BR",
+    "length": 26,
+    "format": "BRkk bbbb cccc cccc cccc",
+    "example": "BR12345678901234567890"
+  },
+  {
+    "country": "Belarus",
+    "code": "BY",
+    "length": 26,
+    "format": "BYkk bbbb cccc cccc cccc",
+    "example": "BY12345678901234567890"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "length": 26,
+    "format": "CRkk bbbb cccc cccc cccc",
+    "example": "CR12345678901234567890"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "length": 24,
+    "format": "CYkk bbbb cccc cccc cccc",
+    "example": "CY12345678901234567890"
+  },
+  {
+    "country": "Czech Republic",
+    "code": "CZ",
+    "length": 27,
+    "format": "CZkk bbbb cccc cccc cccc",
+    "example": "CZ12345678901234567890"
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "DO",
+    "length": 26,
+    "format": "DOkk bbbb cccc cccc cccc",
+    "example": "DO12345678901234567890"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "length": 22,
+    "format": "EEkk bbbb cccc cccc cccc",
+    "example": "EE12345678901234567890"
+  },
+  {
+    "country": "Faroe Islands",
+    "code": "FO",
+    "length": 26,
+    "format": "FOkk bbbb cccc cccc cccc",
+    "example": "FO12345678901234567890"
+  },
+  {
+    "country": "Georgia",
+    "code": "GE",
+    "length": 26,
+    "format": "GEkk bbbb cccc cccc cccc",
+    "example": "GE12345678901234567890"
+  },
+  {
+    "country": "Gibraltar",
+    "code": "GI",
+    "length": 20,
+    "format": "GIkk bbbb cccc cccc cccc",
+    "example": "GI12345678901234567890"
+  },
+  {
+    "country": "Greenland",
+    "code": "GL",
+    "length": 26,
+    "format": "GLkk bbbb cccc cccc cccc",
+    "example": "GL12345678901234567890"
+  },
+  {
+    "country": "Greece",
+    "code": "GR",
+    "length": 25,
+    "format": "GRkk bbbb cccc cccc cccc",
+    "example": "GR12345678901234567890"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "length": 27,
+    "format": "GTkk bbbb cccc cccc cccc",
+    "example": "GT12345678901234567890"
+  },
+  {
+    "country": "Croatia",
+    "code": "HR",
+    "length": 20,
+    "format": "HRkk bbbb cccc cccc cccc",
+    "example": "HR12345678901234567890"
+  },
+  {
+    "country": "Hungary",
+    "code": "HU",
+    "length": 21,
+    "format": "HUkk bbbb cccc cccc cccc",
+    "example": "HU12345678901234567890"
+  },
+  {
+    "country": "Israel",
+    "code": "IL",
+    "length": 27,
+    "format": "ILkk bbbb cccc cccc cccc",
+    "example": "IL12345678901234567890"
+  },
+  {
+    "country": "Iraq",
+    "code": "IQ",
+    "length": 26,
+    "format": "IQkk bbbb cccc cccc cccc",
+    "example": "IQ12345678901234567890"
+  },
+  {
+    "country": "Iceland",
+    "code": "IS",
+    "length": 27,
+    "format": "ISkk bbbb cccc cccc cccc",
+    "example": "IS12345678901234567890"
+  },
+  {
+    "country": "Jordan",
+    "code": "JO",
+    "length": 20,
+    "format": "JOkk bbbb cccc cccc cccc",
+    "example": "JO12345678901234567890"
+  },
+  {
+    "country": "Kuwait",
+    "code": "KW",
+    "length": 27,
+    "format": "KWkk bbbb cccc cccc cccc",
+    "example": "KW12345678901234567890"
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "KZ",
+    "length": 25,
+    "format": "KZkk bbbb cccc cccc cccc",
+    "example": "KZ12345678901234567890"
+  },
+  {
+    "country": "Lebanon",
+    "code": "LB",
+    "length": 22,
+    "format": "LBkk bbbb cccc cccc cccc",
+    "example": "LB12345678901234567890"
+  },
+  {
+    "country": "Liechtenstein",
+    "code": "LI",
+    "length": 25,
+    "format": "LIkk bbbb cccc cccc cccc",
+    "example": "LI12345678901234567890"
+  },
+  {
+    "country": "Lithuania",
+    "code": "LT",
+    "length": 22,
+    "format": "LTkk bbbb cccc cccc cccc",
+    "example": "LT12345678901234567890"
+  },
+  {
+    "country": "Luxembourg",
+    "code": "LU",
+    "length": 20,
+    "format": "LUkk bbbb cccc cccc cccc",
+    "example": "LU12345678901234567890"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "length": 20,
+    "format": "LVkk bbbb cccc cccc cccc",
+    "example": "LV12345678901234567890"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "length": 21,
+    "format": "MCkk bbbb cccc cccc cccc",
+    "example": "MC12345678901234567890"
+  },
+  {
+    "country": "Moldova",
+    "code": "MD",
+    "length": 21,
+    "format": "MDkk bbbb cccc cccc cccc",
+    "example": "MD12345678901234567890"
+  },
+  {
+    "country": "Montenegro",
+    "code": "ME",
+    "length": 21,
+    "format": "MEkk bbbb cccc cccc cccc",
+    "example": "ME12345678901234567890"
+  },
+  {
+    "country": "North Macedonia",
+    "code": "MK",
+    "length": 23,
+    "format": "MKkk bbbb cccc cccc cccc",
+    "example": "MK12345678901234567890"
+  },
+  {
+    "country": "Mauritania",
+    "code": "MR",
+    "length": 20,
+    "format": "MRkk bbbb cccc cccc cccc",
+    "example": "MR12345678901234567890"
+  },
+  {
+    "country": "Malta",
+    "code": "MT",
+    "length": 20,
+    "format": "MTkk bbbb cccc cccc cccc",
+    "example": "MT12345678901234567890"
+  },
+  {
+    "country": "Mauritius",
+    "code": "MU",
+    "length": 25,
+    "format": "MUkk bbbb cccc cccc cccc",
+    "example": "MU12345678901234567890"
+  },
+  {
+    "country": "Pakistan",
+    "code": "PK",
+    "length": 27,
+    "format": "PKkk bbbb cccc cccc cccc",
+    "example": "PK12345678901234567890"
+  },
+  {
+    "country": "Palestine",
+    "code": "PS",
+    "length": 26,
+    "format": "PSkk bbbb cccc cccc cccc",
+    "example": "PS12345678901234567890"
+  },
+  {
+    "country": "Qatar",
+    "code": "QA",
+    "length": 24,
+    "format": "QAkk bbbb cccc cccc cccc",
+    "example": "QA12345678901234567890"
+  },
+  {
+    "country": "Romania",
+    "code": "RO",
+    "length": 24,
+    "format": "ROkk bbbb cccc cccc cccc",
+    "example": "RO12345678901234567890"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "length": 24,
+    "format": "RSkk bbbb cccc cccc cccc",
+    "example": "RS12345678901234567890"
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "length": 23,
+    "format": "SAkk bbbb cccc cccc cccc",
+    "example": "SA12345678901234567890"
+  },
+  {
+    "country": "Seychelles",
+    "code": "SC",
+    "length": 23,
+    "format": "SCkk bbbb cccc cccc cccc",
+    "example": "SC12345678901234567890"
+  },
+  {
+    "country": "Slovenia",
+    "code": "SI",
+    "length": 25,
+    "format": "SIkk bbbb cccc cccc cccc",
+    "example": "SI12345678901234567890"
+  },
+  {
+    "country": "Slovakia",
+    "code": "SK",
+    "length": 27,
+    "format": "SKkk bbbb cccc cccc cccc",
+    "example": "SK12345678901234567890"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "length": 26,
+    "format": "SMkk bbbb cccc cccc cccc",
+    "example": "SM12345678901234567890"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "code": "ST",
+    "length": 22,
+    "format": "STkk bbbb cccc cccc cccc",
+    "example": "ST12345678901234567890"
+  },
+  {
+    "country": "El Salvador",
+    "code": "SV",
+    "length": 20,
+    "format": "SVkk bbbb cccc cccc cccc",
+    "example": "SV12345678901234567890"
+  },
+  {
+    "country": "Timor-Leste",
+    "code": "TL",
+    "length": 27,
+    "format": "TLkk bbbb cccc cccc cccc",
+    "example": "TL12345678901234567890"
+  },
+  {
+    "country": "Tunisia",
+    "code": "TN",
+    "length": 26,
+    "format": "TNkk bbbb cccc cccc cccc",
+    "example": "TN12345678901234567890"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "length": 22,
+    "format": "TRkk bbbb cccc cccc cccc",
+    "example": "TR12345678901234567890"
+  },
+  {
+    "country": "Ukraine",
+    "code": "UA",
+    "length": 21,
+    "format": "UAkk bbbb cccc cccc cccc",
+    "example": "UA12345678901234567890"
+  },
+  {
+    "country": "Vatican City",
+    "code": "VA",
+    "length": 27,
+    "format": "VAkk bbbb cccc cccc cccc",
+    "example": "VA12345678901234567890"
+  },
+  {
+    "country": "British Virgin Islands",
+    "code": "VG",
+    "length": 22,
+    "format": "VGkk bbbb cccc cccc cccc",
+    "example": "VG12345678901234567890"
+  },
+  {
+    "country": "Kosovo",
+    "code": "XK",
+    "length": 26,
+    "format": "XKkk bbbb cccc cccc cccc",
+    "example": "XK12345678901234567890"
+  }
+]

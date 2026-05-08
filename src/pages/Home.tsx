@@ -1,0 +1,194 @@
+import * as React from 'react';
+import { Link } from 'react-router-dom';
+import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight } from 'lucide-react';
+import { motion } from 'motion/react';
+import { AdSense } from '../components/AdSense';
+import { useLanguage } from '../contexts/LanguageContext';
+
+const container = {
+  hidden: { opacity: 0 },
+  show: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.1
+    }
+  }
+};
+
+const item = {
+  hidden: { opacity: 0, y: 20 },
+  show: { opacity: 1, y: 0 }
+};
+
+export function Home() {
+  const { t } = useLanguage();
+
+  return (
+    <div className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
+      
+      {/* Hero Section */}
+      <motion.section 
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="text-center mb-16"
+      >
+        <div className="inline-block px-4 py-1.5 mb-6 bg-blue-50 dark:bg-blue-900/30 rounded-full border border-blue-100 dark:border-blue-800">
+          <span className="text-xs font-bold text-[#003399] dark:text-blue-400 uppercase tracking-widest flex items-center gap-2">
+            <Globe className="w-3 h-3" />
+            Verified European Bank Directory
+          </span>
+        </div>
+        <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight dark:text-white max-w-4xl mx-auto leading-[1.1]">
+          {t('home.title')}
+        </h1>
+        <p className="text-slate-500 dark:text-slate-400 mb-10 max-w-2xl mx-auto text-lg md:text-xl leading-relaxed">
+          {t('home.subtitle')}
+        </p>
+        
+        <div className="max-w-3xl mx-auto relative">
+          <div className="flex flex-col sm:flex-row gap-2 p-2 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-xl shadow-blue-900/5">
+            <div className="flex-1 flex items-center px-4 gap-3">
+              <Search className="w-5 h-5 text-slate-400 dark:text-slate-500" />
+              <input 
+                type="text" 
+                placeholder={t('search.placeholder')} 
+                className="bg-transparent w-full outline-none text-lg min-h-[48px] dark:text-white dark:placeholder:text-slate-500"
+              />
+            </div>
+            <button className="bg-[#003399] text-white px-10 py-4 rounded-xl font-bold hover:bg-blue-800 transition-all shadow-lg active:scale-95 flex items-center justify-center gap-2">
+              {t('search.button')}
+              <ArrowRight className="w-4 h-4" />
+            </button>
+          </div>
+          <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 italic">
+            Example: <span className="font-mono">Barclays Bank</span>, <span className="font-mono">Frankfurt</span>, or <span className="font-mono">CHASUS33</span>
+          </p>
+        </div>
+      </motion.section>
+
+      {/* Services Grid */}
+      <motion.div 
+        variants={container}
+        initial="hidden"
+        animate="show"
+        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16"
+      >
+        {/* SWIFT Search Service */}
+        <motion.div variants={item}>
+          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+            <div className="absolute -right-8 -top-8 w-32 h-32 bg-[#003399] opacity-[0.03] dark:opacity-5 rounded-full group-hover:scale-110 transition-transform"></div>
+            <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
+              <Globe className="w-7 h-7" />
+            </div>
+            <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">SWIFT / BIC Directory</h2>
+            <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+              Find verified SWIFT codes for every bank branch across Europe. Accurate, updated, and ready for your transfers.
+            </p>
+            <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+              Browse Countries <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Link>
+        </motion.div>
+
+        {/* IBAN Validator Service */}
+        <motion.div variants={item}>
+          <Link to="/iban" className="group h-full bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
+            <div className="absolute inset-0 bg-gradient-to-br from-[#003399] to-transparent opacity-20 z-0"></div>
+            <div className="relative z-10 h-full flex flex-col">
+              <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center mb-6">
+                <ShieldCheck className="w-7 h-7 text-white" />
+              </div>
+              <h2 className="text-2xl font-bold mb-3">IBAN Validator</h2>
+              <p className="text-slate-300 mb-8 flex-1">
+                Instantly verify IBAN structure, MOD-97 checks, and bank identification for all SEPA zone countries.
+              </p>
+              <div className="flex items-center text-sm font-bold text-white uppercase tracking-wider">
+                Validate Now <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+          </Link>
+        </motion.div>
+
+        {/* UK Sort Codes Service */}
+        <motion.div variants={item}>
+          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+             <div className="w-14 h-14 bg-slate-50 dark:bg-slate-800 rounded-2xl flex items-center justify-center mb-6 text-slate-400 dark:text-slate-500">
+              <CreditCard className="w-7 h-7" />
+            </div>
+            <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">UK Sort Codes</h2>
+            <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+              Search the complete database of UK bank sort codes, branch locations, and clearing information.
+            </p>
+            <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+              Find Code <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Link>
+        </motion.div>
+      </motion.div>
+
+      {/* SWIFT Anatomy Section */}
+      <motion.section 
+        initial={{ opacity: 0 }}
+        whileInView={{ opacity: 1 }}
+        viewport={{ once: true }}
+        className="bg-[#003399] rounded-[2.5rem] p-8 md:p-14 text-white mb-16 relative overflow-hidden"
+      >
+        <div className="absolute top-0 right-0 w-1/3 h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10 pointer-events-none"></div>
+        <div className="max-w-2xl relative z-10">
+          <h2 className="text-3xl font-bold mb-6">How SWIFT/BIC Codes Work</h2>
+          <p className="text-blue-100 mb-10 text-lg">
+            A SWIFT code (or BIC) is an 8 to 11 character identifier for a specific bank. Knowing the structure helps you verify the accuracy of your transfer details.
+          </p>
+
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/10">
+              <div className="text-3xl font-mono font-bold mb-1">DEUT</div>
+              <div className="text-[10px] uppercase font-bold tracking-widest text-blue-300">Bank Code</div>
+            </div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/10">
+              <div className="text-3xl font-mono font-bold mb-1">DE</div>
+              <div className="text-[10px] uppercase font-bold tracking-widest text-blue-300">Country</div>
+            </div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/10">
+              <div className="text-3xl font-mono font-bold mb-1">FF</div>
+              <div className="text-[10px] uppercase font-bold tracking-widest text-blue-300">Location</div>
+            </div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/10">
+              <div className="text-3xl font-mono font-bold mb-1">XXX</div>
+              <div className="text-[10px] uppercase font-bold tracking-widest text-blue-300">Branch</div>
+            </div>
+          </div>
+        </div>
+      </motion.section>
+
+      {/* Popular Countries Grid */}
+      <section className="mb-16">
+        <div className="flex justify-between items-center mb-8 px-2">
+          <h2 className="text-2xl font-bold dark:text-white">Popular Countries</h2>
+          <Link to="/swift" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all 89 countries</Link>
+        </div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          {[
+            { name: 'United Kingdom', flag: '🇬🇧', count: '22,401', slug: 'united-kingdom' },
+            { name: 'Germany', flag: '🇩🇪', count: '16,842', slug: 'germany' },
+            { name: 'France', flag: '🇫🇷', count: '14,209', slug: 'france' },
+            { name: 'Italy', flag: '🇮🇹', count: '9,112', slug: 'italy' },
+          ].map((c) => (
+            <Link 
+              key={c.slug}
+              to={`/swift/${c.slug}`}
+              className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900 shadow-sm hover:shadow-md transition-all text-center"
+            >
+              <span className="text-4xl mb-4 group-hover:scale-110 transition-transform grayscale-[0.5] group-hover:grayscale-0">{c.flag}</span>
+              <span className="text-sm font-bold dark:text-slate-200 mb-1">{c.name}</span>
+              <span className="text-[10px] uppercase font-bold text-slate-400 dark:text-slate-500 tracking-wider font-mono">{c.count} BANKS</span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <AdSense slot="1234567890" className="mb-16" />
+
+    </div>
+  );
+}

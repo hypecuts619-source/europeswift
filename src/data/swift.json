@@ -1,0 +1,868 @@
+{
+  "united-kingdom": {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "flag": "🇬🇧",
+    "sepa": true,
+    "ibanLength": 22,
+    "topBanks": [
+      {
+        "slug": "barclays",
+        "name": "Barclays Bank UK PLC",
+        "bic": "BARCGB22",
+        "headquarters": "London",
+        "branches": [
+          {
+            "bic": "BARCGB22XXX",
+            "branch": "Head Office",
+            "city": "London",
+            "address": "1 Churchill Place"
+          },
+          {
+            "bic": "BARCGB21234",
+            "branch": "Manchester Branch",
+            "city": "Manchester",
+            "address": "Piccadilly"
+          }
+        ]
+      },
+      {
+        "slug": "hsbc",
+        "name": "HSBC Bank plc",
+        "bic": "MIDLGB22",
+        "headquarters": "London",
+        "branches": [
+          {
+            "bic": "MIDLGB22XXX",
+            "branch": "Head Office",
+            "city": "London",
+            "address": "8 Canada Square"
+          }
+        ]
+      }
+    ]
+  },
+  "germany": {
+    "name": "Germany",
+    "iso2": "DE",
+    "flag": "🇩🇪",
+    "sepa": true,
+    "ibanLength": 22,
+    "topBanks": [
+      {
+        "slug": "deutsche-bank",
+        "name": "Deutsche Bank AG",
+        "bic": "DEUTDEFF",
+        "headquarters": "Frankfurt am Main",
+        "branches": [
+          {
+            "bic": "DEUTDEFFXXX",
+            "branch": "Head Office",
+            "city": "Frankfurt am Main",
+            "address": "Taunusanlage 12"
+          },
+          {
+            "bic": "DEUTDEBBXXX",
+            "branch": "Berlin Branch",
+            "city": "Berlin",
+            "address": "Unter den Linden"
+          }
+        ]
+      }
+    ]
+  },
+  "france": {
+    "name": "France",
+    "iso2": "FR",
+    "flag": "🇫🇷",
+    "sepa": true,
+    "ibanLength": 27,
+    "topBanks": [
+      {
+        "slug": "bnp-paribas",
+        "name": "BNP Paribas",
+        "bic": "BNPAFRPP",
+        "headquarters": "Paris",
+        "branches": [
+          {
+            "bic": "BNPAFRPPXXX",
+            "branch": "Head Office",
+            "city": "Paris",
+            "address": "16 boulevard des Italiens"
+          }
+        ]
+      }
+    ]
+  },
+  "spain": {
+    "name": "Spain",
+    "iso2": "ES",
+    "flag": "🇪🇸",
+    "sepa": true,
+    "ibanLength": 24,
+    "topBanks": [
+      {
+        "slug": "banco-santander",
+        "name": "Banco Santander S.A.",
+        "bic": "BSCHESMM",
+        "headquarters": "Boadilla del Monte",
+        "branches": [
+          {
+            "bic": "BSCHESMMXXX",
+            "branch": "Head Office",
+            "city": "Boadilla del Monte",
+            "address": "Ciudad Grupo Santander"
+          }
+        ]
+      }
+    ]
+  },
+  "italy": {
+    "name": "Italy",
+    "iso2": "IT",
+    "flag": "🇮🇹",
+    "sepa": true,
+    "ibanLength": 27,
+    "topBanks": [
+      {
+        "slug": "unicredit",
+        "name": "UniCredit S.p.A.",
+        "bic": "UNCRITM1",
+        "headquarters": "Milan",
+        "branches": [
+          {
+            "bic": "UNCRITM1XXX",
+            "branch": "Head Office",
+            "city": "Milan",
+            "address": "Piazza Gae Aulenti 3"
+          }
+        ]
+      }
+    ]
+  },
+  "netherlands": {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "flag": "🇳🇱",
+    "sepa": true,
+    "ibanLength": 18,
+    "topBanks": [
+      {
+        "slug": "ing-bank",
+        "name": "ING Bank N.V.",
+        "bic": "INGBNL2A",
+        "headquarters": "Amsterdam",
+        "branches": [
+          {
+            "bic": "INGBNL2AXXX",
+            "branch": "Head Office",
+            "city": "Amsterdam",
+            "address": "Bijlmerplein 888"
+          }
+        ]
+      }
+    ]
+  },
+  "austria": {
+    "name": "Austria",
+    "iso2": "AT",
+    "flag": "🇦🇹",
+    "sepa": true,
+    "ibanLength": 20,
+    "topBanks": [
+      {
+        "slug": "erste-group",
+        "name": "Erste Group Bank AG",
+        "bic": "GIBAATWW",
+        "headquarters": "Vienna",
+        "branches": [
+          {
+            "bic": "GIBAATWWXXX",
+            "branch": "Head Office",
+            "city": "Vienna",
+            "address": "Am Belvedere 1"
+          }
+        ]
+      }
+    ]
+  },
+  "belgium": {
+    "name": "Belgium",
+    "iso2": "BE",
+    "flag": "🇧🇪",
+    "sepa": true,
+    "ibanLength": 16,
+    "topBanks": [
+      {
+        "slug": "kbc-bank",
+        "name": "KBC Bank NV",
+        "bic": "KREDBEBB",
+        "headquarters": "Brussels",
+        "branches": [
+          {
+            "bic": "KREDBEBBXXX",
+            "branch": "Head Office",
+            "city": "Brussels",
+            "address": "Havenlaan 2"
+          }
+        ]
+      }
+    ]
+  },
+  "switzerland": {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "flag": "🇨🇭",
+    "sepa": true,
+    "ibanLength": 21,
+    "topBanks": [
+      {
+        "slug": "ubs",
+        "name": "UBS Switzerland AG",
+        "bic": "UBSWCHZH",
+        "headquarters": "Zurich",
+        "branches": [
+          {
+            "bic": "UBSWCHZHXXX",
+            "branch": "Head Office",
+            "city": "Zurich",
+            "address": "Bahnhofstrasse 45"
+          }
+        ]
+      }
+    ]
+  },
+  "ireland": {
+    "name": "Ireland",
+    "iso2": "IE",
+    "flag": "🇮🇪",
+    "sepa": true,
+    "ibanLength": 22,
+    "topBanks": [
+      {
+        "slug": "bank-of-ireland",
+        "name": "Bank of Ireland",
+        "bic": "BOFIHKD0",
+        "headquarters": "Dublin",
+        "branches": [
+          {
+            "bic": "BOFIHKD0XXX",
+            "branch": "Head Office",
+            "city": "Dublin",
+            "address": "Mespil Road"
+          }
+        ]
+      }
+    ]
+  },
+  "poland": {
+    "name": "Poland",
+    "iso2": "PL",
+    "flag": "🇵🇱",
+    "sepa": true,
+    "ibanLength": 28,
+    "topBanks": [
+      {
+        "slug": "pko-bank-polski",
+        "name": "PKO Bank Polski",
+        "bic": "BPKOPLPW",
+        "headquarters": "Warsaw",
+        "branches": [
+          {
+            "bic": "BPKOPLPWXXX",
+            "branch": "Head Office",
+            "city": "Warsaw",
+            "address": "Puławska 15"
+          }
+        ]
+      }
+    ]
+  },
+  "sweden": {
+    "name": "Sweden",
+    "iso2": "SE",
+    "flag": "🇸🇪",
+    "sepa": true,
+    "ibanLength": 24,
+    "topBanks": [
+      {
+        "slug": "seb",
+        "name": "Skandinaviska Enskilda Banken AB",
+        "bic": "ESSEFESS",
+        "headquarters": "Stockholm",
+        "branches": [
+          {
+            "bic": "ESSEFESSXXX",
+            "branch": "Head Office",
+            "city": "Stockholm",
+            "address": "Kungsträdgårdsgatan 8"
+          }
+        ]
+      }
+    ]
+  },
+  "denmark": {
+    "name": "Denmark",
+    "iso2": "DK",
+    "flag": "🇩🇰",
+    "sepa": true,
+    "ibanLength": 18,
+    "topBanks": [
+      {
+        "slug": "danske-bank",
+        "name": "Danske Bank A/S",
+        "bic": "DABADKKK",
+        "headquarters": "Copenhagen",
+        "branches": [
+          {
+            "bic": "DABADKKKXXX",
+            "branch": "Head Office",
+            "city": "Copenhagen",
+            "address": "Holmens Kanal 2-12"
+          }
+        ]
+      }
+    ]
+  },
+  "norway": {
+    "name": "Norway",
+    "iso2": "NO",
+    "flag": "🇳🇴",
+    "sepa": true,
+    "ibanLength": 15,
+    "topBanks": [
+      {
+        "slug": "dnb-bank",
+        "name": "DNB Bank ASA",
+        "bic": "DNBNNOKK",
+        "headquarters": "Oslo",
+        "branches": [
+          {
+            "bic": "DNBNNOKKXXX",
+            "branch": "Head Office",
+            "city": "Oslo",
+            "address": "Dronning Eufemias gate 30"
+          }
+        ]
+      }
+    ]
+  },
+  "finland": {
+    "name": "Finland",
+    "iso2": "FI",
+    "flag": "🇫🇮",
+    "sepa": true,
+    "ibanLength": 18,
+    "topBanks": [
+      {
+        "slug": "nordea-bank",
+        "name": "Nordea Bank Abp",
+        "bic": "NDEAFISS",
+        "headquarters": "Helsinki",
+        "branches": [
+          {
+            "bic": "NDEAFISSXXX",
+            "branch": "Head Office",
+            "city": "Helsinki",
+            "address": "Satamaradankatu 5"
+          }
+        ]
+      }
+    ]
+  },
+  "portugal": {
+    "name": "Portugal",
+    "iso2": "PT",
+    "flag": "🇵🇹",
+    "sepa": true,
+    "ibanLength": 25,
+    "topBanks": [
+      {
+        "slug": "cgd",
+        "name": "Caixa Geral de Depósitos",
+        "bic": "CGD PTLX",
+        "headquarters": "Lisbon",
+        "branches": [
+          {
+            "bic": "CGD PTLXXXX",
+            "branch": "Head Office",
+            "city": "Lisbon",
+            "address": "Av. João XXI 63"
+          }
+        ]
+      }
+    ]
+  },
+  "andorra": {
+    "name": "Andorra",
+    "iso2": "AD",
+    "flag": "🇦🇩",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "united-arab-emirates": {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "flag": "🇦🇪",
+    "sepa": false,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "albania": {
+    "name": "Albania",
+    "iso2": "AL",
+    "flag": "🇦🇱",
+    "sepa": false,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "azerbaijan": {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "flag": "🇦🇿",
+    "sepa": false,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "bosnia-and-herzegovina": {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "flag": "🇧🇦",
+    "sepa": false,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "bulgaria": {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "flag": "🇧🇬",
+    "sepa": true,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "bahrain": {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "flag": "🇧🇭",
+    "sepa": false,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "brazil": {
+    "name": "Brazil",
+    "iso2": "BR",
+    "flag": "🇧🇷",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "belarus": {
+    "name": "Belarus",
+    "iso2": "BY",
+    "flag": "🇧🇾",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "costa-rica": {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "flag": "🇨🇷",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "cyprus": {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "flag": "🇨🇾",
+    "sepa": true,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "czech-republic": {
+    "name": "Czech Republic",
+    "iso2": "CZ",
+    "flag": "🇨🇿",
+    "sepa": true,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "dominican-republic": {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "flag": "🇩🇴",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "estonia": {
+    "name": "Estonia",
+    "iso2": "EE",
+    "flag": "🇪🇪",
+    "sepa": true,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "faroe-islands": {
+    "name": "Faroe Islands",
+    "iso2": "FO",
+    "flag": "🇫🇴",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "georgia": {
+    "name": "Georgia",
+    "iso2": "GE",
+    "flag": "🇬🇪",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "gibraltar": {
+    "name": "Gibraltar",
+    "iso2": "GI",
+    "flag": "🇬🇮",
+    "sepa": false,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "greenland": {
+    "name": "Greenland",
+    "iso2": "GL",
+    "flag": "🇬🇱",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "greece": {
+    "name": "Greece",
+    "iso2": "GR",
+    "flag": "🇬🇷",
+    "sepa": true,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "guatemala": {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "flag": "🇬🇹",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "croatia": {
+    "name": "Croatia",
+    "iso2": "HR",
+    "flag": "🇭🇷",
+    "sepa": true,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "hungary": {
+    "name": "Hungary",
+    "iso2": "HU",
+    "flag": "🇭🇺",
+    "sepa": true,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "israel": {
+    "name": "Israel",
+    "iso2": "IL",
+    "flag": "🇮🇱",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "iraq": {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "flag": "🇮🇶",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "iceland": {
+    "name": "Iceland",
+    "iso2": "IS",
+    "flag": "🇮🇸",
+    "sepa": true,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "jordan": {
+    "name": "Jordan",
+    "iso2": "JO",
+    "flag": "🇯🇴",
+    "sepa": false,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "kuwait": {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "flag": "🇰🇼",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "kazakhstan": {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "flag": "🇰🇿",
+    "sepa": false,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "lebanon": {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "flag": "🇱🇧",
+    "sepa": false,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "liechtenstein": {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "flag": "🇱🇮",
+    "sepa": true,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "lithuania": {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "flag": "🇱🇹",
+    "sepa": true,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "luxembourg": {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "flag": "🇱🇺",
+    "sepa": true,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "latvia": {
+    "name": "Latvia",
+    "iso2": "LV",
+    "flag": "🇱🇻",
+    "sepa": true,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "monaco": {
+    "name": "Monaco",
+    "iso2": "MC",
+    "flag": "🇲🇨",
+    "sepa": true,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "moldova": {
+    "name": "Moldova",
+    "iso2": "MD",
+    "flag": "🇲🇩",
+    "sepa": false,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "montenegro": {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "flag": "🇲🇪",
+    "sepa": false,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "north-macedonia": {
+    "name": "North Macedonia",
+    "iso2": "MK",
+    "flag": "🇲🇰",
+    "sepa": false,
+    "ibanLength": 23,
+    "topBanks": []
+  },
+  "mauritania": {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "flag": "🇲🇷",
+    "sepa": false,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "malta": {
+    "name": "Malta",
+    "iso2": "MT",
+    "flag": "🇲🇹",
+    "sepa": true,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "mauritius": {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "flag": "🇲🇺",
+    "sepa": false,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "pakistan": {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "flag": "🇵🇰",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "palestine": {
+    "name": "Palestine",
+    "iso2": "PS",
+    "flag": "🇵🇸",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "qatar": {
+    "name": "Qatar",
+    "iso2": "QA",
+    "flag": "🇶🇦",
+    "sepa": false,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "romania": {
+    "name": "Romania",
+    "iso2": "RO",
+    "flag": "🇷🇴",
+    "sepa": true,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "serbia": {
+    "name": "Serbia",
+    "iso2": "RS",
+    "flag": "🇷🇸",
+    "sepa": false,
+    "ibanLength": 24,
+    "topBanks": []
+  },
+  "saudi-arabia": {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "flag": "🇸🇦",
+    "sepa": false,
+    "ibanLength": 23,
+    "topBanks": []
+  },
+  "seychelles": {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "flag": "🇸🇨",
+    "sepa": false,
+    "ibanLength": 23,
+    "topBanks": []
+  },
+  "slovenia": {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "flag": "🇸🇮",
+    "sepa": true,
+    "ibanLength": 25,
+    "topBanks": []
+  },
+  "slovakia": {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "flag": "🇸🇰",
+    "sepa": true,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "san-marino": {
+    "name": "San Marino",
+    "iso2": "SM",
+    "flag": "🇸🇲",
+    "sepa": true,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "sao-tome-and-principe": {
+    "name": "Sao Tome and Principe",
+    "iso2": "ST",
+    "flag": "🇸🇹",
+    "sepa": false,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "el-salvador": {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "flag": "🇸🇻",
+    "sepa": false,
+    "ibanLength": 20,
+    "topBanks": []
+  },
+  "timor-leste": {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "flag": "🇹🇱",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "tunisia": {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "flag": "🇹🇳",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  },
+  "turkey": {
+    "name": "Turkey",
+    "iso2": "TR",
+    "flag": "🇹🇷",
+    "sepa": false,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "ukraine": {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "flag": "🇺🇦",
+    "sepa": false,
+    "ibanLength": 21,
+    "topBanks": []
+  },
+  "vatican-city": {
+    "name": "Vatican City",
+    "iso2": "VA",
+    "flag": "🇻🇦",
+    "sepa": false,
+    "ibanLength": 27,
+    "topBanks": []
+  },
+  "british-virgin-islands": {
+    "name": "British Virgin Islands",
+    "iso2": "VG",
+    "flag": "🇻🇬",
+    "sepa": false,
+    "ibanLength": 22,
+    "topBanks": []
+  },
+  "kosovo": {
+    "name": "Kosovo",
+    "iso2": "XK",
+    "flag": "🇽🇰",
+    "sepa": false,
+    "ibanLength": 26,
+    "topBanks": []
+  }
+}
