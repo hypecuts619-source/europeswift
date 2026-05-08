@@ -1,17 +1,56 @@
 import { useParams, Link } from 'react-router-dom';
 import { Building2, Search, Component } from 'lucide-react';
+import { useState, useEffect, useMemo } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
-import { countriesData, mockBanksData } from '../../data/mockData';
+import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { getSwiftCodesByCountry, SwiftCodeDoc } from '../../lib/firebaseQueries';
 
 export function CountrySwift() {
   const { countrySlug } = useParams<{ countrySlug: string }>();
+  const [codes, setCodes] = useState<SwiftCodeDoc[]>([]);
+  const [loading, setLoading] = useState(true);
   
   // Find country
   const country = countriesData.find(c => c.slug === countrySlug);
+
+  useEffect(() => {
+    if (country?.code) {
+      setLoading(true);
+      getSwiftCodesByCountry(country.code).then(data => {
+        setCodes(data);
+        setLoading(false);
+      });
+    }
+  }, [country]);
+
+  // Extract unique banks dynamically from the fetched SWIFT codes.
+  const uniqueBanks = useMemo(() => {
+    const banksMap = new Map<string, { name: string; slug: string; primaryBic: string }>();
+    codes.forEach(c => {
+      if (!c.bank) return;
+      const slug = c.bank.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      if (!banksMap.has(slug)) {
+        banksMap.set(slug, {
+          name: c.bank,
+          slug,
+          primaryBic: c.bic
+        });
+      }
+    });
+    // Fallback to mock top banks if database is empty initially so the UI still looks good while building
+    if (banksMap.size === 0 && !loading && country) {
+       return country.topBanks.map(b => ({
+          name: b.replace(/-/g, ' '),
+          slug: b,
+          primaryBic: country.code + 'XX'
+       }));
+    }
+    return Array.from(banksMap.values());
+  }, [codes, loading, country]);
 
   if (!country) return <div className="p-12 text-center text-xl text-gray-500">Country not found</div>;
 
@@ -56,21 +95,16 @@ export function CountrySwift() {
           </div>
 
           <div className="flex items-center justify-between mb-4 border-b pb-2">
-            <h2 className="text-xl font-bold text-gray-900">Top Banks</h2>
-            <Link 
-              to={`/swift/${country.slug}/branches`}
-              className="text-sm font-medium text-[#003399] hover:underline flex items-center gap-1 group"
-            >
-              Browse all branches <ChevronRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
-            </Link>
+            <h2 className="text-xl font-bold text-gray-900">
+              {loading ? 'Loading Banks...' : 'Top Banks'}
+            </h2>
           </div>
           <div className="grid gap-4">
-            {country.topBanks.map(bankSlug => {
-              const bankDetails = mockBanksData[bankSlug];
-              return (
+            {!loading && uniqueBanks.map(bank => (
               <Link 
-                key={bankSlug} 
-                to={`/swift/${country.slug}/${bankSlug}`}
+                key={bank.slug} 
+                to={`/swift/${countrySlug}/${bank.slug}`}
+                state={{ realBankName: bank.name }}
               >
                 <Card className="hover:border-[#003399]/40 hover:shadow-md transition-all group">
                   <CardContent className="p-6 flex items-center justify-between">
@@ -79,11 +113,11 @@ export function CountrySwift() {
                         <Building2 className="w-6 h-6" />
                       </div>
                       <div>
-                        <h3 className="font-semibold text-lg text-gray-900">
-                          {bankDetails?.name || bankSlug.replace('-', ' ')}
+                        <h3 className="font-semibold text-lg text-gray-900 capitalize">
+                          {bank.name}
                         </h3>
                         <div className="flex items-center gap-2 mt-1">
-                          <span className="text-sm font-mono text-gray-500">{bankDetails?.bic || country.code} Bank Code</span>
+                          <span className="text-sm font-mono text-gray-500">{bank.primaryBic}</span>
                           <Badge variant="secondary" className="text-xs">SEPA Enabled</Badge>
                         </div>
                       </div>
@@ -92,7 +126,12 @@ export function CountrySwift() {
                   </CardContent>
                 </Card>
               </Link>
-            )})}
+            ))}
+            {!loading && uniqueBanks.length === 0 && (
+              <div className="p-8 text-center text-gray-500 bg-gray-50 rounded-xl">
+                No banks found in the database. Run the dataset upload script!
+              </div>
+            )}
           </div>
         </div>
 
@@ -111,7 +150,7 @@ export function CountrySwift() {
                 </div>
                 <div className="flex justify-between">
                   <dt className="text-gray-500">Registered Banks</dt>
-                  <dd className="font-medium text-gray-900 dark:text-slate-100">~ 250</dd>
+                  <dd className="font-medium text-gray-900 dark:text-slate-100">{loading ? '...' : uniqueBanks.length}</dd>
                 </div>
               </dl>
             </CardContent>
@@ -141,3 +180,4 @@ function ChevronRight(props: any) {
     </svg>
   );
 }
+

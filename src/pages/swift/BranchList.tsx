@@ -1,17 +1,30 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Search, Building2, MapPin, Globe, ArrowLeft, ChevronRight, CheckCircle2 } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
-import { swiftData } from '../../data/mockData';
+import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { getSwiftCodesByCountry, SwiftCodeDoc } from '../../lib/firebaseQueries';
 
 export function BranchList() {
   const { countrySlug } = useParams<{ countrySlug: string }>();
   const [searchQuery, setSearchQuery] = useState('');
+  const [allBranches, setAllBranches] = useState<SwiftCodeDoc[]>([]);
+  const [loading, setLoading] = useState(true);
 
-  const country = swiftData[countrySlug || ''];
+  const country = countriesData.find(c => c.slug === countrySlug);
+
+  useEffect(() => {
+    if (country?.code) {
+      setLoading(true);
+      getSwiftCodesByCountry(country.code).then(data => {
+        setAllBranches(data);
+        setLoading(false);
+      });
+    }
+  }, [country]);
 
   if (!country) {
     return (
@@ -24,22 +37,19 @@ export function BranchList() {
     );
   }
 
-  // Flatten all branches from all banks in the country
-  const allBranches = country.topBanks.flatMap((bank: any) => 
-    bank.branches.map((branch: any) => ({
-      ...branch,
-      bankName: bank.name,
-      bankSlug: bank.slug
-    }))
-  );
+  const filteredBranches = allBranches.filter((b) => {
+    const term = searchQuery.toLowerCase();
+    return (
+      (b.branch && b.branch.toLowerCase().includes(term)) ||
+      b.bic.toLowerCase().includes(term) ||
+      (b.city && b.city.toLowerCase().includes(term)) ||
+      (b.bank && b.bank.toLowerCase().includes(term)) ||
+      (b.address && b.address.toLowerCase().includes(term))
+    );
+  });
 
-  const filteredBranches = allBranches.filter((b: any) => 
-    b.branch.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    b.bic.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    b.city.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    b.bankName.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    b.address.toLowerCase().includes(searchQuery.toLowerCase())
-  );
+  // Rough estimation of unique banks
+  const uniqueBanksCount = new Set(allBranches.map(b => b.bank)).size;
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
@@ -71,7 +81,7 @@ export function BranchList() {
               Bank Branches in {country.name}
             </h1>
             <p className="text-slate-500 dark:text-slate-400 mt-1">
-              Complete list of {allBranches.length} bank branches and their SWIFT/BIC codes
+              {loading ? 'Loading branches...' : `Complete list of ${allBranches.length} bank branches and their SWIFT/BIC codes`}
             </p>
           </div>
         </div>
@@ -87,7 +97,7 @@ export function BranchList() {
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />
-            {searchQuery && (
+            {searchQuery && !loading && (
                <div className="absolute right-4 top-1/2 -translate-y-1/2 text-xs font-medium text-slate-400">
                  {filteredBranches.length} results
                </div>
@@ -95,33 +105,33 @@ export function BranchList() {
           </div>
 
           <div className="space-y-4">
-            {filteredBranches.length > 0 ? (
-              filteredBranches.map((branch: any, idx: number) => (
+            {loading ? (
+              <div className="py-12 text-center text-slate-500">Loading from database...</div>
+            ) : filteredBranches.length > 0 ? (
+              filteredBranches.map((branch, idx) => (
                 <Card key={`${branch.bic}-${idx}`} className="overflow-hidden hover:border-[#003399]/30 transition-all group border-slate-200 dark:border-slate-800">
                   <CardContent className="p-0">
                     <div className="grid md:grid-cols-[1fr_auto] items-center">
                       <div className="p-6">
                         <div className="flex items-center gap-2 mb-2">
                            <span className="text-[10px] font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest bg-blue-50 dark:bg-blue-900/30 px-2 py-0.5 rounded">
-                             {branch.bankName}
+                             {branch.bank}
                            </span>
                            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">
-                             {branch.city}
+                             {branch.city || 'Head Office'}
                            </span>
-                           {country.sepa && (
-                             <span className="flex items-center gap-1 text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-widest bg-emerald-50 dark:bg-emerald-950/30 px-2 py-0.5 rounded ml-auto sm:ml-0">
-                               <CheckCircle2 className="w-3 h-3" />
-                               SEPA
-                             </span>
-                           )}
+                           <span className="flex items-center gap-1 text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-widest bg-emerald-50 dark:bg-emerald-950/30 px-2 py-0.5 rounded ml-auto sm:ml-0">
+                             <CheckCircle2 className="w-3 h-3" />
+                             SEPA
+                           </span>
                         </div>
                         <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-[#003399] transition-colors">
-                          {branch.branch}
+                          {branch.branch || branch.bank}
                         </h3>
                         <div className="flex flex-wrap gap-4 text-sm text-slate-500 dark:text-slate-400">
                           <div className="flex items-center gap-1.5">
                             <MapPin className="w-4 h-4 text-slate-400" />
-                            <span>{branch.address}, {branch.city}</span>
+                            <span>{branch.address ? `${branch.address}, ` : ''}{branch.city || ''}</span>
                           </div>
                         </div>
                       </div>
@@ -149,7 +159,9 @@ export function BranchList() {
                   <Search className="w-8 h-8 text-slate-300" />
                 </div>
                 <h3 className="text-lg font-bold text-gray-900 dark:text-white">No branches found</h3>
-                <p className="text-slate-500 dark:text-slate-400 mb-6">Try adjusting your search query</p>
+                <p className="text-slate-500 dark:text-slate-400 mb-6">
+                  {allBranches.length === 0 ? "Database holds no records for this country yet. Run the upload script!" : "Try adjusting your search query"}
+                </p>
                 <button 
                   onClick={() => setSearchQuery('')}
                   className="px-6 py-2 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 rounded-lg font-bold text-sm hover:opacity-90 transition-opacity"
@@ -167,11 +179,11 @@ export function BranchList() {
               <h3 className="text-sm font-bold uppercase tracking-widest opacity-80 mb-4">Quick Stats</h3>
               <div className="space-y-4">
                 <div>
-                  <div className="text-3xl font-bold">{allBranches.length}</div>
+                  <div className="text-3xl font-bold">{loading ? '...' : allBranches.length}</div>
                   <div className="text-xs opacity-80 uppercase tracking-wider font-medium">Total Branches</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold">{country.topBanks.length}</div>
+                  <div className="text-3xl font-bold">{loading ? '...' : Math.min(uniqueBanksCount, 15)}</div>
                   <div className="text-xs opacity-80 uppercase tracking-wider font-medium">Major Banks</div>
                 </div>
               </div>

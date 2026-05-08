@@ -8,13 +8,8 @@ service cloud.firestore {
 
     // SWIFT Codes Collection
     match /swiftCodes/{swiftCodeId} {
-      // Allow public read for individual SWIFT codes
       allow get: if true;
-      // Allow listing but we can restrict if needed; for a public dataset, true is used
-      // To prevent massive scraping, ideally we'd restrict, but this is a public SWIFT API replacement
       allow list: if true;
-      
-      // No one can write from client
       allow write: if false;
     }
   }

@@ -1,29 +1,34 @@
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useLocation } from 'react-router-dom';
 import { Copy, Check, Building2, MapPin, Globe } from 'lucide-react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { Button } from '../../components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../components/ui/table';
-import { mockBanksData, countriesData } from '../../data/mockData';
+import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { getSwiftCodesByBank, SwiftCodeDoc } from '../../lib/firebaseQueries';
 
 export function BankSwift() {
   const { countrySlug, bankSlug } = useParams<{ countrySlug: string; bankSlug: string }>();
+  const location = useLocation();
   const [copied, setCopied] = useState<string | null>(null);
+  const [branches, setBranches] = useState<SwiftCodeDoc[]>([]);
+  const [loading, setLoading] = useState(true);
 
   const country = countriesData.find(c => c.slug === countrySlug);
-  const bank = mockBanksData[bankSlug || 'barclays']; // fallback for mock
-  
-  // Mock SWIFT anatomy
-  const bankCode = bank.bic.substring(0, 4);
-  const countryCode = bank.bic.substring(4, 6);
-  const locationCode = bank.bic.substring(6, 8);
-  const headOfficeBranch = bank.bic.length === 11 ? bank.bic.substring(8, 11) : 'XXX';
-  const headOfficeSwift = bank.bic;
+  const bankNameStr = location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
 
-  const mockBranches = bank.branches || [];
+  useEffect(() => {
+    if (country?.code && bankNameStr) {
+      setLoading(true);
+      getSwiftCodesByBank(country.code, bankNameStr).then(data => {
+        setBranches(data);
+        setLoading(false);
+      });
+    }
+  }, [country, bankNameStr]);
 
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text);
@@ -31,7 +36,18 @@ export function BankSwift() {
     setTimeout(() => setCopied(null), 2000);
   };
 
-  if (!country || !bank) return <div className="p-12 text-center text-xl text-gray-500">Bank not found</div>;
+  if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-gray-500">Bank not found</div>;
+
+  // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
+  const headOfficeSwiftDoc = branches.find(b => b.bic && (b.bic.endsWith('XXX') || b.bic.length === 8)) || branches[0];
+  const fallbackSwift = (country.code + 'XXXXXX').padEnd(8, 'X');
+  const primaryBic = headOfficeSwiftDoc?.bic || fallbackSwift;
+
+  // Anatomy
+  const bankCode = primaryBic.substring(0, 4);
+  const countryCode = primaryBic.substring(4, 6);
+  const locationCode = primaryBic.length >= 8 ? primaryBic.substring(6, 8) : 'XX';
+  const headOfficeBranch = primaryBic.length === 11 ? primaryBic.substring(8, 11) : 'XXX';
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
@@ -50,7 +66,7 @@ export function BankSwift() {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbPage className="capitalize">{bankSlug?.replace('-', ' ')}</BreadcrumbPage>
+            <BreadcrumbPage className="capitalize">{bankNameStr}</BreadcrumbPage>
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
@@ -59,11 +75,12 @@ export function BankSwift() {
         <div>
           <div className="flex items-center gap-3 mb-2">
             <Building2 className="w-8 h-8 text-[#003399]" />
-            <h1 className="text-4xl font-bold text-gray-900">{bank.name} SWIFT Codes</h1>
+            <h1 className="text-4xl font-bold text-gray-900 capitalize">{bankNameStr} SWIFT Codes</h1>
           </div>
           <p className="text-lg text-gray-600 flex items-center gap-2">
             <MapPin className="w-4 h-4" /> {country.name}
-            {bank.sepa && <Badge variant="outline" className="ml-2 bg-green-50 text-green-700 border-green-200">SEPA Ready</Badge>}
+            {/* Assume all listed banks here can receive intl transfers */}
+            <Badge variant="outline" className="ml-2 bg-green-50 text-green-700 border-green-200">SEPA Ready</Badge>
           </p>
         </div>
       </div>
@@ -74,18 +91,20 @@ export function BankSwift() {
           <Card className="border shadow-sm overflow-hidden border-[#003399]/20">
             <div className="h-2 bg-[#003399] w-full" />
             <CardContent className="p-8">
-              <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-500 mb-2">Primary SWIFT / BIC Code</h2>
+              <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-500 mb-2">
+                {loading ? 'Loading Primary Code...' : 'Primary SWIFT / BIC Code'}
+              </h2>
               <div className="flex items-center justify-between bg-gray-50 p-6 rounded-xl border">
                 <div className="font-mono text-4xl font-bold tracking-[0.2em] text-[#003399]">
-                  {headOfficeSwift}
+                  {primaryBic}
                 </div>
                 <Button 
                   variant="outline" 
-                  onClick={() => handleCopy(headOfficeSwift)}
+                  onClick={() => handleCopy(primaryBic)}
                   className="gap-2"
                 >
-                  {copied === headOfficeSwift ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
-                  {copied === headOfficeSwift ? 'Copied' : 'Copy'}
+                  {copied === primaryBic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
+                  {copied === primaryBic ? 'Copied' : 'Copy'}
                 </Button>
               </div>
 
@@ -114,7 +133,9 @@ export function BankSwift() {
           </Card>
 
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold text-gray-900">All Branch Codes</h2>
+            <h2 className="text-2xl font-bold text-gray-900">
+              {loading ? 'Loading branches...' : 'All Branch Codes'}
+            </h2>
             <Card>
               <Table>
                 <TableHeader>
@@ -126,14 +147,24 @@ export function BankSwift() {
                   </TableRow>
                 </TableHeader>
                 <TableBody>
-                  {mockBranches.map((branch) => (
-                    <TableRow key={branch.swift}>
-                      <TableCell className="font-mono font-medium">{branch.swift}</TableCell>
-                      <TableCell>{branch.city}</TableCell>
-                      <TableCell className="text-gray-500">{branch.branch}</TableCell>
+                  {loading && (
+                    <TableRow>
+                      <TableCell colSpan={4} className="text-center text-gray-500 py-8">Loading from database...</TableCell>
+                    </TableRow>
+                  )}
+                  {!loading && branches.length === 0 && (
+                    <TableRow>
+                      <TableCell colSpan={4} className="text-center text-gray-500 py-8">No branches found in database.</TableCell>
+                    </TableRow>
+                  )}
+                  {!loading && branches.map((branch) => (
+                    <TableRow key={branch.bic}>
+                      <TableCell className="font-mono font-medium">{branch.bic}</TableCell>
+                      <TableCell>{branch.city || 'N/A'}</TableCell>
+                      <TableCell className="text-gray-500">{branch.branch || 'Head Office'}</TableCell>
                       <TableCell>
-                        <Button variant="ghost" size="sm" onClick={() => handleCopy(branch.swift)}>
-                          {copied === branch.swift ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
+                        <Button variant="ghost" size="sm" onClick={() => handleCopy(branch.bic)}>
+                          {copied === branch.bic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
                         </Button>
                       </TableCell>
                     </TableRow>
@@ -153,7 +184,7 @@ export function BankSwift() {
               <dl className="space-y-4 text-sm">
                 <div>
                   <dt className="text-gray-500 mb-1">Full Name</dt>
-                  <dd className="font-medium text-gray-900">{bank.name}</dd>
+                  <dd className="font-medium text-gray-900 capitalize">{bankNameStr}</dd>
                 </div>
                 <div>
                   <dt className="text-gray-500 mb-1">Country</dt>
@@ -165,7 +196,7 @@ export function BankSwift() {
                   <dt className="text-gray-500 mb-1">Network Access</dt>
                   <dd className="font-medium text-gray-900 flex flex-col gap-2 mt-2">
                     <Badge variant="outline" className="w-fit"><Globe className="w-3 h-3 mr-1"/> SWIFT International</Badge>
-                    {bank.sepa && <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA Transfers</Badge>}
+                    <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA Transfers</Badge>
                   </dd>
                 </div>
               </dl>
@@ -174,7 +205,7 @@ export function BankSwift() {
           
           <Card className="border border-blue-200 shadow-sm">
             <CardContent className="p-6">
-              <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2">Transferring money to {bank.name}?</h3>
+              <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {bankNameStr}?</h3>
               <p className="text-gray-600 dark:text-slate-400 text-sm mb-4">
                 If you are sending an international wire template, make sure to ask your beneficiary for their exact IBAN. You will need both the SWIFT code and the IBAN for a successful transaction.
               </p>
