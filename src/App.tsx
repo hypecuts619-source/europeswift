@@ -1,7 +1,14 @@
-import { BrowserRouter as Router, Routes, Route, Link, Outlet } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import { Landmark, Search, Map, CreditCard, Menu, Globe } from 'lucide-react';
-import { Button } from './components/ui/button';
+import { Button, buttonVariants } from './components/ui/button';
+import { cn } from './lib/utils';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "./components/ui/dropdown-menu";
 import { ThemeProvider } from './components/theme-provider';
 import { ModeToggle } from './components/ModeToggle';
 import { LanguageSelector } from './components/LanguageSelector';
@@ -26,6 +33,7 @@ import { BlogPost } from './pages/BlogPost';
 
 function Layout() {
   const { t } = useLanguage();
+  const navigate = useNavigate();
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-50 font-sans flex flex-col transition-colors duration-200">
@@ -80,9 +88,25 @@ function Layout() {
         <div className="flex items-center gap-2">
           <LanguageSelector />
           <ModeToggle />
-          <Button variant="ghost" size="icon" className="dark:text-slate-50 border-slate-200 dark:border-slate-800">
-            <Menu className="w-5 h-5" />
-          </Button>
+          <DropdownMenu>
+            <DropdownMenuTrigger className={cn(buttonVariants({ variant: 'ghost', size: 'icon' }), "dark:text-slate-50 border-slate-200 dark:border-slate-800")}>
+              <Menu className="w-5 h-5" />
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="end" className="w-48">
+              <DropdownMenuItem onClick={() => navigate('/swift')} className="cursor-pointer gap-2">
+                <Map className="w-4 h-4" /> By Country
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/iban')} className="cursor-pointer">
+                {t('nav.iban')}
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/sort-code')} className="cursor-pointer">
+                {t('nav.sortcode')}
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/blz')} className="cursor-pointer">
+                {t('nav.blz')}
+              </DropdownMenuItem>
+            </DropdownMenuContent>
+          </DropdownMenu>
         </div>
       </header>
 
