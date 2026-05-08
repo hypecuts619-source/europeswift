@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link, Outlet } from 'react-router-dom';
-import { Landmark, Search, Map, CreditCard, Menu } from 'lucide-react';
+import { Landmark, Search, Map, CreditCard, Menu, Globe } from 'lucide-react';
 import { Button } from './components/ui/button';
 import { ThemeProvider } from './components/theme-provider';
 import { ModeToggle } from './components/ModeToggle';
@@ -24,8 +24,13 @@ function Layout() {
       <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-6 xl:px-12 hidden md:grid grid-cols-[auto_1fr_auto_auto] items-center gap-8 flex-none">
         <div className="flex items-center">
           <Link to="/" className="flex items-center gap-2 group">
-            <div className="w-8 h-8 bg-[#003399] rounded flex items-center justify-center group-hover:scale-105 transition-transform">
-              <div className="text-white font-bold italic text-lg">S</div>
+            <div className="relative flex items-center justify-center w-10 h-10 group-hover:scale-105 transition-transform duration-300 flex-shrink-0">
+              <div className="absolute inset-0 bg-[#003399] rounded-xl transform rotate-3 group-hover:rotate-6 transition-transform duration-300"></div>
+              <div className="absolute inset-0 bg-blue-500 rounded-xl transform -rotate-3 group-hover:-rotate-6 transition-transform duration-300 opacity-80"></div>
+              <div className="relative flex items-center justify-center w-full h-full bg-gradient-to-br from-[#0B1C3D] to-[#003399] rounded-xl shadow-inner border border-white/10 overflow-hidden">
+                <Globe className="absolute w-8 h-8 text-white/20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-30 drop-shadow-md" strokeWidth={1.5} />
+                <span className="text-white text-2xl font-bold italic relative z-10 drop-shadow-lg font-serif">S</span>
+              </div>
             </div>
             <span className="text-xl font-bold tracking-tight text-[#003399] dark:text-blue-400">Swiftcode<span className="text-slate-400 dark:text-slate-500">dir</span></span>
           </Link>
@@ -55,8 +60,13 @@ function Layout() {
       {/* Mobile Header below */}
       <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-4 flex items-center justify-between flex-none md:hidden">
         <Link to="/" className="flex items-center gap-2 font-bold text-xl text-[#003399] dark:text-blue-400">
-          <div className="w-8 h-8 bg-[#003399] rounded flex items-center justify-center">
-            <div className="text-white font-bold italic text-lg">S</div>
+          <div className="relative flex items-center justify-center w-8 h-8 flex-shrink-0">
+            <div className="absolute inset-0 bg-[#003399] rounded-[10px] transform rotate-3"></div>
+            <div className="absolute inset-0 bg-blue-500 rounded-[10px] transform -rotate-3 opacity-80"></div>
+            <div className="relative flex items-center justify-center w-full h-full bg-gradient-to-br from-[#0B1C3D] to-[#003399] rounded-[10px] shadow-inner border border-white/10 overflow-hidden">
+              <Globe className="absolute w-6 h-6 text-white/20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-30 drop-shadow-sm" strokeWidth={1.5} />
+              <span className="text-white text-lg font-bold italic relative z-10 drop-shadow-md font-serif">S</span>
+            </div>
           </div>
         </Link>
         <div className="flex items-center gap-2">

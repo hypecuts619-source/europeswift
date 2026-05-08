@@ -184,8 +184,10 @@ export function GlobalSearch() {
         </div>
       )}
       {isOpen && searchQuery && !hasResults && (
-        <div className="absolute top-11 left-0 w-full bg-white dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg shadow-xl z-50 p-6 text-center">
-          <p className="text-sm text-slate-500 dark:text-slate-400">No results found for "{searchQuery}"</p>
+        <div className="absolute top-11 left-0 w-80 lg:w-96 bg-white dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg shadow-xl z-50 p-8 text-center">
+          <Search className="w-8 h-8 text-slate-300 dark:text-slate-600 mx-auto mb-3" />
+          <p className="text-sm font-medium text-slate-900 dark:text-slate-200 mb-1">No results found</p>
+          <p className="text-xs text-slate-500 dark:text-slate-400">We couldn't find anything for "{searchQuery}". Try a different term or BIC code.</p>
         </div>
       )}
     </div>

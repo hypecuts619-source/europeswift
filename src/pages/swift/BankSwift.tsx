@@ -109,23 +109,27 @@ export function BankSwift() {
               </div>
 
               <div className="mt-8">
-                <h3 className="font-semibold text-gray-900 mb-4">SWIFT Code Anatomy</h3>
-                <div className="grid grid-cols-4 gap-2 text-center text-sm">
-                  <div className="bg-blue-50 p-3 rounded border border-blue-100">
-                    <div className="font-mono font-bold text-lg text-blue-900">{bankCode}</div>
-                    <div className="text-blue-600/80 text-xs mt-1">Bank Code</div>
+                <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-4">SWIFT / BIC Code Breakdown</h3>
+                <div className="grid grid-cols-4 gap-3 text-center text-sm">
+                  <div className="bg-blue-50/80 dark:bg-blue-950/40 p-4 rounded-xl border border-blue-100 dark:border-blue-900 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
+                    <div className="font-mono font-bold text-2xl text-blue-900 dark:text-blue-400 mb-1">{bankCode}</div>
+                    <div className="text-blue-700 dark:text-blue-300 font-medium text-[11px] sm:text-xs uppercase tracking-wider">Bank Code</div>
+                    <div className="text-blue-600/70 dark:text-blue-400/70 text-[10px] mt-1 hidden sm:block">4 letters</div>
                   </div>
-                  <div className="bg-green-50 p-3 rounded border border-green-100">
-                    <div className="font-mono font-bold text-lg text-green-900">{countryCode}</div>
-                    <div className="text-green-600/80 text-xs mt-1">Country</div>
+                  <div className="bg-emerald-50/80 dark:bg-emerald-950/40 p-4 rounded-xl border border-emerald-100 dark:border-emerald-900 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
+                    <div className="font-mono font-bold text-2xl text-emerald-900 dark:text-emerald-400 mb-1">{countryCode}</div>
+                    <div className="text-emerald-700 dark:text-emerald-300 font-medium text-[11px] sm:text-xs uppercase tracking-wider">Country</div>
+                    <div className="text-emerald-600/70 dark:text-emerald-400/70 text-[10px] mt-1 hidden sm:block">2 letters</div>
                   </div>
-                  <div className="bg-purple-50 p-3 rounded border border-purple-100">
-                    <div className="font-mono font-bold text-lg text-purple-900">{locationCode}</div>
-                    <div className="text-purple-600/80 text-xs mt-1">Location</div>
+                  <div className="bg-purple-50/80 dark:bg-purple-950/40 p-4 rounded-xl border border-purple-100 dark:border-purple-900 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
+                    <div className="font-mono font-bold text-2xl text-purple-900 dark:text-purple-400 mb-1">{locationCode}</div>
+                    <div className="text-purple-700 dark:text-purple-300 font-medium text-[11px] sm:text-xs uppercase tracking-wider">Location</div>
+                    <div className="text-purple-600/70 dark:text-purple-400/70 text-[10px] mt-1 hidden sm:block">2 chars</div>
                   </div>
-                  <div className="bg-orange-50 p-3 rounded border border-orange-100">
-                    <div className="font-mono font-bold text-lg text-orange-900">{headOfficeBranch}</div>
-                    <div className="text-orange-600/80 text-xs mt-1">Branch</div>
+                  <div className="bg-amber-50/80 dark:bg-amber-950/40 p-4 rounded-xl border border-amber-100 dark:border-amber-900 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
+                    <div className="font-mono font-bold text-2xl text-amber-900 dark:text-amber-400 mb-1">{headOfficeBranch}</div>
+                    <div className="text-amber-700 dark:text-amber-300 font-medium text-[11px] sm:text-xs uppercase tracking-wider">Branch</div>
+                    <div className="text-amber-600/70 dark:text-amber-400/70 text-[10px] mt-1 hidden sm:block">3 chars</div>
                   </div>
                 </div>
               </div>
