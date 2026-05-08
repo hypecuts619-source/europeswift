@@ -1,5 +1,5 @@
 import { useParams, Link, useLocation } from 'react-router-dom';
-import { Copy, Check, Building2, MapPin, Globe } from 'lucide-react';
+import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, CopyAll } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
@@ -48,6 +48,26 @@ export function BankSwift() {
   const countryCode = primaryBic.substring(4, 6);
   const locationCode = primaryBic.length >= 8 ? primaryBic.substring(6, 8) : 'XX';
   const headOfficeBranch = primaryBic.length === 11 ? primaryBic.substring(8, 11) : 'XXX';
+
+  const shareText = `Bank Name: ${bankNameStr}\nCountry: ${country.name}\nPrimary SWIFT/BIC Code: ${primaryBic}\n\nFind more details at: ${window.location.href}`;
+
+  const handleCopyAll = () => {
+    navigator.clipboard.writeText(shareText);
+    setCopied('all');
+    setTimeout(() => setCopied(null), 2000);
+  };
+
+  const handleWhatsAppShare = () => {
+    window.open(`https://wa.me/?text=${encodeURIComponent(shareText)}`, '_blank');
+  };
+
+  const handleEmailShare = () => {
+    window.location.href = `mailto:?subject=${encodeURIComponent(`SWIFT Code Details for ${bankNameStr}`)}&body=${encodeURIComponent(shareText)}`;
+  };
+
+  const handleDownloadPDF = () => {
+    window.print();
+  };
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
@@ -105,6 +125,26 @@ export function BankSwift() {
                 >
                   {copied === primaryBic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
                   {copied === primaryBic ? 'Copied' : 'Copy'}
+                </Button>
+              </div>
+
+              {/* Action Buttons */}
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-6 print:hidden">
+                <Button variant="secondary" className="w-full gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700" onClick={handleCopyAll}>
+                  {copied === 'all' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4" />}
+                  {copied === 'all' ? 'Copied Details' : 'Copy All Details'}
+                </Button>
+                <Button variant="secondary" className="w-full gap-2 bg-[#25D366]/10 text-[#25D366] hover:bg-[#25D366]/20" onClick={handleWhatsAppShare}>
+                  <MessageCircle className="w-4 h-4" />
+                  WhatsApp
+                </Button>
+                <Button variant="secondary" className="w-full gap-2 bg-blue-100 text-blue-700 hover:bg-blue-200" onClick={handleEmailShare}>
+                  <Mail className="w-4 h-4" />
+                  Email Client
+                </Button>
+                <Button variant="secondary" className="w-full gap-2 bg-purple-100 text-purple-700 hover:bg-purple-200" onClick={handleDownloadPDF}>
+                  <FileDown className="w-4 h-4" />
+                  Save as PDF
                 </Button>
               </div>
 

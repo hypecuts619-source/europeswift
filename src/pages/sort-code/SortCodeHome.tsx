@@ -1,13 +1,21 @@
+import { Helmet } from 'react-helmet-async';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { AdSense } from '../../components/AdSense';
+import { Link } from 'react-router-dom';
 
 export function SortCodeHome() {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <Helmet>
+        <title>UK Sort Codes Directory - Find Bank Sort Codes | SwiftcodeDir</title>
+        <meta name="description" content="Search our complete directory of UK Sort Codes. Verify bank branch sort codes for Barclays, HSBC, Lloyds, NatWest, Santander and other British & Irish banks." />
+        <link rel="canonical" href="https://swiftcodedir.com/sort-code" />
+      </Helmet>
+      
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -56,10 +64,25 @@ export function SortCodeHome() {
         <aside className="space-y-6">
           <Card className="dark:bg-slate-900 dark:border-slate-800">
             <CardContent className="p-6">
-              <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2">What is a UK Sort Code?</h3>
+              <h2 className="font-semibold text-slate-900 dark:text-slate-100 mb-2">What is a UK Sort Code?</h2>
               <p className="text-sm text-slate-600 dark:text-slate-400 mb-4">
                 A sort code is a six-digit number that identifies both the bank and the branch where an account is held. In the UK, it is essential for domestic BACS, CHAPS, and Faster Payments.
               </p>
+              <div className="pt-4 border-t border-slate-100 dark:border-slate-800">
+                <h3 className="font-medium text-sm text-slate-900 dark:text-slate-100 mb-2">Helpful Guides</h3>
+                <ul className="space-y-2 text-sm">
+                  <li>
+                    <Link to="/blog/uk-sort-code-vs-swift" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">
+                      Sort Code vs SWIFT Code
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/iban" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">
+                      Find IBAN Numbers
+                    </Link>
+                  </li>
+                </ul>
+              </div>
             </CardContent>
           </Card>
           

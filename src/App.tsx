@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link, Outlet } from 'react-router-dom';
+import { HelmetProvider } from 'react-helmet-async';
 import { Landmark, Search, Map, CreditCard, Menu, Globe } from 'lucide-react';
 import { Button } from './components/ui/button';
 import { ThemeProvider } from './components/theme-provider';
@@ -113,6 +114,7 @@ function Layout() {
 export default function App() {
   return (
     <ThemeProvider defaultTheme="system" storageKey="swiftcode-theme">
+      <HelmetProvider>
       <LanguageProvider>
         <Router>
           <Routes>
@@ -154,6 +156,7 @@ export default function App() {
           </Routes>
         </Router>
       </LanguageProvider>
+      </HelmetProvider>
     </ThemeProvider>
   );
 }

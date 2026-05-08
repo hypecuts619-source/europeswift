@@ -138,8 +138,8 @@ export function CountrySwift() {
           </div>
         </div>
 
-        <aside className="space-y-6">
-          <Card className="border dark:bg-slate-900 dark:border-slate-800 shadow-sm">
+        <aside className="space-y-6 relative gap-6 flex flex-col h-full">
+          <Card className="border dark:bg-slate-900 dark:border-slate-800 shadow-sm shrink-0">
             <CardContent className="p-6">
               <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2">Country Information</h3>
               <dl className="space-y-3 text-sm">
@@ -158,7 +158,9 @@ export function CountrySwift() {
               </dl>
             </CardContent>
           </Card>
-          <AdSense slot="1122334455" />
+          <div className="sticky top-6 h-[600px]">
+            <AdSense slot="1122334455" />
+          </div>
         </aside>
       </div>
     </div>

@@ -78,6 +78,11 @@ export function Home() {
           </Link>
         </motion.div>
 
+        {/* Mobile Ad Unit */}
+        <div className="block md:hidden">
+          <AdSense slot="5566778899" />
+        </div>
+
         {/* IBAN Validator Service */}
         <motion.div variants={item}>
           <Link to="/iban" className="group h-full bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
