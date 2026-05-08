@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronRight, ArrowRight, Building2, MapPin, Search } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
@@ -9,7 +9,15 @@ import { AdSense } from '../../components/AdSense';
 import { DirectorySearch } from '../../components/DirectorySearch';
 
 export function SwiftHome() {
+  const [countrySearchInput, setCountrySearchInput] = useState('');
   const [countrySearch, setCountrySearch] = useState('');
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setCountrySearch(countrySearchInput);
+    }, 300);
+    return () => clearTimeout(handler);
+  }, [countrySearchInput]);
 
   const filteredCountries = countriesData.filter(c => 
     c.name.toLowerCase().includes(countrySearch.toLowerCase()) || 
@@ -64,8 +72,8 @@ export function SwiftHome() {
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400 group-focus-within:text-[#003399] transition-colors" />
               <Input 
                 placeholder="Filter countries by name or ISO code (e.g. Germany, DE)..." 
-                value={countrySearch}
-                onChange={(e) => setCountrySearch(e.target.value)}
+                value={countrySearchInput}
+                onChange={(e) => setCountrySearchInput(e.target.value)}
                 className="pl-12 h-14 text-lg bg-white dark:bg-slate-900 border-gray-200 dark:border-slate-800 dark:text-slate-100 shadow-sm focus:ring-[#003399] rounded-xl"
               />
             </div>
@@ -98,10 +106,13 @@ export function SwiftHome() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100 mb-2">No countries found</h3>
                 <p className="text-gray-500 dark:text-gray-400 mb-8 max-w-sm mx-auto">
-                  We couldn't find any results for <strong>"{countrySearch}"</strong>. Check your spelling or try searching by country name or ISO code.
+                  We couldn't find any results for <strong>"{countrySearchInput}"</strong>. Check your spelling or try searching by country name or ISO code.
                 </p>
                 <button 
-                  onClick={() => setCountrySearch('')}
+                  onClick={() => {
+                    setCountrySearchInput('');
+                    setCountrySearch('');
+                  }}
                   className="px-8 py-3 bg-[#003399] dark:bg-blue-600 text-white text-sm font-bold rounded-xl hover:bg-blue-800 dark:hover:bg-blue-500 transition-all shadow-md active:scale-95"
                 >
                   View All Countries

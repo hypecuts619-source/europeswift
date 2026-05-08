@@ -16,6 +16,13 @@ import { BlzHome } from './pages/blz/BlzHome';
 import { IbanValidator } from './pages/iban/IbanValidator';
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
+import { SiteMap } from './pages/SiteMap';
+import { AboutUs } from './pages/AboutUs';
+import { PrivacyPolicy } from './pages/PrivacyPolicy';
+import { TermsAndConditions } from './pages/TermsAndConditions';
+import { Blog } from './pages/Blog';
+import { BlogPost } from './pages/BlogPost';
+
 function Layout() {
   const { t } = useLanguage();
 
@@ -89,9 +96,10 @@ function Layout() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-[10px] uppercase font-medium tracking-widest mt-4">
           <span>&copy; {new Date().getFullYear()} Swiftcodedir.com</span>
           <span className="hidden md:inline">•</span>
-          <Link to="#" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Data Sources</Link>
-          <Link to="#" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">API Access</Link>
-          <Link to="#" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Privacy Policy</Link>
+          <Link to="/about-us" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">About Us</Link>
+          <Link to="/privacy-policy" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Privacy Policy</Link>
+          <Link to="/terms-and-conditions" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Terms & Conditions</Link>
+          <Link to="/sitemap" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Site Map</Link>
           <span className="flex items-center gap-2 italic ml-0 md:ml-4 text-slate-400 dark:text-slate-500">
             <span className="w-1.5 h-1.5 rounded-full bg-green-500"></span>
             Records updated: {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
@@ -132,6 +140,12 @@ export default function App() {
               </Route>
 
               {/* Guide pages placeholders */}
+              <Route path="sitemap" element={<SiteMap />} />
+              <Route path="about-us" element={<AboutUs />} />
+              <Route path="privacy-policy" element={<PrivacyPolicy />} />
+              <Route path="terms-and-conditions" element={<TermsAndConditions />} />
+              <Route path="blog" element={<Blog />} />
+              <Route path="blog/:slug" element={<BlogPost />} />
               <Route path="what-is-a-swift-code" element={<div className="p-12">What is a SWIFT code guide placeholder...</div>} />
               <Route path="what-is-an-iban" element={<div className="p-12">What is an IBAN guide placeholder...</div>} />
               <Route path="swift-vs-iban" element={<div className="p-12">SWIFT vs IBAN guide placeholder...</div>} />

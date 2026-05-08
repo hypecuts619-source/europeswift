@@ -75,11 +75,11 @@ export function CountrySwift() {
       <div className="mb-12">
         <div className="flex items-center gap-4 mb-4">
           <span className="text-5xl">{country.flag}</span>
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 tracking-tight">
             SWIFT Codes for {country.name}
           </h1>
         </div>
-        <p className="text-lg text-gray-600 max-w-2xl">
+        <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl">
           Browse our directory of SWIFT / BIC codes for {country.name}. Use the search bar to find a specific bank or branch.
         </p>
       </div>
@@ -90,12 +90,12 @@ export function CountrySwift() {
             <Search className="absolute left-3 top-3.5 w-5 h-5 text-gray-400" />
             <Input 
               placeholder={`Search ${country.name} banks...`} 
-              className="pl-10 h-12 text-lg bg-white border-2 focus-visible:border-[#003399]"
+              className="pl-10 h-12 text-lg bg-white dark:bg-slate-900 border-2 dark:border-slate-800 dark:text-slate-100 focus-visible:border-[#003399]"
             />
           </div>
 
-          <div className="flex items-center justify-between mb-4 border-b pb-2">
-            <h2 className="text-xl font-bold text-gray-900">
+          <div className="flex items-center justify-between mb-4 border-b dark:border-slate-800 pb-2">
+            <h2 className="text-xl font-bold text-gray-900 dark:text-slate-100">
               {loading ? 'Loading Banks...' : 'Top Banks'}
             </h2>
           </div>
@@ -106,29 +106,29 @@ export function CountrySwift() {
                 to={`/swift/${countrySlug}/${bank.slug}`}
                 state={{ realBankName: bank.name }}
               >
-                <Card className="hover:border-[#003399]/40 hover:shadow-md transition-all group">
+                <Card className="hover:border-[#003399]/40 dark:bg-slate-900 dark:border-slate-800 hover:shadow-md transition-all group">
                   <CardContent className="p-6 flex items-center justify-between">
                     <div className="flex items-center gap-4">
-                      <div className="bg-gray-100 p-3 rounded-xl group-hover:bg-blue-50 group-hover:text-[#003399] transition-colors">
-                        <Building2 className="w-6 h-6" />
+                      <div className="bg-gray-100 dark:bg-slate-800 p-3 rounded-xl group-hover:bg-blue-50 dark:group-hover:bg-blue-900/30 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">
+                        <Building2 className="w-6 h-6 text-gray-500 dark:text-slate-400 group-hover:text-[#003399] dark:group-hover:text-blue-400" />
                       </div>
                       <div>
-                        <h3 className="font-semibold text-lg text-gray-900 capitalize">
+                        <h3 className="font-semibold text-lg text-gray-900 dark:text-slate-100 capitalize">
                           {bank.name}
                         </h3>
                         <div className="flex items-center gap-2 mt-1">
-                          <span className="text-sm font-mono text-gray-500">{bank.primaryBic}</span>
+                          <span className="text-sm font-mono text-gray-500 dark:text-slate-400">{bank.primaryBic}</span>
                           <Badge variant="secondary" className="text-xs">SEPA Enabled</Badge>
                         </div>
                       </div>
                     </div>
-                    <ChevronRight className="text-gray-400 group-hover:text-[#003399]" />
+                    <ChevronRight className="text-gray-400 group-hover:text-[#003399] dark:group-hover:text-blue-400" />
                   </CardContent>
                 </Card>
               </Link>
             ))}
             {!loading && uniqueBanks.length === 0 && (
-              <div className="p-8 text-center text-gray-500 bg-gray-50 rounded-xl">
+              <div className="p-8 text-center text-gray-500 dark:text-slate-400 bg-gray-50 dark:bg-slate-900/50 rounded-xl">
                 No banks found in the database. Run the dataset upload script!
               </div>
             )}
@@ -136,20 +136,20 @@ export function CountrySwift() {
         </div>
 
         <aside className="space-y-6">
-          <Card className="border shadow-sm">
+          <Card className="border dark:bg-slate-900 dark:border-slate-800 shadow-sm">
             <CardContent className="p-6">
-              <h3 className="font-semibold text-gray-900 mb-2">Country Information</h3>
+              <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2">Country Information</h3>
               <dl className="space-y-3 text-sm">
                 <div className="flex justify-between border-b dark:border-slate-800 pb-2">
-                  <dt className="text-gray-500">ISO Code</dt>
+                  <dt className="text-gray-500 dark:text-slate-400">ISO Code</dt>
                   <dd className="font-medium text-gray-900 dark:text-slate-100">{country.code}</dd>
                 </div>
                 <div className="flex justify-between border-b dark:border-slate-800 pb-2">
-                  <dt className="text-gray-500">SEPA Zone</dt>
+                  <dt className="text-gray-500 dark:text-slate-400">SEPA Zone</dt>
                   <dd className="font-medium text-green-600 flex items-center gap-1"><Component className="w-4 h-4"/> Yes</dd>
                 </div>
                 <div className="flex justify-between">
-                  <dt className="text-gray-500">Registered Banks</dt>
+                  <dt className="text-gray-500 dark:text-slate-400">Registered Banks</dt>
                   <dd className="font-medium text-gray-900 dark:text-slate-100">{loading ? '...' : uniqueBanks.length}</dd>
                 </div>
               </dl>
