@@ -133,6 +133,9 @@ export function CountrySwift() {
               </div>
             )}
           </div>
+          <div className="mt-8">
+            <AdSense slot="9988776655" />
+          </div>
         </div>
 
         <aside className="space-y-6">
