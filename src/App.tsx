@@ -36,7 +36,10 @@ function Layout() {
         </div>
 
         <nav className="flex items-center gap-8 text-sm font-medium">
-          <Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.swift')}</Link>
+          <Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors flex items-center gap-2">
+            <Map className="w-4 h-4" />
+            By Country
+          </Link>
           <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
           <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
           <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>

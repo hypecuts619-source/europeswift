@@ -4,6 +4,7 @@ import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight } from
 import { motion } from 'motion/react';
 import { AdSense } from '../components/AdSense';
 import { useLanguage } from '../contexts/LanguageContext';
+import { DirectorySearch } from '../components/DirectorySearch';
 
 const container = {
   hidden: { opacity: 0 },
@@ -45,22 +46,9 @@ export function Home() {
           {t('home.subtitle')}
         </p>
         
-        <div className="max-w-3xl mx-auto relative">
-          <div className="flex flex-col sm:flex-row gap-2 p-2 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-xl shadow-blue-900/5">
-            <div className="flex-1 flex items-center px-4 gap-3">
-              <Search className="w-5 h-5 text-slate-400 dark:text-slate-500" />
-              <input 
-                type="text" 
-                placeholder={t('search.placeholder')} 
-                className="bg-transparent w-full outline-none text-lg min-h-[48px] dark:text-white dark:placeholder:text-slate-500"
-              />
-            </div>
-            <button className="bg-[#003399] text-white px-10 py-4 rounded-xl font-bold hover:bg-blue-800 transition-all shadow-lg active:scale-95 flex items-center justify-center gap-2">
-              {t('search.button')}
-              <ArrowRight className="w-4 h-4" />
-            </button>
-          </div>
-          <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 italic">
+        <div className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-xl shadow-blue-900/5 text-left border border-slate-200 dark:border-slate-800">
+          <DirectorySearch />
+          <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 italic absolute -bottom-8 left-0 right-0 text-center">
             Example: <span className="font-mono">Barclays Bank</span>, <span className="font-mono">Frankfurt</span>, or <span className="font-mono">CHASUS33</span>
           </p>
         </div>

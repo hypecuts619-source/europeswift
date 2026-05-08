@@ -6,6 +6,7 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Input } from '../../components/ui/input';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { DirectorySearch } from '../../components/DirectorySearch';
 
 export function SwiftHome() {
   const [countrySearch, setCountrySearch] = useState('');
@@ -40,9 +41,7 @@ export function SwiftHome() {
           </p>
 
           <div className="bg-white dark:bg-slate-900 rounded-xl shadow-sm border dark:border-slate-800 p-4 mb-12 max-w-xl">
-            <div className="relative">
-              <Input placeholder="Search SWIFT code or Bank Name..." className="bg-gray-50 dark:bg-slate-950 h-14 pl-4 border-gray-200 dark:border-slate-800 dark:text-slate-100" />
-            </div>
+            <DirectorySearch />
           </div>
 
           <div className="flex flex-col mb-8">
