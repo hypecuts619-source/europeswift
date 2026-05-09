@@ -1,4 +1,5 @@
 import { useParams, Link, useLocation } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, CopyAll } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
@@ -69,8 +70,32 @@ export function BankSwift() {
     window.print();
   };
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BankOrCreditUnion",
+    "name": bankNameStr,
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": country.code
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "SWIFT Code",
+      "value": primaryBic
+    }
+  };
+
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <main className="max-w-7xl mx-auto px-4 py-8">
+      <Helmet>
+        <title>{bankNameStr} SWIFT / BIC Codes in {country.name} | SwiftCodeDir</title>
+        <meta name="description" content={`Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`} />
+        <link rel="canonical" href={window.location.href} />
+        <script type="application/ld+json">
+          {JSON.stringify(jsonLd)}
+        </script>
+      </Helmet>
+
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -146,6 +171,30 @@ export function BankSwift() {
                   <FileDown className="w-4 h-4" />
                   Save as PDF
                 </Button>
+              </div>
+
+              {/* Interactive Map Embed */}
+              <div className="mt-8 rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-sm print:hidden">
+                <div className="bg-slate-50 dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 p-3 flex items-center justify-between">
+                  <div className="font-semibold text-sm flex items-center gap-2">
+                    <MapPin className="w-4 h-4 text-blue-600" />
+                    Find branches nearby
+                  </div>
+                  <Button variant="outline" size="sm" onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(bankNameStr + " " + country.name)}`, '_blank')} className="h-8 text-xs">
+                    Open in Maps
+                  </Button>
+                </div>
+                <iframe 
+                  width="100%" 
+                  height="250" 
+                  frameBorder="0" 
+                  scrolling="no" 
+                  marginHeight={0} 
+                  marginWidth={0} 
+                  loading="lazy"
+                  src={`https://maps.google.com/maps?width=100%25&height=250&hl=en&q=${encodeURIComponent(bankNameStr + " " + country.name)}&t=&z=12&ie=UTF8&iwloc=B&output=embed`}
+                  className="grayscale-[20%] opacity-90 hover:grayscale-0 hover:opacity-100 transition-all duration-500"
+                />
               </div>
 
               <div className="mt-8">
@@ -263,6 +312,6 @@ export function BankSwift() {
           <AdSense slot="5566778899" />
         </aside>
       </div>
-    </div>
+    </main>
   );
 }

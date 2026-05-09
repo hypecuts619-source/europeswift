@@ -1,4 +1,5 @@
 import { useParams, Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { Building2, Search, Component } from 'lucide-react';
 import { useState, useEffect, useMemo } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
@@ -55,7 +56,13 @@ export function CountrySwift() {
   if (!country) return <div className="p-12 text-center text-xl text-gray-500">Country not found</div>;
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <main className="max-w-7xl mx-auto px-4 py-8">
+      <Helmet>
+        <title>SWIFT Codes for all banks in {country.name} | SwiftCodeDir</title>
+        <meta name="description" content={`Find SWIFT and BIC codes for all banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`} />
+        <link rel="canonical" href={window.location.href} />
+      </Helmet>
+
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -163,7 +170,7 @@ export function CountrySwift() {
           </div>
         </aside>
       </div>
-    </div>
+    </main>
   );
 }
 

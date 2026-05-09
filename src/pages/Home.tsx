@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight } from 'lucide-react';
 import { motion } from 'motion/react';
 import { AdSense } from '../components/AdSense';
@@ -24,8 +25,24 @@ const item = {
 export function Home() {
   const { t } = useLanguage();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "SwiftCodeDir",
+    "url": window.location.origin,
+    "description": t('home.subtitle')
+  };
+
   return (
-    <div className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
+    <main className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
+      <Helmet>
+        <title>{t('home.title')} | SwiftCodeDir</title>
+        <meta name="description" content={t('home.subtitle')} />
+        <link rel="canonical" href={window.location.origin} />
+        <script type="application/ld+json">
+          {JSON.stringify(jsonLd)}
+        </script>
+      </Helmet>
       
       {/* Hero Section */}
       <motion.section 
@@ -182,6 +199,6 @@ export function Home() {
 
       <AdSense slot="1234567890" className="mb-16" />
 
-    </div>
+    </main>
   );
 }

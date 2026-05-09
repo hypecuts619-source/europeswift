@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { ChevronRight, ArrowRight, Building2, MapPin, Search } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent } from '../../components/ui/card';
@@ -24,8 +25,25 @@ export function SwiftHome() {
     c.code.toLowerCase().includes(countrySearch.toLowerCase())
   );
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "SWIFT / BIC Codes Directory",
+    "description": "Select a country to find SWIFT codes formatting and browse local bank directories.",
+    "url": window.location.href
+  };
+
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <main className="max-w-7xl mx-auto px-4 py-8">
+      <Helmet>
+        <title>SWIFT / BIC Codes Directory | SwiftCodeDir</title>
+        <meta name="description" content="Browse our global directory of SWIFT and BIC codes by country to safely perform international bank wire transfers." />
+        <link rel="canonical" href={window.location.href} />
+        <script type="application/ld+json">
+          {JSON.stringify(jsonLd)}
+        </script>
+      </Helmet>
+
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -146,6 +164,6 @@ export function SwiftHome() {
           <AdSense slot="7788990011" />
         </aside>
       </div>
-    </div>
+    </main>
   );
 }

@@ -22,6 +22,8 @@ import { IbanHome } from './pages/iban/IbanHome';
 import { SortCodeHome } from './pages/sort-code/SortCodeHome';
 import { BlzHome } from './pages/blz/BlzHome';
 import { IbanValidator } from './pages/iban/IbanValidator';
+import { IbanCalculator } from './pages/iban/IbanCalculator';
+import { SwiftChecker } from './pages/tool/SwiftChecker';
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
 import { SiteMap } from './pages/SiteMap';
@@ -61,6 +63,16 @@ function Layout() {
             <Map className="w-4 h-4" />
             By Country
           </Link>
+          <div className="relative group/nav py-5">
+            <button className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 transition-colors flex items-center gap-1 pb-1">
+              Tools <span className="text-[10px] opacity-60">▼</span>
+            </button>
+            <div className="absolute top-10 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl rounded-xl p-2 opacity-0 invisible group-hover/nav:opacity-100 group-hover/nav:visible transition-all z-50">
+               <Link to="/swift-checker" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">SWIFT Checker</Link>
+               <Link to="/iban/validator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Validator</Link>
+               <Link to="/iban/calculator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Calculator</Link>
+            </div>
+          </div>
           <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
           <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
           <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>
@@ -95,6 +107,12 @@ function Layout() {
             <DropdownMenuContent align="end" className="w-48">
               <DropdownMenuItem onClick={() => navigate('/swift')} className="cursor-pointer gap-2">
                 <Map className="w-4 h-4" /> By Country
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/swift-checker')} className="cursor-pointer">
+                SWIFT Checker
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/iban/calculator')} className="cursor-pointer">
+                IBAN Calculator
               </DropdownMenuItem>
               <DropdownMenuItem onClick={() => navigate('/iban')} className="cursor-pointer">
                 {t('nav.iban')}
@@ -155,7 +173,10 @@ export default function App() {
               <Route path="iban">
                 <Route index element={<IbanHome />} />
                 <Route path="validator" element={<IbanValidator />} />
+                <Route path="calculator" element={<IbanCalculator />} />
               </Route>
+
+              <Route path="swift-checker" element={<SwiftChecker />} />
 
               <Route path="sort-code">
                 <Route index element={<SortCodeHome />} />

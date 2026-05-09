@@ -78,7 +78,7 @@ async function run() {
         console.log(`Uploaded ${uploadedCount} / ${finalData.length}...`);
         fs.writeFileSync(stateFile, uploadedCount.toString());
         
-        if (uploadedCount - startIdx >= 2500) {
+        if (uploadedCount - startIdx >= 20000) {
             console.log("Safe exit to avoid timeout. Please run again.");
             process.exit(0);
         }
