@@ -37,7 +37,7 @@ export function BankSwift() {
     setTimeout(() => setCopied(null), 2000);
   };
 
-  if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-gray-500">Bank not found</div>;
+  if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400">Bank not found</div>;
 
   // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
   const headOfficeSwiftDoc = branches.find(b => b.bic && (b.bic.endsWith('XXX') || b.bic.length === 8)) || branches[0];
@@ -119,10 +119,10 @@ export function BankSwift() {
       <div className="flex items-start justify-between mb-10">
         <div>
           <div className="flex items-center gap-3 mb-2">
-            <Building2 className="w-8 h-8 text-[#003399]" />
-            <h1 className="text-4xl font-bold text-gray-900 capitalize">{bankNameStr} SWIFT Codes</h1>
+            <Building2 className="w-8 h-8 text-[#003399] dark:text-blue-400" />
+            <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100 capitalize">{bankNameStr} SWIFT Codes</h1>
           </div>
-          <p className="text-lg text-gray-600 flex items-center gap-2">
+          <p className="text-lg text-slate-600 dark:text-slate-400 flex items-center gap-2">
             <MapPin className="w-4 h-4" /> {country.name}
             {/* Assume all listed banks here can receive intl transfers */}
             <Badge variant="outline" className="ml-2 bg-green-50 text-green-700 border-green-200">SEPA Ready</Badge>
@@ -133,14 +133,14 @@ export function BankSwift() {
       <div className="grid lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-8">
           
-          <Card className="border shadow-sm overflow-hidden border-[#003399]/20">
-            <div className="h-2 bg-[#003399] w-full" />
-            <CardContent className="p-8">
-              <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-500 mb-2">
+          <Card className="border shadow-sm overflow-hidden border-[#003399]/20 dark:border-blue-800/40">
+            <div className="h-2 bg-[#003399] dark:bg-blue-600 w-full" />
+            <CardContent className="p-8 bg-card dark:bg-slate-950">
+              <h2 className="text-sm uppercase tracking-widest font-semibold text-slate-500 dark:text-slate-400 mb-2">
                 {loading ? 'Loading Primary Code...' : 'Primary SWIFT / BIC Code'}
               </h2>
-              <div className="flex items-center justify-between bg-gray-50 p-6 rounded-xl border">
-                <div className="font-mono text-4xl font-bold tracking-[0.2em] text-[#003399]">
+              <div className="flex items-center justify-between bg-slate-50 dark:bg-slate-900 p-6 rounded-xl border dark:border-slate-800">
+                <div className="font-mono text-4xl font-bold tracking-[0.2em] text-[#003399] dark:text-blue-400">
                   {primaryBic}
                 </div>
                 <Button 
@@ -155,19 +155,19 @@ export function BankSwift() {
 
               {/* Action Buttons */}
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-6 print:hidden">
-                <Button variant="secondary" className="w-full gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700" onClick={handleCopyAll}>
-                  {copied === 'all' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4" />}
+                <Button variant="secondary" className="w-full gap-2 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200" onClick={handleCopyAll}>
+                  {copied === 'all' ? <Check className="w-4 h-4 text-green-600 dark:text-green-400" /> : <Copy className="w-4 h-4" />}
                   {copied === 'all' ? 'Copied Details' : 'Copy All Details'}
                 </Button>
-                <Button variant="secondary" className="w-full gap-2 bg-[#25D366]/10 text-[#25D366] hover:bg-[#25D366]/20" onClick={handleWhatsAppShare}>
+                <Button variant="secondary" className="w-full gap-2 bg-[#25D366]/10 dark:bg-[#25D366]/20 text-[#25D366] hover:bg-[#25D366]/20 dark:hover:bg-[#25D366]/30" onClick={handleWhatsAppShare}>
                   <MessageCircle className="w-4 h-4" />
                   WhatsApp
                 </Button>
-                <Button variant="secondary" className="w-full gap-2 bg-blue-100 text-blue-700 hover:bg-blue-200" onClick={handleEmailShare}>
+                <Button variant="secondary" className="w-full gap-2 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 hover:bg-blue-200 dark:hover:bg-blue-900/50" onClick={handleEmailShare}>
                   <Mail className="w-4 h-4" />
                   Email Client
                 </Button>
-                <Button variant="secondary" className="w-full gap-2 bg-purple-100 text-purple-700 hover:bg-purple-200" onClick={handleDownloadPDF}>
+                <Button variant="secondary" className="w-full gap-2 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-400 hover:bg-purple-200 dark:hover:bg-purple-900/50" onClick={handleDownloadPDF}>
                   <FileDown className="w-4 h-4" />
                   Save as PDF
                 </Button>
@@ -198,7 +198,7 @@ export function BankSwift() {
               </div>
 
               <div className="mt-8">
-                <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-4">SWIFT / BIC Code Breakdown</h3>
+                <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-4">SWIFT / BIC Code Breakdown</h3>
                 <div className="grid grid-cols-4 gap-3 text-center text-sm">
                   <div className="bg-blue-50/80 dark:bg-blue-950/40 p-4 rounded-xl border border-blue-100 dark:border-blue-900 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
                     <div className="font-mono font-bold text-2xl text-blue-900 dark:text-blue-400 mb-1">{bankCode}</div>
@@ -226,12 +226,12 @@ export function BankSwift() {
           </Card>
 
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100">
               {loading ? 'Loading branches...' : 'All Branch Codes'}
             </h2>
-            <Card>
+            <Card className="overflow-hidden">
               <Table>
-                <TableHeader>
+                <TableHeader className="bg-slate-50/50 dark:bg-slate-900/50">
                   <TableRow>
                     <TableHead>SWIFT / BIC</TableHead>
                     <TableHead>City</TableHead>
@@ -242,19 +242,19 @@ export function BankSwift() {
                 <TableBody>
                   {loading && (
                     <TableRow>
-                      <TableCell colSpan={4} className="text-center text-gray-500 py-8">Loading from database...</TableCell>
+                      <TableCell colSpan={4} className="text-center text-slate-500 py-8">Loading from database...</TableCell>
                     </TableRow>
                   )}
                   {!loading && branches.length === 0 && (
                     <TableRow>
-                      <TableCell colSpan={4} className="text-center text-gray-500 py-8">No branches found in database.</TableCell>
+                      <TableCell colSpan={4} className="text-center text-slate-500 py-8">No branches found in database.</TableCell>
                     </TableRow>
                   )}
                   {!loading && branches.map((branch) => (
-                    <TableRow key={branch.bic}>
+                    <TableRow key={branch.bic} className="hover:bg-slate-50/50 dark:hover:bg-slate-900/50">
                       <TableCell className="font-mono font-medium">{branch.bic}</TableCell>
-                      <TableCell>{branch.city || 'N/A'}</TableCell>
-                      <TableCell className="text-gray-500">{branch.branch || 'Head Office'}</TableCell>
+                      <TableCell className="text-slate-700 dark:text-slate-300">{branch.city || 'N/A'}</TableCell>
+                      <TableCell className="text-slate-500 dark:text-slate-400">{branch.branch || 'Head Office'}</TableCell>
                       <TableCell>
                         <Button variant="ghost" size="sm" onClick={() => handleCopy(branch.bic)}>
                           {copied === branch.bic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
@@ -269,25 +269,25 @@ export function BankSwift() {
         </div>
 
         <aside className="space-y-6">
-          <Card className="bg-gray-50">
+          <Card className="bg-slate-50 dark:bg-slate-900/50 dark:border-slate-800">
             <CardHeader>
               <CardTitle className="text-lg">Bank Information</CardTitle>
             </CardHeader>
             <CardContent>
               <dl className="space-y-4 text-sm">
                 <div>
-                  <dt className="text-gray-500 mb-1">Full Name</dt>
-                  <dd className="font-medium text-gray-900 capitalize">{bankNameStr}</dd>
+                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Full Name</dt>
+                  <dd className="font-medium text-slate-900 dark:text-slate-100 capitalize">{bankNameStr}</dd>
                 </div>
                 <div>
-                  <dt className="text-gray-500 mb-1">Country</dt>
-                  <dd className="font-medium text-gray-900 flex items-center gap-2">
+                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Country</dt>
+                  <dd className="font-medium text-slate-900 dark:text-slate-100 flex items-center gap-2">
                     <span>{country.flag}</span> {country.name}
                   </dd>
                 </div>
                 <div>
-                  <dt className="text-gray-500 mb-1">Network Access</dt>
-                  <dd className="font-medium text-gray-900 flex flex-col gap-2 mt-2">
+                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Network Access</dt>
+                  <dd className="font-medium text-slate-900 dark:text-slate-100 flex flex-col gap-2 mt-2">
                     <Badge variant="outline" className="w-fit"><Globe className="w-3 h-3 mr-1"/> SWIFT International</Badge>
                     <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA Transfers</Badge>
                   </dd>
@@ -298,8 +298,8 @@ export function BankSwift() {
           
           <Card className="border border-blue-200 shadow-sm">
             <CardContent className="p-6">
-              <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {bankNameStr}?</h3>
-              <p className="text-gray-600 dark:text-slate-400 text-sm mb-4">
+              <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {bankNameStr}?</h3>
+              <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">
                 If you are sending an international wire template, make sure to ask your beneficiary for their exact IBAN. You will need both the SWIFT code and the IBAN for a successful transaction.
               </p>
               <Link to="/what-is-an-iban">
