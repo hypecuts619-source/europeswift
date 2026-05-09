@@ -8,6 +8,7 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { SEO } from '../../components/SEO';
 import { getSwiftCodesByCountry, SwiftCodeDoc } from '../../lib/firebaseQueries';
 
 export function CountrySwift() {
@@ -57,11 +58,11 @@ export function CountrySwift() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
-      <Helmet>
-        <title>SWIFT Codes for all banks in {country.name} | SwiftCodeDir</title>
-        <meta name="description" content={`Find SWIFT and BIC codes for all banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`} />
-        <link rel="canonical" href={window.location.href} />
-      </Helmet>
+      <SEO 
+        title={`SWIFT Codes for all banks in ${country.name} | SwiftCodeDir`}
+        description={`Find SWIFT and BIC codes for all banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
+        canonicalUrl={window.location.href}
+      />
 
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

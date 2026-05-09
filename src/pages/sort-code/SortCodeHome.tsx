@@ -1,4 +1,4 @@
-import { Helmet } from 'react-helmet-async';
+import { SEO } from '../../components/SEO';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
@@ -10,11 +10,11 @@ import { Link } from 'react-router-dom';
 export function SortCodeHome() {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
-      <Helmet>
-        <title>UK Sort Codes Directory - Find Bank Sort Codes | SwiftcodeDir</title>
-        <meta name="description" content="Search our complete directory of UK Sort Codes. Verify bank branch sort codes for Barclays, HSBC, Lloyds, NatWest, Santander and other British & Irish banks." />
-        <link rel="canonical" href="https://swiftcodedir.com/sort-code" />
-      </Helmet>
+      <SEO 
+        title="UK Sort Codes Directory - Find Bank Sort Codes | SwiftcodeDir"
+        description="Search our complete directory of UK Sort Codes. Verify bank branch sort codes for Barclays, HSBC, Lloyds, NatWest, Santander and other British & Irish banks."
+        canonicalUrl="https://swiftcodedir.com/sort-code"
+      />
       
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

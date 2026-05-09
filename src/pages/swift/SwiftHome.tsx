@@ -8,6 +8,7 @@ import { Input } from '../../components/ui/input';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
 import { DirectorySearch } from '../../components/DirectorySearch';
+import { SEO } from '../../components/SEO';
 
 export function SwiftHome() {
   const [countrySearchInput, setCountrySearchInput] = useState('');
@@ -35,10 +36,12 @@ export function SwiftHome() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
+      <SEO 
+        title="SWIFT / BIC Codes Directory | SwiftCodeDir"
+        description="Browse our global directory of SWIFT and BIC codes by country to safely perform international bank wire transfers."
+        canonicalUrl={window.location.href}
+      />
       <Helmet>
-        <title>SWIFT / BIC Codes Directory | SwiftCodeDir</title>
-        <meta name="description" content="Browse our global directory of SWIFT and BIC codes by country to safely perform international bank wire transfers." />
-        <link rel="canonical" href={window.location.href} />
         <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>

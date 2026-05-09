@@ -9,6 +9,7 @@ import { Button } from '../../components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../components/ui/table';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { SEO } from '../../components/SEO';
 import { getSwiftCodesByBank, SwiftCodeDoc } from '../../lib/firebaseQueries';
 
 export function BankSwift() {
@@ -87,10 +88,12 @@ export function BankSwift() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
+      <SEO 
+        title={`${bankNameStr} SWIFT / BIC Codes in ${country.name} | SwiftCodeDir`}
+        description={`Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`}
+        canonicalUrl={window.location.href}
+      />
       <Helmet>
-        <title>{bankNameStr} SWIFT / BIC Codes in {country.name} | SwiftCodeDir</title>
-        <meta name="description" content={`Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`} />
-        <link rel="canonical" href={window.location.href} />
         <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>

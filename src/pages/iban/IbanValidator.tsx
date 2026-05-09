@@ -6,6 +6,7 @@ import { Button } from '../../components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { ibanFormats } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { SEO } from '../../components/SEO';
 
 export function IbanValidator() {
   const [iban, setIban] = useState('');
@@ -42,6 +43,11 @@ export function IbanValidator() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
+      <SEO 
+        title="IBAN Validator - Check IBAN Number Validity | SwiftCodeDir"
+        description="Verify the checksum and format of an International Bank Account Number. Validate IBAN for SEPA and international bank transfers safely."
+        canonicalUrl={window.location.href}
+      />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>

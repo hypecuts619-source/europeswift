@@ -5,6 +5,7 @@ import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { AdSense } from '../../components/AdSense';
+import { SEO } from '../../components/SEO';
 
 const GERMAN_BANKS = [
   { name: 'Deutsche Bank AG', blz: '10020000', city: 'Berlin' },
@@ -42,6 +43,11 @@ export function BlzHome() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <SEO 
+        title="German BLZ Directory - Find Bankleitzahl Codes | SwiftcodeDir"
+        description="Search our directory of verified German BLZ (Bankleitzahl) codes. Formats, branch identifiers, and local routing numbers for German and Austrian banks."
+        canonicalUrl="https://swiftcodedir.com/blz"
+      />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>

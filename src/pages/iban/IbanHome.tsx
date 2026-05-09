@@ -6,6 +6,7 @@ import { AdSense } from '../../components/AdSense';
 import { Search, Globe } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import ibanFormatsData from '../../data/iban-formats.json';
+import { SEO } from '../../components/SEO';
 
 // Helper to get flag emoji from ISO2 code
 const getFlagEmoji = (countryCode: string) => {
@@ -26,6 +27,11 @@ export function IbanHome() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <SEO 
+        title="IBAN Formats & Country Codes Directory | SwiftCodeDir"
+        description="Explore the complete registry of IBAN formats, lengths, and structures for all SEPA and international bank account numbering systems."
+        canonicalUrl={window.location.href}
+      />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>

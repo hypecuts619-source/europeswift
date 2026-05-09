@@ -6,6 +6,7 @@ import { motion } from 'motion/react';
 import { AdSense } from '../components/AdSense';
 import { useLanguage } from '../contexts/LanguageContext';
 import { DirectorySearch } from '../components/DirectorySearch';
+import { SEO } from '../components/SEO';
 
 const container = {
   hidden: { opacity: 0 },
@@ -35,10 +36,12 @@ export function Home() {
 
   return (
     <main className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
+      <SEO 
+        title={`${t('home.title')} | SwiftCodeDir`}
+        description={t('home.subtitle')}
+        canonicalUrl={window.location.origin}
+      />
       <Helmet>
-        <title>{t('home.title')} | SwiftCodeDir</title>
-        <meta name="description" content={t('home.subtitle')} />
-        <link rel="canonical" href={window.location.origin} />
         <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>

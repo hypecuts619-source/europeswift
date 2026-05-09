@@ -7,6 +7,7 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
+import { SEO } from '../../components/SEO';
 
 export function SwiftChecker() {
   const [swiftCode, setSwiftCode] = useState('');
@@ -59,10 +60,12 @@ export function SwiftChecker() {
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-12">
+      <SEO 
+        title="SWIFT Code Checker - Verify BIC Codes | SwiftCodeDir"
+        description="Check, decode and verify SWIFT / BIC codes instantly. Find the bank, country, location, and branch details from any SWIFT code."
+        canonicalUrl={window.location.href}
+      />
       <Helmet>
-        <title>SWIFT Code Checker - Verify BIC Codes | SwiftCodeDir</title>
-        <meta name="description" content="Check, decode and verify SWIFT / BIC codes instantly. Find the bank, country, location, and branch details from any SWIFT code." />
-        <link rel="canonical" href={window.location.href} />
         <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>
