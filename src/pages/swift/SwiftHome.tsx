@@ -26,19 +26,45 @@ export function SwiftHome() {
     c.code.toLowerCase().includes(countrySearch.toLowerCase())
   );
 
-  const jsonLd = {
+  const faqSchema = {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "SWIFT / BIC Codes Directory",
-    "description": "Select a country to find SWIFT codes formatting and browse local bank directories.",
-    "url": window.location.href
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How many SWIFT / BIC codes are recorded in this directory?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The directory currently tracks exactly 112,886 unique BICs across global banking institutions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is a SWIFT code formatted?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A SWIFT code is either 8 or 11 characters long. It consists of a 4-letter bank code, a 2-letter country code, a 2-character location code, and an optional 3-character branch code."
+        }
+      }
+    ]
   };
+
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "SWIFT / BIC Codes Directory",
+      "description": "Select a country to find SWIFT codes formatting and browse local bank directories.",
+      "url": window.location.href
+    },
+    faqSchema
+  ];
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
         title="SWIFT / BIC Codes Directory | SwiftCodeDir"
-        description="Browse our global directory of SWIFT and BIC codes by country to safely perform international bank wire transfers."
+        description="Browse our global directory of 112,886 SWIFT and BIC codes by country to safely perform international bank wire transfers."
         canonicalUrl={window.location.href}
       />
       <Helmet>

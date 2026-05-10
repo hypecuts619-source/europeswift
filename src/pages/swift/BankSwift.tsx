@@ -1,6 +1,6 @@
 import { useParams, Link, useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, CopyAll } from 'lucide-react';
+import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';

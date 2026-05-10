@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { blogPosts } from './src/data/blogPosts';
 
 // Helper to convert arbitrary strings to URL-friendly slugs
 function generateSlug(text: string): string {
@@ -65,10 +66,16 @@ async function generateSitemap() {
   // Fallback for guides
   const staticGuides = [
     '/sitemap', '/about-us', '/privacy-policy', '/terms-and-conditions', 
-    '/blog', '/what-is-a-swift-code', '/what-is-an-iban', '/swift-vs-iban', '/sepa-transfer-guide'
+    '/what-is-a-swift-code', '/what-is-an-iban', '/swift-vs-iban', '/sepa-transfer-guide', '/banking-statistics'
   ];
   for (const guide of staticGuides) {
     addUrl(`${rootUrl}${guide}`, '0.5', 'monthly');
+  }
+
+  // Blog Posts
+  addUrl(`${rootUrl}/blog`, '0.8', 'weekly');
+  for (const post of blogPosts) {
+    addUrl(`${rootUrl}/blog/${post.slug}`, '0.7', 'monthly');
   }
 
   xmlContent += sitemapFooter;

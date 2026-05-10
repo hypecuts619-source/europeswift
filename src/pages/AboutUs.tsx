@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { Building2, Globe, ShieldCheck } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
 
@@ -7,7 +8,7 @@ export function AboutUs() {
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>
-            <BreadcrumbLink to="/">Home</BreadcrumbLink>
+            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>

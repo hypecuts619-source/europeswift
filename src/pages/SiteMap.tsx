@@ -8,7 +8,7 @@ export function SiteMap() {
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>
-            <BreadcrumbLink to="/">Home</BreadcrumbLink>
+            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>

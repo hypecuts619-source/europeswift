@@ -30,8 +30,10 @@ import { SiteMap } from './pages/SiteMap';
 import { AboutUs } from './pages/AboutUs';
 import { PrivacyPolicy } from './pages/PrivacyPolicy';
 import { TermsAndConditions } from './pages/TermsAndConditions';
-import { Blog } from './pages/Blog';
-import { BlogPost } from './pages/BlogPost';
+import { BlogIndex } from './pages/BlogIndex';
+import { BlogPostPage } from './pages/BlogPostPage';
+
+import { BankingStatistics } from './pages/BankingStatistics';
 
 function Layout() {
   const { t } = useLanguage();
@@ -123,6 +125,9 @@ function Layout() {
               <DropdownMenuItem onClick={() => navigate('/blz')} className="cursor-pointer">
                 {t('nav.blz')}
               </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/blog')} className="cursor-pointer">
+                Blog
+              </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
         </div>
@@ -140,6 +145,8 @@ function Layout() {
           <span>&copy; {new Date().getFullYear()} Swiftcodedir.com</span>
           <span className="hidden md:inline">•</span>
           <Link to="/about-us" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">About Us</Link>
+          <Link to="/banking-statistics" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors font-semibold text-[#003399] dark:text-blue-400">Data & Stats</Link>
+          <Link to="/blog" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Blog</Link>
           <Link to="/privacy-policy" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Privacy Policy</Link>
           <Link to="/terms-and-conditions" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Terms & Conditions</Link>
           <Link to="/sitemap" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Site Map</Link>
@@ -191,8 +198,9 @@ export default function App() {
               <Route path="about-us" element={<AboutUs />} />
               <Route path="privacy-policy" element={<PrivacyPolicy />} />
               <Route path="terms-and-conditions" element={<TermsAndConditions />} />
-              <Route path="blog" element={<Blog />} />
-              <Route path="blog/:slug" element={<BlogPost />} />
+              <Route path="blog" element={<BlogIndex />} />
+              <Route path="blog/:slug" element={<BlogPostPage />} />
+              <Route path="banking-statistics" element={<BankingStatistics />} />
               <Route path="what-is-a-swift-code" element={<div className="p-12">What is a SWIFT code guide placeholder...</div>} />
               <Route path="what-is-an-iban" element={<div className="p-12">What is an IBAN guide placeholder...</div>} />
               <Route path="swift-vs-iban" element={<div className="p-12">SWIFT vs IBAN guide placeholder...</div>} />
