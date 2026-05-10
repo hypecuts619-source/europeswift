@@ -20,17 +20,21 @@ export async function testConnection() {
       } else if (error.message.includes('Missing or insufficient permissions')) {
         // A permissions error indicates we successfully reached the backend.
         console.log("Firebase connection test successful (received expected permissions error).");
+      } else if (error.message.includes('Quota exceeded')) {
+        console.warn("Firebase connection test: Quota exceeded. Data will be read-only mock data until quota resets.");
       } else {
-        console.error("Firebase connection test failed", error);
+        console.error("Firebase connection test failed", error.message);
       }
     }
   }
 }
 // We only want to test connection, but avoid noise, so we swallow the top level error if it happens.
 if (typeof window !== 'undefined') {
-  testConnection().catch(e => {
-    console.warn("Silent Firebase init error:", e);
-  });
+  setTimeout(() => {
+    testConnection().catch(e => {
+      console.warn("Silent Firebase init error:", e);
+    });
+  }, 3000);
 }
 
 export enum OperationType {
@@ -56,8 +60,14 @@ export interface FirestoreErrorInfo {
 }
 
 export function handleFirestoreError(error: unknown, operationType: OperationType, path: string | null) {
+  const errorMsg = error instanceof Error ? error.message : String(error);
+  if (errorMsg.includes('Quota exceeded')) {
+    console.warn('Firestore Quota Exceeded for path: ' + path + '. Falling back to cached or mock data.');
+    return; // Don't throw for Quota exceeded
+  }
+
   const errInfo: FirestoreErrorInfo = {
-    error: error instanceof Error ? error.message : String(error),
+    error: errorMsg,
     authInfo: {
       userId: auth.currentUser?.uid,
       email: auth.currentUser?.email,

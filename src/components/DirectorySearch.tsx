@@ -46,8 +46,12 @@ export function DirectorySearch() {
           );
           const snap = await getDocs(q);
           setLiveBics(snap.docs.map(doc => doc.data()));
-        } catch (e) {
-          console.error("Firebase search error", e);
+        } catch (e: any) {
+          if (e?.message?.includes('Quota exceeded')) {
+            console.warn("Firebase Quota exceeded for DirectorySearch");
+          } else {
+            console.error("Firebase search error", e);
+          }
         }
       } else {
         setLiveBics([]);

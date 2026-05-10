@@ -1,3 +1,4 @@
+import { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import { Landmark, Search, Map, CreditCard, Menu, Globe } from 'lucide-react';
@@ -12,30 +13,32 @@ import {
 import { ThemeProvider } from './components/theme-provider';
 import { ModeToggle } from './components/ModeToggle';
 import { LanguageSelector } from './components/LanguageSelector';
-import { GlobalSearch } from './components/GlobalSearch';
 import { Home } from './pages/Home';
-import { SwiftHome } from './pages/swift/SwiftHome';
-import { CountrySwift } from './pages/swift/CountrySwift';
-import { BranchList } from './pages/swift/BranchList';
-import { BankSwift } from './pages/swift/BankSwift';
-import { IbanHome } from './pages/iban/IbanHome';
-import { SortCodeHome } from './pages/sort-code/SortCodeHome';
-import { BlzHome } from './pages/blz/BlzHome';
-import { IbanValidator } from './pages/iban/IbanValidator';
-import { IbanCalculator } from './pages/iban/IbanCalculator';
-import { SwiftChecker } from './pages/tool/SwiftChecker';
-import { BanksAtoZ } from './pages/banks/BanksAtoZ';
+
+const GlobalSearch = lazy(() => import('./components/GlobalSearch').then(module => ({ default: module.GlobalSearch })));
+
+const SwiftHome = lazy(() => import('./pages/swift/SwiftHome').then(module => ({ default: module.SwiftHome })));
+const CountrySwift = lazy(() => import('./pages/swift/CountrySwift').then(module => ({ default: module.CountrySwift })));
+const BranchList = lazy(() => import('./pages/swift/BranchList').then(module => ({ default: module.BranchList })));
+const BankSwift = lazy(() => import('./pages/swift/BankSwift').then(module => ({ default: module.BankSwift })));
+const IbanHome = lazy(() => import('./pages/iban/IbanHome').then(module => ({ default: module.IbanHome })));
+const SortCodeHome = lazy(() => import('./pages/sort-code/SortCodeHome').then(module => ({ default: module.SortCodeHome })));
+const BlzHome = lazy(() => import('./pages/blz/BlzHome').then(module => ({ default: module.BlzHome })));
+const IbanValidator = lazy(() => import('./pages/iban/IbanValidator').then(module => ({ default: module.IbanValidator })));
+const IbanCalculator = lazy(() => import('./pages/iban/IbanCalculator').then(module => ({ default: module.IbanCalculator })));
+const SwiftChecker = lazy(() => import('./pages/tool/SwiftChecker').then(module => ({ default: module.SwiftChecker })));
+const BanksAtoZ = lazy(() => import('./pages/banks/BanksAtoZ').then(module => ({ default: module.BanksAtoZ })));
 
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
-import { SiteMap } from './pages/SiteMap';
-import { AboutUs } from './pages/AboutUs';
-import { PrivacyPolicy } from './pages/PrivacyPolicy';
-import { TermsAndConditions } from './pages/TermsAndConditions';
-import { BlogIndex } from './pages/BlogIndex';
-import { BlogPostPage } from './pages/BlogPostPage';
+const SiteMap = lazy(() => import('./pages/SiteMap').then(module => ({ default: module.SiteMap })));
+const AboutUs = lazy(() => import('./pages/AboutUs').then(module => ({ default: module.AboutUs })));
+const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy').then(module => ({ default: module.PrivacyPolicy })));
+const TermsAndConditions = lazy(() => import('./pages/TermsAndConditions').then(module => ({ default: module.TermsAndConditions })));
+const BlogIndex = lazy(() => import('./pages/BlogIndex').then(module => ({ default: module.BlogIndex })));
+const BlogPostPage = lazy(() => import('./pages/BlogPostPage').then(module => ({ default: module.BlogPostPage })));
 
-import { BankingStatistics } from './pages/BankingStatistics';
+const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
 
 function Layout() {
   const { t } = useLanguage();
@@ -59,7 +62,9 @@ function Layout() {
         </div>
 
         <div className="flex justify-center w-full">
-          <GlobalSearch />
+          <Suspense fallback={<div className="h-9 w-64 bg-slate-100 dark:bg-slate-900 rounded-md animate-pulse"></div>}>
+            <GlobalSearch />
+          </Suspense>
         </div>
 
         <nav className="flex items-center gap-8 text-sm font-medium">
@@ -202,49 +207,51 @@ export default function App() {
       <HelmetProvider>
       <LanguageProvider>
         <Router>
-          <Routes>
-            <Route path="/" element={<Layout />}>
-              <Route index element={<Home />} />
-              
-              <Route path="swift">
-                <Route index element={<SwiftHome />} />
-                <Route path=":countrySlug" element={<CountrySwift />} />
-                <Route path=":countrySlug/branches" element={<BranchList />} />
-                <Route path=":countrySlug/:bankSlug" element={<BankSwift />} />
+          <Suspense fallback={<div className="flex items-center justify-center min-h-screen bg-slate-50 dark:bg-slate-950"><div className="w-8 h-8 border-4 border-[#003399] border-t-transparent rounded-full animate-spin"></div></div>}>
+            <Routes>
+              <Route path="/" element={<Layout />}>
+                <Route index element={<Home />} />
+                
+                <Route path="swift">
+                  <Route index element={<SwiftHome />} />
+                  <Route path=":countrySlug" element={<CountrySwift />} />
+                  <Route path=":countrySlug/branches" element={<BranchList />} />
+                  <Route path=":countrySlug/:bankSlug" element={<BankSwift />} />
+                </Route>
+
+                <Route path="iban">
+                  <Route index element={<IbanHome />} />
+                  <Route path="validator" element={<IbanValidator />} />
+                  <Route path="calculator" element={<IbanCalculator />} />
+                </Route>
+
+                <Route path="swift-checker" element={<SwiftChecker />} />
+
+                <Route path="sort-code">
+                  <Route index element={<SortCodeHome />} />
+                </Route>
+
+                <Route path="blz">
+                  <Route index element={<BlzHome />} />
+                </Route>
+
+                <Route path="banks" element={<BanksAtoZ />} />
+
+                {/* Guide pages placeholders */}
+                <Route path="sitemap" element={<SiteMap />} />
+                <Route path="about-us" element={<AboutUs />} />
+                <Route path="privacy-policy" element={<PrivacyPolicy />} />
+                <Route path="terms-and-conditions" element={<TermsAndConditions />} />
+                <Route path="blog" element={<BlogIndex />} />
+                <Route path="blog/:slug" element={<BlogPostPage />} />
+                <Route path="banking-statistics" element={<BankingStatistics />} />
+                <Route path="what-is-a-swift-code" element={<div className="p-12">What is a SWIFT code guide placeholder...</div>} />
+                <Route path="what-is-an-iban" element={<div className="p-12">What is an IBAN guide placeholder...</div>} />
+                <Route path="swift-vs-iban" element={<div className="p-12">SWIFT vs IBAN guide placeholder...</div>} />
+                <Route path="sepa-transfer-guide" element={<div className="p-12">SEPA Transfer Guide placeholder...</div>} />
               </Route>
-
-              <Route path="iban">
-                <Route index element={<IbanHome />} />
-                <Route path="validator" element={<IbanValidator />} />
-                <Route path="calculator" element={<IbanCalculator />} />
-              </Route>
-
-              <Route path="swift-checker" element={<SwiftChecker />} />
-
-              <Route path="sort-code">
-                <Route index element={<SortCodeHome />} />
-              </Route>
-
-              <Route path="blz">
-                <Route index element={<BlzHome />} />
-              </Route>
-
-              <Route path="banks" element={<BanksAtoZ />} />
-
-              {/* Guide pages placeholders */}
-              <Route path="sitemap" element={<SiteMap />} />
-              <Route path="about-us" element={<AboutUs />} />
-              <Route path="privacy-policy" element={<PrivacyPolicy />} />
-              <Route path="terms-and-conditions" element={<TermsAndConditions />} />
-              <Route path="blog" element={<BlogIndex />} />
-              <Route path="blog/:slug" element={<BlogPostPage />} />
-              <Route path="banking-statistics" element={<BankingStatistics />} />
-              <Route path="what-is-a-swift-code" element={<div className="p-12">What is a SWIFT code guide placeholder...</div>} />
-              <Route path="what-is-an-iban" element={<div className="p-12">What is an IBAN guide placeholder...</div>} />
-              <Route path="swift-vs-iban" element={<div className="p-12">SWIFT vs IBAN guide placeholder...</div>} />
-              <Route path="sepa-transfer-guide" element={<div className="p-12">SEPA Transfer Guide placeholder...</div>} />
-            </Route>
-          </Routes>
+            </Routes>
+          </Suspense>
         </Router>
       </LanguageProvider>
       </HelmetProvider>

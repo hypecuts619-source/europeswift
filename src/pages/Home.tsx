@@ -1,12 +1,14 @@
 import * as React from 'react';
+import { lazy, Suspense } from 'react';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight } from 'lucide-react';
 import { motion } from 'motion/react';
 import { AdSense } from '../components/AdSense';
 import { useLanguage } from '../contexts/LanguageContext';
-import { DirectorySearch } from '../components/DirectorySearch';
 import { SEO } from '../components/SEO';
+
+const DirectorySearch = lazy(() => import('../components/DirectorySearch').then(module => ({ default: module.DirectorySearch })));
 
 const container = {
   hidden: { opacity: 0 },
@@ -93,7 +95,9 @@ export function Home() {
         </p>
         
         <div className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-xl shadow-blue-900/5 text-left border border-slate-200 dark:border-slate-800">
-          <DirectorySearch />
+          <Suspense fallback={<div className="h-14 bg-gray-50 dark:bg-slate-950 rounded-xl animate-pulse w-full"></div>}>
+            <DirectorySearch />
+          </Suspense>
           <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 italic absolute -bottom-8 left-0 right-0 text-center">
             Example: <span className="font-mono">Barclays Bank</span>, <span className="font-mono">Frankfurt</span>, or <span className="font-mono">CHASUS33</span>
           </p>
