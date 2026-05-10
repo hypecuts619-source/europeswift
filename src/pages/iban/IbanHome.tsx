@@ -28,7 +28,7 @@ export function IbanHome() {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title="IBAN Formats & Country Codes Directory | SwiftCodeDir"
+        title="IBAN Directory & Formats | SwiftCodeDir"
         description="Explore the complete registry of IBAN formats, lengths, and structures for all SEPA and international bank account numbering systems."
         canonicalUrl={window.location.href}
       />
