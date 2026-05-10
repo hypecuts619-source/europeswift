@@ -126,7 +126,10 @@ export function BankSwift() {
             <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100 capitalize">{bankNameStr} SWIFT Codes</h1>
           </div>
           <p className="text-lg text-slate-600 dark:text-slate-400 flex items-center gap-2">
-            <MapPin className="w-4 h-4" /> {country.name}
+            <MapPin className="w-4 h-4" /> 
+            <Link to={`/swift/${countrySlug}`} className="hover:underline hover:text-slate-900 dark:hover:text-slate-200">
+              {country.name}
+            </Link>
             {/* Assume all listed banks here can receive intl transfers */}
             <Badge variant="outline" className="ml-2 bg-green-50 text-green-700 border-green-200">SEPA Ready</Badge>
           </p>
@@ -285,7 +288,10 @@ export function BankSwift() {
                 <div>
                   <dt className="text-slate-500 dark:text-slate-400 mb-1">Country</dt>
                   <dd className="font-medium text-slate-900 dark:text-slate-100 flex items-center gap-2">
-                    <span>{country.flag}</span> {country.name}
+                    <span>{country.flag}</span> 
+                    <Link to={`/swift/${countrySlug}`} className="text-[#003399] dark:text-blue-400 hover:underline">
+                      {country.name}
+                    </Link>
                   </dd>
                 </div>
                 <div>
