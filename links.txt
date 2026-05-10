@@ -1,0 +1,138 @@
+src/pages/AboutUs.tsx:import { Link } from 'react-router-dom';
+src/pages/AboutUs.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+src/pages/AboutUs.tsx:            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+src/pages/sort-code/SortCodeHome.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/sort-code/SortCodeHome.tsx:import { Link } from 'react-router-dom';
+src/pages/sort-code/SortCodeHome.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/sort-code/SortCodeHome.tsx:                    <Link to="/blog/uk-sort-code-vs-swift" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">
+src/pages/sort-code/SortCodeHome.tsx:                    </Link>
+src/pages/sort-code/SortCodeHome.tsx:                    <Link to="/iban" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">
+src/pages/sort-code/SortCodeHome.tsx:                    </Link>
+src/pages/iban/IbanHome.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/iban/IbanHome.tsx:import { Link } from 'react-router-dom';
+src/pages/iban/IbanHome.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/iban/IbanHome.tsx:              <Link to="/iban/validator" className="w-full text-center py-3 bg-white dark:bg-blue-600 text-[#003399] dark:text-white rounded-lg font-bold inline-block hover:bg-blue-50 dark:hover:bg-blue-500 transition-all shadow-md active:scale-95">Open Validator</Link>
+src/pages/iban/IbanValidator.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/iban/IbanValidator.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/iban/IbanValidator.tsx:            <BreadcrumbLink href="/iban">IBAN</BreadcrumbLink>
+src/pages/SiteMap.tsx:import { Link } from 'react-router-dom';
+src/pages/SiteMap.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+src/pages/SiteMap.tsx:            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+src/pages/SiteMap.tsx:                  <Link to="/swift" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/iban/validator" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/sort-code" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/blz" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/what-is-a-swift-code" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/what-is-an-iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/swift-vs-iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/SiteMap.tsx:                  <Link to="/sepa-transfer-guide" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+src/pages/SiteMap.tsx:                  </Link>
+src/pages/PrivacyPolicy.tsx:import { Link } from 'react-router-dom';
+src/pages/PrivacyPolicy.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+src/pages/PrivacyPolicy.tsx:            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+src/pages/swift/SwiftHome.tsx:import { Link } from 'react-router-dom';
+src/pages/swift/SwiftHome.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/swift/SwiftHome.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/swift/SwiftHome.tsx:                <Link 
+src/pages/swift/SwiftHome.tsx:                </Link>
+src/pages/swift/SwiftHome.tsx:              <h3 className="font-semibold text-gray-900 dark:text-gray-100 mb-4">Quick Links</h3>
+src/pages/swift/SwiftHome.tsx:                <li><Link to="/what-is-a-swift-code" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">How to read a SWIFT code?</Link></li>
+src/pages/swift/SwiftHome.tsx:                <li><Link to="/sepa-transfer-guide" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">SEPA Transfer Guide</Link></li>
+src/pages/swift/SwiftHome.tsx:                <li><Link to="/swift-vs-iban" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">SWIFT vs IBAN Explained</Link></li>
+src/pages/swift/SwiftHome.tsx:              <Link to="/iban/validator" className="text-sm font-semibold text-white underline decoration-blue-400 underline-offset-4">Open Validator</Link>
+src/pages/swift/CountrySwift.tsx:import { useParams, Link } from 'react-router-dom';
+src/pages/swift/CountrySwift.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/swift/CountrySwift.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/swift/CountrySwift.tsx:            <BreadcrumbLink href="/swift">SWIFT Codes</BreadcrumbLink>
+src/pages/swift/CountrySwift.tsx:              <Link 
+src/pages/swift/CountrySwift.tsx:              </Link>
+src/pages/swift/BranchList.tsx:import { useParams, Link } from 'react-router-dom';
+src/pages/swift/BranchList.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/swift/BranchList.tsx:        <Link to="/swift" className="text-[#003399] hover:underline flex items-center justify-center gap-2">
+src/pages/swift/BranchList.tsx:        </Link>
+src/pages/swift/BranchList.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/swift/BranchList.tsx:            <BreadcrumbLink href="/swift">SWIFT Codes</BreadcrumbLink>
+src/pages/swift/BranchList.tsx:            <BreadcrumbLink href={`/swift/${countrySlug}`}>{country.name}</BreadcrumbLink>
+src/pages/swift/BranchList.tsx:               <Globe className="w-4 h-4 text-blue-500" /> Useful Links
+src/pages/swift/BranchList.tsx:                 <Link to="/iban" className="hover:text-[#003399] transition-colors flex items-center justify-between group">
+src/pages/swift/BranchList.tsx:                 </Link>
+src/pages/swift/BranchList.tsx:                 <Link to="/iban/validator" className="hover:text-[#003399] transition-colors flex items-center justify-between group">
+src/pages/swift/BranchList.tsx:                 </Link>
+src/pages/swift/BankSwift.tsx:import { useParams, Link, useLocation } from 'react-router-dom';
+src/pages/swift/BankSwift.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/swift/BankSwift.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/swift/BankSwift.tsx:            <BreadcrumbLink href="/swift">SWIFT</BreadcrumbLink>
+src/pages/swift/BankSwift.tsx:            <BreadcrumbLink href={`/swift/${countrySlug}`}>{country.name}</BreadcrumbLink>
+src/pages/swift/BankSwift.tsx:            <Link to={`/swift/${countrySlug}`} className="hover:underline hover:text-slate-900 dark:hover:text-slate-200">
+src/pages/swift/BankSwift.tsx:            </Link>
+src/pages/swift/BankSwift.tsx:                    <Link to={`/swift/${countrySlug}`} className="text-[#003399] dark:text-blue-400 hover:underline">
+src/pages/swift/BankSwift.tsx:                    </Link>
+src/pages/swift/BankSwift.tsx:              <Link to="/what-is-an-iban">
+src/pages/swift/BankSwift.tsx:              </Link>
+src/pages/Home.tsx:import { Link } from 'react-router-dom';
+src/pages/Home.tsx:          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+src/pages/Home.tsx:          </Link>
+src/pages/Home.tsx:          <Link to="/iban" className="group h-full bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
+src/pages/Home.tsx:          </Link>
+src/pages/Home.tsx:          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+src/pages/Home.tsx:          </Link>
+src/pages/Home.tsx:          <Link to="/swift" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all 89 countries</Link>
+src/pages/Home.tsx:            <Link 
+src/pages/Home.tsx:            </Link>
+src/pages/TermsAndConditions.tsx:import { Link } from 'react-router-dom';
+src/pages/TermsAndConditions.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+src/pages/TermsAndConditions.tsx:            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+src/pages/blz/BlzHome.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
+src/pages/blz/BlzHome.tsx:            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+src/pages/BlogIndex.tsx:import { Link } from "react-router-dom";
+src/pages/BlogIndex.tsx:              <Link to={`/blog/${post.slug}`} className="block group-hover:text-[#003399] dark:group-hover:text-blue-400">
+src/pages/BlogIndex.tsx:              </Link>
+src/pages/BlogIndex.tsx:              <Link 
+src/pages/BlogIndex.tsx:              </Link>
+src/pages/BlogPostPage.tsx:import { useParams, Navigate, Link } from "react-router-dom";
+src/pages/BlogPostPage.tsx:        <Link 
+src/pages/BlogPostPage.tsx:        </Link>
+src/pages/BlogPostPage.tsx:                    return <Link to={rest.href} {...rest}>{rest.children}</Link>;
+src/pages/BankingStatistics.tsx:import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+src/pages/BankingStatistics.tsx:import { Link } from 'react-router-dom';
+src/pages/BankingStatistics.tsx:import { BarChart3, Globe2, Building, PieChart, Activity, Link2, MapPin } from 'lucide-react';
+src/pages/BankingStatistics.tsx:            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+src/pages/BankingStatistics.tsx:            <Link2 className="w-5 h-5 text-slate-600 dark:text-slate-300" />
+src/components/ui/breadcrumb.tsx:function BreadcrumbLink({
+src/components/ui/breadcrumb.tsx:  BreadcrumbLink,
+src/App.tsx:import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate } from 'react-router-dom';
+src/App.tsx:          <Link to="/" className="flex items-center gap-2 group">
+src/App.tsx:          </Link>
+src/App.tsx:          <Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors flex items-center gap-2">
+src/App.tsx:          </Link>
+src/App.tsx:               <Link to="/swift-checker" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">SWIFT Checker</Link>
+src/App.tsx:               <Link to="/iban/validator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Validator</Link>
+src/App.tsx:               <Link to="/iban/calculator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Calculator</Link>
+src/App.tsx:          <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
+src/App.tsx:          <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
+src/App.tsx:          <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>
+src/App.tsx:        <Link to="/" className="flex items-center gap-2 font-bold text-xl text-[#003399] dark:text-blue-400">
+src/App.tsx:        </Link>
+src/App.tsx:          <Link to="/about-us" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">About Us</Link>
+src/App.tsx:          <Link to="/banking-statistics" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors font-semibold text-[#003399] dark:text-blue-400">Data & Stats</Link>
+src/App.tsx:          <Link to="/blog" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Blog</Link>
+src/App.tsx:          <Link to="/privacy-policy" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Privacy Policy</Link>
+src/App.tsx:          <Link to="/terms-and-conditions" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Terms & Conditions</Link>
+src/App.tsx:          <Link to="/sitemap" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Site Map</Link>

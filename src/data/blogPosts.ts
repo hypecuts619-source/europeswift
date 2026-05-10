@@ -31,7 +31,7 @@ An IBAN (International Bank Account Number) identifies a specific **individual a
 | **Primary Use** | International routing | Exact account matching |
 
 ### Do I Need Both?
-Usually, yes. Especially if you are transferring money to Europe (such as the [United Kingdom](/swift/gb) or [Germany](/swift/de)). The banking system needs the SWIFT code to locate the bank and the IBAN to deposit the funds.
+Usually, yes. Especially if you are transferring money to Europe (such as the [United Kingdom](/swift/united-kingdom) or [Germany](/swift/germany)). The banking system needs the SWIFT code to locate the bank and the IBAN to deposit the funds.
 
 Search our comprehensive [SWIFT code directory](/swift) to find the correct BIC for your next transfer.`
   },
@@ -46,11 +46,11 @@ Search our comprehensive [SWIFT code directory](/swift) to find the correct BIC 
 A routing number is a 9-digit code used primarily for **domestic** transactions within the United States. It was developed by the American Bankers Association (ABA) and is used for ACH transfers, direct deposits, and domestic wires.
 
 ### The SWIFT Code
-A [SWIFT code](/swift) is an international standard used to identify a bank anywhere in the world. If you are sending money *across borders*, this is the code you need. For example, if you are transferring money from Europe to the [United States](/swift/us), the sender will require the US bank's SWIFT code, not just its domestic routing number.
+A [SWIFT code](/swift) is an international standard used to identify a bank anywhere in the world. If you are sending money *across borders*, this is the code you need. For example, if you are transferring money from Europe to the [United States](/swift/united-states), the sender will require the US bank's SWIFT code, not just its domestic routing number.
 
 ### When to Use Which?
 - **Paying a bill within the US:** Use a Routing Number.
-- **Receiving funds from the UK:** Provide your bank's [SWIFT code](/swift/us).
+- **Receiving funds from the UK:** Provide your bank's [SWIFT code](/swift/united-states).
 
 For a secure and successful transfer, always double-check the institutional codes with a [SWIFT checker](/swift-checker). Explore our global database of [banking SWIFT codes](/swift) today.`
   },
@@ -70,7 +70,7 @@ Look under the "Account Details" or "International Payments" sections of your on
 ### 3. Use a Verified SWIFT Code Directory
 The fastest and safest way to find a SWIFT code is by using an updated, global database. Our platform tracks exactly **112,886 unique BICs**. Follow these steps:
 - Head over to our [global directory](/swift).
-- Select the recipient's country (for example, [Canada](/swift/ca) or [Australia](/swift/au)).
+- Select the recipient's country (for example, [Canada](/swift/canada) or [Australia](/swift/australia)).
 - Search for the specific bank and branch.
 
 ### 4. Contact the Bank Directly
@@ -87,7 +87,7 @@ If you are still unsure, contacting the bank's customer support is the final saf
 Typically, a standard SWIFT international transfer takes **1 to 5 business days**.
 
 Why the wide range? It depends on:
-1. **Time Zones and Cut-off Times:** Sending money from [Japan](/swift/jp) to the [United States](/swift/us) involves massive time zone shifts.
+1. **Time Zones and Cut-off Times:** Sending money from [Japan](/swift/japan) to the [United States](/swift/united-states) involves massive time zone shifts.
 2. **Intermediary Banks:** The SWIFT network is a messaging system. If Bank A and Bank B don't have a direct relationship, they rely on 1-3 intermediary banks to bounce the money along. Each stop takes time.
 3. **Fraud Checks and AML (Anti-Money Laundering):** International transfers are subject to strict compliance reviews.
 
@@ -107,7 +107,7 @@ Always verify the exact BIC formatting using our [global directory](/swift) befo
 If the code is purely invalid (e.g., misspelled), the SWIFT network will reject the message before the funds even leave your bank. The transfer will fail, you will likely be charged a standard rejection fee, and the money will be returned to your account within a few days.
 
 ### Scenario 2: The Code Exists, But It's The Wrong Bank
-If the code is valid but points to the wrong bank (e.g., routing to a bank in [France](/swift/fr) instead of [Italy](/swift/it)), the receiving bank will accept the funds but will immediately notice that the attached IBAN or Account Number doesn't exist in their system. 
+If the code is valid but points to the wrong bank (e.g., routing to a bank in [France](/swift/france) instead of [Italy](/swift/italy)), the receiving bank will accept the funds but will immediately notice that the attached IBAN or Account Number doesn't exist in their system. 
 The funds will be placed in a suspense account and eventually returned to the sender. This can result in:
 - Currency conversion losses
 - Multiple intermediary bank fees
@@ -132,8 +132,8 @@ The first 4 characters are always letters. They represent the bank's unique iden
 
 ### 2. Country Code (BB)
 The next 2 characters are letters representing the country in ISO 3166-1 alpha-2 format. For example:
-- **GB** identifies the [United Kingdom](/swift/gb)
-- **AE** identifies the [United Arab Emirates](/swift/ae)
+- **GB** identifies the [United Kingdom](/swift/united-kingdom)
+- **AE** identifies the [United Arab Emirates](/swift/united-arab-emirates)
 
 ### 3. Location Code (CC)
 These 2 characters (letters or numbers) signify the bank's head office location. It differentiates between banks in the same country.
@@ -148,7 +148,7 @@ By understanding this structure, you can quickly verify if a SWIFT code aligns w
     title: "Sort Code vs SWIFT Code: UK Banking Essentials",
     date: "2026-04-10",
     excerpt: "Transferring money to or from the UK? You must know the difference between a Sort Code and a SWIFT code to avoid costly transfer failures.",
-    content: `If you are sending money to the [United Kingdom](/swift/gb), or you are a UK resident setting up local payments, you will encounter two critical banking terms: **Sort Code** and **SWIFT Code**.
+    content: `If you are sending money to the [United Kingdom](/swift/united-kingdom), or you are a UK resident setting up local payments, you will encounter two critical banking terms: **Sort Code** and **SWIFT Code**.
 
 ### What is a Sort Code?
 A Sort Code is a 6-digit number uniquely identifying both the bank and the specific branch within the UK and Ireland. It is formatted as three pairs of numbers (e.g., 12-34-56).
@@ -159,9 +159,9 @@ A [SWIFT Code](/swift) is the 8 or 11-character alphanumeric string that identif
 - **Use Case:** International transfers moving into or out of the UK.
 
 ### The Connection
-Interestingly, the UK's IBAN (International Bank Account Number) actually *contains* the Sort Code, but you still need the SWIFT code for the routing process. If someone in [Germany](/swift/de) sends money to a London account, they must provide the UK bank's SWIFT code and the recipient's IBAN (which you can generate from a sort code and account number using an [IBAN calculator](/iban/calculator)).
+Interestingly, the UK's IBAN (International Bank Account Number) actually *contains* the Sort Code, but you still need the SWIFT code for the routing process. If someone in [Germany](/swift/germany) sends money to a London account, they must provide the UK bank's SWIFT code and the recipient's IBAN (which you can generate from a sort code and account number using an [IBAN calculator](/iban/calculator)).
 
-Are you preparing an international transfer? Make sure to find the exact, updated [UK SWIFT codes](/swift/gb) before proceeding.`
+Are you preparing an international transfer? Make sure to find the exact, updated [UK SWIFT codes](/swift/united-kingdom) before proceeding.`
   },
   {
     slug: "what-is-a-bic-code",
@@ -177,7 +177,7 @@ Are you preparing an international transfer? Make sure to find the exact, update
 In short, **all SWIFT codes are BIC codes**, but technically, non-financial corporations can have BICs that are not connected to the SWIFT messaging network. In day-to-day banking, however, they mean the exact same thing.
 
 ### Why BICs Matter
-Without a standardized BIC, global commerce would grind to a halt. When a business in [Singapore](/swift/sg) pays a vendor in [Switzerland](/swift/ch), the BIC acts as the digital GPS coordinate, ensuring the funds bypass millions of other banks and land exactly where they belong.
+Without a standardized BIC, global commerce would grind to a halt. When a business in [Singapore](/swift/singapore) pays a vendor in [Switzerland](/swift/switzerland), the BIC acts as the digital GPS coordinate, ensuring the funds bypass millions of other banks and land exactly where they belong.
 
 Need a specific BIC? Search our live database containing over [100,000 global BICs](/swift).`
   },
@@ -194,7 +194,7 @@ Here is a breakdown of what you actually pay for when executing a SWIFT wire tra
 Your bank charges a flat fee just to initiate the SWIFT message. This can range from $15 to $50, depending on your bank and account tier.
 
 ### 2. Intermediary (Correspondent) Bank Fees
-If your bank doesn't have a direct relationship with the receiving bank (for example, a small credit union in the [US](/swift/us) sending to a regional bank in [India](/swift/in)), the money passes through 1 to 3 "intermediary" banks. Each of these banks takes a cut, usually $10 - $30.
+If your bank doesn't have a direct relationship with the receiving bank (for example, a small credit union in the [US](/swift/united-states) sending to a regional bank in [India](/swift/india)), the money passes through 1 to 3 "intermediary" banks. Each of these banks takes a cut, usually $10 - $30.
 
 ### 3. The Incoming Fee
 The receiving bank often charges the recipient a fee to process the incoming international wire. 
@@ -228,13 +228,13 @@ Never guess a bank's routing path. You must have the exact:
 *Pro-tip: Don't rely on Google snippets for SWIFT codes. Use a dedicated, verified [banking directory](/swift) to guarantee you are targeting the correct branch.*
 
 ### 2. Understand Your Transfer Limits and Timelines
-Different banks and countries have unique regulatory limits on capital outflows. For instance, sending large sums from countries like [South Africa](/swift/za) or [Brazil](/swift/br) may require additional tax-clearance documentation. Be aware that a standard transfer takes 1-5 business days.
+Different banks and countries have unique regulatory limits on capital outflows. For instance, sending large sums from countries like [South Africa](/swift/south-africa) or [Brazil](/swift/brazil) may require additional tax-clearance documentation. Be aware that a standard transfer takes 1-5 business days.
 
 ### 3. Compare Providers
 Traditional banks aren't always the best choice for small to medium transfers. Neo-banks and money transfer operators (MTOs) often route through local payment networks rather than the SWIFT network, drastically reducing fees.
 
 ### 4. Double-Check the Destination Country Codes
-Ensure the two-letter ISO country code inside the SWIFT code matches your destination. A code with **FR** in the 5th and 6th positions should not be used if you're intending to send money to [Spain](/swift/es) (which uses **ES**).
+Ensure the two-letter ISO country code inside the SWIFT code matches your destination. A code with **FR** in the 5th and 6th positions should not be used if you're intending to send money to [Spain](/swift/spain) (which uses **ES**).
 
 By understanding the underlying mechanisms of the SWIFT network and maintaining strict data accuracy, you can protect your capital gracefully across borders.`
   }

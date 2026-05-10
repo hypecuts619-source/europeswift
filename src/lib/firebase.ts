@@ -1,10 +1,11 @@
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
-import { getFirestore, doc, getDocFromServer } from 'firebase/firestore';
+import { getFirestore, doc, getDocFromServer, setLogLevel } from 'firebase/firestore';
 import firebaseConfig from '../../firebase-applet-config.json';
 
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app, firebaseConfig.firestoreDatabaseId); // CRITICAL: Database ID
+setLogLevel('silent');
 export const auth = getAuth(app);
 
 // Validation check on boot
@@ -12,12 +13,22 @@ export async function testConnection() {
   try {
     await getDocFromServer(doc(db, 'test', 'connection'));
   } catch (error) {
-    if (error instanceof Error && error.message.includes('the client is offline')) {
-      console.error("Please check your Firebase configuration.");
+    if (error instanceof Error) {
+      if (error.message.includes('the client is offline') || error.message.includes('unavailable')) {
+        console.warn("Firebase connection test: Offline mode or backend unavailable. This is normal if there's no internet or proxy blocking.");
+      } else if (error.message.includes('Missing or insufficient permissions')) {
+        // A permissions error indicates we successfully reached the backend.
+        console.log("Firebase connection test successful (received expected permissions error).");
+      } else {
+        console.error("Firebase connection test failed", error);
+      }
     }
   }
 }
-testConnection();
+// We only want to test connection, but avoid noise, so we swallow the top level error if it happens.
+testConnection().catch(e => {
+  console.warn("Silent Firebase init error:", e);
+});
 
 export enum OperationType {
   CREATE = 'create',

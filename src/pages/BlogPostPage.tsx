@@ -65,11 +65,12 @@ export function BlogPostPage() {
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
               components={{
-                a: ({ node, href, children, ...props }) => {
-                  if (href && href.startsWith('/')) {
-                    return <Link to={href} {...props}>{children}</Link>;
+                a: (props) => {
+                  const { node, ...rest } = props;
+                  if (rest.href && rest.href.startsWith('/')) {
+                    return <Link to={rest.href} {...rest}>{rest.children}</Link>;
                   }
-                  return <a href={href} target="_blank" rel="noopener noreferrer" {...props}>{children}</a>;
+                  return <a target="_blank" rel="noopener noreferrer" {...rest}>{rest.children}</a>;
                 }
               }}
             >
