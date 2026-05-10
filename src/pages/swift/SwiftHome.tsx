@@ -35,7 +35,7 @@ export function SwiftHome() {
         "name": "How many SWIFT / BIC codes are recorded in this directory?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The directory currently tracks exactly 112,886 unique BICs across global banking institutions."
+          "text": "The directory currently tracks over 186,000 banking codes across global institutions."
         }
       },
       {
@@ -64,7 +64,7 @@ export function SwiftHome() {
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
         title="SWIFT / BIC Codes Directory | SwiftCodeDir"
-        description="Browse our global directory of 112,886 SWIFT and BIC codes by country to safely perform international bank wire transfers."
+        description="Browse our global directory of over 186,000 SWIFT, BIC, and routing codes by country to safely perform international bank wire transfers."
         canonicalUrl={window.location.href}
       />
       <Helmet>

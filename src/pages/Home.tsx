@@ -43,7 +43,7 @@ export function Home() {
         "name": "How many bank directories are available?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Our directory currently holds 112,886 unique BICs across hundreds of countries, providing one of the most comprehensive free databases for international bank routing."
+          "text": "Our directory currently holds over 186,000 banking codes including BICs, Sort Codes, and BLZs across multiple countries, providing one of the most comprehensive free databases for international bank routing."
         }
       }
     ]
@@ -82,7 +82,7 @@ export function Home() {
         <div className="inline-block px-4 py-1.5 mb-6 bg-blue-50 dark:bg-blue-900/30 rounded-full border border-blue-100 dark:border-blue-800">
           <span className="text-xs font-bold text-[#003399] dark:text-blue-400 uppercase tracking-widest flex items-center gap-2">
             <Globe className="w-3 h-3" />
-            Database of 112,886+ Bank Codes
+            Database of 186,000+ Banking Codes
           </span>
         </div>
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight dark:text-white max-w-4xl mx-auto leading-[1.1]">
@@ -239,7 +239,7 @@ export function Home() {
           <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800">
             <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">How many bank directories are available?</h3>
             <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
-              Our directory currently holds <strong>112,886 unique BICs</strong> across hundreds of countries, providing one of the most comprehensive free databases for international bank routing.
+              Our directory currently holds <strong>over 186,000 banking codes</strong> including BICs, Sort Codes, and BLZs across multiple countries, providing one of the most comprehensive free databases for international bank routing.
             </p>
           </div>
         </div>

@@ -83,8 +83,8 @@ export function BankingStatistics() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-16">
           <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200 dark:border-slate-800 text-center flex flex-col items-center justify-center shadow-sm">
             <Building className="w-8 h-8 text-[#003399] dark:text-blue-400 mb-3" />
-            <div className="text-3xl font-extrabold text-slate-900 dark:text-white mb-1">112,886</div>
-            <div className="text-sm font-medium text-slate-500 dark:text-slate-400 uppercase tracking-wide">Total Active BICs</div>
+            <div className="text-3xl font-extrabold text-slate-900 dark:text-white mb-1">186,000+</div>
+            <div className="text-sm font-medium text-slate-500 dark:text-slate-400 uppercase tracking-wide">Total Routing Codes</div>
           </div>
           <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200 dark:border-slate-800 text-center flex flex-col items-center justify-center shadow-sm">
             <Globe2 className="w-8 h-8 text-emerald-600 dark:text-emerald-400 mb-3" />

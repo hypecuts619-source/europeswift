@@ -24,6 +24,8 @@ import { BlzHome } from './pages/blz/BlzHome';
 import { IbanValidator } from './pages/iban/IbanValidator';
 import { IbanCalculator } from './pages/iban/IbanCalculator';
 import { SwiftChecker } from './pages/tool/SwiftChecker';
+import { BanksAtoZ } from './pages/banks/BanksAtoZ';
+
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
 import { SiteMap } from './pages/SiteMap';
@@ -137,23 +139,57 @@ function Layout() {
         <Outlet />
       </main>
 
-      <footer className="bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 p-8 flex-none text-slate-500 dark:text-slate-400 text-xs text-center max-w-[1200px] mx-auto w-full">
-        <p className="mb-4 max-w-4xl mx-auto leading-relaxed opacity-80">
-          <strong>Disclaimer:</strong> The SWIFT/BIC codes, IBAN formats, Sort Codes, and BLZ records provided on this website are for informational purposes only. While we source our data from official registries (including the ECB SEPA register, Pay.UK, and Bundesbank) and strive to keep it up to date, we cannot guarantee complete accuracy. Always verify bank details directly with your financial institution before initiating any wire transfers or payments to prevent loss of funds. SwiftCodeDir is not affiliated with SWIFT SCRL.
-        </p>
-        <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-[10px] uppercase font-medium tracking-widest mt-4">
-          <span>&copy; {new Date().getFullYear()} Swiftcodedir.com</span>
-          <span className="hidden md:inline">•</span>
-          <Link to="/about-us" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">About Us</Link>
-          <Link to="/banking-statistics" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors font-semibold text-[#003399] dark:text-blue-400">Data & Stats</Link>
-          <Link to="/blog" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Blog</Link>
-          <Link to="/privacy-policy" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Privacy Policy</Link>
-          <Link to="/terms-and-conditions" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Terms & Conditions</Link>
-          <Link to="/sitemap" className="hover:text-slate-800 dark:hover:text-slate-200 transition-colors">Site Map</Link>
-          <span className="flex items-center gap-2 italic ml-0 md:ml-4 text-slate-400 dark:text-slate-500">
-            <span className="w-1.5 h-1.5 rounded-full bg-green-500"></span>
-            Records updated: {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-          </span>
+      <footer className="bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 pt-16 pb-8 flex-none w-full">
+        <div className="max-w-[1200px] mx-auto px-4 md:px-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
+            <div>
+              <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Tools</h4>
+              <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
+                <li><Link to="/swift-checker" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">SWIFT Code Checker</Link></li>
+                <li><Link to="/iban/validator" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">IBAN Validator</Link></li>
+                <li><Link to="/iban/calculator" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">IBAN Calculator</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Directories</h4>
+              <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
+                <li><Link to="/banks" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Banks A-Z Directory</Link></li>
+                <li><Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">SWIFT Codes by Country</Link></li>
+                <li><Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">UK Sort Codes</Link></li>
+                <li><Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">German BLZ Codes</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Resources</h4>
+              <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
+                <li><Link to="/banking-statistics" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Data & Stats</Link></li>
+                <li><Link to="/blog" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Banking Blog</Link></li>
+                <li><Link to="/sitemap" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Site Map</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Company</h4>
+              <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
+                <li><Link to="/about-us" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">About Us</Link></li>
+                <li><Link to="/privacy-policy" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Privacy Policy</Link></li>
+                <li><Link to="/terms-and-conditions" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Terms & Conditions</Link></li>
+              </ul>
+            </div>
+          </div>
+          
+          <div className="border-t border-slate-200 dark:border-slate-800 pt-8 text-center text-xs text-slate-500 dark:text-slate-400">
+            <p className="mb-4 max-w-4xl mx-auto leading-relaxed border border-yellow-200 dark:border-yellow-900/50 bg-yellow-50 dark:bg-yellow-900/10 p-4 rounded-xl text-yellow-900 dark:text-yellow-200">
+              <strong>Disclaimer:</strong> The SWIFT/BIC codes, IBAN formats, Sort Codes, and BLZ records provided on this website are for informational purposes only. While we source our data from official registries and strive to keep it up to date, we cannot guarantee complete accuracy. Always verify bank details directly with your financial institution before initiating any wire transfers or payments to prevent loss of funds. SwiftCodeDir is not affiliated with SWIFT SCRL.
+            </p>
+            <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-[10px] uppercase font-medium tracking-widest mt-6">
+              <span>&copy; {new Date().getFullYear()} Swiftcodedir.com</span>
+              <span className="hidden md:inline">•</span>
+              <span className="flex items-center gap-2 italic text-slate-400 dark:text-slate-500">
+                <span className="w-1.5 h-1.5 rounded-full bg-green-500"></span>
+                Records updated: {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+              </span>
+            </div>
+          </div>
         </div>
       </footer>
     </div>
@@ -192,6 +228,8 @@ export default function App() {
               <Route path="blz">
                 <Route index element={<BlzHome />} />
               </Route>
+
+              <Route path="banks" element={<BanksAtoZ />} />
 
               {/* Guide pages placeholders */}
               <Route path="sitemap" element={<SiteMap />} />

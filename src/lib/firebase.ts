@@ -10,6 +10,7 @@ export const auth = getAuth(app);
 
 // Validation check on boot
 export async function testConnection() {
+  if (typeof window === 'undefined') return;
   try {
     await getDocFromServer(doc(db, 'test', 'connection'));
   } catch (error) {
@@ -26,9 +27,11 @@ export async function testConnection() {
   }
 }
 // We only want to test connection, but avoid noise, so we swallow the top level error if it happens.
-testConnection().catch(e => {
-  console.warn("Silent Firebase init error:", e);
-});
+if (typeof window !== 'undefined') {
+  testConnection().catch(e => {
+    console.warn("Silent Firebase init error:", e);
+  });
+}
 
 export enum OperationType {
   CREATE = 'create',
