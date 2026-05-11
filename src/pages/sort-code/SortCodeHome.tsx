@@ -1,3 +1,4 @@
+import { useNavigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
@@ -5,9 +6,10 @@ import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { AdSense } from '../../components/AdSense';
-import { Link } from 'react-router-dom';
+import { SORT_CODES } from '../../data/sortCodes';
 
 export function SortCodeHome() {
+  const navigate = useNavigate();
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
@@ -19,7 +21,7 @@ export function SortCodeHome() {
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
-            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
@@ -52,11 +54,15 @@ export function SortCodeHome() {
           
           <h2 className="text-2xl font-bold mb-6 font-serif dark:text-slate-100">Popular UK Banks</h2>
           <div className="grid sm:grid-cols-2 gap-4">
-            {['Barclays Bank UK PLC', 'HSBC UK Bank plc', 'Lloyds Bank plc', 'National Westminster Bank plc (NatWest)', 'Santander UK plc'].map(bank => (
-              <div key={bank} className="border border-slate-200 dark:border-slate-800 rounded-xl p-4 hover:border-slate-300 dark:hover:border-slate-700 cursor-pointer transition-colors bg-white dark:bg-slate-900">
-                <h3 className="font-semibold text-slate-800 dark:text-slate-100 mb-1">{bank}</h3>
+            {SORT_CODES.slice(0, 8).map((bank, index) => (
+              <Link 
+                key={`${bank.code}-${index}`} 
+                to={`/sort-code/${bank.code}`}
+                className="border border-slate-200 dark:border-slate-800 rounded-xl p-4 hover:border-slate-300 dark:hover:border-slate-700 cursor-pointer transition-colors bg-white dark:bg-slate-900 block"
+              >
+                <h3 className="font-semibold text-slate-800 dark:text-slate-100 mb-1">{bank.name}</h3>
                 <p className="text-sm text-slate-500 dark:text-slate-400">View Sort Codes &rarr;</p>
-              </div>
+              </Link>
             ))}
           </div>
         </div>

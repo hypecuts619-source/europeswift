@@ -7,6 +7,7 @@ interface SEOProps {
   canonicalUrl?: string;
   ogType?: 'website' | 'article';
   ogImage?: string;
+  jsonLd?: object | object[];
 }
 
 export function SEO({
@@ -19,7 +20,8 @@ export function SEO({
   ],
   canonicalUrl = "https://swiftcodedir.com",
   ogType = "website",
-  ogImage = "https://swiftcodedir.com/og-image.jpg"
+  ogImage = "https://swiftcodedir.com/og-image.jpg",
+  jsonLd
 }: SEOProps) {
   return (
     <Helmet>
@@ -44,6 +46,13 @@ export function SEO({
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={ogImage} />
+      
+      {/* JSON-LD Structured Data */}
+      {jsonLd && (
+        <script type="application/ld+json">
+          {JSON.stringify(jsonLd)}
+        </script>
+      )}
     </Helmet>
   );
 }

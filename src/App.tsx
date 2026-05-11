@@ -1,7 +1,7 @@
 import { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
-import { Landmark, Search, Map, CreditCard, Menu, Globe } from 'lucide-react';
+import { Landmark, Search, Map, CreditCard, Menu, Globe, Zap } from 'lucide-react';
 import { Button, buttonVariants } from './components/ui/button';
 import { cn } from './lib/utils';
 import {
@@ -23,7 +23,13 @@ const BranchList = lazy(() => import('./pages/swift/BranchList').then(module => 
 const BankSwift = lazy(() => import('./pages/swift/BankSwift').then(module => ({ default: module.BankSwift })));
 const IbanHome = lazy(() => import('./pages/iban/IbanHome').then(module => ({ default: module.IbanHome })));
 const SortCodeHome = lazy(() => import('./pages/sort-code/SortCodeHome').then(module => ({ default: module.SortCodeHome })));
+const SortCodeDetails = lazy(() => import('./pages/sort-code/SortCodeDetails').then(module => ({ default: module.SortCodeDetails })));
 const BlzHome = lazy(() => import('./pages/blz/BlzHome').then(module => ({ default: module.BlzHome })));
+const BlzDetails = lazy(() => import('./pages/blz/BlzDetails').then(module => ({ default: module.BlzDetails })));
+const RoutingHome = lazy(() => import('./pages/routing/RoutingHome').then(module => ({ default: module.RoutingHome })));
+const RoutingDetails = lazy(() => import('./pages/routing/RoutingDetails').then(module => ({ default: module.RoutingDetails })));
+const RegulatoryHub = lazy(() => import('./pages/guides/RegulatoryHub').then(module => ({ default: module.RegulatoryHub })));
+const EUDIReadiness = lazy(() => import('./pages/tool/EUDIReadiness').then(module => ({ default: module.EUDIReadiness })));
 const IbanValidator = lazy(() => import('./pages/iban/IbanValidator').then(module => ({ default: module.IbanValidator })));
 const IbanCalculator = lazy(() => import('./pages/iban/IbanCalculator').then(module => ({ default: module.IbanCalculator })));
 const SwiftChecker = lazy(() => import('./pages/tool/SwiftChecker').then(module => ({ default: module.SwiftChecker })));
@@ -66,7 +72,7 @@ function Layout() {
           </Link>
         </div>
 
-        <div className="flex justify-center w-full">
+        <div className="flex justify-center flex-col items-center">
           <Suspense fallback={<div className="h-9 w-64 bg-slate-100 dark:bg-slate-900 rounded-md animate-pulse"></div>}>
             <GlobalSearch />
           </Suspense>
@@ -137,6 +143,15 @@ function Layout() {
               <DropdownMenuItem onClick={() => navigate('/blz')} className="cursor-pointer">
                 {t('nav.blz')}
               </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/routing-number')} className="cursor-pointer">
+                US Routing Numbers
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/regulatory-hub')} className="cursor-pointer font-bold text-blue-600">
+                2026 Regulatory Hub
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/eudi-readiness')} className="cursor-pointer font-bold text-emerald-600">
+                EUDI Readiness Checker
+              </DropdownMenuItem>
               <DropdownMenuItem onClick={() => navigate('/blog')} className="cursor-pointer">
                 Blog
               </DropdownMenuItem>
@@ -167,6 +182,9 @@ function Layout() {
                 <li><Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">SWIFT Codes by Country</Link></li>
                 <li><Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">UK Sort Codes</Link></li>
                 <li><Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">German BLZ Codes</Link></li>
+                <li><Link to="/routing-number" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">US Routing Numbers</Link></li>
+                <li><Link to="/regulatory-hub" className="text-blue-600 dark:text-blue-400 font-bold hover:underline">2026 Regulatory Hub</Link></li>
+                <li><Link to="/eudi-readiness" className="text-emerald-600 dark:text-emerald-400 font-bold hover:underline">EUDI Readiness Checker</Link></li>
               </ul>
             </div>
             <div>
@@ -234,11 +252,21 @@ export default function App() {
 
                 <Route path="sort-code">
                   <Route index element={<SortCodeHome />} />
+                  <Route path=":sortCode" element={<SortCodeDetails />} />
                 </Route>
 
                 <Route path="blz">
                   <Route index element={<BlzHome />} />
+                  <Route path=":blzCode" element={<BlzDetails />} />
                 </Route>
+
+                <Route path="routing-number">
+                  <Route index element={<RoutingHome />} />
+                  <Route path=":routingNumber" element={<RoutingDetails />} />
+                </Route>
+
+                <Route path="regulatory-hub" element={<RegulatoryHub />} />
+                <Route path="eudi-readiness" element={<EUDIReadiness />} />
 
                 <Route path="banks" element={<BanksAtoZ />} />
 

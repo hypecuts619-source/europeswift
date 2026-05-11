@@ -6,6 +6,11 @@ export interface BlogPost {
   date: string; // ISO format or localized string
   excerpt: string;
   content: string; // Markdown
+  executiveSummary?: {
+    engineers: string;
+    compliance: string;
+    actionRequired: string;
+  };
 }
 
 export const blogPosts: BlogPost[] = [
@@ -237,5 +242,101 @@ Traditional banks aren't always the best choice for small to medium transfers. N
 Ensure the two-letter ISO country code inside the [SWIFT code](/swift) matches your destination. A code with **FR** in the 5th and 6th positions should not be used if you're intending to send money to [Spain](/swift/spain) (which uses **ES**).
 
 By understanding the underlying mechanisms of the SWIFT network and maintaining strict data accuracy, you can protect your capital gracefully across borders.`
+  },
+  {
+    slug: "psd3-psr-compromise-2026-analysis",
+    title: "PSD3 & PSR Final Analysis: What the April 2026 Texts Mean for Banks",
+    date: "2026-05-11",
+    excerpt: "The EU has finalized the PSD3 and PSR texts as of April 23, 2026. Discover the mandatory changes for Verification of Payee (VoP) and fraud liability.",
+    executiveSummary: {
+      engineers: "Technical teams must implement real-time Name-to-IBAN matching endpoints to support mandatory Verification of Payee (VoP). Integration with the EUDI Wallet for Strong Customer Authentication (SCA) is now a critical architectural requirement for Q3 2026.",
+      compliance: "The Shift in liability for APP fraud means banks must prove robust VoP checks to avoid financial responsibility for customer losses. April 2026 texts confirm a 21-month implementation window for all SEPA-connected institutions.",
+      actionRequired: "Audit current internal Name-Matching latency; VoP requires sub-500ms response times for frictionless clearing."
+    },
+    content: `On April 23, 2026, the European Union published the final compromise texts for the **Payment Services Directive 3 (PSD3)** and the **Payment Services Regulation (PSR)**. This marks a paradigm shift in European banking law, moving from the fragmented implementation of PSD2 to a more harmonized, secure, and user-centric framework.
+
+### 1. Mandatory Verification of Payee (VoP)
+The most significant operational change is the mandatory requirement for all PSPs (Payment Service Providers) to offer **Verification of Payee** for all SEPA credit transfers. Banks must now verify that the name of the recipient matches the IBAN provided *before* the transaction is authorized. 
+
+### 2. Expanded Liability for APP Fraud
+Under the new PSR, liability for 'Authorized Push Payment' (APP) fraud is shifting. If a bank fails to correctly flag a mismatch during the VoP process, they may be held liable for the customer's losses. This is prompting a massive surge in AI-driven transaction monitoring across the EU.
+
+### 3. The 21-Month Implementation Clock
+With the publication of these final texts, financial institutions now have a strict 21-month window to achieve full technical compliance. For firms using legacy [SWIFT/BIC routing](/swift), this means upgrading internal messaging middleware to support the next generation of real-time metadata.
+
+Stay updated with our [2026 Regulatory Hub](/regulatory-hub) for deeper dives into regional implementation.`
+  },
+  {
+    slug: "november-2026-structured-address-mandate",
+    title: "The November 2026 Structured Address Mandate: Are You Ready?",
+    date: "2026-05-10",
+    excerpt: "SWIFT and the ECB are enforcing mandatory structured addresses starting November 2026. Learn why your payment instructions might soon be rejected.",
+    executiveSummary: {
+      engineers: "Message templates must be updated from free-text 'Line 1-4' to full XML tags like <StrtNm> and <BldgNb> within the pacs.008 and pacs.009 schemas. Any non-compliant messages will trigger immediate STP (Straight-Through Processing) failures in the Target2 and CHIPS networks.",
+      compliance: "Structured addresses are now mandatory for AML screening to reduce the 35% false-positive rate currently caused by unstructured data. Data remediation for legacy corporate client profiles must be prioritized before the Q4 2026 hard-cutoff.",
+      actionRequired: "Map all existing customer 'Address Line' database fields to ISO 20022 atomic elements by September 2026."
+    },
+    content: `The move to **ISO 20022** is entering its most critical phase. Starting in **November 2026**, the "Coexistence Period" effectively ends for postal address data. SWIFT and major central banks (including the ECB and Federal Reserve) will mandate **Structured Postal Addresses**.
+
+### What is a Structured Address?
+Currently, many [SWIFT messages](/swift) use "Unstructured" addresses—essentially three or four lines of free-form text. A structured address breaks this data down into specific XML tags:
+- <StrtNm> (Street Name)
+- <BldgNb> (Building Number)
+- <PstCd> (Post Code)
+- <TwnNm> (Town Name)
+
+### Why the Mandate?
+Unstructured data is the primary cause of "False Positives" in AML (Anti-Money Laundering) screening. By forcing structured data, regulators and banks can automate compliance checks with near-zero error rates.
+
+### The Risk of Rejection
+From November 2026, payments using legacy unstructured "Line 1, Line 2" formats will be strictly rejected by the [Target2](/guides/target2) and CHIPS clearing systems. Corporate treasurers must update their ERP systems and master data records now.
+
+Verify your bank's current ISO 20022 status in our [Regulatory Hub](/regulatory-hub).`
+  },
+  {
+    slug: "nordic-payments-2026-post-p27",
+    title: "Nordic Payments 2026: Navigating the Post-P27 Landscape",
+    date: "2026-05-09",
+    excerpt: "Following the withdrawal of the P27 project, Nordic banks are modernizing independently. Here is the 2026 roadmap for Sweden, Finland, and Norway.",
+    executiveSummary: {
+      engineers: "Developers must pivot from the cancelled P27 APIs to independent ISO 20022 XML gateways for Swedish and Finnish domestic clearing. Direct integration with Eurosystem's T2/T2S platform is now the primary architectural path for Nordic cross-border settlement.",
+      compliance: "Finansinspektionen (Sweden) and FIN-FSA (Finland) have issued strict independent modernization mandates following the P27 collapse. December 2026 is the final deadline for the decommissioning of legacy Dataclearingen infrastructure.",
+      actionRequired: "Verify SEPA-Proxy arrangements for NOK and SEK liquidity pools to prevent clearing isolation post-Bankgirot phase-out."
+    },
+    content: `The dream of a unified Nordic clearing hub (P27) ended in 2024, but the pressure to modernize hasn't faded. As of May 2026, the Nordic banking sector is a hive of independent, high-speed modernization efforts.
+
+### Sweden: The Bankgirot Phase-Out
+Sweden's legacy "Dataclearingen" is being phased out through mid-2026. Major banks like [SEB](/banks/sweden) and Swedbank are migrating their corporate customers to new, ISO 20022-native clearing rails. The December 2026 deadline for full decommissioning is now the primary focus for Swedish financial architects.
+
+### Finland: The Eurosystem Gateway
+Finland has successfully leveraged its position within the Eurozone to act as a bridge. [Nordea](/banks/finland) and other Finnish leaders are utilizing the Eurosystem's consolidated T2/T2S platform for near-instant settlement across the Nordic-Baltic corridor.
+
+### Cross-Border Challenges
+Without a unified P27 hub, cross-currency transfers between SEK, DKK, and NOK remain more complex than initially envisioned. Banks are increasingly relying on "SEPA-Proxy" arrangements to maintain interoperability with the wider EU [Instant Payments Regulation](/guides/psd3).
+
+Search our [Nordic SWIFT Directory](/swift/sweden) for the latest verified BIC routing nodes.`
+  },
+  {
+    slug: "ubs-credit-suisse-swift-migration-final-phase",
+    title: "UBS & Credit Suisse: The Final SWIFT Migration Phase (May 2026)",
+    date: "2026-05-08",
+    excerpt: "UBS is decommissioning legacy Credit Suisse tech applications by year-end 2026. Important update for BIC routing and international portfolios.",
+    executiveSummary: {
+      engineers: "System architects must decommission all 'CRESU' routing logic and replace it with unified 'UBSW' SWIFTNet Phase 3 endpoints. Portfolio migration requires the mapping of all legacy Credit Suisse sub-accounts to native UBS AG G-SIB (Global Systemically Important Bank) platforms.",
+      compliance: "The final phase of the technical merger involves the legal sunset of Credit Suisse's separate BIC identities for international trade finance. FINMA (Switzerland) mandates full compliance with Swiss FR001 privacy standards during the migration of final London-branch portfolios.",
+      actionRequired: "Update all static payment instructions (SSIs) to unified UBSW Zurich/London BICs by October 2026 to ensure year-end reconciliation success."
+    },
+    content: `In May 2026, UBS AG issued its latest technical progress report, confirming that the decommissioning of legacy Credit Suisse infrastructure (NCL) is on track for completion by December 31, 2026.
+
+### Unified BIC Routing
+The institution code **UBSW** is now the primary identifier for the integrated global group. While some legacy Credit Suisse BICs remain intermittently active for "Read-Only" historical reconciliations, all active treasury and trade finance traffic is being rerouted to unified [UBS Zurich](/banks/switzerland) and London nodes.
+
+### London & New York Branch Shifts
+The most significant activity in Q2 2026 involves the migration of large institutional portfolios from legacy CS London branch books to the core UBS AG London platform. Asset managers must update their settlement instructions to reflect the **UBSW** prefix immediately to avoid "Orphaned Transactions" in the year-end 2026 reconciliation cycle.
+
+### Swiss FR001 Standards
+UBS is leading the adoption of the new Swiss FR001 messaging standards, which integrate higher levels of PII (Personally Identifiable Information) security into the [SWIFTNet Phase 3 gateway](/regulatory-hub).
+
+Find verified [UBS SWIFT Codes](/banks/switzerland) in our global directory.`
   }
 ];

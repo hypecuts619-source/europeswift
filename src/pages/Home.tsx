@@ -2,11 +2,12 @@ import * as React from 'react';
 import { lazy, Suspense } from 'react';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight } from 'lucide-react';
+import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight, Landmark, Zap } from 'lucide-react';
 import { motion } from 'motion/react';
 import { AdSense } from '../components/AdSense';
 import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
+import { Badge } from '../components/ui/badge';
 
 const DirectorySearch = lazy(() => import('../components/DirectorySearch').then(module => ({ default: module.DirectorySearch })));
 
@@ -69,6 +70,18 @@ export function Home() {
         description={t('home.subtitle')}
         canonicalUrl={window.location.origin}
       />
+
+      {/* Mandatory Infrastructure Deadline Countdown */}
+      <motion.div 
+        initial={{ opacity: 0, y: -10 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="mb-8 p-3 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-2xl flex items-center justify-center gap-3 text-center"
+      >
+        <Zap className="w-4 h-4 text-amber-600 dark:text-amber-400 animate-pulse" />
+        <span className="text-xs font-black text-amber-900 dark:text-amber-200 uppercase tracking-widest">
+          186 Days to Mandatory ISO 20022 Structured Addresses (Nov 14, 2026)
+        </span>
+      </motion.div>
       <Helmet>
         <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
@@ -167,6 +180,38 @@ export function Home() {
             </div>
           </Link>
         </motion.div>
+
+        {/* German BLZ Service */}
+        <motion.div variants={item}>
+          <Link to="/blz" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+             <div className="w-14 h-14 bg-blue-50/50 dark:bg-blue-900/20 rounded-2xl flex items-center justify-center mb-6 text-blue-600 dark:text-blue-500">
+              <Landmark className="w-7 h-7" />
+            </div>
+            <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">German BLZ</h2>
+            <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+              Access the official German Bankleitzahl (BLZ) directory for all regional and national banks in Germany.
+            </p>
+            <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+              Explore BLZ <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Link>
+        </motion.div>
+
+        {/* US Routing Numbers Service */}
+        <motion.div variants={item}>
+          <Link to="/routing-number" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+             <div className="w-14 h-14 bg-green-50 dark:bg-green-950/30 rounded-2xl flex items-center justify-center mb-6 text-green-600 dark:text-green-500">
+              <Search className="w-7 h-7" />
+            </div>
+            <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">US Top Banks</h2>
+            <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+              Verify ABA Routing Transit Numbers (RTN) for the largest American banks and financial institutions.
+            </p>
+            <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+              View US Banks <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Link>
+        </motion.div>
       </motion.div>
 
       {/* SWIFT Anatomy Section */}
@@ -204,16 +249,87 @@ export function Home() {
         </div>
       </motion.section>
 
+      {/* Regulatory Hub Promo */}
+      <motion.div variants={item} className="mb-20">
+        <Link to="/regulatory-hub" className="group block relative rounded-3xl overflow-hidden bg-slate-950 p-8 md:p-12 border border-white/10 shadow-2xl">
+          <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-600/20 to-transparent pointer-events-none" />
+          <div className="relative z-10 grid md:grid-cols-[1fr_auto] gap-8 items-center">
+            <div>
+              <Badge className="mb-4 bg-blue-600 hover:bg-blue-600 text-white border-none py-1 px-3 text-[10px] uppercase font-bold tracking-widest">
+                Intelligence Update 2026
+              </Badge>
+              <h2 className="text-3xl md:text-5xl font-bold text-white mb-4 font-serif tracking-tight">
+                Banking Intelligence & Regulatory Hub
+              </h2>
+              <p className="text-slate-400 max-w-xl text-lg leading-relaxed mb-8">
+                Expert analysis of PSD3, the Nordic P27 phase-out, and global SWIFT migration standards. 
+                Stay ahead of the November 2026 Structured Address mandate.
+              </p>
+              <div className="inline-flex items-center gap-2 text-blue-400 font-bold group-hover:text-blue-300 transition-colors text-lg">
+                 Explore Intelligence <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+            <div className="hidden md:flex flex-col items-end gap-3 text-right">
+               <div className="text-[10px] font-bold text-slate-500 uppercase tracking-[0.2em]">Verified Hubs</div>
+               <div className="flex -space-x-3">
+                 <div className="w-12 h-12 rounded-full border-2 border-slate-950 bg-blue-100 flex items-center justify-center text-blue-600 font-bold text-sm shadow-xl">EU</div>
+                 <div className="w-12 h-12 rounded-full border-2 border-slate-950 bg-purple-100 flex items-center justify-center text-purple-600 font-bold text-sm shadow-xl">CH</div>
+                 <div className="w-12 h-12 rounded-full border-2 border-slate-950 bg-emerald-100 flex items-center justify-center text-emerald-600 font-bold text-sm shadow-xl">NO</div>
+               </div>
+               <div className="mt-4 p-3 bg-white/5 rounded-lg border border-white/10 text-left">
+                  <div className="text-[9px] font-bold text-emerald-400 uppercase mb-1 flex items-center gap-1">
+                    <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" /> Live Feed
+                  </div>
+                  <div className="text-[10px] text-slate-400 font-mono">PSD3 Compromise Published</div>
+               </div>
+            </div>
+          </div>
+        </Link>
+
+        <div className="grid md:grid-cols-2 gap-6 mt-8">
+           <Link to="/eudi-readiness" className="group p-6 rounded-2xl bg-gradient-to-br from-emerald-500/10 to-transparent border border-emerald-500/20 hover:border-emerald-500/40 transition-all">
+              <div className="flex items-center gap-3 mb-4">
+                 <div className="p-2 rounded-lg bg-emerald-500 text-white">
+                    <ShieldCheck className="w-5 h-5" />
+                 </div>
+                 <h3 className="font-bold text-lg dark:text-white">EUDI Readiness Checker</h3>
+              </div>
+              <p className="text-sm text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                 Is your bank ready for the 2026 Structured Address mandate? Check compliance status for specific BICs.
+              </p>
+              <div className="flex items-center gap-1 text-emerald-600 dark:text-emerald-400 font-bold text-sm">
+                Analyze Bank <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+           </Link>
+
+           <Link to="/swift" className="group p-6 rounded-2xl bg-gradient-to-br from-blue-500/10 to-transparent border border-blue-500/20 hover:border-blue-500/40 transition-all">
+              <div className="flex items-center gap-3 mb-4">
+                 <div className="p-2 rounded-lg bg-blue-500 text-white">
+                    <Search className="w-5 h-5" />
+                 </div>
+                 <h3 className="font-bold text-lg dark:text-white">Live BIC Directory</h3>
+              </div>
+              <p className="text-sm text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                 Access 186,000+ verified SWIFT/BIC codes for Q2 2026. Data covers 17,000 financial institutions.
+              </p>
+              <div className="flex items-center gap-1 text-blue-600 dark:text-blue-400 font-bold text-sm">
+                Browse Directory <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+           </Link>
+        </div>
+      </motion.div>
+
       {/* Popular Countries Grid */}
       <section className="mb-16">
         <div className="flex justify-between items-center mb-8 px-2">
           <h2 className="text-2xl font-bold dark:text-white">Popular Countries</h2>
           <Link to="/swift" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all 89 countries</Link>
         </div>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {[
             { name: 'United Kingdom', flag: '🇬🇧', count: '22,401', slug: 'united-kingdom' },
             { name: 'Germany', flag: '🇩🇪', count: '16,842', slug: 'germany' },
+            { name: 'USA', flag: '🇺🇸', count: '18,500', slug: 'united-states' },
             { name: 'France', flag: '🇫🇷', count: '14,209', slug: 'france' },
             { name: 'Italy', flag: '🇮🇹', count: '9,112', slug: 'italy' },
           ].map((c) => (

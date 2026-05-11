@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useNavigate, Link } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
@@ -6,21 +7,10 @@ import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
-
-const GERMAN_BANKS = [
-  { name: 'Deutsche Bank AG', blz: '10020000', city: 'Berlin' },
-  { name: 'Commerzbank AG', blz: '10040000', city: 'Frankfurt am Main' },
-  { name: 'KfW Bankengruppe', blz: '50080000', city: 'Frankfurt am Main' },
-  { name: 'DZ Bank AG', blz: '10060000', city: 'Berlin' },
-  { name: 'Landesbank Baden-Württemberg', blz: '60050101', city: 'Stuttgart' },
-  { name: 'Sparkasse Berlin', blz: '10050000', city: 'Berlin' },
-  { name: 'Postbank (Bonn)', blz: '37010050', city: 'Bonn' },
-  { name: 'HypoVereinsbank (UniCredit Bank AG)', blz: '70020270', city: 'München' },
-  { name: 'ING-DiBa AG', blz: '50010517', city: 'Frankfurt am Main' },
-  { name: 'DKB (Deutsche Kreditbank)', blz: '12030000', city: 'Berlin' },
-];
+import { GERMAN_BANKS } from '../../data/germanBanks';
 
 export function BlzHome() {
+  const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredBanks, setFilteredBanks] = useState(GERMAN_BANKS);
   const [hasSearched, setHasSearched] = useState(false);
@@ -51,7 +41,7 @@ export function BlzHome() {
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>
-            <BreadcrumbLink href="/">Home</BreadcrumbLink>
+            <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
@@ -93,8 +83,12 @@ export function BlzHome() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {filteredBanks.length > 0 ? (
-              filteredBanks.map(bank => (
-                <div key={bank.blz} className="border border-slate-200 dark:border-slate-800 rounded-xl p-4 hover:border-slate-300 dark:hover:border-slate-700 cursor-pointer transition-colors bg-white dark:bg-slate-900">
+              filteredBanks.map((bank, index) => (
+                <Link 
+                  key={`${bank.blz}-${index}`} 
+                  to={`/blz/${bank.blz}`}
+                  className="border border-slate-200 dark:border-slate-800 rounded-xl p-4 hover:border-slate-300 dark:hover:border-slate-700 cursor-pointer transition-colors bg-white dark:bg-slate-900 block"
+                >
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="font-semibold text-slate-800 dark:text-slate-100">{bank.name}</h3>
                     <span className="text-xs font-mono bg-slate-100 dark:bg-slate-800 px-2 py-0.5 rounded text-slate-600 dark:text-slate-400">
@@ -103,7 +97,7 @@ export function BlzHome() {
                   </div>
                   <p className="text-sm text-slate-500 dark:text-slate-400 mb-2">{bank.city}</p>
                   <p className="text-sm text-blue-600 dark:text-blue-400 font-medium tracking-tight">View Details &rarr;</p>
-                </div>
+                </Link>
               ))
             ) : (
               <div className="col-span-full py-12 text-center border-2 border-dashed border-slate-200 dark:border-slate-800 rounded-2xl">

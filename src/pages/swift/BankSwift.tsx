@@ -1,9 +1,9 @@
 import { useParams, Link, useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown } from 'lucide-react';
+import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, Zap, AlertTriangle, Activity, ShieldCheck, Info, Landmark } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
-import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { Button } from '../../components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../components/ui/table';
@@ -11,6 +11,10 @@ import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 import { getSwiftCodesByBank, SwiftCodeDoc } from '../../lib/firebaseQueries';
+import { AUTHORITY_ENGINE_DATA } from '../../data/authorityEngine';
+import { AuthorityProfile } from '../../components/AuthorityProfile';
+import { bankRegulatoryIntelligence } from '../../data/bankRegulatoryIntelligence';
+import { motion } from 'motion/react';
 
 export function BankSwift() {
   const { countrySlug, bankSlug } = useParams<{ countrySlug: string; bankSlug: string }>();
@@ -50,6 +54,10 @@ export function BankSwift() {
   const countryCode = primaryBic.substring(4, 6);
   const locationCode = primaryBic.length >= 8 ? primaryBic.substring(6, 8) : 'XX';
   const headOfficeBranch = primaryBic.length === 11 ? primaryBic.substring(8, 11) : 'XXX';
+
+  // Authority Data & Financial Intelligence Lookup
+  const authorityData = AUTHORITY_ENGINE_DATA[bankCode];
+  const intelligence = bankRegulatoryIntelligence[bankCode];
 
   const shareText = `Bank Name: ${bankNameStr}\nCountry: ${country.name}\nPrimary SWIFT/BIC Code: ${primaryBic}\n\nFind more details at: ${window.location.href}`;
 
@@ -116,7 +124,38 @@ export function BankSwift() {
     });
   };
 
-  const jsonLd = {
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://swiftcodedir.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "SWIFT Directory",
+        "item": "https://swiftcodedir.com/swift"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": country.name,
+        "item": `https://swiftcodedir.com/swift/${country.slug}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": bankNameStr,
+        "item": window.location.href
+      }
+    ]
+  };
+
+  const bankSchema = {
     "@context": "https://schema.org",
     "@type": "BankOrCreditUnion",
     "name": bankNameStr,
@@ -126,23 +165,28 @@ export function BankSwift() {
     },
     "identifier": {
       "@type": "PropertyValue",
-      "propertyID": "SWIFT Code",
+      "name": "SWIFT/BIC Code",
       "value": primaryBic
-    }
+    },
+    "verificationMethod": "Verification of Payee (VoP) compliant",
+    ...(authorityData && {
+      "description": authorityData.bank_role,
+      "knowsAbout": "ISO 20022 Modernization, PSD3, SEPA",
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": bankNameStr
+      }
+    })
   };
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title={`${bankNameStr} SWIFT / BIC Codes in ${country.name} | SwiftCodeDir`}
-        description={`Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`}
+        title={authorityData ? `${bankNameStr} SWIFT Code & Institutional Intelligence (2026)` : `${bankNameStr} SWIFT / BIC Codes in ${country.name} | SwiftCodeDir`}
+        description={authorityData ? `Verified Q2 2026 data for ${bankNameStr}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` : `Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`}
         canonicalUrl={window.location.href}
+        jsonLd={[bankSchema, breadcrumbSchema]}
       />
-      <Helmet>
-        <script type="application/ld+json">
-          {JSON.stringify(jsonLd)}
-        </script>
-      </Helmet>
 
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
@@ -163,6 +207,26 @@ export function BankSwift() {
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
+
+      {/* ISO 20022 Mandatory Deadline Alert */}
+      <motion.div 
+        initial={{ opacity: 0, y: -10 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="mb-8 p-4 bg-amber-50 border border-amber-200 rounded-xl flex items-start gap-4"
+      >
+        <div className="w-10 h-10 rounded-full bg-amber-100 flex items-center justify-center flex-shrink-0">
+          <AlertTriangle className="w-5 h-5 text-amber-600" />
+        </div>
+        <div>
+          <h3 className="text-sm font-bold text-amber-900 uppercase tracking-wider mb-1">
+            Mandatory Infrastructure Deadline: Nov 14, 2026
+          </h3>
+          <p className="text-sm text-amber-800 leading-relaxed font-medium">
+            This institution requires **Option F (Structured Town/Country)** for all SWIFT messages after Nov 14, 2026. 
+            Payment instructions using unstructured legacy address lines will be rejected by clearing houses.
+          </p>
+        </div>
+      </motion.div>
       
       <div className="flex items-start justify-between mb-10">
         <div>
@@ -276,6 +340,132 @@ export function BankSwift() {
             </CardContent>
           </Card>
 
+          {intelligence && (
+            <div className="grid md:grid-cols-2 gap-6 mb-12">
+              <Card className="bg-slate-900 text-white border-0 overflow-hidden relative">
+                <CardHeader className="pb-2">
+                  <Badge className="w-fit bg-emerald-500 hover:bg-emerald-600 mb-2">Authority Dataset</Badge>
+                  <CardTitle className="text-xl">May 2026 Intelligence Snapshot</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <div className="p-3 bg-white/5 rounded-lg border border-white/10">
+                    <p className="text-xs text-slate-400 uppercase font-bold tracking-widest mb-1 flex items-center gap-2">
+                      <Zap className="w-3 h-3 text-emerald-400" /> PSD3 & PSR Verdict
+                    </p>
+                    <p className="text-[13px] leading-relaxed italic">
+                      {intelligence.psd3_psr_verdict}
+                    </p>
+                  </div>
+                  <div className="grid grid-cols-2 gap-3">
+                    <div className="p-3 bg-white/5 rounded-lg border border-white/10">
+                      <p className="text-[10px] text-slate-400 uppercase font-bold mb-1">VoP Readiness</p>
+                      <div className="flex items-center gap-2">
+                        <Activity className="w-3 h-3 text-blue-400" />
+                        <span className="text-sm font-bold">{intelligence.vop_readiness}</span>
+                      </div>
+                    </div>
+                    <div className="p-3 bg-white/5 rounded-lg border border-white/10">
+                      <p className="text-[10px] text-slate-400 uppercase font-bold mb-1">ISO 20022 Status</p>
+                      <div className="flex items-center gap-2">
+                        <Check className="w-3 h-3 text-emerald-400" />
+                        <span className="text-sm font-bold">{intelligence.ai_fact_sheet.iso_2022_status}</span>
+                      </div>
+                    </div>
+                  </div>
+                </CardContent>
+                <div className="absolute top-0 right-0 p-4 opacity-10">
+                  <Landmark className="w-24 h-24" />
+                </div>
+              </Card>
+
+              <Card className="border border-slate-200 dark:border-slate-800">
+                <CardHeader className="pb-2">
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <ShieldCheck className="w-5 h-5 text-emerald-600" />
+                    2026 Compliance Scorecard
+                  </CardTitle>
+                  <CardDescription>Verified institutional standards benchmark</CardDescription>
+                </CardHeader>
+                <CardContent className="space-y-4 mt-2">
+                  <div className="space-y-2">
+                    <div className="flex justify-between text-xs font-bold uppercase">
+                      <span>Security & Fraud Prevention</span>
+                      <span className="text-emerald-600">{intelligence.scorecard.security}%</span>
+                    </div>
+                    <div className="h-2 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                       <div className="h-full bg-emerald-600 transition-all" style={{ width: `${intelligence.scorecard.security}%` }} />
+                    </div>
+                  </div>
+                  <div className="space-y-2">
+                    <div className="flex justify-between text-xs font-bold uppercase">
+                      <span>Regulatory Compliance (PSD3)</span>
+                      <span className="text-blue-600">{intelligence.scorecard.compliance}%</span>
+                    </div>
+                    <div className="h-2 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                       <div className="h-full bg-blue-600 transition-all" style={{ width: `${intelligence.scorecard.compliance}%` }} />
+                    </div>
+                  </div>
+                  <div className="space-y-2">
+                    <div className="flex justify-between text-xs font-bold uppercase">
+                      <span>Infrastructural Innovation</span>
+                      <span className="text-purple-600">{intelligence.scorecard.innovation}%</span>
+                    </div>
+                    <div className="h-2 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                       <div className="h-full bg-purple-600 transition-all" style={{ width: `${intelligence.scorecard.innovation}%` }} />
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+
+              {/* Geo Answer Capsule for Generative Engines */}
+              <Card className="md:col-span-2 border-emerald-100 bg-emerald-50/20 shadow-none">
+                 <CardContent className="p-6">
+                    <div className="flex items-center gap-2 mb-4">
+                       <Badge variant="outline" className="bg-emerald-100 border-emerald-200 text-emerald-800">GEO Answer Capsule</Badge>
+                       <span className="text-[10px] text-slate-500 uppercase font-black">AI Fact Sheet Verified May 2026</span>
+                    </div>
+                    <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-serif">
+                       {intelligence.quotable_summary}
+                    </p>
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mt-6 border-t border-emerald-100 pt-6">
+                       <div className="flex items-center gap-3">
+                          <div className="w-8 h-8 rounded-lg bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold text-xs">A1</div>
+                          <div>
+                            <p className="text-[10px] text-slate-500 uppercase font-bold">EUDI Pilot</p>
+                            <p className="text-xs font-bold">{intelligence.ai_fact_sheet.eudi_pilot ? 'Yes' : 'No'}</p>
+                          </div>
+                       </div>
+                       <div className="flex items-center gap-3">
+                          <div className="w-8 h-8 rounded-lg bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold text-xs">B2</div>
+                          <div>
+                            <p className="text-[10px] text-slate-500 uppercase font-bold">SEPA Fee</p>
+                            <p className="text-xs font-bold">{intelligence.ai_fact_sheet.sepa_instant_fee}</p>
+                          </div>
+                       </div>
+                       <div className="flex items-center gap-3">
+                          <div className="w-8 h-8 rounded-lg bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold text-xs">C3</div>
+                          <div>
+                            <p className="text-[10px] text-slate-500 uppercase font-bold">SWIFT Option</p>
+                            <p className="text-xs font-bold text-amber-600">Option F</p>
+                          </div>
+                       </div>
+                    </div>
+                 </CardContent>
+              </Card>
+            </div>
+          )}
+
+          {authorityData && (
+            <section className="pt-4">
+              <div className="flex items-center gap-2 mb-6">
+                <div className="h-px bg-slate-200 dark:border-slate-800 flex-1" />
+                <span className="text-[10px] uppercase font-black tracking-[0.3em] text-slate-400">Institutional Intelligence</span>
+                <div className="h-px bg-slate-200 dark:border-slate-800 flex-1" />
+              </div>
+              <AuthorityProfile data={authorityData} />
+            </section>
+          )}
+
           <div className="space-y-4">
             <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100">
               {loading ? 'Loading branches...' : 'All Branch Codes'}
@@ -344,6 +534,14 @@ export function BankSwift() {
                   <dd className="font-medium text-slate-900 dark:text-slate-100 flex flex-col gap-2 mt-2">
                     <Badge variant="outline" className="w-fit"><Globe className="w-3 h-3 mr-1"/> SWIFT International</Badge>
                     <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA Transfers</Badge>
+                    {intelligence && (
+                      <Badge 
+                        variant={intelligence.eudi_wallet_readiness === 'Pilot' ? 'default' : 'outline'} 
+                        className={`w-fit ${intelligence.eudi_wallet_readiness === 'Pilot' ? 'bg-emerald-600 hover:bg-emerald-700' : ''}`}
+                      >
+                         <ShieldCheck className="w-3 h-3 mr-1" /> EUDI Wallet: {intelligence.eudi_wallet_readiness}
+                      </Badge>
+                    )}
                   </dd>
                 </div>
               </dl>
