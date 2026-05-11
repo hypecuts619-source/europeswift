@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../..
 import { Badge } from '../../components/ui/badge';
 import { Button } from '../../components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../components/ui/table';
-import { countriesData } from '../../data/mockData';
+import { countriesData, mockBanksData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 import { getSwiftCodesByBank, SwiftCodeDoc } from '../../lib/firebaseQueries';
@@ -24,7 +24,8 @@ export function BankSwift() {
   const [loading, setLoading] = useState(true);
 
   const country = countriesData.find(c => c.slug === countrySlug);
-  const bankNameStr = location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
+  const bankData = bankSlug ? mockBanksData[bankSlug] : null;
+  const bankNameStr = bankData?.name || location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
 
   useEffect(() => {
     if (country?.code && bankNameStr) {
@@ -372,6 +373,16 @@ export function BankSwift() {
                       </div>
                     </div>
                   </div>
+                  {country.code === 'GB' && bankNameStr.toLowerCase().includes('building society') && (
+                    <div className="p-3 bg-amber-500/10 rounded-lg border border-amber-500/30">
+                      <p className="text-[10px] text-amber-400 uppercase font-bold mb-1 flex items-center gap-1">
+                        <AlertTriangle className="w-3 h-3" /> May 2026 UK Transfer Protocol
+                      </p>
+                      <p className="text-[13px] leading-relaxed italic text-amber-200/90 font-medium">
+                        Verification of Payee (VoP) strictly requires the <strong className="text-amber-400">Building Society Roll Number</strong> for secondary account reference matching. Transfers missing this parameter will be immediately rejected to comply with NPA guidelines.
+                      </p>
+                    </div>
+                  )}
                 </CardContent>
                 <div className="absolute top-0 right-0 p-4 opacity-10">
                   <Landmark className="w-24 h-24" />
@@ -475,6 +486,7 @@ export function BankSwift() {
                 <TableHeader className="bg-slate-50/50 dark:bg-slate-900/50">
                   <TableRow>
                     <TableHead>SWIFT / BIC</TableHead>
+                    <TableHead>Branch Code</TableHead>
                     <TableHead>City</TableHead>
                     <TableHead>Branch Name</TableHead>
                     <TableHead className="w-[100px]"></TableHead>
@@ -483,26 +495,34 @@ export function BankSwift() {
                 <TableBody>
                   {loading && (
                     <TableRow>
-                      <TableCell colSpan={4} className="text-center text-slate-500 py-8">Loading from database...</TableCell>
+                      <TableCell colSpan={5} className="text-center text-slate-500 py-8">Loading from database...</TableCell>
                     </TableRow>
                   )}
                   {!loading && branches.length === 0 && (
                     <TableRow>
-                      <TableCell colSpan={4} className="text-center text-slate-500 py-8">No branches found in database.</TableCell>
+                      <TableCell colSpan={5} className="text-center text-slate-500 py-8">No branches found in database.</TableCell>
                     </TableRow>
                   )}
-                  {!loading && branches.map((branch) => (
-                    <TableRow key={branch.bic} className="hover:bg-slate-50/50 dark:hover:bg-slate-900/50">
-                      <TableCell className="font-mono font-medium">{branch.bic}</TableCell>
-                      <TableCell className="text-slate-700 dark:text-slate-300">{branch.city || 'N/A'}</TableCell>
-                      <TableCell className="text-slate-500 dark:text-slate-400">{branch.branch || 'Head Office'}</TableCell>
-                      <TableCell>
-                        <Button variant="ghost" size="sm" onClick={() => handleCopy(branch.bic)}>
-                          {copied === branch.bic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
-                        </Button>
-                      </TableCell>
-                    </TableRow>
-                  ))}
+                  {!loading && branches.map((branch) => {
+                    const bCode = branch.bic.length === 11 ? branch.bic.substring(8, 11) : 'XXX';
+                    return (
+                      <TableRow key={branch.bic} className="hover:bg-slate-50/50 dark:hover:bg-slate-900/50">
+                        <TableCell className="font-mono font-medium">{branch.bic}</TableCell>
+                        <TableCell>
+                          <Badge variant="outline" className="font-mono text-xs bg-slate-50 dark:bg-slate-900/50">
+                            {bCode}
+                          </Badge>
+                        </TableCell>
+                        <TableCell className="text-slate-700 dark:text-slate-300">{branch.city || 'N/A'}</TableCell>
+                        <TableCell className="text-slate-500 dark:text-slate-400">{branch.branch || 'Head Office'}</TableCell>
+                        <TableCell>
+                          <Button variant="ghost" size="sm" onClick={() => handleCopy(branch.bic)}>
+                            {copied === branch.bic ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
+                          </Button>
+                        </TableCell>
+                      </TableRow>
+                    );
+                  })}
                 </TableBody>
               </Table>
             </Card>
