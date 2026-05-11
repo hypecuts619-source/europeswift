@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { ChevronRight, ArrowRight, Building2, MapPin, Search } from 'lucide-react';
+import { ChevronRight, ArrowRight, Building2, MapPin, Search, Globe } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent } from '../../components/ui/card';
 import { Input } from '../../components/ui/input';
@@ -174,9 +174,39 @@ export function SwiftHome() {
             <CardContent className="p-6">
               <h3 className="font-semibold text-gray-900 dark:text-gray-100 mb-4">Quick Links</h3>
               <ul className="space-y-3">
-                <li><Link to="/what-is-a-swift-code" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">How to read a SWIFT code?</Link></li>
-                <li><Link to="/sepa-transfer-guide" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">SEPA Transfer Guide</Link></li>
-                <li><Link to="/swift-vs-iban" className="text-sm text-[#003399] dark:text-blue-400 hover:underline">SWIFT vs IBAN Explained</Link></li>
+                <li>
+                  <Link to="/what-is-a-swift-code" className="flex items-start gap-3 p-3 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors border border-transparent hover:border-slate-100 dark:hover:border-slate-800 group">
+                    <div className="mt-0.5 bg-blue-100 dark:bg-blue-900/30 p-1.5 rounded-md text-[#003399] dark:text-blue-400 group-hover:scale-110 transition-transform">
+                      <Search className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">What is a SWIFT code?</div>
+                      <div className="text-xs text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">Learn how to read and understand the 8 or 11 character SWIFT code format.</div>
+                    </div>
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/sepa-transfer-guide" className="flex items-start gap-3 p-3 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors border border-transparent hover:border-slate-100 dark:hover:border-slate-800 group">
+                    <div className="mt-0.5 bg-blue-100 dark:bg-blue-900/30 p-1.5 rounded-md text-[#003399] dark:text-blue-400 group-hover:scale-110 transition-transform">
+                      <Globe className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">SEPA Transfer Guide</div>
+                      <div className="text-xs text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">Understanding Europe's Single Euro Payments Area and transfer times.</div>
+                    </div>
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/swift-vs-iban" className="flex items-start gap-3 p-3 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors border border-transparent hover:border-slate-100 dark:hover:border-slate-800 group">
+                    <div className="mt-0.5 bg-blue-100 dark:bg-blue-900/30 p-1.5 rounded-md text-[#003399] dark:text-blue-400 group-hover:scale-110 transition-transform">
+                      <Building2 className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">SWIFT vs IBAN Explained</div>
+                      <div className="text-xs text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">The difference between a SWIFT code and an IBAN.</div>
+                    </div>
+                  </Link>
+                </li>
               </ul>
             </CardContent>
           </Card>

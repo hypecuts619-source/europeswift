@@ -38,6 +38,11 @@ const TermsAndConditions = lazy(() => import('./pages/TermsAndConditions').then(
 const BlogIndex = lazy(() => import('./pages/BlogIndex').then(module => ({ default: module.BlogIndex })));
 const BlogPostPage = lazy(() => import('./pages/BlogPostPage').then(module => ({ default: module.BlogPostPage })));
 
+import { WhatIsSwift } from './pages/guides/WhatIsSwift';
+import { WhatIsIban } from './pages/guides/WhatIsIban';
+import { SwiftVsIban } from './pages/guides/SwiftVsIban';
+import { SepaTransfer } from './pages/guides/SepaTransfer';
+
 const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
 
 function Layout() {
@@ -245,10 +250,11 @@ export default function App() {
                 <Route path="blog" element={<BlogIndex />} />
                 <Route path="blog/:slug" element={<BlogPostPage />} />
                 <Route path="banking-statistics" element={<BankingStatistics />} />
-                <Route path="what-is-a-swift-code" element={<div className="p-12">What is a SWIFT code guide placeholder...</div>} />
-                <Route path="what-is-an-iban" element={<div className="p-12">What is an IBAN guide placeholder...</div>} />
-                <Route path="swift-vs-iban" element={<div className="p-12">SWIFT vs IBAN guide placeholder...</div>} />
-                <Route path="sepa-transfer-guide" element={<div className="p-12">SEPA Transfer Guide placeholder...</div>} />
+                {/* Guide pages */}
+                <Route path="what-is-a-swift-code" element={<WhatIsSwift />} />
+                <Route path="what-is-an-iban" element={<WhatIsIban />} />
+                <Route path="swift-vs-iban" element={<SwiftVsIban />} />
+                <Route path="sepa-transfer-guide" element={<SepaTransfer />} />
               </Route>
             </Routes>
           </Suspense>
