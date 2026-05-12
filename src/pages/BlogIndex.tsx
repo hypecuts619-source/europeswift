@@ -4,6 +4,7 @@ import { SEO } from "../components/SEO";
 import { blogPosts } from "../data/blogPosts";
 import { Calendar, ArrowRight } from "lucide-react";
 import { motion } from "motion/react";
+import { AdSense } from "../components/AdSense";
 
 export function BlogIndex() {
   const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -45,6 +46,8 @@ export function BlogIndex() {
         </p>
       </div>
 
+      <AdSense slot="blog_index_top" className="mb-12" />
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedPosts.map((post, index) => (
           <motion.article 
@@ -83,6 +86,8 @@ export function BlogIndex() {
           </motion.article>
         ))}
       </div>
+
+      <AdSense slot="blog_index_bottom" className="mt-16" />
     </main>
   );
 }

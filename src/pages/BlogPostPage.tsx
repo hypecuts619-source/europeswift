@@ -4,8 +4,9 @@ import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus } from "lucide-react";
+import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
+import { AdSense } from "../components/AdSense";
 
 export function BlogPostPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -14,6 +15,12 @@ export function BlogPostPage() {
   if (!post) {
     return <Navigate to="/blog" replace />;
   }
+
+  // Related posts logic: pick 3 other posts
+  const currentIndex = blogPosts.findIndex(p => p.slug === slug);
+  const relatedPosts = blogPosts
+    .filter((_, idx) => idx !== currentIndex)
+    .slice(0, 3);
 
   const articleSchema = {
     "@context": "https://schema.org",
@@ -102,6 +109,8 @@ export function BlogPostPage() {
             )}
           </header>
 
+          <AdSense slot="blog_post_top" className="mb-10" />
+
           <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-img:rounded-xl">
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
@@ -119,7 +128,29 @@ export function BlogPostPage() {
             </ReactMarkdown>
           </div>
 
+          <AdSense slot="blog_post_bottom" className="my-12" />
+
           <div className="mt-16 pt-12 border-t border-slate-100 dark:border-slate-800">
+             <h3 className="text-2xl font-bold mb-8 flex items-center gap-2">
+               <Newspaper className="w-6 h-6 text-[#003399] dark:text-blue-400" />
+               Related Topics
+             </h3>
+             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+               {relatedPosts.map(rp => (
+                 <Link key={rp.slug} to={`/blog/${rp.slug}`} className="group">
+                   <div className="bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 border border-slate-100 dark:border-slate-800 h-full hover:border-[#003399] dark:hover:border-blue-400 transition-all flex flex-col">
+                     <time className="text-[10px] uppercase tracking-widest font-bold text-slate-400 mb-2">{new Date(rp.date).toLocaleDateString()}</time>
+                     <h4 className="font-bold text-slate-900 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors mb-3 line-clamp-2">
+                       {rp.title}
+                     </h4>
+                     <p className="text-xs text-slate-500 dark:text-slate-400 line-clamp-2 mt-auto">
+                       {rp.excerpt}
+                     </p>
+                   </div>
+                 </Link>
+               ))}
+             </div>
+
              <div className="bg-slate-900 text-white rounded-2xl p-8 flex flex-col md:flex-row items-center justify-between gap-6">
                 <div>
                   <h3 className="text-xl font-bold mb-2">Help Us Maintain Accuracy</h3>
