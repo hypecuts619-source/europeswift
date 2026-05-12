@@ -2,33 +2,17 @@ import fs from 'fs';
 import path from 'path';
 import { blogPosts } from './src/data/blogPosts';
 
-// Helper to convert arbitrary strings to URL-friendly slugs
-function generateSlug(text: string): string {
-  return text
-    .toLowerCase()
-    .trim()
-    .replace(/[^\w\s-]/g, '') // Remove non-word characters
-    .replace(/[\s_-]+/g, '-') // Swap spaces and underscores with hyphens
-    .replace(/^-+|-+$/g, ''); // Remove trailing hyphens
-}
+const MAX_URLS_PER_SITEMAP = 40000;
 
 async function generateSitemap() {
   const rootUrl = 'https://swiftcodedir.com';
-  const outPath = path.join(process.cwd(), 'public', 'sitemap.xml');
-  const countriesDir = path.join(process.cwd(), 'node_modules', 'swiftcodes-toolkit', 'AllCountries');
+  const publicDir = path.join(process.cwd(), 'public');
+  const countriesDataDir = path.join(publicDir, 'data', 'countries');
   
-  const sitemapHeader = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
-  const sitemapFooter = `\n</urlset>`;
-  let xmlContent = sitemapHeader;
-  
+  const urls: {loc: string, priority: string, changefreq: string}[] = [];
+
   const addUrl = (loc: string, priority: string, changefreq: string) => {
-    xmlContent += `
-  <url>
-    <loc>${loc}</loc>
-    <changefreq>${changefreq}</changefreq>
-    <priority>${priority}</priority>
-  </url>`;
+    urls.push({ loc, priority, changefreq });
   };
 
   // Static URLs
@@ -41,24 +25,35 @@ async function generateSitemap() {
   addUrl(`${rootUrl}/sort-code`, '0.8', 'weekly');
   addUrl(`${rootUrl}/blz`, '0.8', 'weekly');
   
-  if (fs.existsSync(countriesDir)) {
-    const files = fs.readdirSync(countriesDir).filter(f => f.endsWith('.json'));
+  if (fs.existsSync(countriesDataDir)) {
+    const files = fs.readdirSync(countriesDataDir).filter(f => f.endsWith('.json') && !f.endsWith('_branches.json'));
     console.log(`Found ${files.length} country files...`);
     
     for (const file of files) {
-      const countryData = JSON.parse(fs.readFileSync(path.join(countriesDir, file), 'utf8'));
-      const countrySlug = generateSlug(countryData.country || file.replace('.json', ''));
+      const countryData = JSON.parse(fs.readFileSync(path.join(countriesDataDir, file), 'utf8'));
+      const countrySlug = file.replace('.json', ''); // e.g. "us"
       
       // Add country page
       addUrl(`${rootUrl}/swift/${countrySlug}`, '0.7', 'weekly');
       
-      // Group by bank names to match how the routing works (bank details)
-      const uniqueBanks = Array.from(new Set(countryData.list.map((b: any) => b.bank)));
+      // Add branch list page
+      addUrl(`${rootUrl}/swift/${countrySlug}/branches`, '0.7', 'monthly');
       
-      for (const bankName of uniqueBanks) {
-        if (!bankName) continue;
-        const bankSlug = generateSlug(String(bankName));
-        addUrl(`${rootUrl}/swift/${countrySlug}/${bankSlug}`, '0.6', 'monthly');
+      const banks = countryData.banks || [];
+      const bankDetails = countryData.bankDetails || {};
+      
+      for (const bank of banks) {
+        addUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}`, '0.6', 'monthly');
+        
+        // Add individual branches for each bank
+        const details = bankDetails[bank.slug];
+        if (details && Array.isArray(details.branches)) {
+          for (const branch of details.branches) {
+            if (branch.bic) {
+              addUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}/${branch.bic}`, '0.4', 'monthly');
+            }
+          }
+        }
       }
     }
   }
@@ -78,10 +73,46 @@ async function generateSitemap() {
     addUrl(`${rootUrl}/blog/${post.slug}`, '0.7', 'monthly');
   }
 
-  xmlContent += sitemapFooter;
-  
-  fs.writeFileSync(outPath, xmlContent);
-  console.log(`Successfully generated sitemap with URLs at ${outPath}`);
+  // Partition URLs into chunks
+  const chunks = [];
+  for (let i = 0; i < urls.length; i += MAX_URLS_PER_SITEMAP) {
+    chunks.push(urls.slice(i, i + MAX_URLS_PER_SITEMAP));
+  }
+
+  const sitemapHeader = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
+  const sitemapFooter = `\n</urlset>`;
+
+  if (chunks.length === 1) {
+    // Write just sitemap.xml
+    let xmlContent = sitemapHeader;
+    for (const url of chunks[0]) {
+      xmlContent += `\n  <url>\n    <loc>${url.loc}</loc>\n    <changefreq>${url.changefreq}</changefreq>\n    <priority>${url.priority}</priority>\n  </url>`;
+    }
+    xmlContent += sitemapFooter;
+    fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), xmlContent);
+    console.log(`Generated sitemap.xml with ${urls.length} URLs`);
+  } else {
+    // Write chunks and a sitemap index
+    const indexHeader = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
+    const indexFooter = `\n</sitemapindex>`;
+    let indexContent = indexHeader;
+
+    for (let i = 0; i < chunks.length; i++) {
+        const chunkUrls = chunks[i];
+        let xmlContent = sitemapHeader;
+        for (const url of chunkUrls) {
+          xmlContent += `\n  <url>\n    <loc>${url.loc}</loc>\n    <changefreq>${url.changefreq}</changefreq>\n    <priority>${url.priority}</priority>\n  </url>`;
+        }
+        xmlContent += sitemapFooter;
+        const sitemapName = `sitemap-${i + 1}.xml`;
+        fs.writeFileSync(path.join(publicDir, sitemapName), xmlContent);
+        
+        indexContent += `\n  <sitemap>\n    <loc>${rootUrl}/${sitemapName}</loc>\n    <lastmod>${new Date().toISOString()}</lastmod>\n  </sitemap>`;
+    }
+    indexContent += indexFooter;
+    fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), indexContent);
+    console.log(`Generated sitemap index sitemap.xml and ${chunks.length} child sitemaps with a total of ${urls.length} URLs`);
+  }
 }
 
 generateSitemap().catch(console.error);

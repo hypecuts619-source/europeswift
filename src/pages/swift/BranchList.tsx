@@ -6,7 +6,16 @@ import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
-import { getSwiftCodesByCountry, SwiftCodeDoc } from '../../lib/firebaseQueries';
+import { SEO } from '../../components/SEO';
+
+export interface SwiftCodeDoc {
+  bic: string;
+  bank: string;
+  branch?: string;
+  city?: string;
+  country: string;
+  address?: string;
+}
 
 export function BranchList() {
   const { countrySlug } = useParams<{ countrySlug: string }>();
@@ -19,10 +28,24 @@ export function BranchList() {
   useEffect(() => {
     if (country?.code) {
       setLoading(true);
-      getSwiftCodesByCountry(country.code).then(data => {
-        setAllBranches(data);
-        setLoading(false);
-      });
+      fetch(`/data/countries/${country.code.toLowerCase()}_branches.json`)
+        .then(res => {
+          if (!res.ok) throw new Error('Data not found');
+          return res.json();
+        })
+        .then(data => {
+          if (data && Array.isArray(data.branches)) {
+            setAllBranches(data.branches);
+          } else {
+            setAllBranches([]);
+          }
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error("Failed to load branches data:", err);
+          setAllBranches([]);
+          setLoading(false);
+        });
     }
   }, [country]);
 
@@ -51,8 +74,43 @@ export function BranchList() {
   // Rough estimation of unique banks
   const uniqueBanksCount = new Set(allBranches.map(b => b.bank)).size;
 
+  const datasetSchema = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": `${country.name} Bank Branches Dataset`,
+    "description": `Complete directory of all bank branches in ${country.name} with their respective SWIFT/BIC codes and addresses.`,
+    "url": window.location.href,
+    "creator": {
+      "@type": "Organization",
+      "name": "SwiftCodeDir"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "isAccessibleForFree": true
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `How do I find a specific branch SWIFT code in ${country.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `You can use the search bar above to filter all ${allBranches.length} branches in ${country.name} by city or branch name.`
+        }
+      }
+    ]
+  };
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <SEO 
+        title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data`}
+        description={`Explore all ${allBranches.length} bank branches in ${country.name}. Find exact SWIFT codes, branch addresses, and routing numbers required for secure wire transfers.`}
+        canonicalUrl={window.location.href}
+        jsonLd={[datasetSchema, faqSchema]}
+      />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
           <BreadcrumbItem>

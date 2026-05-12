@@ -239,7 +239,7 @@ export default function App() {
                   <Route index element={<SwiftHome />} />
                   <Route path=":countrySlug" element={<CountrySwift />} />
                   <Route path=":countrySlug/branches" element={<BranchList />} />
-                  <Route path=":countrySlug/:bankSlug" element={<BankSwift />} />
+                  <Route path=":countrySlug/:bankSlug/:bicCode?" element={<BankSwift />} />
                 </Route>
 
                 <Route path="iban">

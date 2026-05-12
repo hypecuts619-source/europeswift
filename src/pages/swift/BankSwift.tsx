@@ -10,14 +10,22 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '.
 import { countriesData, mockBanksData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
-import { getSwiftCodesByBank, SwiftCodeDoc } from '../../lib/firebaseQueries';
 import { AUTHORITY_ENGINE_DATA } from '../../data/authorityEngine';
 import { AuthorityProfile } from '../../components/AuthorityProfile';
 import { bankRegulatoryIntelligence } from '../../data/bankRegulatoryIntelligence';
 import { motion } from 'motion/react';
 
+export interface SwiftCodeDoc {
+  bic: string;
+  bank: string;
+  branch?: string;
+  city?: string;
+  country: string;
+  address?: string;
+}
+
 export function BankSwift() {
-  const { countrySlug, bankSlug } = useParams<{ countrySlug: string; bankSlug: string }>();
+  const { countrySlug, bankSlug, bicCode } = useParams<{ countrySlug: string; bankSlug: string; bicCode?: string }>();
   const location = useLocation();
   const [copied, setCopied] = useState<string | null>(null);
   const [branches, setBranches] = useState<SwiftCodeDoc[]>([]);
@@ -28,14 +36,31 @@ export function BankSwift() {
   const bankNameStr = bankData?.name || location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
 
   useEffect(() => {
-    if (country?.code && bankNameStr) {
+    if (country?.code && bankSlug) {
       setLoading(true);
-      getSwiftCodesByBank(country.code, bankNameStr).then(data => {
-        setBranches(data);
-        setLoading(false);
-      });
+      fetch(`/data/countries/${country.code.toLowerCase()}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error('Data not found');
+          return res.json();
+        })
+        .then(data => {
+          if (data && data.bankDetails && data.bankDetails[bankSlug]) {
+            const bankInfo = data.bankDetails[bankSlug];
+            if (Array.isArray(bankInfo.branches)) {
+              setBranches(bankInfo.branches);
+            }
+          } else {
+            setBranches([]);
+          }
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error("Failed to load bank data:", err);
+          setBranches([]);
+          setLoading(false);
+        });
     }
-  }, [country, bankNameStr]);
+  }, [country, bankSlug]);
 
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text);
@@ -46,9 +71,11 @@ export function BankSwift() {
   if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400">Bank not found</div>;
 
   // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
+  // If a specific bicCode was provided in the URL, that becomes our primary BIC for this page view.
+  const selectedBranchDoc = bicCode ? (branches.find(b => b.bic === bicCode) || null) : null;
   const headOfficeSwiftDoc = branches.find(b => b.bic && (b.bic.endsWith('XXX') || b.bic.length === 8)) || branches[0];
   const fallbackSwift = (country.code + 'XXXXXX').padEnd(8, 'X');
-  const primaryBic = headOfficeSwiftDoc?.bic || fallbackSwift;
+  const primaryBic = selectedBranchDoc?.bic || headOfficeSwiftDoc?.bic || fallbackSwift;
 
   // Anatomy
   const bankCode = primaryBic.substring(0, 4);
@@ -169,7 +196,7 @@ export function BankSwift() {
       "name": "SWIFT/BIC Code",
       "value": primaryBic
     },
-    "verificationMethod": "Verification of Payee (VoP) compliant",
+    "hasCredential": "Verification of Payee (VoP) compliant",
     ...(authorityData && {
       "description": authorityData.bank_role,
       "knowsAbout": "ISO 20022 Modernization, PSD3, SEPA",
@@ -180,13 +207,48 @@ export function BankSwift() {
     })
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `What is the SWIFT code for ${bankNameStr} in ${country.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The primary SWIFT/BIC code for ${bankNameStr} is ${primaryBic}. This code is used for international money transfers and identifying the bank globally.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Is ${bankNameStr} SEPA compliant?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Yes, ${bankNameStr} supports SEPA (Single Euro Payments Area) transfers, allowing for efficient and standardized electronic payments across Europe.`
+        }
+      }
+    ]
+  };
+
+  const pageTitle = selectedBranchDoc 
+    ? `${bankNameStr} ${selectedBranchDoc.city || ''} ${selectedBranchDoc.branch || ''} SWIFT Code ${selectedBranchDoc.bic} | SwiftCodeDir`
+    : authorityData 
+      ? `${bankNameStr} ${country.name} SWIFT/BIC Code & Institutional Intelligence (2026)` 
+      : `${bankNameStr} ${country.name} SWIFT/BIC Code & Address Details`;
+
+  const pageDescription = selectedBranchDoc
+    ? `Find the SWIFT / BIC code and address for ${bankNameStr} branch ${selectedBranchDoc.branch || ''} in ${selectedBranchDoc.city || ''}, ${country.name}. Correct BIC: ${selectedBranchDoc.bic}.`
+    : authorityData 
+      ? `Verified Q2 2026 data for ${bankNameStr} in ${country.name}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` 
+      : `Find verified SWIFT and BIC codes for ${bankNameStr} located in ${country.name}. Check exact branch codes, head office information, and routing details.`;
+
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title={authorityData ? `${bankNameStr} SWIFT Code & Institutional Intelligence (2026)` : `${bankNameStr} SWIFT / BIC Codes in ${country.name} | SwiftCodeDir`}
-        description={authorityData ? `Verified Q2 2026 data for ${bankNameStr}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` : `Find all SWIFT and BIC codes for ${bankNameStr} in ${country.name}. Check branch details, head office code, and more.`}
+        title={pageTitle}
+        description={pageDescription}
         canonicalUrl={window.location.href}
-        jsonLd={[bankSchema, breadcrumbSchema]}
+        jsonLd={[bankSchema, breadcrumbSchema, faqSchema]}
       />
 
       <Breadcrumb className="mb-8">

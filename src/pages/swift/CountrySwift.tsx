@@ -9,11 +9,16 @@ import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
 import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
-import { getSwiftCodesByCountry, SwiftCodeDoc } from '../../lib/firebaseQueries';
+
+interface BankSummary {
+  name: string;
+  slug: string;
+  primaryBic: string;
+}
 
 export function CountrySwift() {
   const { countrySlug } = useParams<{ countrySlug: string }>();
-  const [codes, setCodes] = useState<SwiftCodeDoc[]>([]);
+  const [banks, setBanks] = useState<BankSummary[]>([]);
   const [loading, setLoading] = useState(true);
   
   // Find country
@@ -22,46 +27,88 @@ export function CountrySwift() {
   useEffect(() => {
     if (country?.code) {
       setLoading(true);
-      getSwiftCodesByCountry(country.code).then(data => {
-        setCodes(data);
-        setLoading(false);
-      });
+      fetch(`/data/countries/${country.code.toLowerCase()}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error('Data not found');
+          return res.json();
+        })
+        .then(data => {
+          if (data && Array.isArray(data.banks)) {
+            setBanks(data.banks);
+          } else {
+            setBanks([]);
+          }
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error("Failed to load country data:", err);
+          setBanks([]);
+          setLoading(false);
+        });
     }
   }, [country]);
 
-  // Extract unique banks dynamically from the fetched SWIFT codes.
+  // Use the fetched banks, or fallback to mock top banks if empty (e.g. before fetch completes)
   const uniqueBanks = useMemo(() => {
-    const banksMap = new Map<string, { name: string; slug: string; primaryBic: string }>();
-    codes.forEach(c => {
-      if (!c.bank) return;
-      const slug = c.bank.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-      if (!banksMap.has(slug)) {
-        banksMap.set(slug, {
-          name: c.bank,
-          slug,
-          primaryBic: c.bic
-        });
-      }
-    });
-    // Fallback to mock top banks if database is empty initially so the UI still looks good while building
-    if (banksMap.size === 0 && !loading && country) {
+    if (banks.length > 0) return banks;
+    if (!loading && country) {
+       // Fallback mock top banks
        return country.topBanks.map(b => ({
           name: b.replace(/-/g, ' '),
           slug: b,
           primaryBic: country.code + 'XX'
        }));
     }
-    return Array.from(banksMap.values());
-  }, [codes, loading, country]);
+    return [];
+  }, [banks, loading, country]);
 
   if (!country) return <div className="p-12 text-center text-xl text-gray-500">Country not found</div>;
+
+  const datasetSchema = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": `${country.name} Banks SWIFT/BIC Codes Directory`,
+    "description": `Comprehensive directory of SWIFT / BIC codes for all banks in ${country.name}. Check branch details, head office codes, and international routing numbers.`,
+    "url": window.location.href,
+    "creator": {
+      "@type": "Organization",
+      "name": "SwiftCodeDir"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "isAccessibleForFree": true,
+    "keywords": `SWIFT, BIC, Banks, Financial Institutions, Routing Numbers, ${country.name}`
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `How many banks are listed for ${country.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `There are currently ${banks.length > 0 ? banks.length : 'multiple'} financial institutions and banks listed in our directory for ${country.name}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What is the SWIFT/BIC code format for ${country.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `In ${country.name}, SWIFT codes typically consist of 8 to 11 characters. The first 4 characters are the bank code, the next 2 are ' ${country.code}', the following 2 are the location code, and the last 3 (optional) are the branch code.`
+        }
+      }
+    ]
+  };
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title={`SWIFT Codes for all banks in ${country.name} | SwiftCodeDir`}
-        description={`Find SWIFT and BIC codes for all banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
+        title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
+        description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
         canonicalUrl={window.location.href}
+        jsonLd={[datasetSchema, faqSchema]}
       />
 
       <Breadcrumb className="mb-8">
