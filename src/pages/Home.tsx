@@ -9,6 +9,8 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
 import { Badge } from '../components/ui/badge';
 
+import { getDaysRemaining } from '../lib/dateUtils';
+
 const DirectorySearch = lazy(() => import('../components/DirectorySearch').then(module => ({ default: module.DirectorySearch })));
 
 const container = {
@@ -28,6 +30,7 @@ const item = {
 
 export function Home() {
   const { t } = useLanguage();
+  const daysRemaining = getDaysRemaining('2026-11-14');
 
   const faqSchema = {
     "@context": "https://schema.org",
@@ -114,7 +117,7 @@ export function Home() {
       >
         <Zap className="w-4 h-4 text-amber-600 dark:text-amber-400 animate-pulse" />
         <span className="text-xs font-black text-amber-900 dark:text-amber-200 uppercase tracking-widest">
-          186 Days to Mandatory ISO 20022 Structured Addresses (Nov 14, 2026)
+          {daysRemaining} Days to Mandatory ISO 20022 Structured Addresses (Nov 14, 2026)
         </span>
       </motion.div>
       <Helmet>

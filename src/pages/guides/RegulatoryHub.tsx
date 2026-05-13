@@ -7,8 +7,10 @@ import { VISUAL_AUTHORITY_DATA } from '../../data/visualAuthority';
 import { motion } from 'motion/react';
 import { SEO } from '../../components/SEO';
 import { trackEvent } from '../../services/analytics';
+import { getDaysRemaining } from '../../lib/dateUtils';
 
 export function RegulatoryHub() {
+  const daysRemaining = getDaysRemaining('2026-11-14');
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -65,7 +67,7 @@ export function RegulatoryHub() {
           </div>
         </div>
         <div className="flex items-center gap-2 relative z-10">
-          <span className="text-4xl font-black text-amber-500 tabular-nums">186</span>
+          <span className="text-4xl font-black text-amber-500 tabular-nums">{daysRemaining}</span>
           <span className="text-xs font-bold uppercase tracking-widest text-slate-400 leading-tight">Days<br/>Remaining</span>
         </div>
       </motion.div>
