@@ -57,7 +57,7 @@ export function GlossaryTermPage() {
           </div>
 
           <div className="my-8">
-            <AdSense slot="1234567890" format="auto" />
+            <AdSense slot="1234567890" />
           </div>
 
           {related.length > 0 && (
@@ -114,7 +114,7 @@ export function GlossaryTermPage() {
           </div>
           
           <div className="sticky top-24">
-            <AdSense slot="0987654321" format="vertical" />
+            <AdSense slot="0987654321" />
           </div>
         </aside>
       </div>
