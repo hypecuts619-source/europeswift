@@ -7,7 +7,6 @@ import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 
 interface BankSummary {
@@ -139,7 +138,7 @@ export function CountrySwift() {
             Browse our comprehensive directory of SWIFT / BIC codes for financial institutions operating in {country.name}. Use the search bar to find a specific bank or branch.
           </p>
           <p>
-            When sending an international wire transfer to {country.name}, the SWIFT code (also known as a BIC code) is absolutely essential. It ensures that your payment is routed securely and directly to the correct destination bank. Most banks in {country.name} adhere strictly to international payment standards, meaning transfers without an accurate SWIFT code and IBAN will likely fail or incur heavy processing fees.
+            When sending an international wire transfer to {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 hover:underline">SWIFT code</Link> (also known as a BIC code) is absolutely essential. It ensures that your payment is routed securely and directly to the correct destination bank. Most banks in {country.name} adhere strictly to international payment standards, meaning transfers without an accurate SWIFT code and <Link to="/glossary/iban-international-bank-account" className="text-blue-600 hover:underline">IBAN</Link> will likely fail or incur heavy processing fees.
           </p>
           <p>
             The SWIFT codes listed below have been verified against the most recent financial registry updates.
@@ -197,7 +196,7 @@ export function CountrySwift() {
             )}
           </div>
           <div className="mt-8">
-            <AdSense slot="9988776655" />
+            
           </div>
         </div>
 
@@ -222,7 +221,7 @@ export function CountrySwift() {
             </CardContent>
           </Card>
           <div className="sticky top-6 h-[600px]">
-            <AdSense slot="1122334455" />
+            
           </div>
         </aside>
       </div>

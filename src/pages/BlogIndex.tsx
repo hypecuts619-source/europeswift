@@ -4,7 +4,6 @@ import { SEO } from "../components/SEO";
 import { blogPosts } from "../data/blogPosts";
 import { Calendar, ArrowRight } from "lucide-react";
 import { motion } from "motion/react";
-import { AdSense } from "../components/AdSense";
 
 export function BlogIndex() {
   const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -25,7 +24,7 @@ export function BlogIndex() {
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto py-4 md:py-8">
+    <div className="w-full max-w-7xl mx-auto">
       <SEO 
         title="Banking Insights & SWIFT Code Guides | SwiftCodeDir"
         description="Read our latest articles and guides on international wire transfers, SWIFT codes, IBANs, and global banking."
@@ -37,7 +36,7 @@ export function BlogIndex() {
         </script>
       </Helmet>
 
-      <div className="text-center mb-10">
+      <div className="text-center mb-10 md:mb-14">
         <h1 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight dark:text-white">
           Banking <span className="text-[#003399] dark:text-blue-400">Insights</span>
         </h1>
@@ -46,9 +45,7 @@ export function BlogIndex() {
         </p>
       </div>
 
-      <AdSense slot="blog_index_top" className="mb-8" />
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
         {sortedPosts.map((post, index) => (
           <motion.article 
             key={post.slug}
@@ -87,7 +84,7 @@ export function BlogIndex() {
         ))}
       </div>
 
-      <AdSense slot="blog_index_bottom" className="mt-12" />
+      {/*  */}
     </div>
   );
 }

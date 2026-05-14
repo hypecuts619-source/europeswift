@@ -40,12 +40,13 @@ export function PrivacyPolicy() {
 
           <h3 className="text-xl font-bold text-slate-900 dark:text-white mt-8 mb-4">Google AdSense and DoubleClick DART Cookie</h3>
           <p>
-            Google is one of the third-party vendors on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to our site and other sites on the internet.
+            Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
           </p>
           <ul className="list-disc pl-6 space-y-2 mt-4">
             <li>Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.</li>
             <li>Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.</li>
-            <li>Users may opt out of personalized advertising by visiting <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Ads Settings</a>.</li>
+            <li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</li>
+            <li>Users may also opt out of personalized advertising by visiting <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Ads Settings</a>.</li>
           </ul>
 
           <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-8 mb-4">Third-Party Privacy Policies</h2>

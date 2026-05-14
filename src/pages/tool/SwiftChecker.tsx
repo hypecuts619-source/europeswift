@@ -6,7 +6,6 @@ import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 
 export function SwiftChecker() {
@@ -177,7 +176,7 @@ export function SwiftChecker() {
                     </div>
                   </CardContent>
                 </Card>
-                <AdSense slot="1122334455" />
+                
               </div>
             </div>
           )}

@@ -4,7 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/ca
 import { Button } from '../../components/ui/button';
 import { Landmark, ArrowLeft, Info, MapPin, Building2, HelpCircle, CreditCard } from 'lucide-react';
 import { SEO } from '../../components/SEO';
-import { AdSense } from '../../components/AdSense';
 import { ROUTING_NUMBERS } from '../../data/routingNumbers';
 
 export function RoutingDetails() {
@@ -163,7 +162,7 @@ export function RoutingDetails() {
             </CardContent>
           </Card>
 
-          <AdSense slot="4141414141" />
+          
         </aside>
       </div>
     </div>

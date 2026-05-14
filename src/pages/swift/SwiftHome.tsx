@@ -6,7 +6,6 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { Card, CardContent } from '../../components/ui/card';
 import { Input } from '../../components/ui/input';
 import { countriesData } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { DirectorySearch } from '../../components/DirectorySearch';
 import { SEO } from '../../components/SEO';
 
@@ -91,7 +90,7 @@ export function SwiftHome() {
             SWIFT / BIC Codes <br/><span className="text-[#003399] dark:text-blue-400">Directory</span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-2xl leading-relaxed">
-            A SWIFT code (or BIC) is an 8 to 11 character format that identifies a specific bank when making an international bank transfer. 
+            A <Link to="/glossary/swift-society-worldwide-interbank" className="font-semibold text-blue-600 hover:underline dark:text-blue-400">SWIFT code</Link> (or BIC) is an 8 to 11 character format that identifies a specific bank when making an international bank transfer. 
             Select a European country below to find out the SWIFT code formatting and browse their local bank directories.
           </p>
 
@@ -220,7 +219,7 @@ export function SwiftHome() {
             </CardContent>
           </Card>
 
-          <AdSense slot="7788990011" />
+          
         </aside>
       </div>
     </main>

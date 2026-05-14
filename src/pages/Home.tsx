@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight, Landmark, Zap } from 'lucide-react';
 import { motion } from 'motion/react';
-import { AdSense } from '../components/AdSense';
 import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
 import { Badge } from '../components/ui/badge';
@@ -176,7 +175,7 @@ export function Home() {
 
         {/* Mobile Ad Unit */}
         <div className="block md:hidden">
-          <AdSense slot="5566778899" />
+          
         </div>
 
         {/* IBAN Validator Service */}
@@ -352,19 +351,56 @@ export function Home() {
         </div>
       </motion.div>
 
-      {/* Popular Countries Grid */}
+      {/* UK Top Banks Quick Links */}
+      <section className="mb-16">
+        <div className="flex justify-between items-center mb-6 px-2 border-b border-slate-200 dark:border-slate-800 pb-4">
+          <h2 className="text-2xl font-bold dark:text-white flex items-center gap-2">
+            <span className="text-3xl">🇬🇧</span> UK Top Banks & Sort Codes
+          </h2>
+          <Link to="/sort-code" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all Sort Codes</Link>
+        </div>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
+          {[
+            { name: 'Barclays', link: '/sort-code/20-00-00' },
+            { name: 'HSBC', link: '/sort-code/40-00-00' },
+            { name: 'Lloyds', link: '/sort-code/30-00-00' },
+            { name: 'NatWest', link: '/sort-code/60-00-01' },
+            { name: 'Santander', link: '/sort-code/09-01-29' },
+            { name: 'Standard Chartered', link: '/sort-code/16-00-00' },
+            { name: 'Metro Bank', link: '/sort-code/23-05-80' },
+            { name: 'TSB', link: '/sort-code/30-94-47' },
+            { name: 'Co-operative Bank', link: '/sort-code/08-92-99' },
+            { name: 'Royal Bank of Scotland', link: '/sort-code/15-10-00' }
+          ].map((bank, idx) => (
+            <Link
+              key={idx}
+              to={bank.link}
+              className="px-4 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 rounded-xl text-center shadow-sm hover:shadow-md transition-all group flex flex-col justify-center min-h-[4rem]"
+            >
+              <div className="font-semibold text-slate-800 dark:text-slate-200 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
+                {bank.name}
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Major Banking Hubs Grid */}
       <section className="mb-16">
         <div className="flex justify-between items-center mb-8 px-2">
-          <h2 className="text-2xl font-bold dark:text-white">Popular Countries</h2>
+          <h2 className="text-2xl font-bold dark:text-white">Major Banking Hubs</h2>
           <Link to="/swift" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all 89 countries</Link>
         </div>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {[
             { name: 'United Kingdom', flag: '🇬🇧', count: '22,401', slug: 'united-kingdom' },
             { name: 'Germany', flag: '🇩🇪', count: '16,842', slug: 'germany' },
             { name: 'USA', flag: '🇺🇸', count: '18,500', slug: 'united-states' },
             { name: 'France', flag: '🇫🇷', count: '14,209', slug: 'france' },
             { name: 'Italy', flag: '🇮🇹', count: '9,112', slug: 'italy' },
+            { name: 'India', flag: '🇮🇳', count: '5,432', slug: 'india' },
+            { name: 'United Arab Emirates', flag: '🇦🇪', count: '1,205', slug: 'united-arab-emirates' },
+            { name: 'Switzerland', flag: '🇨🇭', count: '4,102', slug: 'switzerland' },
           ].map((c) => (
             <Link 
               key={c.slug}
@@ -398,7 +434,7 @@ export function Home() {
         </div>
       </section>
 
-      <AdSense slot="1234567890" className="mb-16" />
+      
 
     </main>
   );

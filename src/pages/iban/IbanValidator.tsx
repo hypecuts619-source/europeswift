@@ -5,7 +5,6 @@ import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { ibanFormats } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 
 export function IbanValidator() {
@@ -88,7 +87,7 @@ export function IbanValidator() {
         </CardContent>
       </Card>
 
-      <AdSense slot="1231231234" className="max-w-2xl mx-auto mb-8" />
+      
 
       {result && (
         <Card className={`max-w-2xl mx-auto border-2 ${result.valid ? 'border-green-500 bg-green-50/50 dark:bg-green-950/20' : 'border-red-500 bg-red-50/50 dark:bg-red-950/20'}`}>

@@ -65,7 +65,7 @@ export function AdSense({ slot, className = "" }: { slot: string, className?: st
     >
       <span className="mb-2 uppercase tracking-widest text-[9px] font-bold text-slate-400 opacity-50">Advertisement</span>
       <ins className="adsbygoogle"
-           style={{ display: 'block', minWidth: '250px', minHeight: '90px' }}
+           style={{ display: 'block', width: '100%' }}
            data-ad-client="ca-pub-7380090598384677"
            data-ad-slot={slot}
            data-ad-format="auto"

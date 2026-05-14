@@ -6,7 +6,6 @@ import { Input } from '../../components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { Alert, AlertDescription, AlertTitle } from '../../components/ui/alert';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../../components/ui/select';
-import { AdSense } from '../../components/AdSense';
 
 export function IbanCalculator() {
   const [country, setCountry] = useState('');
@@ -149,7 +148,7 @@ export function IbanCalculator() {
             </Alert>
           )}
 
-          <AdSense slot="9876543210" />
+          
         </div>
       </div>
 

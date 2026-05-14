@@ -113,6 +113,13 @@ export const glossaryTerms: GlossaryTerm[] = [
     relatedSlugs: ["wire-transfer", "mid-market-rate"]
   },
   {
+    slug: "rtgs-real-time-gross-settlement",
+    term: "RTGS (Real-Time Gross Settlement)",
+    shortDefinition: "A funds transfer system where money instantly moves from one bank to another on a 'real-time' and 'gross' basis.",
+    longDefinition: "Real-Time Gross Settlement (RTGS) systems are specialist funds transfer systems where the transfer of money or securities takes place from one bank to any other bank on a 'real-time' and on a 'gross' basis. Settlement in 'real time' means a payment transaction is not subjected to any waiting period, with transactions being settled as soon as they are processed. 'Gross settlement' means the transaction is settled on a one-to-one basis, without bundling or netting with any other transaction. Typically used for high-value transactions that require immediate clearing.",
+    relatedSlugs: ["chaps", "fps-faster-payments", "wire-transfer"]
+  },
+  {
     slug: "sepa-single-euro-payments",
     term: "SEPA (Single Euro Payments Area)",
     shortDefinition: "An EU initiative to harmonize and streamline electronic Euro payments.",

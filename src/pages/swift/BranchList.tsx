@@ -5,7 +5,6 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { Input } from '../../components/ui/input';
 import { Card, CardContent } from '../../components/ui/card';
 import { countriesData } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 
 export interface SwiftCodeDoc {
@@ -268,7 +267,7 @@ export function BranchList() {
              </ul>
           </div>
 
-          <AdSense slot="5566778899" />
+          
         </aside>
       </div>
     </div>

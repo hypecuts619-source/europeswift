@@ -49,6 +49,35 @@ export function ContactUs() {
             </div>
           </div>
 
+          <div className="bg-slate-50 dark:bg-slate-800/50 p-8 rounded-xl border border-slate-200 dark:border-slate-800 my-12">
+            <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-6">Our Headquarters</h2>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
+              <div>
+                <p className="text-slate-600 dark:text-slate-400 mb-6">
+                  While our database covers financial institutions globally, our data architects and compliance team are based in our technology hub in Kerala, India.
+                </p>
+                <div className="space-y-4">
+                  <h3 className="font-bold text-slate-900 dark:text-white">SwiftCodeDir Tech Hub</h3>
+                  <address className="not-italic text-slate-600 dark:text-slate-400 leading-relaxed">
+                    Infopark Phase 1, Kakkanad<br />
+                    Kochi, Kerala 682030<br />
+                    India
+                  </address>
+                </div>
+              </div>
+              <div className="h-64 bg-slate-200 dark:bg-slate-800 rounded-lg overflow-hidden border border-slate-300 dark:border-slate-700 relative">
+                  <iframe 
+                    width="100%" 
+                    height="100%" 
+                    style={{ border: 0 }} 
+                    loading="lazy" 
+                    allowFullScreen 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.983163155708!2d76.35332611475143!3d10.018151592837373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c8e94a07a07%3A0x10b7f847240d1a49!2sInfopark%20Phase%201!5e0!3m2!1sen!2sin!4v1689253457597!5m2!1sen!2sin">
+                  </iframe>
+              </div>
+            </div>
+          </div>
+
           <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-12 mb-4">Data Correction Requests</h2>
           <p className="text-slate-600 dark:text-slate-400">
             If you represent a financial institution and need to update your SWIFT, BIC, IBAN format, or routing information, please email us with the subject line <strong>"Data Correction Request"</strong>. Include official documentation or a link to your public bank registry to expedite the verification process.

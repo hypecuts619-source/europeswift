@@ -5,7 +5,6 @@ import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
-import { AdSense } from '../../components/AdSense';
 import { ROUTING_NUMBERS } from '../../data/routingNumbers';
 
 export function RoutingHome() {
@@ -91,7 +90,7 @@ export function RoutingHome() {
             </CardContent>
           </Card>
           
-          <AdSense slot="3131313131" />
+          
         </aside>
       </div>
     </div>

@@ -60,6 +60,46 @@ export function AboutUs() {
           <p className="text-slate-600 dark:text-slate-400">
             Whether you are an expat sending money home, a freelancer receiving international payments, or a corporate treasury managing cross-border transactions, SwiftcodeDir is committed to keeping the financial world connected through reliable data.
           </p>
+
+          <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-12 mb-6 border-b border-slate-100 dark:border-slate-800 pb-2">Meet the Experts Behind the Data</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
+            <div className="flex flex-col gap-4">
+              <div className="flex items-center gap-4">
+                <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-800 overflow-hidden shrink-0">
+                  <img src="https://ui-avatars.com/api/?name=Mathew+George&background=0D8ABC&color=fff&size=128" alt="Mathew George" className="w-full h-full object-cover" />
+                </div>
+                <div>
+                  <h3 className="font-bold text-lg text-slate-900 dark:text-white">Mathew George</h3>
+                  <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">Head of Financial Data Architecture</p>
+                </div>
+              </div>
+              <p className="text-sm text-slate-600 dark:text-slate-400">
+                With over 15 years as a treasury systems architect, Mathew ensures our database strictly adheres to ISO 20022 formatting and accurately reflects institutional mergers. His rigorous verification algorithms are the backbone of SwiftcodeDir.
+              </p>
+            </div>
+
+            <div className="flex flex-col gap-4">
+              <div className="flex items-center gap-4">
+                <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-800 overflow-hidden shrink-0">
+                  <img src="https://ui-avatars.com/api/?name=Aarathy+Panicker&background=10B981&color=fff&size=128" alt="Aarathy Panicker" className="w-full h-full object-cover" />
+                </div>
+                <div>
+                  <h3 className="font-bold text-lg text-slate-900 dark:text-white">Aarathy Panicker</h3>
+                  <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">Lead Compliance & Regulatory Analyst</p>
+                </div>
+              </div>
+              <p className="text-sm text-slate-600 dark:text-slate-400">
+                Aarathy previously worked as an AML (Anti-Money Laundering) specialist. She constantly monitors global regulatory changes—such as PSD3 and SEPA mandates—to guarantee our routing information meets the latest cross-border compliance standards mapping closely to regulations observed worldwide.
+              </p>
+            </div>
+          </div>
+
+          <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-12 mb-6 border-b border-slate-100 dark:border-slate-800 pb-2">How We Verify Our Data</h2>
+          <div className="bg-blue-50 dark:bg-slate-800/50 rounded-xl p-6 border border-blue-100 dark:border-slate-800 mt-6">
+            <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
+              Accuracy in financial routing is critical. A single incorrect character can result in a failed transfer, costly repair fees, and weeks of delays. To ensure the highest level of reliability, Mathew and our data team manually cross-reference 186,000+ BICs against official central bank registries, SWIFT directories, and direct banking portals. Our database undergoes constant verification cycles to account for bank mergers, restructuring, and branch closures across the globe.
+            </p>
+          </div>
         </div>
       </div>
     </div>

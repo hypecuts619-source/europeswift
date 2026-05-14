@@ -8,7 +8,6 @@ import { Badge } from '../../components/ui/badge';
 import { Button } from '../../components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../components/ui/table';
 import { countriesData, mockBanksData } from '../../data/mockData';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 import { AUTHORITY_ENGINE_DATA } from '../../data/authorityEngine';
 import { AuthorityProfile } from '../../components/AuthorityProfile';
@@ -379,13 +378,13 @@ export function BankSwift() {
                 <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-4 capitalize">About {bankNameStr} SWIFT & BIC Codes</h2>
                 <div className="prose prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-slate-400">
                   <p>
-                    When initiating an international wire transfer to {bankNameStr} in {country.name}, the SWIFT or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
+                    When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 dark:text-blue-400 hover:underline">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
                   </p>
                   <p>
                     <strong>Why you need this code:</strong> The international financial network uses these codes to securely route funds across borders. Without the correct BIC code, your transaction could be delayed, rejected, or subjected to additional manual processing fees by intermediary banks.
                   </p>
                   <p>
-                    Always ensure you have confirmed the correct branch-specific SWIFT code along with the recipient's accurate Account Number or IBAN (International Bank Account Number) prior to submitting your transfer documents.
+                    Always ensure you have confirmed the correct branch-specific SWIFT code along with the recipient's accurate Account Number or <Link to="/glossary/iban-international-bank-account" className="text-blue-600 dark:text-blue-400 hover:underline">IBAN</Link> (International Bank Account Number) prior to submitting your transfer documents.
                   </p>
                 </div>
               </div>
@@ -645,11 +644,11 @@ export function BankSwift() {
             </CardContent>
           </Card>
           
-          <Card className="border border-blue-200 shadow-sm">
+          <Card className="border border-blue-200 shadow-sm mt-6">
             <CardContent className="p-6">
               <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {bankNameStr}?</h3>
               <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">
-                If you are sending an international wire template, make sure to ask your beneficiary for their exact IBAN. You will need both the SWIFT code and the IBAN for a successful transaction.
+                If you are sending an international wire template, make sure to ask your beneficiary for their exact <Link to="/glossary/iban-international-bank-account" className="text-blue-600 hover:underline dark:text-blue-400">IBAN</Link>. You will need both the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 hover:underline dark:text-blue-400">SWIFT code</Link> and the IBAN for a successful transaction.
               </p>
               <Link to="/what-is-an-iban">
                 <Button variant="outline" className="w-full text-[#003399] dark:text-blue-400 border-[#003399]/30 dark:border-blue-400/30 hover:bg-blue-50 dark:hover:bg-slate-800">
@@ -658,7 +657,31 @@ export function BankSwift() {
               </Link>
             </CardContent>
           </Card>
-          <AdSense slot="5566778899" />
+
+          <Card className="border border-emerald-200 dark:border-emerald-900 bg-emerald-50/50 dark:bg-slate-900 shadow-sm">
+             <CardContent className="p-6">
+                <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2 flex items-center gap-2">
+                   <Info className="w-4 h-4 text-emerald-600" />
+                   Recommended Reading
+                </h3>
+                <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">
+                  Did you know that routing funds incorrectly can incur steep intermediary fees? Read our latest architectural analysis on international routing.
+                </p>
+                <div className="flex flex-col gap-3">
+                  <Link to={country.code === 'GB' || ["AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK", "SI", "ES", "SE"].includes(country.code) ? "/blog/swift-vs-sepa" : "/blog/avoid-high-wire-fees"}>
+                     <div className="group border border-slate-200 dark:border-slate-800 rounded-lg p-3 hover:border-emerald-300 dark:hover:border-emerald-700 transition-colors bg-white dark:bg-slate-950">
+                        <h4 className="text-sm font-bold text-slate-900 dark:text-slate-100 group-hover:text-emerald-700 dark:group-hover:text-emerald-400 transition-colors">
+                           {country.code === 'GB' || ["AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK", "SI", "ES", "SE"].includes(country.code) 
+                             ? "SWIFT vs SEPA: Which Should You Use for European Payments in 2026?" 
+                             : "How to Avoid High Fees on International Wire Transfers"}
+                        </h4>
+                        <p className="text-xs text-slate-500 mt-1">Read the full guide →</p>
+                     </div>
+                  </Link>
+                </div>
+             </CardContent>
+          </Card>
+          
         </aside>
       </div>
     </main>

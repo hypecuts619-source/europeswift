@@ -6,7 +6,6 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
-import { AdSense } from "../components/AdSense";
 
 export function BlogPostPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -15,6 +14,21 @@ export function BlogPostPage() {
   if (!post) {
     return <Navigate to="/blog" replace />;
   }
+
+  const isCompliance = post.executiveSummary?.compliance || post.slug.includes('compliance') || post.slug.includes('sepa');
+  const author = isCompliance 
+    ? {
+        name: "Aarathy Panicker",
+        title: "Lead Compliance & Regulatory Analyst",
+        action: "Verified by",
+        avatarUrl: "https://ui-avatars.com/api/?name=Aarathy+Panicker&background=10B981&color=fff&size=128"
+      }
+    : {
+        name: "Mathew George",
+        title: "Head of Financial Data Architecture",
+        action: "Written by",
+        avatarUrl: "https://ui-avatars.com/api/?name=Mathew+George&background=0D8ABC&color=fff&size=128"
+      };
 
   // Related posts logic: pick 3 other posts
   const currentIndex = blogPosts.findIndex(p => p.slug === slug);
@@ -39,7 +53,7 @@ export function BlogPostPage() {
   };
 
   return (
-    <div className="w-full mx-auto py-4 md:py-8">
+    <div className="w-full mx-auto">
       <SEO 
         title={`${post.title} | SwiftCodeDir`}
         description={post.excerpt}
@@ -110,8 +124,6 @@ export function BlogPostPage() {
             )}
           </header>
 
-          <AdSense slot="blog_post_top" className="mb-6 mt-4" />
-
           <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-img:rounded-xl">
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
@@ -129,7 +141,18 @@ export function BlogPostPage() {
             </ReactMarkdown>
           </div>
 
-          <AdSense slot="blog_post_bottom" className="my-8" />
+          <div className="mt-12 bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 border border-slate-100 dark:border-slate-800 flex items-center gap-6">
+            <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden shrink-0">
+              <img src={author.avatarUrl} alt={author.name} className="w-full h-full object-cover" />
+            </div>
+            <div>
+              <p className="text-sm text-slate-500 dark:text-slate-400 font-medium mb-0.5">{author.action}</p>
+              <h3 className="font-bold text-lg text-slate-900 dark:text-white leading-tight">{author.name}</h3>
+              <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">{author.title}</p>
+            </div>
+          </div>
+
+          {/*  */}
 
           <div className="mt-16 pt-12 border-t border-slate-100 dark:border-slate-800">
              <h3 className="text-2xl font-bold mb-8 flex items-center gap-2">

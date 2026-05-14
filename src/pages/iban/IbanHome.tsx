@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent } from '../../components/ui/card';
 import { Link } from 'react-router-dom';
-import { AdSense } from '../../components/AdSense';
 import { Search, Globe } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import ibanFormatsData from '../../data/iban-formats.json';
@@ -125,7 +124,7 @@ export function IbanHome() {
               <Link to="/iban/validator" className="w-full text-center py-3 bg-white dark:bg-blue-600 text-[#003399] dark:text-white rounded-lg font-bold inline-block hover:bg-blue-50 dark:hover:bg-blue-500 transition-all shadow-md active:scale-95">Open Validator</Link>
             </CardContent>
           </Card>
-          <AdSense slot="9876543210" />
+          
         </aside>
       </div>
     </div>

@@ -4,7 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/ca
 import { Button } from '../../components/ui/button';
 import { Landmark, ArrowLeft, Info, MapPin, Building2, HelpCircle, CreditCard } from 'lucide-react';
 import { SEO } from '../../components/SEO';
-import { AdSense } from '../../components/AdSense';
 import { SORT_CODES } from '../../data/sortCodes';
 
 export function SortCodeDetails() {
@@ -145,7 +144,7 @@ export function SortCodeDetails() {
             </CardContent>
           </Card>
 
-          <AdSense slot="1122334455" />
+          
         </aside>
       </div>
     </div>

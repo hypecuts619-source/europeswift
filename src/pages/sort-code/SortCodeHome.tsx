@@ -5,7 +5,6 @@ import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
-import { AdSense } from '../../components/AdSense';
 import { SORT_CODES } from '../../data/sortCodes';
 
 export function SortCodeHome() {
@@ -75,6 +74,14 @@ export function SortCodeHome() {
                 A sort code is a six-digit number that identifies both the bank and the branch where an account is held. In the UK, it is essential for domestic BACS, CHAPS, and Faster Payments.
               </p>
               <div className="pt-4 border-t border-slate-100 dark:border-slate-800">
+                <h3 className="font-medium text-sm text-slate-900 dark:text-slate-100 mb-2">Expert Analysis</h3>
+                <ul className="space-y-2 text-sm mb-4">
+                  <li>
+                    <Link to="/blog/complete-2026-guide-uk-bank-sort-codes" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">
+                      The Complete 2026 Guide to UK Bank Sort Codes
+                    </Link>
+                  </li>
+                </ul>
                 <h3 className="font-medium text-sm text-slate-900 dark:text-slate-100 mb-2">Helpful Guides</h3>
                 <ul className="space-y-2 text-sm">
                   <li>
@@ -92,7 +99,7 @@ export function SortCodeHome() {
             </CardContent>
           </Card>
           
-          <AdSense slot="2121212121" />
+          
         </aside>
       </div>
     </div>

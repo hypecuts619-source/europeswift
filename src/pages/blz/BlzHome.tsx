@@ -5,7 +5,6 @@ import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
-import { AdSense } from '../../components/AdSense';
 import { SEO } from '../../components/SEO';
 import { GERMAN_BANKS } from '../../data/germanBanks';
 
@@ -128,7 +127,7 @@ export function BlzHome() {
             </CardContent>
           </Card>
           
-          <AdSense slot="9191919191" />
+          
         </aside>
       </div>
     </div>
