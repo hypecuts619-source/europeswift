@@ -39,10 +39,14 @@ import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
 const SiteMap = lazy(() => import('./pages/SiteMap').then(module => ({ default: module.SiteMap })));
 const AboutUs = lazy(() => import('./pages/AboutUs').then(module => ({ default: module.AboutUs })));
+const ContactUs = lazy(() => import('./pages/ContactUs').then(module => ({ default: module.ContactUs })));
 const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy').then(module => ({ default: module.PrivacyPolicy })));
 const TermsAndConditions = lazy(() => import('./pages/TermsAndConditions').then(module => ({ default: module.TermsAndConditions })));
+const CookiePolicy = lazy(() => import('./pages/CookiePolicy').then(module => ({ default: module.CookiePolicy })));
 const BlogIndex = lazy(() => import('./pages/BlogIndex').then(module => ({ default: module.BlogIndex })));
 const BlogPostPage = lazy(() => import('./pages/BlogPostPage').then(module => ({ default: module.BlogPostPage })));
+const GlossaryIndex = lazy(() => import('./pages/GlossaryIndex').then(module => ({ default: module.GlossaryIndex })));
+const GlossaryTermPage = lazy(() => import('./pages/GlossaryTerm').then(module => ({ default: module.GlossaryTermPage })));
 
 import { WhatIsSwift } from './pages/guides/WhatIsSwift';
 import { WhatIsIban } from './pages/guides/WhatIsIban';
@@ -192,6 +196,7 @@ function Layout() {
               <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
                 <li><Link to="/banking-statistics" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Data & Stats</Link></li>
                 <li><Link to="/blog" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Banking Blog</Link></li>
+                <li><Link to="/glossary" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Banking Glossary</Link></li>
                 <li><Link to="/sitemap" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Site Map</Link></li>
               </ul>
             </div>
@@ -199,8 +204,10 @@ function Layout() {
               <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Company</h4>
               <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
                 <li><Link to="/about-us" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">About Us</Link></li>
+                <li><Link to="/contact-us" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Contact Us</Link></li>
                 <li><Link to="/privacy-policy" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Privacy Policy</Link></li>
                 <li><Link to="/terms-and-conditions" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Terms & Conditions</Link></li>
+                <li><Link to="/cookie-policy" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Cookie Policy</Link></li>
               </ul>
             </div>
           </div>
@@ -273,10 +280,14 @@ export default function App() {
                 {/* Guide pages placeholders */}
                 <Route path="sitemap" element={<SiteMap />} />
                 <Route path="about-us" element={<AboutUs />} />
+                <Route path="contact-us" element={<ContactUs />} />
                 <Route path="privacy-policy" element={<PrivacyPolicy />} />
                 <Route path="terms-and-conditions" element={<TermsAndConditions />} />
+                <Route path="cookie-policy" element={<CookiePolicy />} />
                 <Route path="blog" element={<BlogIndex />} />
                 <Route path="blog/:slug" element={<BlogPostPage />} />
+                <Route path="glossary" element={<GlossaryIndex />} />
+                <Route path="glossary/:slug" element={<GlossaryTermPage />} />
                 <Route path="banking-statistics" element={<BankingStatistics />} />
                 {/* Guide pages */}
                 <Route path="what-is-a-swift-code" element={<WhatIsSwift />} />

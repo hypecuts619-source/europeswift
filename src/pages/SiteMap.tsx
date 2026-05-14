@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Map, CreditCard, Landmark, FileText, Globe, Search, BookOpen, ShieldCheck } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { glossaryTerms } from '../data/glossaryTerms';
 
 export function SiteMap() {
   return (
@@ -142,6 +143,27 @@ export function SiteMap() {
                     SEPA Transfer Guide
                   </Link>
                 </li>
+              </ul>
+            </div>
+
+            <div className="mt-8">
+              <h2 className="flex items-center gap-2 text-lg font-bold text-slate-900 dark:text-white mb-4">
+                <BookOpen className="w-5 h-5 text-[#003399]" />
+                Banking Glossary
+              </h2>
+              <ul className="space-y-3 max-h-64 overflow-y-auto">
+                <li>
+                  <Link to="/glossary" className="text-slate-900 dark:text-white font-medium hover:text-[#003399] dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Glossary Index
+                  </Link>
+                </li>
+                {glossaryTerms.map(t => (
+                  <li key={`glossary-${t.slug}`}>
+                    <Link to={`/glossary/${t.slug}`} className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2 text-sm">
+                      {t.term}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
           </div>

@@ -114,7 +114,7 @@ export function IbanValidator() {
                     <dd className="font-mono text-gray-900 dark:text-slate-100">{result.bankCode}</dd>
                   </div>
                   <div className="col-span-2">
-                    <dt className="text-sm text-gray-500 dark:text-gray-400">Account Portion</dt>
+                     <dt className="text-sm text-gray-500 dark:text-gray-400">Account Portion</dt>
                     <dd className="font-mono text-gray-900 dark:text-slate-100 break-all">{result.accountNumber}</dd>
                   </div>
                 </dl>
@@ -123,11 +123,30 @@ export function IbanValidator() {
           )}
           {!result.valid && result.error && (
             <CardContent>
-              <p className="text-red-700">{result.error}</p>
+              <p className="text-red-700 dark:text-red-400 font-medium">{result.error}</p>
             </CardContent>
           )}
         </Card>
       )}
+
+      <div className="max-w-3xl mx-auto mt-16 prose prose-slate dark:prose-invert">
+        <h2 className="text-2xl font-bold">What Does Our IBAN Validator Check?</h2>
+        <p>
+          Sending money internationally, especially within the SEPA (Single Euro Payments Area), requires an accurate International Bank Account Number (IBAN). An incorrect character can cause a wire transfer to fail, leading to heavy rejection fees applied by correspondent banks.
+        </p>
+        <p>
+          Our IBAN Checker validates the integrity of the IBAN by executing three crucial checks:
+        </p>
+        <ul>
+          <li><strong>Length Verification:</strong> Every country has a strictly mandated IBAN length. For example, a French IBAN is exactly 27 characters, while a German IBAN is 22 characters. We check the country segment against the global IBAN registry.</li>
+          <li><strong>Format Validation:</strong> We ensure that the correct mixture of letters and numbers exists at the correct index (e.g., ensuring the bank identifier is numeric if required by that nation's central bank).</li>
+          <li><strong>Mathematical Modulo 97 Checksum:</strong> The backbone of the IBAN standard is the ISO 7064 MOD 97-10 algorithm. By converting letters to integers and performing mathematical division on the full string, we verify that the two checksum digits (the ones succeeding the country code) are perfectly accurate. If an IBAN fails this mathematical test, it is guaranteed to be a forgery or harbor a typo.</li>
+        </ul>
+        <h3>Is It Safe to Check My IBAN?</h3>
+        <p>
+          Yes. Our validator checks the mathematical logic mathematically on your device or via secure transit without saving the account number to a database. An IBAN alone cannot be used to withdraw money from your account; it is strictly an address for <em>receiving</em> funds.
+        </p>
+      </div>
     </div>
   );
 }

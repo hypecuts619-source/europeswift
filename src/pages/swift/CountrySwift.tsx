@@ -134,9 +134,17 @@ export function CountrySwift() {
             SWIFT Codes for {country.name}
           </h1>
         </div>
-        <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl">
-          Browse our directory of SWIFT / BIC codes for {country.name}. Use the search bar to find a specific bank or branch.
-        </p>
+        <div className="prose prose-slate dark:prose-invert max-w-none text-gray-600 dark:text-gray-400">
+          <p className="text-lg">
+            Browse our comprehensive directory of SWIFT / BIC codes for financial institutions operating in {country.name}. Use the search bar to find a specific bank or branch.
+          </p>
+          <p>
+            When sending an international wire transfer to {country.name}, the SWIFT code (also known as a BIC code) is absolutely essential. It ensures that your payment is routed securely and directly to the correct destination bank. Most banks in {country.name} adhere strictly to international payment standards, meaning transfers without an accurate SWIFT code and IBAN will likely fail or incur heavy processing fees.
+          </p>
+          <p>
+            The SWIFT codes listed below have been verified against the most recent financial registry updates.
+          </p>
+        </div>
       </div>
 
       <div className="grid lg:grid-cols-[1fr_300px] gap-10">

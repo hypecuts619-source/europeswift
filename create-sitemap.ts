@@ -30,7 +30,13 @@ async function generateSitemap() {
     console.log(`Found ${files.length} country files...`);
     
     for (const file of files) {
-      const countryData = JSON.parse(fs.readFileSync(path.join(countriesDataDir, file), 'utf8'));
+      let countryData;
+      try {
+        countryData = JSON.parse(fs.readFileSync(path.join(countriesDataDir, file), 'utf8'));
+      } catch (e) {
+        console.error(`Error parsing ${file}:`, e);
+        continue;
+      }
       const countrySlug = file.replace('.json', ''); // e.g. "us"
       
       // Add country page

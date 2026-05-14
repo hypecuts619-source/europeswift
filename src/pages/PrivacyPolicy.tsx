@@ -38,6 +38,16 @@ export function PrivacyPolicy() {
             Like any other website, SwiftcodeDir uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
           </p>
 
+          <h3 className="text-xl font-bold text-slate-900 dark:text-white mt-8 mb-4">Google AdSense and DoubleClick DART Cookie</h3>
+          <p>
+            Google is one of the third-party vendors on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to our site and other sites on the internet.
+          </p>
+          <ul className="list-disc pl-6 space-y-2 mt-4">
+            <li>Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.</li>
+            <li>Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.</li>
+            <li>Users may opt out of personalized advertising by visiting <a href="https://myadcenter.google.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Ads Settings</a>.</li>
+          </ul>
+
           <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-8 mb-4">Third-Party Privacy Policies</h2>
           <p>
             SwiftcodeDir's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.

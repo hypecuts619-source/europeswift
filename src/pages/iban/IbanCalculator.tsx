@@ -152,6 +152,31 @@ export function IbanCalculator() {
           <AdSense slot="9876543210" />
         </div>
       </div>
+
+      <div className="max-w-4xl mx-auto mt-16 prose prose-slate dark:prose-invert">
+        <h2 className="text-2xl font-bold">Why Do You Need an IBAN Calculator?</h2>
+        <p>
+          If you hold a bank account in a SEPA (Single Euro Payments Area) nation or one of the 80+ countries that adhere to the IBAN registry, you automatically have an IBAN. However, many domestic banks only print your localized Bank Code (like a Sort Code in the UK or a BLZ in Germany) and your Basic Bank Account Number (BBAN) on your statement.
+        </p>
+        <p>
+          If a foreign client or employer needs to wire you money, giving them your local codes is insufficient. The international SWIFT and SEPA networks require the fully formatted IBAN to successfully resolve the transaction. 
+        </p>
+        
+        <h3>How We Generate Your IBAN</h3>
+        <p>
+          Constructing an IBAN isn't just about combining your bank code and account number. The critical component of an IBAN is the two-digit <strong>Checksum</strong> located immediately after the two-letter country code. 
+        </p>
+        <ul>
+          <li><strong>Step 1: BBAN Assembly:</strong> We assemble your local bank identity format (e.g., in the UK this is the 4-letter bank identifier + 6-digit sort code + 8-digit account number).</li>
+          <li><strong>Step 2: String Conversion:</strong> We move the country code and a temporary '00' checksum to the end of the string, and convert all alphabet characters into their numeric equivalents (where A=10, B=11... Z=35).</li>
+          <li><strong>Step 3: Modulo Arithmetic:</strong> We divide this massive integer mathematically by 97. We subtract the remainder from 98. This resulting two-digit number is your unique, un-forgeable checksum.</li>
+          <li><strong>Step 4: Final Formatting:</strong> Your checksum is inserted back at the beginning of the string, and the system formats it into groups of four for human readability. </li>
+        </ul>
+        
+        <p className="p-4 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-lg text-amber-800 dark:text-amber-300">
+          <strong>Important Disclamer:</strong> This tool generates IBANs based on standard algorithmic formatting. It cannot verify if the underlying bank account is open, active, or belongs to a specific person. Always confirm your generated IBAN with a small "penny test" transfer or by calling your bank's customer service if you are receiving a large sum.
+        </p>
+      </div>
     </main>
   );
 }

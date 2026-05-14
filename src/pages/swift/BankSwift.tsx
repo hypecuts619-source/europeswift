@@ -375,6 +375,21 @@ export function BankSwift() {
                 />
               </div>
 
+              <div className="mt-8 border-t border-slate-100 dark:border-slate-800 pt-8">
+                <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-4 capitalize">About {bankNameStr} SWIFT & BIC Codes</h2>
+                <div className="prose prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-slate-400">
+                  <p>
+                    When initiating an international wire transfer to {bankNameStr} in {country.name}, the SWIFT or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
+                  </p>
+                  <p>
+                    <strong>Why you need this code:</strong> The international financial network uses these codes to securely route funds across borders. Without the correct BIC code, your transaction could be delayed, rejected, or subjected to additional manual processing fees by intermediary banks.
+                  </p>
+                  <p>
+                    Always ensure you have confirmed the correct branch-specific SWIFT code along with the recipient's accurate Account Number or IBAN (International Bank Account Number) prior to submitting your transfer documents.
+                  </p>
+                </div>
+              </div>
+
               <div className="mt-8">
                 <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-4">SWIFT / BIC Code Breakdown</h3>
                 <div className="grid grid-cols-4 gap-3 text-center text-sm">
