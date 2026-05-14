@@ -98,18 +98,28 @@ export function SiteMap() {
               </h2>
               <ul className="space-y-3">
                 <li>
-                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    Data Sources
+                  <Link to="/about" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    About Us
                   </Link>
                 </li>
                 <li>
-                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    API Access
+                  <Link to="/contact" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Contact Us
                   </Link>
                 </li>
                 <li>
-                  <Link to="#" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                  <Link to="/privacy-policy" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
                     Privacy Policy
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/terms" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Terms & Conditions
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/cookies" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Cookie Policy
                   </Link>
                 </li>
               </ul>

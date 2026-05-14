@@ -57,19 +57,19 @@ export function BlogPostPage() {
         </Link>
         
         <article className="bg-white dark:bg-slate-900 rounded-3xl p-6 md:p-12 border border-slate-200 dark:border-slate-800 shadow-sm">
-          <header className="mb-10 text-center">
+          <header className="mb-6 text-center">
             <div className="flex items-center justify-center gap-2 text-sm font-medium text-[#003399] dark:text-blue-400 mb-4 bg-blue-50 dark:bg-blue-900/30 w-fit mx-auto px-3 py-1 rounded-full border border-blue-100 dark:border-blue-800">
               <Calendar className="w-4 h-4" />
               <time dateTime={post.date}>
                 {new Date(post.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
               </time>
             </div>
-            <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight mb-8">
+            <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight">
               {post.title}
             </h1>
 
             {post.executiveSummary && (
-              <div className="grid md:grid-cols-2 gap-4 text-left max-w-4xl mx-auto mb-12">
+              <div className="grid md:grid-cols-2 gap-4 text-left max-w-4xl mx-auto mt-8 mb-4">
                 <Card className="bg-blue-50/50 dark:bg-blue-900/10 border-blue-100 dark:border-blue-900/30">
                   <CardContent className="p-5">
                     <h3 className="text-xs font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-3 flex items-center gap-2">
@@ -109,7 +109,7 @@ export function BlogPostPage() {
             )}
           </header>
 
-          <AdSense slot="blog_post_top" className="mb-10" />
+          <AdSense slot="blog_post_top" className="mb-8 mt-4" />
 
           <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-img:rounded-xl">
             <ReactMarkdown 

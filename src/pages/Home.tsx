@@ -120,11 +120,6 @@ export function Home() {
           {daysRemaining} Days to Mandatory ISO 20022 Structured Addresses (Nov 14, 2026)
         </span>
       </motion.div>
-      <Helmet>
-        <script type="application/ld+json">
-          {JSON.stringify(jsonLd)}
-        </script>
-      </Helmet>
       
       {/* Hero Section */}
       <motion.section 
