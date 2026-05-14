@@ -1,9 +1,15 @@
 import { Link } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { SEO } from '../components/SEO';
 
 export function PrivacyPolicy() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Privacy Policy | SwiftcodeDir"
+        description="Learn how we handle your data and cookies. Our privacy policy outlines the types of information collected and recorded by SwiftcodeDir."
+        canonicalUrl="https://swiftcodedir.com/privacy-policy"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

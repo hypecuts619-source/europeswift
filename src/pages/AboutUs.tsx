@@ -1,10 +1,16 @@
 import { Link } from 'react-router-dom';
 import { Building2, Globe, ShieldCheck } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { SEO } from '../components/SEO';
 
 export function AboutUs() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="About SwiftcodeDir - Our Mission & Team | Global Bank Data Experts"
+        description="Learn about the experts behind SwiftcodeDir. We provide verified SWIFT / BIC codes, IBAN validation tools, and global banking routing numbers to simplify international money transfers."
+        canonicalUrl="https://swiftcodedir.com/about-us"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

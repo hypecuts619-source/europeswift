@@ -45,7 +45,7 @@ export function IbanValidator() {
       <SEO 
         title="IBAN Validator - Check IBAN Number Validity | SwiftCodeDir"
         description="Verify the checksum and format of an International Bank Account Number. Validate IBAN for SEPA and international bank transfers safely."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/iban/validator"
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

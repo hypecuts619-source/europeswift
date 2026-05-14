@@ -68,7 +68,7 @@ export function CountrySwift() {
     "@type": "Dataset",
     "name": `${country.name} Banks SWIFT/BIC Codes Directory`,
     "description": `Comprehensive directory of SWIFT / BIC codes for all banks in ${country.name}. Check branch details, head office codes, and international routing numbers.`,
-    "url": window.location.href,
+    "url": `https://swiftcodedir.com/swift/${countrySlug}`,
     "creator": {
       "@type": "Organization",
       "name": "SwiftCodeDir"
@@ -106,7 +106,7 @@ export function CountrySwift() {
       <SEO 
         title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
         description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
-        canonicalUrl={window.location.href}
+        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug}`}
         jsonLd={[datasetSchema, faqSchema]}
       />
 

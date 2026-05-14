@@ -57,7 +57,7 @@ export function BlogPostPage() {
       <SEO 
         title={`${post.title} | SwiftCodeDir`}
         description={post.excerpt}
-        canonicalUrl={window.location.href}
+        canonicalUrl={`https://swiftcodedir.com/blog/${post.slug}`}
         ogType="article"
         jsonLd={articleSchema}
       />

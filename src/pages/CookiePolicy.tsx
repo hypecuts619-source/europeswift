@@ -1,9 +1,15 @@
 import { Link } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { SEO } from '../components/SEO';
 
 export function CookiePolicy() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Cookie Policy | SwiftcodeDir"
+        description="Learn about how we use cookies at SwiftcodeDir to improve your user experience and for website analytics."
+        canonicalUrl="https://swiftcodedir.com/cookie-policy"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

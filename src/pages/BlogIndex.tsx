@@ -12,14 +12,14 @@ export function BlogIndex() {
     "@context": "https://schema.org",
     "@type": "Blog",
     "name": "SwiftCodeDir Banking Insights",
-    "url": window.location.href,
+    "url": "https://swiftcodedir.com/blog",
     "description": "Guides, explanations, and insights into the world of international finance, SWIFT codes, and secure money transfers.",
     "blogPost": sortedPosts.map(post => ({
       "@type": "BlogPosting",
       "headline": post.title,
       "datePublished": post.date,
       "description": post.excerpt,
-      "url": `${window.location.origin}/blog/${post.slug}`
+      "url": `https://swiftcodedir.com/blog/${post.slug}`
     }))
   };
 
@@ -28,7 +28,7 @@ export function BlogIndex() {
       <SEO 
         title="Banking Insights & SWIFT Code Guides | SwiftCodeDir"
         description="Read our latest articles and guides on international wire transfers, SWIFT codes, IBANs, and global banking."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/blog"
       />
       <Helmet>
         <script type="application/ld+json">

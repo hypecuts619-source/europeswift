@@ -29,7 +29,7 @@ export function IbanHome() {
       <SEO 
         title="IBAN Directory & Formats | SwiftCodeDir"
         description="Explore the complete registry of IBAN formats, lengths, and structures for all SEPA and international bank account numbering systems."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/iban"
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

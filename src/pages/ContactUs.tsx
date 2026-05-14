@@ -1,10 +1,16 @@
 import { Link } from 'react-router-dom';
 import { Mail, MessageSquare } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { SEO } from '../components/SEO';
 
 export function ContactUs() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Contact Us | SwiftcodeDir"
+        description="Have a question about a SWIFT code or IBAN? Get in touch with the SwiftcodeDir team. We're here to help with your banking routing data inquiries."
+        canonicalUrl="https://swiftcodedir.com/contact-us"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

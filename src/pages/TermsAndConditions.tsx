@@ -1,9 +1,15 @@
 import { Link } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
+import { SEO } from '../components/SEO';
 
 export function TermsAndConditions() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Terms & Conditions | SwiftcodeDir"
+        description="Read the terms and conditions for using SwiftcodeDir's banking directory and financial tools."
+        canonicalUrl="https://swiftcodedir.com/terms-and-conditions"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

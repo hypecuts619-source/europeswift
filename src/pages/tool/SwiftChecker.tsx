@@ -62,7 +62,7 @@ export function SwiftChecker() {
       <SEO 
         title="SWIFT Code Checker - Verify BIC Codes | SwiftCodeDir"
         description="Check, decode and verify SWIFT / BIC codes instantly. Find the bank, country, location, and branch details from any SWIFT code."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/swift-checker"
       />
       <Helmet>
         <script type="application/ld+json">

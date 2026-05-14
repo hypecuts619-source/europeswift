@@ -19,7 +19,7 @@ export function BankingStatistics() {
       "name": "SwiftCodeDir",
       "logo": {
         "@type": "ImageObject",
-        "url": window.location.origin + "/logo.png"
+        "url":  + "/logo.png"
       }
     },
     "datePublished": "2026-05-15",
@@ -31,7 +31,7 @@ export function BankingStatistics() {
       <SEO 
         title="Global Banking & SWIFT Code Statistics Data 2026 | SwiftCodeDir"
         description="A research repository of global SWIFT/BIC code statistics, banking density by country, and international wire transfer metrics. Perfect for citations and research."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/banking-statistics"
       />
       <Helmet>
         <script type="application/ld+json">

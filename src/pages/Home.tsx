@@ -58,9 +58,9 @@ export function Home() {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "SwiftCodeDir",
-    "url": window.location.origin,
-    "logo": `${window.location.origin}/icon-512.png`,
-    "description": "The world's most comprehensive directory of SWIFT / BIC codes, IBAN validation tools, sort codes, and global banking routing numbers.",
+    "url": "https://swiftcodedir.com",
+    "logo": "https://swiftcodedir.com/icon-512.png",
+    "description": "The world's most comprehensive directory of SWIFT / BIC codes, IBAN validation tools, and global banking routing numbers.",
     "sameAs": [
       "https://twitter.com/swiftcodedir"
     ]
@@ -71,7 +71,7 @@ export function Home() {
     "@type": "Dataset",
     "name": "Global SWIFT/BIC Codes Directory",
     "description": "Database of 186,000+ banking codes, including BICs, branch codes, and bank addresses for 89 countries.",
-    "url": window.location.origin,
+    "url": "https://swiftcodedir.com",
     "creator": {
       "@type": "Organization",
       "name": "SwiftCodeDir"
@@ -86,11 +86,11 @@ export function Home() {
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "SwiftCodeDir",
-      "url": window.location.origin,
+      "url": "https://swiftcodedir.com",
       "description": t('home.subtitle'),
       "potentialAction": {
         "@type": "SearchAction",
-        "target": `${window.location.origin}/swift/{search_term_string}`,
+        "target": "https://swiftcodedir.com/swift/{search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
@@ -104,7 +104,7 @@ export function Home() {
       <SEO 
         title={`${t('home.title')} | SwiftCodeDir`}
         description={t('home.subtitle')}
-        canonicalUrl={window.location.origin}
+        canonicalUrl="https://swiftcodedir.com"
         jsonLd={jsonLd}
       />
 

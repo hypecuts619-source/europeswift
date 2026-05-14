@@ -32,7 +32,7 @@ export function BanksAtoZ() {
       <SEO 
         title="Global Banks A-Z Directory | SwiftCodeDir"
         description="Browse our comprehensive A-Z directory of global banks. Find SWIFT codes, branch locations, and routing information for banks worldwide."
-        canonicalUrl="/banks"
+        canonicalUrl="https://swiftcodedir.com/banks"
       />
 
       <div className="text-center max-w-3xl mx-auto mb-12">

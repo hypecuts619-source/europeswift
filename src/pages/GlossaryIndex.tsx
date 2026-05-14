@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
 import { glossaryTerms } from '../data/glossaryTerms';
 import { BookA } from 'lucide-react';
+import { SEO } from '../components/SEO';
 
 export function GlossaryIndex() {
   // Sort alphabetically by term
@@ -9,6 +10,11 @@ export function GlossaryIndex() {
 
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Banking & Finance Glossary - SWIFT, IBAN, & SEPA Terms Explained"
+        description="Decode international banking terminology. Our glossary covers everything from SWIFT and BIC codes to SEPA mandates and domestic routing numbers."
+        canonicalUrl="https://swiftcodedir.com/glossary"
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

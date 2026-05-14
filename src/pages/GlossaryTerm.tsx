@@ -2,7 +2,7 @@ import { useParams, Link, Navigate } from 'react-router-dom';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
 import { glossaryTerms } from '../data/glossaryTerms';
 import { ChevronRight, ArrowLeft } from 'lucide-react';
- 
+import { SEO } from '../components/SEO';
 
 export function GlossaryTermPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -19,6 +19,11 @@ export function GlossaryTermPage() {
 
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title={`${termData.term} - Definition & Banking Guide | SwiftcodeDir`}
+        description={termData.shortDefinition}
+        canonicalUrl={`https://swiftcodedir.com/glossary/${termData.slug}`}
+      />
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>

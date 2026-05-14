@@ -78,7 +78,7 @@ export function BranchList() {
     "@type": "Dataset",
     "name": `${country.name} Bank Branches Dataset`,
     "description": `Complete directory of all bank branches in ${country.name} with their respective SWIFT/BIC codes and addresses.`,
-    "url": window.location.href,
+    "url": `https://swiftcodedir.com/swift/${countrySlug}/branches`,
     "creator": {
       "@type": "Organization",
       "name": "SwiftCodeDir"
@@ -107,7 +107,7 @@ export function BranchList() {
       <SEO 
         title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data`}
         description={`Explore all ${allBranches.length} bank branches in ${country.name}. Find exact SWIFT codes, branch addresses, and routing numbers required for secure wire transfers.`}
-        canonicalUrl={window.location.href}
+        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug}/branches`}
         jsonLd={[datasetSchema, faqSchema]}
       />
       <Breadcrumb className="mb-8">

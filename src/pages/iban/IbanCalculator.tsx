@@ -6,6 +6,7 @@ import { Input } from '../../components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { Alert, AlertDescription, AlertTitle } from '../../components/ui/alert';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../../components/ui/select';
+import { SEO } from '../../components/SEO';
 
 export function IbanCalculator() {
   const [country, setCountry] = useState('');
@@ -46,14 +47,12 @@ export function IbanCalculator() {
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
-      <Helmet>
-        <title>IBAN Calculator & Generator | Calculate International Bank Account Number</title>
-        <meta name="description" content="Calculate your IBAN (International Bank Account Number) from your local bank code and account number using our free IBAN Generator." />
-        <link rel="canonical" href={window.location.href} />
-        <script type="application/ld+json">
-          {JSON.stringify(jsonLd)}
-        </script>
-      </Helmet>
+      <SEO 
+        title="IBAN Calculator & Generator | Calculate International Bank Account Number"
+        description="Calculate your IBAN (International Bank Account Number) from your local bank code and account number using our free IBAN Generator."
+        canonicalUrl="https://swiftcodedir.com/iban/calculator"
+        jsonLd={jsonLd}
+      />
 
       <div className="text-center mb-10">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-[#0B1C3D] to-[#003399] dark:from-blue-400 dark:to-blue-600 bg-clip-text text-transparent mb-4">

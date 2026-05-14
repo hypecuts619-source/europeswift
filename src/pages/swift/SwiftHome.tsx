@@ -54,7 +54,7 @@ export function SwiftHome() {
       "@type": "WebPage",
       "name": "SWIFT / BIC Codes Directory",
       "description": "Select a country to find SWIFT codes formatting and browse local bank directories.",
-      "url": window.location.href
+      "url": "https://swiftcodedir.com/swift"
     },
     faqSchema
   ];
@@ -64,7 +64,7 @@ export function SwiftHome() {
       <SEO 
         title="SWIFT / BIC Codes Directory | SwiftCodeDir"
         description="Browse our global directory of over 186,000 SWIFT, BIC, and routing codes by country to safely perform international bank wire transfers."
-        canonicalUrl={window.location.href}
+        canonicalUrl="https://swiftcodedir.com/swift"
       />
       <Helmet>
         <script type="application/ld+json">
