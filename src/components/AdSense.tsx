@@ -61,7 +61,7 @@ export function AdSense({ slot, className = "" }: { slot: string, className?: st
   return (
     <div 
       ref={containerRef}
-      className={`w-full flex flex-col items-center justify-center my-8 min-h-[120px] overflow-hidden ${className}`}
+      className={`w-full flex flex-col items-center justify-center overflow-hidden ${className}`}
     >
       <span className="mb-2 uppercase tracking-widest text-[9px] font-bold text-slate-400 opacity-50">Advertisement</span>
       <ins className="adsbygoogle"

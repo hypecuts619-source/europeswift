@@ -18,8 +18,9 @@ export function BlogPostPage() {
 
   // Related posts logic: pick 3 other posts
   const currentIndex = blogPosts.findIndex(p => p.slug === slug);
-  const relatedPosts = blogPosts
-    .filter((_, idx) => idx !== currentIndex)
+  const relatedPosts = [...blogPosts]
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .filter(p => p.slug !== slug)
     .slice(0, 3);
 
   const articleSchema = {
@@ -38,7 +39,7 @@ export function BlogPostPage() {
   };
 
   return (
-    <main className="w-full mx-auto px-4 py-8 md:py-16">
+    <div className="w-full mx-auto py-4 md:py-8">
       <SEO 
         title={`${post.title} | SwiftCodeDir`}
         description={post.excerpt}
@@ -109,7 +110,7 @@ export function BlogPostPage() {
             )}
           </header>
 
-          <AdSense slot="blog_post_top" className="mb-8 mt-4" />
+          <AdSense slot="blog_post_top" className="mb-6 mt-4" />
 
           <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-img:rounded-xl">
             <ReactMarkdown 
@@ -128,7 +129,7 @@ export function BlogPostPage() {
             </ReactMarkdown>
           </div>
 
-          <AdSense slot="blog_post_bottom" className="my-12" />
+          <AdSense slot="blog_post_bottom" className="my-8" />
 
           <div className="mt-16 pt-12 border-t border-slate-100 dark:border-slate-800">
              <h3 className="text-2xl font-bold mb-8 flex items-center gap-2">
@@ -168,6 +169,6 @@ export function BlogPostPage() {
           </div>
         </article>
       </div>
-    </main>
+    </div>
   );
 }

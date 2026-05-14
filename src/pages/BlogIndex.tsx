@@ -25,7 +25,7 @@ export function BlogIndex() {
   };
 
   return (
-    <main className="w-full max-w-7xl mx-auto px-4 py-12 md:py-16">
+    <div className="w-full max-w-7xl mx-auto py-4 md:py-8">
       <SEO 
         title="Banking Insights & SWIFT Code Guides | SwiftCodeDir"
         description="Read our latest articles and guides on international wire transfers, SWIFT codes, IBANs, and global banking."
@@ -37,7 +37,7 @@ export function BlogIndex() {
         </script>
       </Helmet>
 
-      <div className="text-center mb-16">
+      <div className="text-center mb-10">
         <h1 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight dark:text-white">
           Banking <span className="text-[#003399] dark:text-blue-400">Insights</span>
         </h1>
@@ -46,7 +46,7 @@ export function BlogIndex() {
         </p>
       </div>
 
-      <AdSense slot="blog_index_top" className="mb-12" />
+      <AdSense slot="blog_index_top" className="mb-8" />
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedPosts.map((post, index) => (
@@ -87,7 +87,7 @@ export function BlogIndex() {
         ))}
       </div>
 
-      <AdSense slot="blog_index_bottom" className="mt-16" />
-    </main>
+      <AdSense slot="blog_index_bottom" className="mt-12" />
+    </div>
   );
 }
