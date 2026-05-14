@@ -18,10 +18,10 @@ export function BlogPostPage() {
   const isCompliance = post.executiveSummary?.compliance || post.slug.includes('compliance') || post.slug.includes('sepa');
   const author = isCompliance 
     ? {
-        name: "Aarathy Panicker",
-        title: "Lead Compliance & Regulatory Analyst",
+        name: "Stephen Sebastian",
+        title: "IT and Product Head",
         action: "Verified by",
-        avatarUrl: "https://ui-avatars.com/api/?name=Aarathy+Panicker&background=10B981&color=fff&size=128"
+        avatarUrl: "https://ui-avatars.com/api/?name=Stephen+Sebastian&background=10B981&color=fff&size=128"
       }
     : {
         name: "Mathew George",

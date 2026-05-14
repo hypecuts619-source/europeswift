@@ -81,15 +81,15 @@ export function AboutUs() {
             <div className="flex flex-col gap-4">
               <div className="flex items-center gap-4">
                 <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-800 overflow-hidden shrink-0">
-                  <img src="https://ui-avatars.com/api/?name=Aarathy+Panicker&background=10B981&color=fff&size=128" alt="Aarathy Panicker" className="w-full h-full object-cover" />
+                  <img src="https://ui-avatars.com/api/?name=Stephen+Sebastian&background=10B981&color=fff&size=128" alt="Stephen Sebastian" className="w-full h-full object-cover" />
                 </div>
                 <div>
-                  <h3 className="font-bold text-lg text-slate-900 dark:text-white">Aarathy Panicker</h3>
-                  <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">Lead Compliance & Regulatory Analyst</p>
+                  <h3 className="font-bold text-lg text-slate-900 dark:text-white">Stephen Sebastian</h3>
+                  <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">IT and Product Head</p>
                 </div>
               </div>
               <p className="text-sm text-slate-600 dark:text-slate-400">
-                Aarathy previously worked as an AML (Anti-Money Laundering) specialist. She constantly monitors global regulatory changes—such as PSD3 and SEPA mandates—to guarantee our routing information meets the latest cross-border compliance standards mapping closely to regulations observed worldwide.
+                Stephen previously worked as an AML (Anti-Money Laundering) specialist. He constantly monitors global regulatory changes—such as PSD3 and SEPA mandates—to guarantee our routing information meets the latest cross-border compliance standards mapping closely to regulations observed worldwide.
               </p>
             </div>
           </div>
