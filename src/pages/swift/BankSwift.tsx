@@ -386,13 +386,23 @@ export function BankSwift() {
                 </h2>
                 <div className="prose prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-slate-400">
                   {selectedBranchDoc ? (
-                    <p>
-                      This specific SWIFT code (<strong>{primaryBic}</strong>) is used for international money transfers to the <strong>{selectedBranchDoc.branch || bankNameStr}</strong> located in <strong>{selectedBranchDoc.city || 'various locations'}</strong>, <strong>{country.name}</strong>. Using this exact 11-character BIC code ensures your funds are routed directly to this specific branch, minimizing delays and avoiding misrouted payment fees.
-                    </p>
+                    <>
+                      <p>
+                        This specific SWIFT code (<strong>{primaryBic}</strong>) is used for international money transfers to the <strong>{selectedBranchDoc.branch || bankNameStr}</strong> located in <strong>{selectedBranchDoc.city || 'various locations'}</strong>, <strong>{country.name}</strong>. 
+                      </p>
+                      <p>
+                        Using this exact 11-character BIC code ensures your funds are routed directly to this specific branch without unnecessary intermediary stops. This direct routing minimizes transit delays and helps you avoid unexpected misrouted payment fees. Always verify the code with your recipient before confirming large transactions.
+                      </p>
+                    </>
                   ) : (
-                    <p>
-                      When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 dark:text-blue-400 hover:underline">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
-                    </p>
+                    <>
+                      <p>
+                        When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-[#003399] dark:text-blue-400 hover:underline font-semibold">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
+                      </p>
+                      <p>
+                        Banks and financial networks rely on this exact sequence to securely direct your funds across borders. Providing an incorrect or generic BIC can result in your transfer being delayed, returned, or subjected to manual processing fees. Ensure you double-check the recipient's institution name and address to match the provided code.
+                      </p>
+                    </>
                   )}
                   <p>
                     <strong>Why you need this code:</strong> The international financial network uses these codes to securely route funds across borders. Without the correct BIC code, your transaction could be delayed, rejected, or subjected to additional manual processing fees by intermediary banks.
