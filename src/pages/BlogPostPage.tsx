@@ -4,7 +4,7 @@ import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper } from "lucide-react";
+import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
 
 // Internal Auto-Linker for maximum SEO
@@ -135,20 +135,25 @@ export function BlogPostPage() {
                     </p>
                   </CardContent>
                 </Card>
-                <Card className="md:col-span-2 bg-amber-50/50 dark:bg-amber-900/10 border-amber-100 dark:border-amber-900/30">
-                  <CardContent className="p-5 flex items-start gap-4">
-                    <div className="w-10 h-10 rounded-full bg-amber-100 dark:bg-amber-900/50 flex items-center justify-center flex-shrink-0">
-                      <AlertTriangle className="w-5 h-5 text-amber-600" />
-                    </div>
-                    <div>
-                      <h3 className="text-xs font-bold text-amber-700 dark:text-amber-400 uppercase tracking-widest mb-1">
-                        Critical Action Required (Q2 2026)
-                      </h3>
-                      <p className="text-sm text-amber-900 dark:text-amber-200 font-bold">
-                        {post.executiveSummary.actionRequired}
-                      </p>
-                    </div>
-                  </CardContent>
+                <Card className="md:col-span-2 bg-amber-50/50 dark:bg-amber-900/10 border-amber-100 dark:border-amber-900/30 overflow-hidden">
+                  <Link to="/guides/2026-iso-20022-mandate" className="block hover:bg-amber-100/50 dark:hover:bg-amber-900/20 transition-colors">
+                    <CardContent className="p-5 flex items-start gap-4">
+                      <div className="w-10 h-10 rounded-full bg-amber-100 dark:bg-amber-900/50 flex items-center justify-center flex-shrink-0">
+                        <AlertTriangle className="w-5 h-5 text-amber-600" />
+                      </div>
+                      <div>
+                        <h3 className="text-xs font-bold text-amber-700 dark:text-amber-400 uppercase tracking-widest mb-1">
+                          Critical Action Required (Q2 2026)
+                        </h3>
+                        <p className="text-sm text-amber-900 dark:text-amber-200 font-bold">
+                          {post.executiveSummary.actionRequired}
+                        </p>
+                        <span className="text-xs text-amber-700 dark:text-amber-400 mt-3 inline-flex items-center gap-1 font-semibold underline underline-offset-2">
+                          Visit our 2026 Regulatory Hub & EUDI Readiness Checker <ArrowRight className="w-3 h-3" />
+                        </span>
+                      </div>
+                    </CardContent>
+                  </Link>
                 </Card>
               </div>
             )}
@@ -199,15 +204,23 @@ export function BlogPostPage() {
             </div>
           </div>
 
-          <div className="mt-12 bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 border border-slate-100 dark:border-slate-800 flex items-center gap-6">
-            <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden shrink-0">
+          <div className="mt-12 bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 md:p-8 border border-slate-100 dark:border-slate-800 flex flex-col md:flex-row items-start md:items-center gap-6">
+            <div className="w-20 h-20 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden shrink-0 border-4 border-white dark:border-slate-900 shadow-sm">
               <img src={author.avatarUrl} alt={author.name} className="w-full h-full object-cover" />
             </div>
-            <div>
-              <p className="text-sm text-slate-500 dark:text-slate-400 font-medium mb-0.5">{author.action}</p>
-              <h3 className="font-bold text-lg text-slate-900 dark:text-white leading-tight">{author.name}</h3>
-              <p className="text-sm text-[#003399] dark:text-blue-400 font-medium">{author.title}</p>
+            <div className="flex-1">
+              <p className="text-xs text-slate-500 dark:text-slate-400 font-bold mb-1 uppercase tracking-widest">{author.action || "About the Author"}</p>
+              <h3 className="font-bold text-xl text-slate-900 dark:text-white leading-tight mb-1">{author.name}</h3>
+              <p className="text-sm text-[#003399] dark:text-blue-400 font-medium mb-3">{author.title}</p>
+              <p className="text-sm text-slate-600 dark:text-slate-400 max-w-2xl leading-relaxed">
+                {author.name === "Mathew George" 
+                  ? "As the Head of Financial Data Architecture, Mathew oversees our comprehensive database of over 186,000 global banking endpoints, ensuring routing accuracy for international institutions."
+                  : "As IT and Product Head, Stephen leads the technical infrastructure and compliance integration strategies, ensuring our platforms align with modern EUDI and Swift standardization mandates."}
+              </p>
             </div>
+            <Link to="/about" className="mt-4 md:mt-0 px-6 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl text-sm font-bold text-slate-700 dark:text-slate-300 hover:text-[#003399] dark:hover:text-blue-400 hover:border-[#003399] dark:hover:border-blue-400 transition-all shadow-sm whitespace-nowrap self-start md:self-center">
+              Read Our Methodology
+            </Link>
           </div>
 
           {/*  */}

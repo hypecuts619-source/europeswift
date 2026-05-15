@@ -62,12 +62,12 @@ export function GlossaryTermPage() {
 
             {/* Diagrams for specific terms to boost Helpful Content score */}
             {['nostro-account', 'vostro-account'].includes(termData.slug) && (
-              <div className="my-10 bg-slate-50 dark:bg-slate-800/30 p-6 rounded-xl border border-slate-200 dark:border-slate-800">
+              <figure className="my-10 bg-slate-50 dark:bg-slate-800/30 p-6 rounded-xl border border-slate-200 dark:border-slate-800 block" aria-label="A CSS-powered visual diagram illustrating the flow between Nostro and Vostro accounts." role="figure">
                 <h4 className="text-lg font-bold text-slate-900 dark:text-white mb-6 text-center">Nostro vs Vostro Account Structure</h4>
                 <div className="flex flex-col md:flex-row items-center justify-between gap-4">
                   <div className="flex-1 bg-white dark:bg-slate-900 p-4 rounded-lg border border-slate-200 dark:border-slate-700 text-center shadow-sm w-full">
                     <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900/40 rounded-full flex items-center justify-center mx-auto mb-3">
-                      <span className="text-xl text-blue-700 dark:text-blue-400">🏛️</span>
+                      <span className="text-xl text-blue-700 dark:text-blue-400" role="img" aria-label="Bank building">🏛️</span>
                     </div>
                     <div className="font-bold text-slate-900 dark:text-white">Bank A (US)</div>
                     <div className="text-sm text-slate-500 mt-1">Has EUR account in Germany</div>
@@ -76,13 +76,13 @@ export function GlossaryTermPage() {
                     </div>
                   </div>
                   
-                  <div className="flex items-center justify-center px-4">
+                  <div className="flex items-center justify-center px-4" aria-hidden="true">
                     <div className="text-2xl text-slate-400 animate-pulse">⇄</div>
                   </div>
 
                   <div className="flex-1 bg-white dark:bg-slate-900 p-4 rounded-lg border border-slate-200 dark:border-slate-700 text-center shadow-sm w-full">
                     <div className="w-12 h-12 bg-amber-100 dark:bg-amber-900/40 rounded-full flex items-center justify-center mx-auto mb-3">
-                      <span className="text-xl text-amber-700 dark:text-amber-400">💶</span>
+                      <span className="text-xl text-amber-700 dark:text-amber-400" role="img" aria-label="Euro banknotes">💶</span>
                     </div>
                     <div className="font-bold text-slate-900 dark:text-white">Bank B (Germany)</div>
                     <div className="text-sm text-slate-500 mt-1">Holds the account for Bank A</div>
@@ -91,32 +91,32 @@ export function GlossaryTermPage() {
                     </div>
                   </div>
                 </div>
-                <p className="text-xs text-center text-slate-500 mt-6 mt-4">Illustration of the mirrored accounting terminology used in international correspondent banking.</p>
-              </div>
+                <figcaption className="text-xs text-center text-slate-500 mt-6 mt-4">Illustration of the mirrored accounting terminology used in international correspondent banking.</figcaption>
+              </figure>
             )}
 
             {termData.slug === 'correspondent-bank' && (
-              <div className="my-10 bg-slate-50 dark:bg-slate-800/30 p-6 rounded-xl border border-slate-200 dark:border-slate-800">
+              <figure className="my-10 bg-slate-50 dark:bg-slate-800/30 p-6 rounded-xl border border-slate-200 dark:border-slate-800 block" aria-label="A visual diagram showing a Local Bank connecting to a Correspondent Bank." role="figure">
                 <h4 className="text-lg font-bold text-slate-900 dark:text-white mb-6 text-center">Correspondent Banking Flow</h4>
                 <div className="flex flex-col md:flex-row items-center justify-between gap-2">
                   <div className="w-full md:w-1/3 bg-white dark:bg-slate-900 p-4 rounded-lg border border-slate-200 dark:border-slate-700 text-center shadow-sm">
                     <div className="font-bold text-slate-900 dark:text-white">Local Bank</div>
                     <div className="text-xs text-slate-500 mt-1">(Originator)</div>
                   </div>
-                  <div className="text-slate-400 text-sm font-bold">→</div>
+                  <div className="text-slate-400 text-sm font-bold" aria-hidden="true">→</div>
                   <div className="w-full md:w-1/3 bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg border border-blue-200 dark:border-blue-800 text-center shadow-md relative">
                     <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-blue-600 text-white text-[10px] uppercase font-bold px-2 py-0.5 rounded-full">The Bridge</div>
                     <div className="font-bold text-blue-900 dark:text-blue-300 mt-2">Correspondent Bank</div>
                     <div className="text-[10px] text-blue-700 dark:text-blue-400 mt-1">Has accounts for both</div>
                   </div>
-                  <div className="text-slate-400 text-sm font-bold">→</div>
+                  <div className="text-slate-400 text-sm font-bold" aria-hidden="true">→</div>
                   <div className="w-full md:w-1/3 bg-white dark:bg-slate-900 p-4 rounded-lg border border-slate-200 dark:border-slate-700 text-center shadow-sm">
                     <div className="font-bold text-slate-900 dark:text-white">Foreign Bank</div>
                     <div className="text-xs text-slate-500 mt-1">(Beneficiary)</div>
                   </div>
                 </div>
-                <p className="text-xs text-center text-slate-500 mt-6 mt-4">The correspondent bank holds accounts for both smaller banks, allowing funds to bridge the gap.</p>
-              </div>
+                <figcaption className="text-xs text-center text-slate-500 mt-6 mt-4">The correspondent bank holds accounts for both smaller banks, allowing funds to bridge the gap.</figcaption>
+              </figure>
             )}
 
             <div className="mt-12 bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 border border-slate-100 dark:border-slate-800 flex items-center gap-6">
