@@ -1,0 +1,15 @@
+# Identified spam/scam link farms from negative SEO attack
+domain:itxoft-affordable-seo-solutions.site
+domain:itxoft-seo-for-higher-rankings.site
+domain:itxoft-trusted-seo-solutions.site
+domain:itxoft-results-focused-seo.site
+domain:itxoft-seo-for-modern-business.site
+domain:itxoft-professional-seo-services.site
+domain:fiverr-seo-for-small-businesses.site
+domain:rank-now.website
+domain:seodaro.com
+domain:zoldexlinks.shop
+domain:rglinks.org
+domain:sideenhancer.online
+domain:rankchief.shop
+domain:jameslinks.agency
