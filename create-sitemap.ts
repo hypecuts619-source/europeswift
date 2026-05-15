@@ -55,7 +55,10 @@ async function generateSitemap() {
         const details = bankDetails[bank.slug];
         if (details && Array.isArray(details.branches)) {
           for (const branch of details.branches) {
-            if (branch.bic) {
+            // Skip adding the branch URL if it's likely the same as the head office / bank overview
+            // We consider it a "branch" only if it's not the primary BIC of the bank
+            // and doesn't just end in XXX (or is 8 chars) which usually maps to the main office.
+            if (branch.bic && branch.bic !== bank.primaryBic && !branch.bic.endsWith('XXX') && branch.bic.length === 11) {
               addUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}/${branch.bic}`, '0.4', 'monthly');
             }
           }

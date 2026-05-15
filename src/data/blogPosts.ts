@@ -50,25 +50,25 @@ In 2026, "getting it close" is no longer enough. The UK’s **Confirmation of Pa
 
 One of the most frequent questions our Kochi-based team receives is: *"How can I tell which bank owns this code?"* While our [Sort Code Lookup Tool](/sort-code) automates this, you can look for these major bank identifiers:
 
-* **20, 22, 23:** Barclays Bank
-* **30, 77:** Lloyds Bank
-* **40:** HSBC
-* **50-60:** National Westminster Bank (NatWest)
-* **09:** Santander UK
+* **20, 22, 23:** [Barclays Bank](/swift/united-kingdom/barclays-bank)
+* **30, 77:** [Lloyds Bank](/swift/united-kingdom/lloyds-bank)
+* **40:** [HSBC](/swift/united-kingdom/hsbc-bank)
+* **50-60:** [National Westminster Bank (NatWest)](/swift/united-kingdom/natwest)
+* **09:** [Santander UK](/swift/united-kingdom/santander-uk)
 
 ### Domestic vs. International: When do you need a Sort Code?
 
-* **Domestic (UK to UK):** You need the Sort Code and the 8-digit Account Number.
-* **International (Global to UK):** You generally do not need the sort code separately; it is "embedded" within the **IBAN**. However, many overseas banks still ask for it as a "secondary identifier" to ensure the money reaches the correct regional clearing house.
+* **Domestic (UK to UK):** You need the [Sort Code](/sort-code) and the 8-digit Account Number.
+* **International (Global to UK):** You generally do not need the sort code separately; it is "embedded" within the [IBAN](/iban/validator). However, many overseas banks still ask for it as a "secondary identifier" to ensure the money reaches the correct regional clearing house.
 
-### Mathew George’s Security Checklist for UK Transfers
+### Mathew George’s Security Checklist for [UK](/swift/united-kingdom) Transfers
 
 To ensure your funds reach their destination safely, our compliance team recommends this 4-step verification process:
 
 1. **Verify the Status:** Check if the sort code is "Active." Many branches have turned into "Digital-only" hubs with new administrative codes.
 2. **Check Clearing Capabilities:** Ensure the sort code supports the type of payment you are sending. Not all sort codes can receive **Faster Payments (FPS)** or **Direct Debits**.
-3. **Cross-Reference with the IBAN:** If sending from abroad, use an **IBAN Calculator** to ensure the sort code matches the bank identifier in the IBAN string.
-4. **Beware of "Change of Details" Scams:** If a business sends you an email asking you to pay into a "new" sort code, always verify it via a trusted directory like SwiftCodeDir before proceeding.
+3. **Cross-Reference with the IBAN:** If sending from abroad, use an [IBAN Calculator](/iban/calculator) to ensure the sort code matches the bank identifier in the IBAN string.
+4. **Beware of "Change of Details" Scams:** If a business sends you an email asking you to pay into a "new" sort code, always verify it via a trusted directory like [SwiftCodeDir](/swift) before proceeding.
 
 ### Macro-Economic Landscape: The Future of UK Clearing
 
@@ -148,25 +148,25 @@ An IBAN generally consists of the following components:
 
 ### How to Extract the SWIFT Code
 
-Because the IBAN explicitly contains the Bank Identifier within the BBAN, you can use this identifier to look up the bank's corresponding SWIFT code (also known as a Business Identifier Code, or BIC).
+Because the IBAN explicitly contains the Bank Identifier within the BBAN, you can use this identifier to look up the bank's corresponding [SWIFT code](/swift) (also known as a Business Identifier Code, or BIC).
 
-For example, if you have a UK IBAN starting with \`GB12 MIDL\`, the 'MIDL' portion is the bank identifier for HSBC Bank plc. Knowing this, you can determine that HSBC's primary UK SWIFT code is \`MIDLGB22\`.
+For example, if you have a [UK IBAN](/swift/united-kingdom) starting with \`GB12 MIDL\`, the 'MIDL' portion is the bank identifier for [HSBC Bank plc](/swift/united-kingdom/hsbc-bank). Knowing this, you can determine that HSBC's primary UK SWIFT code is \`MIDLGB22\`.
 
-Similarly, if you have a German IBAN starting with \`DE12 1002 0000\`, the digits '10020000' represent the Berliner Sparkasse. You can then map that Bankleitzahl to its SWIFT code.
+Similarly, if you have a [German IBAN](/swift/germany) starting with \`DE12 1002 0000\`, the digits '10020000' represent the Berliner Sparkasse. You can then map that [Bankleitzahl (BLZ)](/blz) to its SWIFT code.
 
 ### Why You Can't Always Just "Guess"
 
 While the logic seems straightforward, manually guessing the SWIFT code from an IBAN is highly discouraged and risky:
 
-1.  **Branch-Specific SWIFT Codes:** Many large banks have multiple SWIFT codes. The core 8-character SWIFT code (e.g., \`BARCGB22\`) points to the main headquarters. However, some transfers require a specific 11-character SWIFT code that points to a specific regional clearing center or branch (e.g., \`BARCGB22XXX\`). The IBAN might not give you enough granularity to know *which* branch code is required.
-2.  **Non-SWIFT Connected Institutions:** Some smaller credit unions, building societies, or digital emoney institutions issue IBANs but do not have their own direct SWIFT network connection. Instead, they use a larger correspondent bank's SWIFT code to receive funds. If you try to guess a SWIFT code based purely on the IBAN's bank identifier, the transfer will fail.
-3.  **Mergers and Acquisitions:** When banks merge, their legacy IBAN formats often persist for years, even after their primary SWIFT codes have been consolidated or changed.
+1.  **Branch-Specific SWIFT Codes:** Many large banks have multiple SWIFT codes. The core 8-character [SWIFT code](/swift) (e.g., \`BARCGB22\`) points to the main headquarters. However, some transfers require a specific 11-character [SWIFT code](/swift) that points to a specific regional clearing center or branch (e.g., \`BARCGB22XXX\`). The IBAN might not give you enough granularity to know *which* branch code is required.
+2.  **Non-SWIFT Connected Institutions:** Some smaller credit unions, building societies, or digital emoney institutions issue [IBANs](/iban/validator) but do not have their own direct SWIFT network connection. Instead, they use a larger correspondent bank's [SWIFT code](/swift) to receive funds. If you try to guess a SWIFT code based purely on the IBAN's bank identifier, the transfer will fail.
+3.  **Mergers and Acquisitions:** When banks merge, their legacy IBAN formats often persist for years, even after their primary [SWIFT codes](/swift) have been consolidated or changed.
 
 ### Automated IBAN-to-SWIFT Mapping
 
-Because of these complexities, utilizing a dedicated IBAN-to-SWIFT lookup tool is the safest approach. These tools utilize massive, continually updated databases that map National Bank Codes (found in the IBAN) directly to the authoritative SWIFT/BIC directories.
+Because of these complexities, utilizing a dedicated [IBAN-to-SWIFT lookup tool](/iban/calculator) is the safest approach. These tools utilize massive, continually updated databases that map National Bank Codes (found in the IBAN) directly to the authoritative [SWIFT/BIC directories](/swift).
 
-By leveraging an automated tool, you ensure that the SWIFT code you use is currently active, correctly formatted, and specifically designated to receive international inbound wires for that particular account structure.
+By leveraging an automated tool, you ensure that the [SWIFT code](/swift) you use is currently active, correctly formatted, and specifically designated to receive international inbound wires for that particular account structure.
 
 ## Advanced Considerations for Financial Professionals
 
@@ -302,14 +302,14 @@ Before the invention of standardized messaging networks, international banking r
 This process was notoriously slow and prone to human error. There was no single source of truth, and reconciliation—the process of ensuring that the sent money matched the received money—was a manual nightmare. Discrepancies could take months to resolve, tying up capital and frustrating businesses.
 
 ### The SWIFT Revolution
-In 1973, everything changed. A cooperative of 239 banks from 15 countries came together to solve the communication problem, giving birth to the **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**. Note that SWIFT didn't actually move the money; it simply standardized *how banks talked* about moving money. 
+In 1973, everything changed. A cooperative of 239 banks from 15 countries came together to solve the communication problem, giving birth to the **[Society for Worldwide Interbank Financial Telecommunication (SWIFT)](/swift)**. Note that [SWIFT](/swift) didn't actually move the money; it simply standardized *how banks talked* about moving money. 
 
-By introducing standard message types (like the famous MT103 use for customer payments) and standardized bank identifiers (BIC/SWIFT codes), SWIFT drastically reduced error rates. Suddenly, sending money felt a bit like sending an email: the formatting was rigid, but the delivery was far more reliable. 
+By introducing standard message types (like the famous **MT103** used for customer payments) and standardized bank identifiers (**[BIC/SWIFT codes](/swift)**), SWIFT drastically reduced error rates. Suddenly, sending money felt a bit like sending an email: the formatting was rigid, but the delivery was far more reliable. 
 
 ### The Rise of Regional Networks
-While SWIFT conquered the globe by standardizing messaging, regional networks began to optimize the actual clearing and settlement of funds. The most famous example is the **SEPA (Single Euro Payments Area)** in Europe. SEPA essentially erased the borders between European nations for euro-denominated payments, making a transfer from Germany to France as cheap and fast as a domestic transfer. 
+While [SWIFT](/swift) conquered the globe by standardizing messaging, regional networks began to optimize the actual clearing and settlement of funds. The most famous example is the **SEPA (Single Euro Payments Area)** in Europe. SEPA essentially erased the borders between European nations for euro-denominated payments, making a transfer from [Germany](/swift/germany) to [France](/swift/france) as cheap and fast as a domestic transfer. 
 
-Other regions followed suit with Real-Time Gross Settlement (RTGS) systems and domestic instant payment rails like the UK's Faster Payments, the US's FedNow, and India's UPI. 
+Other regions followed suit with **Real-Time Gross Settlement (RTGS)** systems and domestic instant payment rails like the UK's **[Faster Payments](/sort-code)**, the US's **[FedNow](/routing)**, and India's **UPI**. 
 
 ### What's Changing Now? 
 As of 2026, the demand is no longer just for reliability—it is for *instantaneity and transparency*. 

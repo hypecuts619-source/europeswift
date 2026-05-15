@@ -241,12 +241,18 @@ export function BankSwift() {
       ? `Verified Q2 2026 data for ${bankNameStr} in ${country.name}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` 
       : `Find verified SWIFT and BIC codes for ${bankNameStr} located in ${country.name}. Check exact branch codes, head office information, and routing details.`;
 
+  const canonicalBicPart = (bicCode && bicCode.toUpperCase() !== (headOfficeSwiftDoc?.bic || '').toUpperCase()) 
+    ? `/${bicCode.toUpperCase()}` 
+    : '';
+
+  const canonicalUrl = `https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}/${bankSlug.toLowerCase()}${canonicalBicPart}`;
+
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
         title={pageTitle}
         description={pageDescription}
-        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug}/${bankSlug}${bicCode ? `/${bicCode}` : ''}`}
+        canonicalUrl={canonicalUrl}
         jsonLd={[bankSchema, breadcrumbSchema, faqSchema]}
       />
 

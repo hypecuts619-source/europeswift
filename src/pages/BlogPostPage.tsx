@@ -141,6 +141,34 @@ export function BlogPostPage() {
             </ReactMarkdown>
           </div>
 
+          <div className="mt-16 p-8 bg-blue-50 dark:bg-blue-900/10 rounded-3xl border border-blue-100 dark:border-blue-900/30">
+            <h3 className="text-xl font-bold text-[#003399] dark:text-blue-400 mb-6 flex items-center gap-2">
+              <Zap className="w-5 h-5" /> Recommended Financial Tools
+            </h3>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              {[
+                { name: "SWIFT Directory", path: "/swift", icon: "Global" },
+                { name: "IBAN Validator", path: "/iban/validator", icon: "Check" },
+                { name: "IBAN Calculator", path: "/iban/calculator", icon: "Calc" },
+                { name: "Sort Code Checker", path: "/sort-code", icon: "UK" },
+                { name: "USA Routing No.", path: "/routing", icon: "US" },
+                { name: "Germany BLZ", path: "/blz", icon: "DE" },
+                { name: "Banks A-Z", path: "/banks", icon: "List" },
+                { name: "SWIFT Checker", path: "/swift-checker", icon: "Search" },
+              ].map((tool) => (
+                <Link 
+                  key={tool.path}
+                  to={tool.path}
+                  className="bg-white dark:bg-slate-900 p-4 rounded-xl border border-blue-100 dark:border-blue-800 text-center hover:shadow-md hover:border-[#003399] transition-all group"
+                >
+                  <p className="text-sm font-bold text-slate-900 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">
+                    {tool.name}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+
           <div className="mt-12 bg-slate-50 dark:bg-slate-800/50 rounded-2xl p-6 border border-slate-100 dark:border-slate-800 flex items-center gap-6">
             <div className="w-16 h-16 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden shrink-0">
               <img src={author.avatarUrl} alt={author.name} className="w-full h-full object-cover" />

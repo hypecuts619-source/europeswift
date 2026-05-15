@@ -106,7 +106,7 @@ export function CountrySwift() {
       <SEO 
         title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
         description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
-        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug}`}
+        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}`}
         jsonLd={[datasetSchema, faqSchema]}
       />
 

@@ -107,7 +107,7 @@ export function BranchList() {
       <SEO 
         title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data`}
         description={`Explore all ${allBranches.length} bank branches in ${country.name}. Find exact SWIFT codes, branch addresses, and routing numbers required for secure wire transfers.`}
-        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug}/branches`}
+        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}/branches`}
         jsonLd={[datasetSchema, faqSchema]}
       />
       <Breadcrumb className="mb-8">
