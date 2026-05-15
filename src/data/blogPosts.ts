@@ -40,7 +40,7 @@ A sort code isn't just a random string of numbers. It follows a strictly governe
 
 ### Why Verification is Mandatory in 2026
 
-In 2026, "getting it close" is no longer enough. The UK’s **Confirmation of Payee (CoP)** service now automatically checks if the name on the account matches the sort code and account number provided. If you use an outdated sort code from a closed branch, the payment may be rejected by the receiving bank’s automated filters to prevent fraud.
+In 2026, "getting it close" is no longer enough. The UK’s **Confirmation of Payee (CoP)** service now automatically checks if the name on the account matches the sort code and account number provided. If you use an outdated sort code from a closed branch, the payment may be rejected by the receiving bank’s automated filters to prevent fraud. For more details on the global equivalent, you can check the [official SWIFT website](https://www.swift.com/).
 
 **Mathew George**, our Lead Financial Data Architect at SwiftCodeDir, notes:
 
@@ -135,7 +135,7 @@ The short answer is yes—usually. Because of the highly standardized structure 
 
 ### The Structure of an IBAN
 
-To understand how to extract a SWIFT code, you must first understand the anatomy of an IBAN. While IBAN lengths vary by country (e.g., the UK is 22 characters, France is 27, Germany is 22), the format strictly follows the ISO 13616 standard.
+To understand how to extract a SWIFT code, you must first understand the anatomy of an IBAN. While IBAN lengths vary by country (e.g., the UK is 22 characters, France is 27, Germany is 22), the format strictly follows the ISO 13616 standard, maintained closely alongside principles from the [European Central Bank (ECB)](https://www.ecb.europa.eu/).
 
 An IBAN generally consists of the following components:
 
@@ -309,7 +309,7 @@ By introducing standard message types (like the famous **MT103** used for custom
 ### The Rise of Regional Networks
 While [SWIFT](/swift) conquered the globe by standardizing messaging, regional networks began to optimize the actual clearing and settlement of funds. The most famous example is the **SEPA (Single Euro Payments Area)** in Europe. SEPA essentially erased the borders between European nations for euro-denominated payments, making a transfer from [Germany](/swift/germany) to [France](/swift/france) as cheap and fast as a domestic transfer. 
 
-Other regions followed suit with **Real-Time Gross Settlement (RTGS)** systems and domestic instant payment rails like the UK's **[Faster Payments](/sort-code)**, the US's **[FedNow](/routing)**, and India's **UPI**. 
+Other regions followed suit with **Real-Time Gross Settlement (RTGS)** systems and domestic instant payment rails like the UK's **[Faster Payments](/sort-code)**, the US's **[FedNow](/routing)**, and India's **UPI**, overseen by the [Reserve Bank of India (RBI)](https://www.rbi.org.in/). 
 
 ### What's Changing Now? 
 As of 2026, the demand is no longer just for reliability—it is for *instantaneity and transparency*. 
@@ -1096,7 +1096,7 @@ By combining rigorous internal security cultures with a deep understanding of co
 
 ### The Definition
 - **BIC** stands for **Business Identifier Code**. It is the standard format (ISO 9362) used to identify institutions globally.
-- **SWIFT** stands for the **Society for Worldwide Interbank Financial Telecommunication**, the organization that registers and manages these codes.
+- **SWIFT** stands for the **[Society for Worldwide Interbank Financial Telecommunication](https://www.swift.com/)**, the organization that registers and manages these codes.
 
 In short, **all [SWIFT codes](/swift) are BIC codes**, but technically, non-financial corporations can have BICs that are not connected to the SWIFT messaging network. In day-to-day banking, however, they mean the exact same thing.
 
@@ -1976,7 +1976,7 @@ If you are a business operating in Europe or an individual moving funds between 
 
 ### What is SEPA?
 
-Introduced to harmonize electronic euro payments, SEPA effectively erases the distinction between domestic and cross-border transfers within its member states. Currently consisting of 36 countries—including all EU member states plus non-EU countries like Switzerland, the UK, and Norway—SEPA ensures that cross-border electronic payments in euros are as fast, secure, and affordable as national payments.
+Introduced to harmonize electronic euro payments, SEPA effectively erases the distinction between domestic and cross-border transfers within its member states. Supported directly by policies from the [European Central Bank (ECB)](https://www.ecb.europa.eu/), SEPA currently consists of 36 countries—including all EU member states plus non-EU countries like Switzerland, the UK, and Norway. SEPA ensures that cross-border electronic payments in euros are as fast, secure, and affordable as national payments.
 
 ### The Three Modes of SEPA
 

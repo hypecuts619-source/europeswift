@@ -381,11 +381,19 @@ export function BankSwift() {
               </div>
 
               <div className="mt-8 border-t border-slate-100 dark:border-slate-800 pt-8">
-                <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-4 capitalize">About {bankNameStr} SWIFT & BIC Codes</h2>
+                <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-4 capitalize">
+                  {selectedBranchDoc ? `About the ${selectedBranchDoc.branch || 'Head Office'} Branch SWIFT Code` : `About ${bankNameStr} SWIFT & BIC Codes`}
+                </h2>
                 <div className="prose prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-slate-400">
-                  <p>
-                    When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 dark:text-blue-400 hover:underline">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
-                  </p>
+                  {selectedBranchDoc ? (
+                    <p>
+                      This specific SWIFT code (<strong>{primaryBic}</strong>) is used for international money transfers to the <strong>{selectedBranchDoc.branch || bankNameStr}</strong> located in <strong>{selectedBranchDoc.city || 'various locations'}</strong>, <strong>{country.name}</strong>. Using this exact 11-character BIC code ensures your funds are routed directly to this specific branch, minimizing delays and avoiding misrouted payment fees.
+                    </p>
+                  ) : (
+                    <p>
+                      When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 dark:text-blue-400 hover:underline">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
+                    </p>
+                  )}
                   <p>
                     <strong>Why you need this code:</strong> The international financial network uses these codes to securely route funds across borders. Without the correct BIC code, your transaction could be delayed, rejected, or subjected to additional manual processing fees by intermediary banks.
                   </p>

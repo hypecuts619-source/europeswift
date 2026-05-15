@@ -7,6 +7,36 @@ import remarkGfm from "remark-gfm";
 import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
 
+// Internal Auto-Linker for maximum SEO
+const keywordLinks = [
+  { term: 'SWIFT code', url: '/what-is-a-swift-code' },
+  { term: 'BIC code', url: '/swift' },
+  { term: 'IBAN calculator', url: '/iban/calculator' },
+  { term: 'IBAN validator', url: '/iban/validator' },
+  { term: 'sort code', url: '/sort-code' },
+  { term: 'routing number', url: '/routing' },
+  { term: 'BLZ', url: '/blz' }
+];
+
+function autoLink(text: string): string {
+  let result = text;
+  keywordLinks.forEach(({ term, url }) => {
+    // Regex to find keyword NOT surrounded by [ ] or inside ( ) or tags
+    // This is a naive but effective approach for basic markdown
+    const regex = new RegExp(`(?<!\\[[^\\]]*?)(?<!\\()\\b(${term}s?)\\b(?!\\))(?![^\\[]*?\\])`, 'gi');
+    // We only replace the FIRST occurrence per post
+    let modified = false;
+    result = result.replace(regex, (match) => {
+      if (!modified) {
+        modified = true;
+        return `[${match}](${url})`;
+      }
+      return match;
+    });
+  });
+  return result;
+}
+
 export function BlogPostPage() {
   const { slug } = useParams<{ slug: string }>();
   const post = blogPosts.find(p => p.slug === slug);
@@ -124,20 +154,20 @@ export function BlogPostPage() {
             )}
           </header>
 
-          <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-img:rounded-xl">
+          <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-a:underline prose-a:underline-offset-4 prose-a:font-semibold prose-img:rounded-xl">
             <ReactMarkdown 
               remarkPlugins={[remarkGfm]}
               components={{
                 a: (props: any) => {
                   const { node, ...rest } = props;
                   if (rest.href && rest.href.startsWith('/')) {
-                    return <Link to={rest.href} {...rest}>{rest.children}</Link>;
+                    return <Link to={rest.href} className="underline decoration-[#003399]/30 hover:decoration-[#003399] transition-colors" {...rest}>{rest.children}</Link>;
                   }
-                  return <a target="_blank" rel="noopener noreferrer" {...rest}>{rest.children}</a>;
+                  return <a target="_blank" rel="noopener noreferrer" className="underline decoration-[#003399]/30 hover:decoration-[#003399] transition-colors" {...rest}>{rest.children}</a>;
                 }
               }}
             >
-              {post.content}
+              {autoLink(post.content)}
             </ReactMarkdown>
           </div>
 

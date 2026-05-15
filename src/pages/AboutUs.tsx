@@ -103,7 +103,7 @@ export function AboutUs() {
           <h2 className="text-2xl font-bold text-slate-900 dark:text-white mt-12 mb-6 border-b border-slate-100 dark:border-slate-800 pb-2">How We Verify Our Data</h2>
           <div className="bg-blue-50 dark:bg-slate-800/50 rounded-xl p-6 border border-blue-100 dark:border-slate-800 mt-6">
             <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
-              Accuracy in financial routing is critical. A single incorrect character can result in a failed transfer, costly repair fees, and weeks of delays. To ensure the highest level of reliability, Mathew and our data team manually cross-reference 186,000+ BICs against official central bank registries, SWIFT directories, and direct banking portals. Our database undergoes constant verification cycles to account for bank mergers, restructuring, and branch closures across the globe.
+              Accuracy in financial routing is critical. A single incorrect character can result in a failed transfer, costly repair fees, and weeks of delays. To ensure the highest level of reliability, Mathew and our data team manually cross-reference 186,000+ BICs against official central bank registries, the <a href="https://www.swift.com/" target="_blank" rel="noopener noreferrer" className="text-[#003399] dark:text-blue-400 hover:underline">official SWIFT network</a>, the <a href="https://www.ecb.europa.eu/" target="_blank" rel="noopener noreferrer" className="text-[#003399] dark:text-blue-400 hover:underline">European Central Bank (ECB)</a> standards, and direct banking portals. Our database undergoes constant verification cycles to account for bank mergers, restructuring, and branch closures across the globe.
             </p>
           </div>
         </div>
