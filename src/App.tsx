@@ -208,6 +208,8 @@ function Layout() {
                 <li><Link to="/privacy-policy" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Privacy Policy</Link></li>
                 <li><Link to="/terms-and-conditions" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Terms & Conditions</Link></li>
                 <li><Link to="/cookie-policy" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Cookie Policy</Link></li>
+                <li><a href="https://x.com/StephenSeb12450" target="_blank" rel="noopener noreferrer" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors flex items-center gap-2">X (Twitter)</a></li>
+                <li><a href="https://in.pinterest.com/hypecuts619/routing-numbers/" target="_blank" rel="noopener noreferrer" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors flex items-center gap-2">Pinterest</a></li>
               </ul>
             </div>
           </div>
