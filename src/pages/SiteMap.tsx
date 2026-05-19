@@ -40,12 +40,12 @@ export function SiteMap() {
               <ul className="space-y-3">
                 <li>
                   <Link to="/swift" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    Browse by Country
+                    Browse SWIFT Codes by Country
                   </Link>
                 </li>
                 <li>
                   <Link to="/" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    Global SWIFT Search
+                    Global SWIFT/BIC Search Engine
                   </Link>
                 </li>
               </ul>
@@ -54,17 +54,47 @@ export function SiteMap() {
             <div>
               <h2 className="flex items-center gap-2 text-lg font-bold text-slate-900 dark:text-white mb-4">
                 <CreditCard className="w-5 h-5 text-indigo-500" />
-                IBAN Tools
+                IBAN Tools & Hubs
               </h2>
               <ul className="space-y-3">
                 <li>
                   <Link to="/iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    IBAN Information
+                    IBAN Country Formats & Rules
                   </Link>
                 </li>
                 <li>
                   <Link to="/iban/validator" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    IBAN Validator & Checker
+                    Official IBAN Validator & Checker
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban/europe" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    European IBAN Formats
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban/middle-east" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Middle East IBAN Formats
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban/africa" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    African IBAN Formats
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban/caribbean" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Caribbean IBAN Formats
+                  </Link>
+                </li>
+                 <li>
+                  <Link to="/iban/americas" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Americas IBAN Formats
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban/asia" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Asian IBAN Formats
                   </Link>
                 </li>
               </ul>
@@ -80,12 +110,12 @@ export function SiteMap() {
               <ul className="space-y-3">
                 <li>
                   <Link to="/sort-code" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    UK Sort Codes
+                    UK Bank Sort Code Directory
                   </Link>
                 </li>
                 <li>
                   <Link to="/blz" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    German BLZ Codes
+                    German Bankleitzahl (BLZ) Search
                   </Link>
                 </li>
               </ul>
@@ -135,22 +165,52 @@ export function SiteMap() {
               <ul className="space-y-3">
                 <li>
                   <Link to="/what-is-a-swift-code" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    What is a SWIFT / BIC Code?
+                    Guide: What is a SWIFT / BIC Code?
                   </Link>
                 </li>
                 <li>
                   <Link to="/what-is-an-iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    What is an IBAN?
+                    Guide: What is an IBAN Number?
                   </Link>
                 </li>
                 <li>
                   <Link to="/swift-vs-iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    SWIFT vs IBAN: Differences
+                    Comparison: SWIFT vs IBAN Differences
                   </Link>
                 </li>
                 <li>
                   <Link to="/sepa-transfer-guide" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
-                    SEPA Transfer Guide
+                    Complete SEPA Transfer Rules Guide
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/sepa-countries" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    SEPA Countries List
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/how-to-find-iban" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    How to Find Your IBAN
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban-format-by-country" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    IBAN Format by Country
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban-error-codes" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    IBAN Error Codes Recognized
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban-vs-account-number" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    IBAN vs Local Account Number
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/iban-vs-routing-number" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    IBAN vs ABA Routing Number
                   </Link>
                 </li>
               </ul>

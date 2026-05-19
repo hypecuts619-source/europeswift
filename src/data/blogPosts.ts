@@ -50,9 +50,9 @@ In 2026, "getting it close" is no longer enough. The UK’s **Confirmation of Pa
 
 One of the most frequent questions our Kochi-based team receives is: *"How can I tell which bank owns this code?"* While our [Sort Code Lookup Tool](/sort-code) automates this, you can look for these major bank identifiers:
 
-* **20, 22, 23:** [Barclays Bank](/swift/united-kingdom/barclays-bank)
-* **30, 77:** [Lloyds Bank](/swift/united-kingdom/lloyds-bank)
-* **40:** [HSBC](/swift/united-kingdom/hsbc-bank)
+* **20, 22, 23:** [Barclays Bank SWIFT Codes](/swift/united-kingdom/barclays)
+* **30, 77:** [Lloyds Bank SWIFT Codes](/swift/united-kingdom/lloyds-bank)
+* **40:** [HSBC Bank SWIFT Codes](/swift/united-kingdom/hsbc)
 * **50-60:** [National Westminster Bank (NatWest)](/swift/united-kingdom/natwest)
 * **09:** [Santander UK](/swift/united-kingdom/santander-uk)
 

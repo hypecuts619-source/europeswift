@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { Search } from 'lucide-react';
+import { Search, ChevronRight } from 'lucide-react';
 import { Input } from './ui/input';
 import { useNavigate } from 'react-router-dom';
 import { countriesData, mockBanksData } from '../data/mockData';
@@ -75,6 +75,8 @@ export function DirectorySearch() {
   }, []);
 
   const hasResults = filteredCountries.length > 0 || filteredTopBanks.length > 0 || liveBics.length > 0;
+  
+  const isPossiblyIban = /^[A-Z]{2}[0-9]{2}[A-Z0-9]{10,}/i.test(searchQuery);
 
   return (
     <div ref={wrapperRef} className="relative w-full group z-[60]">
@@ -92,12 +94,38 @@ export function DirectorySearch() {
           onFocus={() => setIsOpen(true)}
           onKeyDown={(e) => {
             if (e.key === 'Escape') setIsOpen(false);
+            if (e.key === 'Enter' && isPossiblyIban) {
+              navigate(`/iban/validator?q=${searchQuery}`);
+              setIsOpen(false);
+            }
           }}
         />
       </div>
 
-      {isOpen && searchQuery && hasResults && (
+      {isOpen && searchQuery && (hasResults || isPossiblyIban) && (
         <div className="absolute top-16 left-0 w-full bg-white dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-xl shadow-2xl z-50 overflow-hidden max-h-[60vh] overflow-y-auto">
+          {isPossiblyIban && (
+            <div className="p-2 bg-blue-50/50 dark:bg-blue-900/10">
+              <button
+                className="w-full text-left px-4 py-3 text-base justify-between hover:bg-blue-100 dark:hover:bg-blue-900/40 rounded-lg flex items-center group transition-colors"
+                onClick={() => {
+                  navigate(`/iban/validator?q=${searchQuery}`);
+                  setIsOpen(false);
+                  setSearchQuery('');
+                }}
+              >
+                <div className="flex items-center gap-3">
+                  <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold">IBAN</div>
+                  <div>
+                    <div className="text-slate-900 dark:text-slate-100 font-bold">Validate IBAN</div>
+                    <div className="text-xs text-slate-500 font-mono truncate max-w-[200px]">{searchQuery.toUpperCase()}</div>
+                  </div>
+                </div>
+                <ChevronRight className="w-4 h-4 text-blue-600" />
+              </button>
+            </div>
+          )}
+
           {filteredCountries.length > 0 && (
             <div className="p-2">
               <div className="px-4 py-2 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider">Countries</div>

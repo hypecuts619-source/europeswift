@@ -2,7 +2,7 @@ import * as React from 'react';
 import { lazy, Suspense } from 'react';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight, Landmark, Zap } from 'lucide-react';
+import { ShieldCheck, Search, Globe, CreditCard, ChevronRight, ArrowRight, Landmark, Zap, Calculator } from 'lucide-react';
 import { motion } from 'motion/react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
@@ -178,23 +178,38 @@ export function Home() {
           
         </div>
 
-        {/* IBAN Validator Service */}
-        <motion.div variants={item}>
-          <Link to="/iban" className="group h-full bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-br from-[#003399] to-transparent opacity-20 z-0"></div>
-            <div className="relative z-10 h-full flex flex-col">
-              <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center mb-6">
-                <ShieldCheck className="w-7 h-7 text-white" />
+        {/* IBAN Services */}
+        <motion.div variants={item} className="md:col-span-2 lg:col-span-1">
+          <div className="h-full flex flex-col gap-4">
+            <Link to="/iban/validator" className="group flex-1 bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
+              <div className="absolute inset-0 bg-gradient-to-br from-[#003399] to-transparent opacity-20 z-0"></div>
+              <div className="relative z-10 h-full flex flex-col">
+                <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center mb-6">
+                  <ShieldCheck className="w-7 h-7 text-white" />
+                </div>
+                <h2 className="text-2xl font-bold mb-3">IBAN Validator</h2>
+                <p className="text-slate-300 mb-8 flex-1">
+                  Instantly verify IBAN structure, MOD-97 checks, and bank identification for all SEPA zone countries.
+                </p>
+                <div className="flex items-center text-sm font-bold text-white uppercase tracking-wider">
+                  Validate Now <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </div>
               </div>
-              <h2 className="text-2xl font-bold mb-3">IBAN Validator</h2>
-              <p className="text-slate-300 mb-8 flex-1">
-                Instantly verify IBAN structure, MOD-97 checks, and bank identification for all SEPA zone countries.
+            </Link>
+            
+            <Link to="/iban/calculator" className="group flex-1 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+              <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
+                <Calculator className="w-7 h-7" />
+              </div>
+              <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">IBAN Calculator</h2>
+              <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+                Convert local bank codes and account numbers into fully formatted, compliant IBANs.
               </p>
-              <div className="flex items-center text-sm font-bold text-white uppercase tracking-wider">
-                Validate Now <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+                Generate IBAN <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
-            </div>
-          </Link>
+            </Link>
+          </div>
         </motion.div>
 
         {/* UK Sort Codes Service */}

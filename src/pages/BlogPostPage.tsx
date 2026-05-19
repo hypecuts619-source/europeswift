@@ -4,7 +4,7 @@ import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User } from "lucide-react";
+import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User, Landmark } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
 
 // Internal Auto-Linker for maximum SEO
@@ -17,6 +17,34 @@ const keywordLinks = [
   { term: 'routing number', url: '/routing' },
   { term: 'BLZ', url: '/blz' }
 ];
+
+const relatedRecordsMapping: Record<string, { title: string, links: { name: string, url: string }[] }> = {
+  'nordic': {
+    title: "Browse Verified Nordic BICs",
+    links: [
+      { name: "Denmark SWIFT Codes", url: "/swift/denmark" },
+      { name: "Finland SWIFT Codes", url: "/swift/finland" },
+      { name: "Sweden SWIFT Codes", url: "/swift/sweden" },
+      { name: "Norway SWIFT Codes", url: "/swift/norway" },
+    ]
+  },
+  'currency': {
+    title: "Global Conversion Hubs",
+    links: [
+      { name: "India SWIFT Codes", url: "/swift/india" },
+      { name: "United Kingdom SWIFT Codes", url: "/swift/united-kingdom" },
+      { name: "United States SWIFT Codes", url: "/swift/united-states" },
+    ]
+  },
+  'sort-code': {
+    title: "UK Financial Directories",
+    links: [
+      { name: "Barclays SWIFT Codes", url: "/swift/united-kingdom/barclays" },
+      { name: "HSBC SWIFT Codes", url: "/swift/united-kingdom/hsbc" },
+      { name: "Lloyds SWIFT Codes", url: "/swift/united-kingdom/lloyds-bank" },
+    ]
+  }
+};
 
 function autoLink(text: string): string {
   let result = text;
@@ -44,6 +72,10 @@ export function BlogPostPage() {
   if (!post) {
     return <Navigate to="/blog" replace />;
   }
+
+  const relatedRecord = Object.entries(relatedRecordsMapping).find(([key]) => 
+    post.slug.toLowerCase().includes(key) || post.content.toLowerCase().includes(key)
+  )?.[1];
 
   const isCompliance = post.executiveSummary?.compliance || post.slug.includes('compliance') || post.slug.includes('sepa');
   const author = isCompliance 
@@ -175,6 +207,27 @@ export function BlogPostPage() {
               {autoLink(post.content)}
             </ReactMarkdown>
           </div>
+
+          {relatedRecord && (
+            <div className="mt-12 p-8 bg-emerald-50 dark:bg-emerald-900/10 rounded-3xl border border-emerald-100 dark:border-emerald-900/30">
+              <h3 className="text-xl font-bold text-emerald-800 dark:text-emerald-400 mb-6 flex items-center gap-2">
+                <Landmark className="w-5 h-5" /> {relatedRecord.title}
+              </h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                {relatedRecord.links.map((link) => (
+                  <Link 
+                    key={link.url}
+                    to={link.url}
+                    className="bg-white dark:bg-slate-900 p-4 rounded-xl border border-emerald-100 dark:border-emerald-800 text-center hover:shadow-md hover:border-emerald-500 transition-all group"
+                  >
+                    <p className="text-sm font-bold text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                      {link.name}
+                    </p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
 
           <div className="mt-16 p-8 bg-blue-50 dark:bg-blue-900/10 rounded-3xl border border-blue-100 dark:border-blue-900/30">
             <h3 className="text-xl font-bold text-[#003399] dark:text-blue-400 mb-6 flex items-center gap-2">

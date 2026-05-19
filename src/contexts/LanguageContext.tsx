@@ -18,12 +18,12 @@ const translations: Translations = {
     PL: "SWIFT/BIC"
   },
   "nav.iban": { 
-    EN: "IBAN Guide", 
-    DE: "IBAN Ratgeber", 
-    FR: "Guide IBAN",
-    ES: "Guía IBAN",
-    IT: "Guida IBAN",
-    PL: "Przewodnik IBAN"
+    EN: "IBAN Directory", 
+    DE: "IBAN Verzeichnis", 
+    FR: "Annuaire IBAN",
+    ES: "Directorio IBAN",
+    IT: "Elenco IBAN",
+    PL: "Katalog IBAN"
   },
   "nav.sortcode": { 
     EN: "UK Sort Codes", 
@@ -50,12 +50,12 @@ const translations: Translations = {
     PL: "Znajdź Europejskie Kody Bankowe"
   },
   "home.subtitle": { 
-    EN: "Access 186,000+ verified SWIFT/BIC, IBAN formats, Sort Codes, and BLZ records across 89 European countries.", 
-    DE: "Zugriff auf über 186.000 verifizierte SWIFT/BIC-, IBAN-Formate, Sortiercodes und BLZ-Einträge in 89 europäischen Ländern.", 
-    FR: "Accédez à plus de 186 000 codes SWIFT/BIC, formats IBAN, codes de tri et enregistrements BLZ vérifiés dans 89 pays européens.",
-    ES: "Acceda a más de 186.000 SWIFT/BIC verificados, formatos IBAN, códigos de clasificación y registros BLZ en 89 países europeos.",
-    IT: "Accedi a oltre 186.000 SWIFT/BIC verificati, formati IBAN, codici di ordinamento e record BLZ in 89 paesi europei.",
-    PL: "Uzyskaj dostęp do ponad 186 000 zweryfikowanych kodów SWIFT/BIC, formatów IBAN, kodów rozliczeniowych i rekordów BLZ w 89 krajach europejskich."
+    EN: "Access 186,000+ verified SWIFT/BIC, IBAN numbers & formats, Sort Codes, and BLZ records across 89 countries.", 
+    DE: "Zugriff auf über 186.000 verifizierte SWIFT/BIC-, IBAN-Nummern und -Formate, Sortiercodes und BLZ-Einträge in 89 Ländern.", 
+    FR: "Accédez à plus de 186 000 codes SWIFT/BIC, numéros et formats IBAN, codes de tri et enregistrements BLZ vérifiés dans 89 pays.",
+    ES: "Acceda a más de 186.000 SWIFT/BIC verificados, números y formatos IBAN, códigos de clasificación y registros BLZ en 89 países.",
+    IT: "Accedi a oltre 186.000 SWIFT/BIC verificati, numeri e formati IBAN, codici di ordinamento e record BLZ in 89 paesi.",
+    PL: "Uzyskaj dostęp do ponad 186 000 zweryfikowanych kodów SWIFT/BIC, numerów i formatów IBAN, kodów rozliczeniowych i rekordów BLZ w 89 krajach."
   },
   "search.placeholder": { 
     EN: "Search Bank, City, or BIC Code...", 

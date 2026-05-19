@@ -23,6 +23,8 @@
     "express": "^4.21.2",
     "firebase": "^12.13.0",
     "html2canvas": "^1.4.1",
+    "iban": "^0.0.14",
+    "ibantools": "^4.5.4",
     "jspdf": "^4.2.1",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",

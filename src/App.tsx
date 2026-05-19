@@ -52,8 +52,16 @@ import { WhatIsSwift } from './pages/guides/WhatIsSwift';
 import { WhatIsIban } from './pages/guides/WhatIsIban';
 import { SwiftVsIban } from './pages/guides/SwiftVsIban';
 import { SepaTransfer } from './pages/guides/SepaTransfer';
+import { HowToFindIban } from './pages/guides/HowToFindIban';
+import { IbanFormatByCountry } from './pages/guides/IbanFormatByCountry';
+import { IbanErrorCodes } from './pages/guides/IbanErrorCodes';
+import { IbanVsAccountNumber } from './pages/guides/IbanVsAccountNumber';
+import { IbanVsRoutingNumber } from './pages/guides/IbanVsRoutingNumber';
+import { SepaCountries } from './pages/guides/SepaCountries';
+import { IbanRegionalHub } from './pages/iban/IbanRegionalHub';
 
 const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
+
 
 function Layout() {
   const { t } = useLanguage();
@@ -95,6 +103,7 @@ function Layout() {
                <Link to="/swift-checker" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">SWIFT Checker</Link>
                <Link to="/iban/validator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Validator</Link>
                <Link to="/iban/calculator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Calculator</Link>
+               <Link to="/iban/guide" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md font-medium text-blue-600">IBAN Guide</Link>
             </div>
           </div>
           <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
@@ -137,6 +146,9 @@ function Layout() {
               </DropdownMenuItem>
               <DropdownMenuItem onClick={() => navigate('/iban/calculator')} className="cursor-pointer">
                 IBAN Calculator
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/iban/guide')} className="cursor-pointer text-blue-600 font-medium">
+                IBAN Guide
               </DropdownMenuItem>
               <DropdownMenuItem onClick={() => navigate('/iban')} className="cursor-pointer">
                 {t('nav.iban')}
@@ -255,6 +267,8 @@ export default function App() {
                   <Route index element={<IbanHome />} />
                   <Route path="validator" element={<IbanValidator />} />
                   <Route path="calculator" element={<IbanCalculator />} />
+                  <Route path=":regionSlug(europe|middle-east|africa|caribbean|americas|asia)" element={<IbanRegionalHub />} />
+                  <Route path="guide" element={<WhatIsIban />} />
                 </Route>
 
                 <Route path="swift-checker" element={<SwiftChecker />} />
@@ -296,6 +310,12 @@ export default function App() {
                 <Route path="what-is-an-iban" element={<WhatIsIban />} />
                 <Route path="swift-vs-iban" element={<SwiftVsIban />} />
                 <Route path="sepa-transfer-guide" element={<SepaTransfer />} />
+                <Route path="how-to-find-iban" element={<HowToFindIban />} />
+                <Route path="iban-format-by-country" element={<IbanFormatByCountry />} />
+                <Route path="iban-error-codes" element={<IbanErrorCodes />} />
+                <Route path="iban-vs-account-number" element={<IbanVsAccountNumber />} />
+                <Route path="iban-vs-routing-number" element={<IbanVsRoutingNumber />} />
+                <Route path="sepa-countries" element={<SepaCountries />} />
               </Route>
             </Routes>
           </Suspense>

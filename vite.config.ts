@@ -16,16 +16,7 @@ export default defineConfig(({mode}) => {
       },
     },
     build: {
-      rollupOptions: {
-        output: {
-          manualChunks: {
-            'vendor-react': ['react', 'react-dom', 'react-router-dom', 'react-helmet-async'],
-            'vendor-firebase': ['firebase/app', 'firebase/firestore', 'firebase/auth'],
-            'vendor-ui': ['lucide-react', 'motion'],
-            'vendor-data': ['./src/data/mockData.ts', './src/data/swift.json', './src/data/iban-formats.json']
-          }
-        }
-      }
+      outDir: 'dist',
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
