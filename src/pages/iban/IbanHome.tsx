@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { Search, Globe } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { SEO } from '../../components/SEO';
-import IBAN from 'iban';
+import ibanFormatsDataJson from '../../data/iban-formats.json';
 
 // Helper to get flag emoji from ISO2 code
 const getFlagEmoji = (countryCode: string) => {
@@ -21,17 +21,20 @@ const getFlagEmoji = (countryCode: string) => {
   }
 };
 
+const slugify = (text: string) => {
+  return text.toLowerCase().replace(/[\s_]+/g, '-').replace(/[^\w-]/g, '');
+};
+
 export function IbanHome() {
   const [searchQuery, setSearchQuery] = useState('');
 
   const ibanFormatsData = useMemo(() => {
-    const data = (IBAN as any).countries || {};
-    return Object.keys(data).map(code => ({
-      code,
-      country: data[code].country || code,
-      length: data[code].length,
-      format: data[code].regex ? data[code].regex.toString().replace(/^\/\^/, '').replace(/\$\/$/, '').replace(/\\d/g, 'N').replace(/[A-Z]/g, 'A') : 'PATTERN UNKNOWN', // Simplified representation
-      example: data[code].example
+    return (ibanFormatsDataJson as any[]).map(item => ({
+      code: item.code,
+      country: item.country,
+      length: item.length,
+      format: item.format,
+      example: item.example
     })).sort((a, b) => a.country.localeCompare(b.country));
   }, []);
 
@@ -190,12 +193,12 @@ export function IbanHome() {
                     filteredFormats.map((item) => (
                       <tr key={item.code} className="hover:bg-gray-50 dark:hover:bg-slate-800/50 transition-colors">
                         <td className="px-6 py-4 dark:text-gray-300">
-                          <div className="flex items-center gap-3">
+                          <Link to={`/iban/${slugify(item.country)}`} className="flex items-center gap-3 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                             <span className="text-xl" role="img" aria-label={`Flag of ${item.country}`}>
                               {getFlagEmoji(item.code)}
                             </span>
-                            <span className="font-medium">{item.country}</span>
-                          </div>
+                            <span className="font-medium underline decoration-transparent hover:decoration-current">{item.country}</span>
+                          </Link>
                         </td>
                         <td className="px-6 py-4 dark:text-gray-300">
                           <span className="bg-gray-100 dark:bg-slate-800 px-2 py-0.5 rounded text-xs font-mono">

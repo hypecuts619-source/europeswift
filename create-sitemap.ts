@@ -8,6 +8,7 @@ async function generateSitemap() {
   const rootUrl = 'https://swiftcodedir.com';
   const publicDir = path.join(process.cwd(), 'public');
   const countriesDataDir = path.join(publicDir, 'data', 'countries');
+  const ibanFormatsFile = path.join(process.cwd(), 'src', 'data', 'iban-formats.json');
   
   const urls: {loc: string, priority: string, changefreq: string}[] = [];
 
@@ -22,6 +23,30 @@ async function generateSitemap() {
   addUrl(`${rootUrl}/iban`, '0.8', 'weekly');
   addUrl(`${rootUrl}/iban/validator`, '0.9', 'weekly');
   addUrl(`${rootUrl}/iban/calculator`, '0.9', 'weekly');
+  addUrl(`${rootUrl}/iban/complete-coverage`, '0.9', 'weekly');
+  addUrl(`${rootUrl}/iban/europe`, '0.8', 'weekly');
+  addUrl(`${rootUrl}/iban/middle-east`, '0.8', 'weekly');
+  addUrl(`${rootUrl}/iban/africa`, '0.8', 'weekly');
+  addUrl(`${rootUrl}/iban/caribbean`, '0.8', 'weekly');
+  addUrl(`${rootUrl}/iban/americas`, '0.8', 'weekly');
+  addUrl(`${rootUrl}/iban/asia`, '0.8', 'weekly');
+  
+  // Dynamic IBAN country URLs
+  if (fs.existsSync(ibanFormatsFile)) {
+    const ibanData = JSON.parse(fs.readFileSync(ibanFormatsFile, 'utf8'));
+    for (const item of ibanData) {
+      if (item.country) {
+        const slug = item.country.toLowerCase().replace(/[\s_]+/g, '-').replace(/[^\w-]/g, '');
+        // Give 0.9 to new territories, 0.8 to the rest. The new territories are AX, GF, GP, MF, MQ, NC, PF, PM, RE, TF, WF, YT, RU, LC.
+        let priority = '0.8';
+        if (['AX', 'GF', 'GP', 'MF', 'MQ', 'NC', 'PF', 'PM', 'RE', 'TF', 'WF', 'YT', 'RU', 'LC'].includes(item.code)) {
+          priority = '0.9';
+        }
+        addUrl(`${rootUrl}/iban/${slug}`, priority, 'weekly');
+      }
+    }
+  }
+
   addUrl(`${rootUrl}/sort-code`, '0.8', 'weekly');
   addUrl(`${rootUrl}/blz`, '0.8', 'weekly');
   

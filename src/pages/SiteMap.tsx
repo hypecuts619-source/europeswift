@@ -194,6 +194,11 @@ export function SiteMap() {
                   </Link>
                 </li>
                 <li>
+                  <Link to="/iban/complete-coverage" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
+                    Complete IBAN Coverage (101 Regions)
+                  </Link>
+                </li>
+                <li>
                   <Link to="/iban-format-by-country" className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline flex items-center gap-2">
                     IBAN Format by Country
                   </Link>

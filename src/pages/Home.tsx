@@ -126,11 +126,18 @@ export function Home() {
         animate={{ opacity: 1, y: 0 }}
         className="text-center mb-16"
       >
-        <div className="inline-block px-4 py-1.5 mb-6 bg-blue-50 dark:bg-blue-900/30 rounded-full border border-blue-100 dark:border-blue-800">
-          <span className="text-xs font-bold text-[#003399] dark:text-blue-400 uppercase tracking-widest flex items-center gap-2">
-            <Globe className="w-3 h-3" />
-            Database of 186,000+ Banking Codes
-          </span>
+        <div className="flex flex-wrap justify-center gap-3 mb-6">
+          <div className="inline-block px-4 py-1.5 bg-blue-50 dark:bg-blue-900/30 rounded-full border border-blue-100 dark:border-blue-800">
+            <span className="text-xs font-bold text-[#003399] dark:text-blue-400 uppercase tracking-widest flex items-center gap-2">
+              <Globe className="w-3 h-3" />
+              Database of 186,000+ Banking Codes
+            </span>
+          </div>
+          <div className="inline-block px-4 py-1.5 bg-emerald-50 dark:bg-emerald-900/10 rounded-full border border-emerald-100 dark:border-emerald-900/30 cursor-pointer hover:bg-emerald-100 transition-colors" onClick={() => window.location.href='/iban/complete-coverage'}>
+            <span className="text-xs font-bold text-emerald-700 dark:text-emerald-400 uppercase tracking-widest flex items-center gap-2">
+              <span role="img" aria-label="check">✅</span> 101 IBAN Regions <span className="opacity-75 font-normal capitalize">Including all territories</span>
+            </span>
+          </div>
         </div>
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight dark:text-white max-w-4xl mx-auto leading-[1.1]">
           {t('home.title')}

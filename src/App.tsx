@@ -58,9 +58,13 @@ import { IbanErrorCodes } from './pages/guides/IbanErrorCodes';
 import { IbanVsAccountNumber } from './pages/guides/IbanVsAccountNumber';
 import { IbanVsRoutingNumber } from './pages/guides/IbanVsRoutingNumber';
 import { SepaCountries } from './pages/guides/SepaCountries';
+import { IbanCompleteCoverage } from './pages/guides/IbanCompleteCoverage';
 import { IbanRegionalHub } from './pages/iban/IbanRegionalHub';
+import { IbanCountryFormat } from './pages/iban/IbanCountryFormat';
 
 const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
+
+
 
 
 function Layout() {
@@ -268,6 +272,7 @@ export default function App() {
                   <Route path="validator" element={<IbanValidator />} />
                   <Route path="calculator" element={<IbanCalculator />} />
                   <Route path=":regionSlug(europe|middle-east|africa|caribbean|americas|asia)" element={<IbanRegionalHub />} />
+                  <Route path=":countrySlug" element={<IbanCountryFormat />} />
                   <Route path="guide" element={<WhatIsIban />} />
                 </Route>
 
@@ -317,6 +322,8 @@ export default function App() {
                 <Route path="iban-vs-routing-number" element={<IbanVsRoutingNumber />} />
                 <Route path="sepa-countries" element={<SepaCountries />} />
               </Route>
+              
+              <Route path="iban/complete-coverage" element={<IbanCompleteCoverage />} />
             </Routes>
           </Suspense>
         </Router>

@@ -4,7 +4,7 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Link, useParams, Navigate } from 'react-router-dom';
 import { Globe, MapPin } from 'lucide-react';
 import { SEO } from '../../components/SEO';
-import IBAN from 'iban';
+import ibanFormatsDataJson from '../../data/iban-formats.json';
 
 const getFlagEmoji = (countryCode: string) => {
   if (!countryCode || countryCode.length !== 2) return '🌐';
@@ -19,11 +19,15 @@ const getFlagEmoji = (countryCode: string) => {
   }
 };
 
+const slugify = (text: string) => {
+  return text.toLowerCase().replace(/[\s_]+/g, '-').replace(/[^\w-]/g, '');
+};
+
 const REGIONS: Record<string, { title: string, description: string, countries: string[] }> = {
   'europe': {
     title: 'European IBAN Formats',
     description: 'Complete directory of IBAN formats for Europe, including all SEPA member states.',
-    countries: ['AL','AD','AT','BY','BE','BA','BG','HR','CY','CZ','DK','EE','FI','FR','GE','DE','GI','GR','HU','IS','IE','IT','XK','LV','LI','LT','LU','MT','MD','MC','ME','NL','MK','NO','PL','PT','RO','RU','SM','RS','SK','SI','ES','SE','CH','UA','GB','VA']
+    countries: ['AL','AD','AT','BY','BE','BA','BG','HR','CY','CZ','DK','EE','FI','FR','GE','DE','GI','GR','HU','IS','IE','IT','XK','LV','LI','LT','LU','MT','MD','MC','ME','NL','MK','NO','PL','PT','RO','RU','SM','RS','SK','SI','ES','SE','CH','UA','GB','VA','AX']
   },
   'middle-east': {
     title: 'Middle East IBAN Formats',
@@ -33,22 +37,22 @@ const REGIONS: Record<string, { title: string, description: string, countries: s
   'africa': {
     title: 'African IBAN Formats',
     description: 'IBAN formats and structure for African nations adopting the international standard.',
-    countries: ['DZ','AO','BI','CM','CV','CF','CG','DJ','EG','GA','GQ','MG','ML','MR','MU','MZ','ST','SN','SC','SO','SD','TN']
+    countries: ['DZ','AO','BI','CM','CV','CF','CG','DJ','EG','GA','GQ','MG','ML','MR','MU','MZ','ST','SN','SC','SO','SD','TN','YT','RE']
   },
   'caribbean': {
     title: 'Caribbean IBAN Formats',
     description: 'IBAN standards across Caribbean nations and territories.',
-    countries: ['BS','CR','DO','LC','VG']
+    countries: ['BS','CR','DO','LC','VG','MQ','GP','MF']
   },
   'americas': {
     title: 'Americas IBAN Formats',
     description: 'IBAN formats for Central and South American countries.',
-    countries: ['BR','CR','SV','GT','NI']
+    countries: ['BR','CR','SV','GT','NI','GF','PM']
   },
   'asia': {
     title: 'Asian IBAN Formats',
     description: 'IBAN formats for Asian countries.',
-    countries: ['AZ','IQ','JO','KZ','LB','MN','PK','QA','SA','AE','TL']
+    countries: ['AZ','IQ','JO','KZ','LB','MN','PK','QA','SA','AE','TL','RU']
   }
 };
 
@@ -61,16 +65,16 @@ export function IbanRegionalHub() {
   }
 
   const regionCountries = useMemo(() => {
-    const data = (IBAN as any).countries || {};
-    return Object.keys(data)
-      .filter(code => region.countries.includes(code))
-      .map(code => ({
-        code,
-        country: data[code].country || code,
-        length: data[code].length,
-        format: data[code].regex ? data[code].regex.toString().replace(/^\/\^/, '').replace(/\$\/$/, '').replace(/\\d/g, 'N').replace(/[A-Z]/g, 'A') : 'PATTERN',
-        example: data[code].example
-      })).sort((a, b) => a.country.localeCompare(b.country));
+    return (ibanFormatsDataJson as any[])
+      .filter(item => region.countries.includes(item.code))
+      .map(item => ({
+        code: item.code,
+        country: item.country,
+        length: item.length,
+        format: item.format,
+        example: item.example
+      }))
+      .sort((a, b) => a.country.localeCompare(b.country));
   }, [region]);
 
   return (
@@ -124,12 +128,12 @@ export function IbanRegionalHub() {
               {regionCountries.map((item) => (
                 <tr key={item.code} className="hover:bg-gray-50 dark:hover:bg-slate-800/50 transition-colors">
                   <td className="px-6 py-4">
-                    <div className="flex items-center gap-3">
+                    <Link to={`/iban/${slugify(item.country)}`} className="flex items-center gap-3 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                       <span className="text-xl" role="img" aria-label={`Flag of ${item.country}`}>
                         {getFlagEmoji(item.code)}
                       </span>
-                      <span className="font-medium text-slate-900 dark:text-slate-100">{item.country}</span>
-                    </div>
+                      <span className="font-medium text-slate-900 dark:text-slate-100 underline decoration-transparent hover:decoration-current">{item.country}</span>
+                    </Link>
                   </td>
                   <td className="px-6 py-4">
                     <span className="bg-gray-100 dark:bg-slate-800 px-2 py-0.5 rounded text-xs font-mono">
