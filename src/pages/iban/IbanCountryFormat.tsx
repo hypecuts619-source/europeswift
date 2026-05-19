@@ -95,9 +95,23 @@ export function IbanCountryFormat() {
           <h1 className="font-serif text-4xl md:text-5xl font-bold mb-4 tracking-tight">
             {countryData.country} IBAN Format
           </h1>
-          <p className="text-blue-100 font-medium text-lg leading-relaxed max-w-2xl">
-            Check the exact length, structure, and check digits for bank accounts in {countryData.country}. Ensure your international transfers always arrive safely.
+          <p className="text-blue-100 font-medium text-lg leading-relaxed max-w-2xl mb-6">
+            Everything you need to know to send money to {countryData.country}: exact length ({countryData.length} characters), format, and real-time validation.
           </p>
+          <div className="flex flex-wrap gap-4 mt-6">
+             <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl border border-white/20 flex flex-col">
+               <span className="text-blue-200 text-xs font-semibold uppercase tracking-wider mb-1">Country Code</span>
+               <span className="text-2xl font-bold text-white">{countryData.code}</span>
+             </div>
+             <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl border border-white/20 flex flex-col">
+               <span className="text-blue-200 text-xs font-semibold uppercase tracking-wider mb-1">Exact Length</span>
+               <span className="text-2xl font-bold text-white">{countryData.length} chars</span>
+             </div>
+             <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl border border-white/20 flex flex-col max-w-full overflow-hidden">
+               <span className="text-blue-200 text-xs font-semibold uppercase tracking-wider mb-1">BBAN Format</span>
+               <span className="text-lg md:text-xl font-mono text-white font-bold truncate">{countryData.format}</span>
+             </div>
+          </div>
         </div>
       </div>
 
