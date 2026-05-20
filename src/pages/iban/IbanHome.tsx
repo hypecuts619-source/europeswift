@@ -132,6 +132,16 @@ export function IbanHome() {
           </div>
         </div>
           
+          <div className="relative mb-12">
+            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+            <Input 
+              placeholder="Search by country or ISO code..." 
+              className="pl-12 h-14 text-lg shadow-sm border-gray-200 dark:border-slate-800 dark:bg-slate-950 focus:ring-[#003399]"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </div>
+
           <div className="prose prose-slate dark:prose-invert max-w-none mb-12">
             <div className="grid md:grid-cols-2 gap-8 not-prose">
               <section className="bg-white dark:bg-slate-900 p-6 rounded-xl border dark:border-slate-800 shadow-sm">
@@ -164,16 +174,6 @@ export function IbanHome() {
                 <Link to="/swift-vs-iban" className="px-4 py-2 bg-white dark:bg-slate-800 rounded-full text-xs font-semibold shadow-sm hover:shadow-md transition-all border dark:border-slate-700">SWIFT vs IBAN Comparison</Link>
               </div>
             </section>
-          </div>
-
-          <div className="relative mb-8">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-            <Input 
-              placeholder="Search by country or ISO code..." 
-              className="pl-12 h-14 text-lg shadow-sm border-gray-200 dark:border-slate-800 dark:bg-slate-950 focus:ring-[#003399]"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-            />
           </div>
           
           <div className="bg-white dark:bg-slate-900 rounded-xl border dark:border-slate-800 overflow-hidden shadow-sm">
