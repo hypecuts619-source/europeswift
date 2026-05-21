@@ -50,6 +50,17 @@ async function generateSitemap() {
   addUrl(`${rootUrl}/sort-code`, '0.8', 'weekly');
   addUrl(`${rootUrl}/blz`, '0.8', 'weekly');
   
+  const iso2ToSlugMap: Record<string, string> = {};
+  const swiftDataFile = path.join(process.cwd(), 'src', 'data', 'swift.json');
+  if (fs.existsSync(swiftDataFile)) {
+    const swiftData = JSON.parse(fs.readFileSync(swiftDataFile, 'utf8'));
+    for (const [slug, data] of Object.entries(swiftData as Record<string, any>)) {
+      if (data.iso2) {
+        iso2ToSlugMap[data.iso2.toLowerCase()] = slug;
+      }
+    }
+  }
+
   if (fs.existsSync(countriesDataDir)) {
     const files = fs.readdirSync(countriesDataDir).filter(f => f.endsWith('.json') && !f.endsWith('_branches.json'));
     console.log(`Found ${files.length} country files...`);
@@ -62,7 +73,8 @@ async function generateSitemap() {
         console.error(`Error parsing ${file}:`, e);
         continue;
       }
-      const countrySlug = file.replace('.json', ''); // e.g. "us"
+      const fileIso2 = file.replace('.json', ''); // e.g. "us"
+      const countrySlug = iso2ToSlugMap[fileIso2] || fileIso2;
       
       // Add country page
       addUrl(`${rootUrl}/swift/${countrySlug}`, '0.7', 'weekly');
