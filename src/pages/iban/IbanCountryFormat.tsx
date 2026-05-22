@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { useParams, Navigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
+import { getIbanCountryMeta, getBreadcrumbSchema } from '../../utils/seoHelpers';
 import { Globe, CheckCircle2, ShieldCheck, Banknote, HelpCircle, ArrowRight, Check, X } from 'lucide-react';
 import ibanFormatsDataJson from '../../data/iban-formats.json';
 import * as ibantools from 'ibantools';
@@ -68,13 +69,20 @@ export function IbanCountryFormat() {
   if (!countryData) return null;
 
   const exampleBlocks = (countryData.example || '').match(/.{1,4}/g) || [];
+  const meta = getIbanCountryMeta(countryData.country, countryData.code, countryData.length);
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Home", url: "https://swiftcodedir.com" },
+    { name: "IBAN Directory", url: "https://swiftcodedir.com/iban" },
+    { name: `${countryData.country} IBAN`, url: `https://swiftcodedir.com/iban/${slugify(countryData.country)}` }
+  ]);
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
-        title={`${countryData.country} (${countryData.code}) IBAN Format, Example & Validation`}
-        description={`Everything you need to know about ${countryData.country} IBAN formatting. See official examples, validate your ${countryData.code} IBAN length (${countryData.length} chars), and understand the exact BBAN structure.`}
+        title={meta.title}
+        description={meta.description}
         canonicalUrl={`https://swiftcodedir.com/iban/${slugify(countryData.country)}`}
+        jsonLd={[breadcrumbSchema]}
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

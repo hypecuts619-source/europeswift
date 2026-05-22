@@ -1,5 +1,6 @@
 import { useParams, Navigate, Link } from "react-router-dom";
 import { SEO } from "../components/SEO";
+import { getWireTransferFeesFaqSchema } from "../utils/seoHelpers";
 import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
@@ -114,6 +115,11 @@ export function BlogPostPage() {
     })
   };
 
+  const schemas: any[] = [articleSchema];
+  if (post.slug === "swift-wire-transfer-fees") {
+    schemas.push(getWireTransferFeesFaqSchema());
+  }
+
   return (
     <div className="w-full mx-auto">
       <SEO 
@@ -121,7 +127,7 @@ export function BlogPostPage() {
         description={post.excerpt}
         canonicalUrl={`https://swiftcodedir.com/blog/${post.slug}`}
         ogType="article"
-        jsonLd={articleSchema}
+        jsonLd={schemas}
       />
 
       <div className="max-w-4xl mx-auto">

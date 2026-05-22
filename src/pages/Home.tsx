@@ -7,6 +7,7 @@ import { motion } from 'motion/react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
 import { Badge } from '../components/ui/badge';
+import { InternalEquityLinks } from '../components/SEO/InternalEquityLinks';
 
 import { getDaysRemaining } from '../lib/dateUtils';
 
@@ -119,6 +120,9 @@ export function Home() {
           {daysRemaining} Days to Mandatory ISO 20022 Structured Addresses (Nov 14, 2026)
         </span>
       </motion.div>
+
+      {/* Internal Equity Link Distributor (Above Fold for Elite SEO Authority) */}
+      <InternalEquityLinks />
       
       {/* Hero Section */}
       <motion.section 

@@ -6,6 +6,7 @@ import { Search, Globe } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { SEO } from '../../components/SEO';
 import ibanFormatsDataJson from '../../data/iban-formats.json';
+import { getIbanRootMeta, getWebApplicationSchema, getBreadcrumbSchema } from '../../utils/seoHelpers';
 
 // Helper to get flag emoji from ISO2 code
 const getFlagEmoji = (countryCode: string) => {
@@ -43,13 +44,22 @@ export function IbanHome() {
     item.code.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
+  const meta = getIbanRootMeta();
+  const webAppSchema = getWebApplicationSchema("https://swiftcodedir.com/iban", "Global IBAN Directory & Validator Utility");
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Home", url: "https://swiftcodedir.com" },
+    { name: "IBAN Directory", url: "https://swiftcodedir.com/iban" }
+  ]);
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title="IBAN Directory & Formats 2026 | SwiftCodeDir"
-        description="Explore the complete 2026 registry of IBAN formats, lengths, and structures for all SEPA and international bank account numbering systems. Find format patterns for over 80 countries."
+        title={meta.title}
+        description={meta.description}
         canonicalUrl="https://swiftcodedir.com/iban"
         jsonLd={[
+          webAppSchema,
+          breadcrumbSchema,
           {
             "@context": "https://schema.org",
             "@type": "FAQPage",

@@ -1,5 +1,6 @@
 import { useNavigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
+import { getWebApplicationSchema, getBreadcrumbSchema } from '../../utils/seoHelpers';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
@@ -9,12 +10,19 @@ import { SORT_CODES } from '../../data/sortCodes';
 
 export function SortCodeHome() {
   const navigate = useNavigate();
+  const webAppSchema = getWebApplicationSchema("https://swiftcodedir.com/sort-code", "UK Bank Sort Code Directory Utility");
+  const breadcrumbSchema = getBreadcrumbSchema([
+    { name: "Home", url: "https://swiftcodedir.com" },
+    { name: "Sort Codes", url: "https://swiftcodedir.com/sort-code" }
+  ]);
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
         title="UK Sort Codes | SwiftcodeDir"
         description="Search our complete directory of UK Sort Codes. Verify bank branch sort codes for Barclays, HSBC, Lloyds, NatWest, Santander and other British & Irish banks."
         canonicalUrl="https://swiftcodedir.com/sort-code"
+        jsonLd={[webAppSchema, breadcrumbSchema]}
       />
       
       <Breadcrumb className="mb-8">
