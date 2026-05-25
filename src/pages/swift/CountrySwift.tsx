@@ -21,7 +21,10 @@ export function CountrySwift() {
   const [loading, setLoading] = useState(true);
   
   // Find country
-  const country = countriesData.find(c => c.slug === countrySlug);
+  let country = countriesData.find(c => c.slug === countrySlug);
+  if (!country && countrySlug) {
+    country = countriesData.find(c => c.code.toLowerCase() === countrySlug.toLowerCase());
+  }
 
   useEffect(() => {
     if (country?.code) {
@@ -106,7 +109,7 @@ export function CountrySwift() {
       <SEO 
         title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
         description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
-        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}`}
+        canonicalUrl={`https://swiftcodedir.com/swift/${country.slug.toLowerCase()}`}
         jsonLd={[datasetSchema, faqSchema]}
       />
 
@@ -165,7 +168,7 @@ export function CountrySwift() {
             {!loading && uniqueBanks.map(bank => (
               <Link 
                 key={bank.slug} 
-                to={`/swift/${countrySlug}/${bank.slug}`}
+                to={`/swift/${country.slug}/${bank.slug}`}
                 state={{ realBankName: bank.name }}
               >
                 <Card className="hover:border-[#003399]/40 dark:bg-slate-900 dark:border-slate-800 hover:shadow-md transition-all group">

@@ -30,9 +30,13 @@ export function BankSwift() {
   const [branches, setBranches] = useState<SwiftCodeDoc[]>([]);
   const [loading, setLoading] = useState(true);
 
-  const country = countriesData.find(c => c.slug === countrySlug);
+  let country = countriesData.find(c => c.slug === countrySlug);
+  if (!country && countrySlug) {
+    country = countriesData.find(c => c.code.toLowerCase() === countrySlug.toLowerCase());
+  }
   const bankData = bankSlug ? mockBanksData[bankSlug] : null;
-  const bankNameStr = bankData?.name || location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
+  const initialBankName = bankData?.name || location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
+  const [realBankName, setRealBankName] = useState<string>(initialBankName || '');
 
   useEffect(() => {
     if (country?.code && bankSlug) {
@@ -45,6 +49,9 @@ export function BankSwift() {
         .then(data => {
           if (data && data.bankDetails && data.bankDetails[bankSlug]) {
             const bankInfo = data.bankDetails[bankSlug];
+            if (bankInfo.bank && (!location.state?.realBankName)) {
+              setRealBankName(bankInfo.bank);
+            }
             if (Array.isArray(bankInfo.branches)) {
               setBranches(bankInfo.branches);
             }
@@ -60,6 +67,8 @@ export function BankSwift() {
         });
     }
   }, [country, bankSlug]);
+
+  const bankNameStr = realBankName;
 
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text);
@@ -177,7 +186,7 @@ export function BankSwift() {
         "@type": "ListItem",
         "position": 4,
         "name": bankNameStr,
-        "item": `https://swiftcodedir.com/swift/${countrySlug}/${bankSlug}${bicCode ? `/${bicCode}` : ''}`
+        "item": `https://swiftcodedir.com/swift/${country.slug}/${bankSlug}${bicCode ? `/${bicCode}` : ''}`
       }
     ]
   };
@@ -245,7 +254,7 @@ export function BankSwift() {
     ? `/${bicCode.toUpperCase()}` 
     : '';
 
-  const canonicalUrl = `https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}/${bankSlug.toLowerCase()}${canonicalBicPart}`;
+  const canonicalUrl = `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}${canonicalBicPart}`;
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
@@ -267,7 +276,7 @@ export function BankSwift() {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbLink href={`/swift/${countrySlug}`}>{country.name}</BreadcrumbLink>
+            <BreadcrumbLink href={`/swift/${country.slug}`}>{country.name}</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
@@ -304,7 +313,7 @@ export function BankSwift() {
           </div>
           <p className="text-lg text-slate-600 dark:text-slate-400 flex items-center gap-2">
             <MapPin className="w-4 h-4" /> 
-            <Link to={`/swift/${countrySlug}`} className="hover:underline hover:text-slate-900 dark:hover:text-slate-200">
+            <Link to={`/swift/${country.slug}`} className="hover:underline hover:text-slate-900 dark:hover:text-slate-200">
               {country.name}
             </Link>
             {/* Assume all listed banks here can receive intl transfers */}
@@ -644,7 +653,7 @@ export function BankSwift() {
                   <dt className="text-slate-500 dark:text-slate-400 mb-1">Country</dt>
                   <dd className="font-medium text-slate-900 dark:text-slate-100 flex items-center gap-2">
                     <span>{country.flag}</span> 
-                    <Link to={`/swift/${countrySlug}`} className="text-[#003399] dark:text-blue-400 hover:underline">
+                    <Link to={`/swift/${country.slug}`} className="text-[#003399] dark:text-blue-400 hover:underline">
                       {country.name}
                     </Link>
                   </dd>

@@ -18,16 +18,24 @@ export const trackEvent = (eventName: string, properties: Record<string, any> = 
   // Example: fetch('/api/analytics', { method: 'POST', body: JSON.stringify(payload) });
   
   // Persistence for current session stats
-  const stats = JSON.parse(localStorage.getItem('swiftcode_analytics') || '[]');
-  stats.push(payload);
-  localStorage.setItem('swiftcode_analytics', JSON.stringify(stats.slice(-50))); // Keep last 50
+  try {
+    const stats = JSON.parse(localStorage.getItem('swiftcode_analytics') || '[]');
+    stats.push(payload);
+    localStorage.setItem('swiftcode_analytics', JSON.stringify(stats.slice(-50))); // Keep last 50
+  } catch (e) {
+    // Ignore if localStorage is blocked
+  }
 };
 
 const getSessionId = () => {
-  let sessionId = sessionStorage.getItem('swift_session_id');
-  if (!sessionId) {
-    sessionId = Math.random().toString(36).substring(2, 11);
-    sessionStorage.setItem('swift_session_id', sessionId);
+  try {
+    let sessionId = sessionStorage.getItem('swift_session_id');
+    if (!sessionId) {
+      sessionId = Math.random().toString(36).substring(2, 11);
+      sessionStorage.setItem('swift_session_id', sessionId);
+    }
+    return sessionId;
+  } catch (e) {
+    return 'anonymous_session';
   }
-  return sessionId;
 };

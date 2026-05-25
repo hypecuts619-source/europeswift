@@ -22,7 +22,10 @@ export function BranchList() {
   const [allBranches, setAllBranches] = useState<SwiftCodeDoc[]>([]);
   const [loading, setLoading] = useState(true);
 
-  const country = countriesData.find(c => c.slug === countrySlug);
+  let country = countriesData.find(c => c.slug === countrySlug);
+  if (!country && countrySlug) {
+    country = countriesData.find(c => c.code.toLowerCase() === countrySlug.toLowerCase());
+  }
 
   useEffect(() => {
     if (country?.code) {
@@ -107,7 +110,7 @@ export function BranchList() {
       <SEO 
         title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data`}
         description={`Explore all ${allBranches.length} bank branches in ${country.name}. Find exact SWIFT codes, branch addresses, and routing numbers required for secure wire transfers.`}
-        canonicalUrl={`https://swiftcodedir.com/swift/${countrySlug.toLowerCase()}/branches`}
+        canonicalUrl={`https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/branches`}
         jsonLd={[datasetSchema, faqSchema]}
       />
       <Breadcrumb className="mb-8">
@@ -121,7 +124,7 @@ export function BranchList() {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbLink href={`/swift/${countrySlug}`}>{country.name}</BreadcrumbLink>
+            <BreadcrumbLink href={`/swift/${country.slug}`}>{country.name}</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
