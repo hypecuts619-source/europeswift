@@ -80,7 +80,17 @@ export function BankSwift() {
 
   // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
   // If a specific bicCode was provided in the URL, that becomes our primary BIC for this page view.
-  const selectedBranchDoc = bicCode ? (branches.find(b => b.bic === bicCode) || null) : null;
+  const selectedBranchDoc = bicCode ? (branches.find(b => b.bic === bicCode.toUpperCase()) || null) : null;
+  
+  if (!loading && bicCode && !selectedBranchDoc) {
+    return (
+      <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400">
+        <SEO title="Branch not found | SwiftCodeDir" description="The requested branch could not be found in our database." robots="noindex" />
+        Branch not found
+      </div>
+    );
+  }
+
   const headOfficeSwiftDoc = branches.find(b => b.bic && (b.bic.endsWith('XXX') || b.bic.length === 8)) || branches[0];
   const fallbackSwift = (country.code + 'XXXXXX').padEnd(8, 'X');
   const primaryBic = selectedBranchDoc?.bic || headOfficeSwiftDoc?.bic || fallbackSwift;
@@ -309,7 +319,9 @@ export function BankSwift() {
         <div>
           <div className="flex items-center gap-3 mb-2">
             <Building2 className="w-8 h-8 text-[#003399] dark:text-blue-400" />
-            <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100 capitalize">{bankNameStr} SWIFT Codes</h1>
+            <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100 capitalize">
+              {bankNameStr} {selectedBranchDoc ? `- ${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'}` : 'SWIFT Codes'}
+            </h1>
           </div>
           <p className="text-lg text-slate-600 dark:text-slate-400 flex items-center gap-2">
             <MapPin className="w-4 h-4" /> 
@@ -616,7 +628,11 @@ export function BankSwift() {
                     const bCode = branch.bic.length === 11 ? branch.bic.substring(8, 11) : 'XXX';
                     return (
                       <TableRow key={branch.bic} className="hover:bg-slate-50/50 dark:hover:bg-slate-900/50">
-                        <TableCell className="font-mono font-medium">{branch.bic}</TableCell>
+                        <TableCell className="font-mono font-medium">
+                          <Link to={`/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}/${branch.bic}`} className="text-[#003399] dark:text-blue-400 hover:underline">
+                            {branch.bic}
+                          </Link>
+                        </TableCell>
                         <TableCell>
                           <Badge variant="outline" className="font-mono text-xs bg-slate-50 dark:bg-slate-900/50">
                             {bCode}

@@ -1,4 +1,5 @@
 import { Helmet } from 'react-helmet-async';
+import { useLocation } from 'react-router-dom';
 
 interface SEOProps {
   title?: string;
@@ -8,6 +9,7 @@ interface SEOProps {
   ogType?: 'website' | 'article';
   ogImage?: string;
   jsonLd?: object | object[];
+  robots?: string;
 }
 
 export function SEO({
@@ -18,31 +20,45 @@ export function SEO({
     "BLZ numbers", "SWIFT code search", "find SWIFT code", 
     "routing numbers", "international bank transfers", "valid IBAN"
   ],
-  canonicalUrl = "https://swiftcodedir.com",
+  canonicalUrl,
   ogType = "website",
   ogImage = "https://swiftcodedir.com/og-image.jpg",
-  jsonLd
+  jsonLd,
+  robots = "index, follow"
 }: SEOProps) {
+  let finalCanonicalUrl = canonicalUrl;
+  try {
+    const location = useLocation();
+    if (!finalCanonicalUrl) {
+      finalCanonicalUrl = `https://swiftcodedir.com${location.pathname === '/' ? '' : location.pathname}`;
+    }
+  } catch (e) {
+    if (!finalCanonicalUrl) {
+      finalCanonicalUrl = "https://swiftcodedir.com";
+    }
+  }
+
   return (
     <Helmet>
       {/* Primary Meta Tags */}
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="keywords" content={keywords.join(', ')} />
+      <meta name="robots" content={robots} />
 
       {/* Canonical URL */}
-      <link rel="canonical" href={canonicalUrl} />
+      <link rel="canonical" href={finalCanonicalUrl} />
 
       {/* Open Graph / Facebook */}
       <meta property="og:type" content={ogType} />
-      <meta property="og:url" content={canonicalUrl} />
+      <meta property="og:url" content={finalCanonicalUrl} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={ogImage} />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:url" content={canonicalUrl} />
+      <meta property="twitter:url" content={finalCanonicalUrl} />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={ogImage} />
