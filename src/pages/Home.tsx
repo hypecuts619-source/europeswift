@@ -8,6 +8,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { SEO } from '../components/SEO';
 import { Badge } from '../components/ui/badge';
 import { InternalEquityLinks } from '../components/SEO/InternalEquityLinks';
+import { AdsterraNativeSlot } from '../components/AdsterraNativeSlot';
 
 import { getDaysRemaining } from '../lib/dateUtils';
 
@@ -82,6 +83,18 @@ export function Home() {
     "keywords": "SWIFT, BIC, Banks, Financial Institutions, Routing Numbers"
   };
 
+  const webApplicationSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "USRoutingNumber.com Verification Engine",
+    "url": "https://usroutingnumber.com",
+    "applicationCategory": "FinanceApplication",
+    "operatingSystem": "All",
+    "browserRequirements": "Requires JavaScript. Requires HTML5.",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "featureList": "Client-side Modulo 10 check-digit validation, offline local storage tracking, sub-millisecond bank directory search filtering."
+  };
+
   const jsonLd = [
     {
       "@context": "https://schema.org",
@@ -97,14 +110,15 @@ export function Home() {
     },
     organizationSchema,
     datasetSchema,
-    faqSchema
+    faqSchema,
+    webApplicationSchema
   ];
 
   return (
     <main className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
       <SEO 
-        title={`${t('home.title')} | SwiftCodeDir`}
-        description={t('home.subtitle')}
+        title="US Routing Number Lookup: Instant Check & Verification"
+        description="Instantly find and verify any US bank routing number. Run client-side Modulo 10 checksum validation to prevent transfer errors. 100% secure."
         canonicalUrl="https://swiftcodedir.com"
         jsonLd={jsonLd}
       />
@@ -460,7 +474,10 @@ export function Home() {
         </div>
       </section>
 
-      
+      {/* Adsterra Native Slot */}
+      <section className="mb-8 w-full flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="rectangle" />
+      </section>
 
     </main>
   );

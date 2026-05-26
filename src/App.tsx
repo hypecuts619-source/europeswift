@@ -36,6 +36,7 @@ const SwiftChecker = lazy(() => import('./pages/tool/SwiftChecker').then(module 
 const BanksAtoZ = lazy(() => import('./pages/banks/BanksAtoZ').then(module => ({ default: module.BanksAtoZ })));
 
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
+import { AdsterraNativeSlot } from './components/AdsterraNativeSlot';
 
 const SiteMap = lazy(() => import('./pages/SiteMap').then(module => ({ default: module.SiteMap })));
 const AboutUs = lazy(() => import('./pages/AboutUs').then(module => ({ default: module.AboutUs })));
@@ -183,6 +184,10 @@ function Layout() {
       <main className="flex-1 w-full max-w-[1200px] mx-auto p-4 md:p-6 pb-20">
         <Outlet />
       </main>
+
+      <div className="w-full bg-slate-50 dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 py-4 flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+      </div>
 
       <footer className="bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 pt-16 pb-8 flex-none w-full">
         <div className="max-w-[1200px] mx-auto px-4 md:px-6">
