@@ -139,7 +139,7 @@ export function IbanCountryFormat() {
                 setHasInteracted(true);
               }}
               placeholder={`e.g. ${formatIBAN(countryData.example || countryData.code + '1234567890')}`}
-              className="w-full text-2xl md:text-3xl font-mono p-6 pr-16 bg-slate-50 dark:bg-slate-950 border-2 border-slate-200 dark:border-slate-800 rounded-2xl focus:border-blue-500 focus:ring-4 focus:ring-blue-500/20 transition-all outline-none uppercase placeholder:text-slate-300"
+              className="w-full text-base sm:text-lg md:text-3xl font-mono p-4 sm:p-6 pr-12 sm:pr-16 bg-slate-50 dark:bg-slate-950 border-2 border-slate-200 dark:border-slate-800 rounded-2xl focus:border-blue-500 focus:ring-4 focus:ring-blue-500/20 transition-all outline-none uppercase placeholder:text-slate-300"
               maxLength={countryData.length + Math.floor(countryData.length/4)}
             />
             {hasInteracted && validationResult && (
@@ -171,9 +171,9 @@ export function IbanCountryFormat() {
       
       <div className="grid md:grid-cols-2 gap-8 mb-16">
         <div className="bg-white dark:bg-slate-900 p-8 rounded-3xl border dark:border-slate-800 shadow-sm flex flex-col justify-center">
-          <div className="flex flex-wrap gap-2 mb-8">
+          <div className="flex flex-wrap gap-2 mb-8 justify-center md:justify-start">
             {exampleBlocks.map((block: string, i: number) => (
-              <div key={i} className="bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 px-4 py-2 rounded-lg font-mono text-2xl font-bold border border-slate-200 dark:border-slate-700 shadow-sm">
+              <div key={i} className="bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg font-mono text-lg sm:text-2xl font-bold border border-slate-200 dark:border-slate-700 shadow-sm grow sm:grow-0 text-center">
                 {block}
               </div>
             ))}

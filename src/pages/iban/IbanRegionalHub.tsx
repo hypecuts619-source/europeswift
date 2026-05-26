@@ -118,16 +118,16 @@ export function IbanRegionalHub() {
           <table className="w-full text-left text-sm">
             <thead className="bg-gray-50 dark:bg-slate-800/50 border-b dark:border-slate-800">
               <tr>
-                <th className="px-6 py-4 font-semibold">Country</th>
-                <th className="px-6 py-4 font-semibold">ISO</th>
-                <th className="px-6 py-4 font-semibold">Length</th>
-                <th className="px-6 py-4 font-semibold">Format</th>
+                <th className="px-3 sm:px-6 py-4 font-semibold">Country</th>
+                <th className="px-3 sm:px-6 py-4 font-semibold">ISO</th>
+                <th className="px-3 sm:px-6 py-4 font-semibold">Length</th>
+                <th className="px-3 sm:px-6 py-4 font-semibold">Format</th>
               </tr>
             </thead>
             <tbody className="divide-y dark:divide-slate-800">
               {regionCountries.map((item) => (
                 <tr key={item.code} className="hover:bg-gray-50 dark:hover:bg-slate-800/50 transition-colors">
-                  <td className="px-6 py-4">
+                  <td className="px-3 sm:px-6 py-4">
                     <Link to={`/iban/${slugify(item.country)}`} className="flex items-center gap-3 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                       <span className="text-xl" role="img" aria-label={`Flag of ${item.country}`}>
                         {getFlagEmoji(item.code)}
@@ -135,13 +135,13 @@ export function IbanRegionalHub() {
                       <span className="font-medium text-slate-900 dark:text-slate-100 underline decoration-transparent hover:decoration-current">{item.country}</span>
                     </Link>
                   </td>
-                  <td className="px-6 py-4">
+                  <td className="px-3 sm:px-6 py-4">
                     <span className="bg-gray-100 dark:bg-slate-800 px-2 py-0.5 rounded text-xs font-mono">
                       {item.code}
                     </span>
                   </td>
-                  <td className="px-6 py-4">{item.length}</td>
-                  <td className="px-6 py-4 font-mono text-xs text-gray-500 dark:text-gray-400 tracking-wider">
+                  <td className="px-3 sm:px-6 py-4">{item.length}</td>
+                  <td className="px-3 sm:px-6 py-4 font-mono text-xs text-gray-500 dark:text-gray-400 tracking-wider">
                     {item.format}
                   </td>
                 </tr>

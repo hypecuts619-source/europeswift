@@ -191,18 +191,18 @@ export function IbanHome() {
               <table className="w-full text-left text-sm">
                 <thead className="bg-gray-50 dark:bg-slate-800/50 border-b dark:border-slate-800">
                   <tr>
-                    <th className="px-6 py-4 font-semibold text-gray-900 dark:text-gray-200 whitespace-nowrap">Country</th>
-                    <th className="px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">ISO</th>
-                    <th className="px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Length</th>
-                    <th className="px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Pattern</th>
-                    <th className="px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Example</th>
+                    <th className="px-3 sm:px-6 py-4 font-semibold text-gray-900 dark:text-gray-200 whitespace-nowrap">Country</th>
+                    <th className="px-3 sm:px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">ISO</th>
+                    <th className="px-3 sm:px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Length</th>
+                    <th className="px-3 sm:px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Pattern</th>
+                    <th className="px-3 sm:px-6 py-4 font-semibold text-gray-900 dark:text-gray-200">Example</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y dark:divide-slate-800">
                   {filteredFormats.length > 0 ? (
                     filteredFormats.map((item) => (
                       <tr key={item.code} className="hover:bg-gray-50 dark:hover:bg-slate-800/50 transition-colors">
-                        <td className="px-6 py-4 dark:text-gray-300">
+                        <td className="px-3 sm:px-6 py-4 dark:text-gray-300">
                           <Link to={`/iban/${slugify(item.country)}`} className="flex items-center gap-3 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                             <span className="text-xl" role="img" aria-label={`Flag of ${item.country}`}>
                               {getFlagEmoji(item.code)}
@@ -210,16 +210,16 @@ export function IbanHome() {
                             <span className="font-medium underline decoration-transparent hover:decoration-current">{item.country}</span>
                           </Link>
                         </td>
-                        <td className="px-6 py-4 dark:text-gray-300">
+                        <td className="px-3 sm:px-6 py-4 dark:text-gray-300">
                           <span className="bg-gray-100 dark:bg-slate-800 px-2 py-0.5 rounded text-xs font-mono">
                             {item.code}
                           </span>
                         </td>
-                        <td className="px-6 py-4 dark:text-gray-300">{item.length}</td>
-                        <td className="px-6 py-4 font-mono text-[10px] text-gray-500 dark:text-gray-400 uppercase tracking-widest whitespace-nowrap">
+                        <td className="px-3 sm:px-6 py-4 dark:text-gray-300">{item.length}</td>
+                        <td className="px-3 sm:px-6 py-4 font-mono text-[10px] text-gray-500 dark:text-gray-400 uppercase tracking-widest whitespace-nowrap">
                           {item.format}
                         </td>
-                        <td className="px-6 py-4 font-mono text-[10px] text-gray-600 dark:text-gray-400 whitespace-nowrap">
+                        <td className="px-3 sm:px-6 py-4 font-mono text-[10px] text-gray-600 dark:text-gray-400 whitespace-nowrap">
                           {item.example}
                         </td>
                       </tr>

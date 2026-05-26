@@ -223,8 +223,8 @@ export function IbanCalculator() {
                 <h3 className="text-sm uppercase tracking-widest font-semibold text-green-700 dark:text-green-400 mb-3">
                   Your Calculated IBAN
                 </h3>
-                <div className="flex items-center justify-between bg-white dark:bg-slate-900 p-4 rounded-xl border border-green-200 dark:border-green-800 mb-4">
-                  <span className="font-mono text-xl md:text-2xl font-bold tracking-wider text-slate-900 dark:text-slate-50">
+                <div className="flex flex-col sm:flex-row items-center justify-between gap-4 bg-white dark:bg-slate-900 p-4 rounded-xl border border-green-200 dark:border-green-800 mb-4">
+                  <span className="font-mono text-lg sm:text-xl md:text-2xl font-bold tracking-wider text-slate-900 dark:text-slate-50 break-all text-center sm:text-left w-full">
                     {generatedIban.match(/.{1,4}/g)?.join(' ')}
                   </span>
                 </div>

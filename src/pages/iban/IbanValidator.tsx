@@ -161,7 +161,7 @@ export function IbanValidator() {
               value={iban}
               onChange={(e) => setIban(e.target.value.replace(/\s+/g, '').toUpperCase())}
               placeholder="e.g. GB82 WEST 1234 5698 7654 32"
-              className="text-lg font-mono tracking-widest uppercase h-14 dark:bg-slate-950 dark:border-slate-800 dark:text-slate-100"
+              className="text-base sm:text-lg font-mono tracking-wider sm:tracking-widest uppercase h-14 dark:bg-slate-950 dark:border-slate-800 dark:text-slate-100 placeholder:normal-case placeholder:tracking-normal"
             />
             <Button onClick={onManualValidate} size="lg" className="h-14 px-8 bg-[#003399] dark:bg-blue-600 hover:bg-blue-800 dark:hover:bg-blue-500 w-full sm:w-auto">
               Validate <Search className="w-4 h-4 ml-2" />
