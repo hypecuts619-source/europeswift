@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { Search, Globe } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { SEO } from '../../components/SEO';
+import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import ibanFormatsDataJson from '../../data/iban-formats.json';
 import { getIbanRootMeta, getWebApplicationSchema, getBreadcrumbSchema } from '../../utils/seoHelpers';
 
@@ -141,6 +142,10 @@ export function IbanHome() {
             </div>
           </div>
         </div>
+
+        <section className="mb-12 w-full flex justify-center">
+          <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+        </section>
           
           <div className="relative mb-12">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />

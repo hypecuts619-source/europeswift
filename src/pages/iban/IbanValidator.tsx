@@ -6,6 +6,7 @@ import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { SEO } from '../../components/SEO';
+import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import IBAN from 'iban';
 
 import { validateIbanChecksum } from '../../lib/ibanUtils';
@@ -152,6 +153,10 @@ export function IbanValidator() {
           Verify the structural and mathematical integrity of any International Bank Account Number using the official ISO 7064 MOD 97-10 algorithm.
         </p>
       </div>
+
+      <section className="mb-12 w-full flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+      </section>
 
       <Card className="shadow-lg border-0 mb-8 max-w-2xl mx-auto dark:bg-slate-900 dark:border dark:border-slate-800">
         <CardContent className="p-8">

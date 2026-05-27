@@ -8,6 +8,7 @@ import ibanFormatsDataJson from '../../data/iban-formats.json';
 import * as ibantools from 'ibantools';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
+import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 
 const getFlagEmoji = (countryCode: string) => {
   if (!countryCode || countryCode.length !== 2) return '🌐';
@@ -122,6 +123,10 @@ export function IbanCountryFormat() {
           </div>
         </div>
       </div>
+
+      <section className="mb-12 w-full flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+      </section>
 
       {/* Interactive Validator Tool */}
       <div className="bg-white dark:bg-slate-900 border-2 border-blue-500/20 dark:border-blue-500/30 rounded-3xl p-6 md:p-10 mb-16 shadow-xl shadow-blue-900/5 relative overflow-hidden">

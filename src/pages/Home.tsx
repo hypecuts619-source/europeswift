@@ -174,6 +174,11 @@ export function Home() {
         </div>
       </motion.section>
 
+      {/* Top Adsterra Native Slot (Below Hero) */}
+      <section className="mb-16 w-full flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+      </section>
+
       {/* Services Grid */}
       <motion.div 
         variants={container}
@@ -472,11 +477,6 @@ export function Home() {
             </p>
           </div>
         </div>
-      </section>
-
-      {/* Adsterra Native Slot */}
-      <section className="mb-8 w-full flex justify-center">
-        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="rectangle" />
       </section>
 
     </main>

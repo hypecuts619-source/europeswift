@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/ca
 import { Alert, AlertDescription, AlertTitle } from '../../components/ui/alert';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../../components/ui/select';
 import { SEO } from '../../components/SEO';
+import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import IBAN from 'iban';
 
 import { calculateIbanChecksum, formatIban } from '../../lib/ibanUtils';
@@ -141,6 +142,10 @@ export function IbanCalculator() {
           Convert your domestic bank identity (Bank Code, Sort Code, or BLZ) and account number into a fully compliant International Bank Account Number (IBAN).
         </p>
       </div>
+
+      <section className="mb-12 w-full flex justify-center">
+        <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />
+      </section>
 
       <div className="grid md:grid-cols-2 gap-8">
         <Card className="shadow-lg border-t-4 border-t-[#003399]">
