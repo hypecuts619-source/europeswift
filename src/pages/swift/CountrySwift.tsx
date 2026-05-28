@@ -1,6 +1,6 @@
 import { useParams, Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { Building2, Search, Component } from 'lucide-react';
+import { Building2, Search, Component, Zap } from 'lucide-react';
 import { useState, useEffect, useMemo } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Input } from '../../components/ui/input';
@@ -204,6 +204,39 @@ export function CountrySwift() {
         </div>
 
         <aside className="space-y-6 relative gap-6 flex flex-col h-full">
+          {country.code === 'GB' && (
+             <Card className="border-2 border-[#003399]/20 bg-blue-50/50 dark:bg-blue-900/10 dark:border-blue-800 shadow-sm shrink-0">
+               <CardContent className="p-6">
+                 <h3 className="font-semibold text-[#003399] dark:text-blue-400 mb-3 flex items-center gap-2">
+                   <Zap className="w-4 h-4" /> UK Banking Quick Facts
+                 </h3>
+                 <ul className="space-y-3 text-sm text-slate-700 dark:text-slate-300">
+                   <li><strong>IBAN Length:</strong> 22 characters, starting with 'GB'.</li>
+                   <li><strong>Sort Code:</strong> A 6-digit number (e.g., 12-34-56) identifying the exact bank branch.</li>
+                   <li><strong>Faster Payments:</strong> Most UK bank transfers settle instantly via the Faster Payments Service (FPS).</li>
+                 </ul>
+                 <div className="mt-4 pt-4 border-t border-[#003399]/20 dark:border-blue-800/50">
+                   <p className="text-xs font-semibold text-slate-700 dark:text-slate-300 mb-2">Instant Sort Code Lookup (Mini-Tool)</p>
+                   <div className="flex gap-2">
+                     <Input 
+                        placeholder="e.g. 20-00-00" 
+                        className="h-9 text-sm bg-white dark:bg-slate-900 border-[#003399]/30"
+                        maxLength={8}
+                        onChange={(e) => {
+                          const val = e.target.value.replace(/[^0-9]/g, '');
+                          if (val.length === 6 && val.startsWith('20')) {
+                             e.target.value = e.target.value + ' (Barclays)';
+                          } else if (val.length === 6 && val.startsWith('40')) {
+                             e.target.value = e.target.value + ' (HSBC)';
+                          }
+                        }}
+                     />
+                   </div>
+                   <p className="text-[10px] text-slate-500 mt-2">Type your 6 digit code for instant bank identification. Links to our <Link to="/sort-code-checker" className="text-[#003399] hover:underline">full directory</Link>.</p>
+                 </div>
+               </CardContent>
+             </Card>
+          )}
           <Card className="border dark:bg-slate-900 dark:border-slate-800 shadow-sm shrink-0">
             <CardContent className="p-6">
               <h3 className="font-semibold text-gray-900 dark:text-slate-100 mb-2">Country Information</h3>

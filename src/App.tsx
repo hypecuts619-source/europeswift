@@ -74,9 +74,10 @@ function Layout() {
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-50 font-sans flex flex-col transition-colors duration-200">
-      <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-6 xl:px-12 hidden md:grid grid-cols-[auto_1fr_auto_auto] items-center gap-8 flex-none">
-        <div className="flex items-center">
-          <Link to="/" className="flex items-center gap-2 group">
+      <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-6 xl:px-8 hidden md:flex items-center flex-none">
+        {/* Left section: Logo + Nav */}
+        <div className="flex items-center gap-8 flex-1">
+          <Link to="/" className="flex items-center gap-2 group shrink-0">
             <div className="relative flex items-center justify-center w-10 h-10 group-hover:scale-105 transition-transform duration-300 flex-shrink-0">
               <div className="absolute inset-0 bg-[#003399] rounded-xl transform rotate-3 group-hover:rotate-6 transition-transform duration-300"></div>
               <div className="absolute inset-0 bg-blue-500 rounded-xl transform -rotate-3 group-hover:-rotate-6 transition-transform duration-300 opacity-80"></div>
@@ -87,39 +88,44 @@ function Layout() {
             </div>
             <span className="text-xl font-bold tracking-tight text-[#003399] dark:text-blue-400">Swiftcode<span className="text-slate-400 dark:text-slate-500">dir</span></span>
           </Link>
-        </div>
 
-        <div className="flex justify-center flex-col items-center">
-          <Suspense fallback={<div className="h-9 w-64 bg-slate-100 dark:bg-slate-900 rounded-md animate-pulse"></div>}>
-            <GlobalSearch />
-          </Suspense>
-        </div>
-
-        <nav className="flex items-center gap-8 text-sm font-medium">
-          <Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors flex items-center gap-2">
-            <Map className="w-4 h-4" />
-            By Country
-          </Link>
-          <div className="relative group/nav py-5">
-            <button className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 transition-colors flex items-center gap-1 pb-1">
-              Tools <span className="text-[10px] opacity-60">▼</span>
-            </button>
-            <div className="absolute top-10 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl rounded-xl p-2 opacity-0 invisible group-hover/nav:opacity-100 group-hover/nav:visible transition-all z-50">
-               <Link to="/swift-checker" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">SWIFT Checker</Link>
-               <Link to="/iban/validator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Validator</Link>
-               <Link to="/iban/calculator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Calculator</Link>
-               <Link to="/iban/guide" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md font-medium text-blue-600">IBAN Guide</Link>
+          <nav className="flex items-center gap-6 text-sm font-medium">
+            <Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors flex items-center gap-1.5">
+              <Map className="w-4 h-4" />
+              By Country
+            </Link>
+            <div className="relative group/nav py-5">
+              <button className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 transition-colors flex items-center gap-1 pb-1">
+                Tools <span className="text-[10px] opacity-60">▼</span>
+              </button>
+              <div className="absolute top-12 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl rounded-xl p-2 opacity-0 invisible group-hover/nav:opacity-100 group-hover/nav:visible transition-all z-50">
+                 <Link to="/swift-checker" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">SWIFT Checker</Link>
+                 <Link to="/iban/validator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Validator</Link>
+                 <Link to="/iban/calculator" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">IBAN Calculator</Link>
+                 <Link to="/iban/guide" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md font-medium text-blue-600">IBAN Guide</Link>
+              </div>
             </div>
-          </div>
-          <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
-          <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
-          <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>
-        </nav>
+            <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
+            <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
+            <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>
+          </nav>
+        </div>
 
-        <div className="flex items-center gap-4 pl-8 border-l border-slate-100 dark:border-slate-800">
-          <div className="px-3 py-1 bg-green-100 dark:bg-green-950/50 text-green-700 dark:text-green-400 text-[10px] font-bold rounded-full border border-green-200 dark:border-green-900/50 uppercase tracking-wider italic hidden xl:block">Verified by SWIFT</div>
-          <LanguageSelector />
-          <ModeToggle />
+        {/* Right section: Search & Utils */}
+        <div className="flex items-center gap-6 shrink-0">
+          <div className="w-64">
+            <Suspense fallback={<div className="h-9 w-64 bg-slate-100 dark:bg-slate-900 rounded-md animate-pulse"></div>}>
+              <GlobalSearch />
+            </Suspense>
+          </div>
+          
+          <div className="flex items-center gap-4 pl-6 border-l border-slate-200 dark:border-slate-800">
+            <div className="px-3 py-1 bg-emerald-50 dark:bg-emerald-900/20 text-emerald-700 dark:text-emerald-400 text-[10px] font-bold rounded-full border border-emerald-200/50 dark:border-emerald-800/50 shadow-sm uppercase tracking-wider hidden xl:block">
+              Verified by SWIFT
+            </div>
+            <LanguageSelector />
+            <ModeToggle />
+          </div>
         </div>
       </header>
       

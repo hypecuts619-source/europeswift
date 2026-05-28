@@ -52,6 +52,30 @@ export function Home() {
           "@type": "Answer",
           "text": "Our directory currently holds over 186,000 banking codes including BICs, Sort Codes, and BLZs across multiple countries, providing one of the most comprehensive free databases for international bank routing."
         }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between an IBAN and a SWIFT code?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A SWIFT code identifies a specific bank or branch internationally, while an IBAN identifies a specific individual bank account in a particular country. You typically need both to complete an international wire transfer."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are SWIFT codes 8 or 11 characters long?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SWIFT codes can be either 8 or 11 characters. An 8-character code refers to the primary or head office of a bank, while an 11-character code includes a 3-character branch code at the end to identify a specific branch."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if I use the wrong SWIFT code?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "If you use an incorrect SWIFT code, your transfer may be delayed, returned, or subject to additional fees as it gets routed improperly or rejected by the receiving banking network."
+        }
       }
     ]
   };
@@ -115,7 +139,7 @@ export function Home() {
   ];
 
   return (
-    <main className="w-full max-w-7xl mx-auto px-4 py-8 md:py-16">
+    <div className="w-full mx-auto py-8 md:py-16">
       <SEO 
         title="US Routing Number Lookup: Instant Check & Verification"
         description="Instantly find and verify any US bank routing number. Run client-side Modulo 10 checksum validation to prevent transfer errors. 100% secure."
@@ -145,26 +169,28 @@ export function Home() {
         className="text-center mb-16"
       >
         <div className="flex flex-wrap justify-center gap-3 mb-6">
-          <div className="inline-block px-4 py-1.5 bg-blue-50 dark:bg-blue-900/30 rounded-full border border-blue-100 dark:border-blue-800">
-            <span className="text-xs font-bold text-[#003399] dark:text-blue-400 uppercase tracking-widest flex items-center gap-2">
-              <Globe className="w-3 h-3" />
+          <div className="inline-flex px-4 py-1.5 bg-white dark:bg-slate-900 rounded-full border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow transition-all relative group overflow-hidden">
+            <div className="absolute inset-0 bg-blue-50 dark:bg-blue-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+            <span className="relative text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-widest flex items-center gap-2">
+              <Globe className="w-3.5 h-3.5 text-[#003399] dark:text-blue-400" />
               Database of 186,000+ Banking Codes
             </span>
           </div>
-          <div className="inline-block px-4 py-1.5 bg-emerald-50 dark:bg-emerald-900/10 rounded-full border border-emerald-100 dark:border-emerald-900/30 cursor-pointer hover:bg-emerald-100 transition-colors" onClick={() => window.location.href='/iban/complete-coverage'}>
-            <span className="text-xs font-bold text-emerald-700 dark:text-emerald-400 uppercase tracking-widest flex items-center gap-2">
-              <span role="img" aria-label="check">✅</span> 101 IBAN Regions <span className="opacity-75 font-normal capitalize">Including all territories</span>
+          <div className="inline-flex px-4 py-1.5 bg-white dark:bg-slate-900 rounded-full border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow transition-all cursor-pointer relative group overflow-hidden" onClick={() => window.location.href='/iban/complete-coverage'}>
+            <div className="absolute inset-0 bg-emerald-50 dark:bg-emerald-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+            <span className="relative text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-widest flex items-center gap-2">
+              <span role="img" aria-label="check" className="text-emerald-500">✓</span> 101 IBAN Regions <span className="opacity-60 font-normal capitalize hidden sm:inline">Including all territories</span>
             </span>
           </div>
         </div>
-        <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight dark:text-white max-w-4xl mx-auto leading-[1.1]">
+        <h1 className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight text-slate-900 dark:text-white max-w-4xl mx-auto leading-[1.1] selection:bg-blue-100 dark:selection:bg-blue-900/50">
           {t('home.title')}
         </h1>
         <p className="text-slate-500 dark:text-slate-400 mb-10 max-w-2xl mx-auto text-lg md:text-xl leading-relaxed">
           {t('home.subtitle')}
         </p>
         
-        <div className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-xl shadow-blue-900/5 text-left border border-slate-200 dark:border-slate-800">
+        <div className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.08)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4)] text-left border border-slate-200/80 dark:border-slate-800 transition-all hover:shadow-[0_8px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_8px_40px_rgb(59,130,246,0.1)]">
           <Suspense fallback={<div className="h-14 bg-gray-50 dark:bg-slate-950 rounded-xl animate-pulse w-full"></div>}>
             <DirectorySearch />
           </Suspense>
@@ -188,7 +214,7 @@ export function Home() {
       >
         {/* SWIFT Search Service */}
         <motion.div variants={item}>
-          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
             <div className="absolute -right-8 -top-8 w-32 h-32 bg-[#003399] opacity-[0.03] dark:opacity-5 rounded-full group-hover:scale-110 transition-transform"></div>
             <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
               <Globe className="w-7 h-7" />
@@ -211,7 +237,7 @@ export function Home() {
         {/* IBAN Services */}
         <motion.div variants={item} className="md:col-span-2 lg:col-span-1">
           <div className="h-full flex flex-col gap-4">
-            <Link to="/iban/validator" className="group flex-1 bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 transition-all flex flex-col relative overflow-hidden">
+            <Link to="/iban/validator" className="group flex-1 bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 hover:-translate-y-1 hover:shadow-2xl transition-all flex flex-col relative overflow-hidden">
               <div className="absolute inset-0 bg-gradient-to-br from-[#003399] to-transparent opacity-20 z-0"></div>
               <div className="relative z-10 h-full flex flex-col">
                 <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center mb-6">
@@ -227,7 +253,7 @@ export function Home() {
               </div>
             </Link>
             
-            <Link to="/iban/calculator" className="group flex-1 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+            <Link to="/iban/calculator" className="group flex-1 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
               <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
                 <Calculator className="w-7 h-7" />
               </div>
@@ -244,7 +270,7 @@ export function Home() {
 
         {/* UK Sort Codes Service */}
         <motion.div variants={item}>
-          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-slate-50 dark:bg-slate-800 rounded-2xl flex items-center justify-center mb-6 text-slate-400 dark:text-slate-500">
               <CreditCard className="w-7 h-7" />
             </div>
@@ -260,7 +286,7 @@ export function Home() {
 
         {/* German BLZ Service */}
         <motion.div variants={item}>
-          <Link to="/blz" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/blz" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-blue-50/50 dark:bg-blue-900/20 rounded-2xl flex items-center justify-center mb-6 text-blue-600 dark:text-blue-500">
               <Landmark className="w-7 h-7" />
             </div>
@@ -276,7 +302,7 @@ export function Home() {
 
         {/* US Routing Numbers Service */}
         <motion.div variants={item}>
-          <Link to="/routing-number" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/routing-number" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-green-50 dark:bg-green-950/30 rounded-2xl flex items-center justify-center mb-6 text-green-600 dark:text-green-500">
               <Search className="w-7 h-7" />
             </div>
@@ -286,6 +312,22 @@ export function Home() {
             </p>
             <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
               View US Banks <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Link>
+        </motion.div>
+
+        {/* Knowledge Base */}
+        <motion.div variants={item}>
+          <Link to="/blog" className="group h-full bg-slate-50 dark:bg-slate-900/40 rounded-3xl border-2 border-dashed border-slate-200 dark:border-slate-800 p-8 hover:bg-white dark:hover:bg-slate-900 hover:border-solid hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-xl hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+             <div className="w-14 h-14 bg-purple-50 dark:bg-purple-950/30 rounded-2xl flex items-center justify-center mb-6 text-purple-600 dark:text-purple-500">
+              <Landmark className="w-7 h-7" />
+            </div>
+            <h2 className="text-2xl font-bold mb-3 dark:text-white group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors">Knowledge Base</h2>
+            <p className="text-slate-500 dark:text-slate-400 mb-8 flex-1">
+              Expert guides on wire transfers, PSD3 regulations, and international bank routing practices.
+            </p>
+            <div className="flex items-center text-sm font-bold text-[#003399] dark:text-blue-400">
+              Read Guides <ChevronRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </div>
           </Link>
         </motion.div>
@@ -420,7 +462,7 @@ export function Home() {
             <Link
               key={idx}
               to={bank.link}
-              className="px-4 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 rounded-xl text-center shadow-sm hover:shadow-md transition-all group flex flex-col justify-center min-h-[4rem]"
+              className="px-4 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 rounded-xl text-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all group flex flex-col justify-center min-h-[4rem]"
             >
               <div className="font-semibold text-slate-800 dark:text-slate-200 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
                 {bank.name}
@@ -450,7 +492,7 @@ export function Home() {
             <Link 
               key={c.slug}
               to={`/swift/${c.slug}`}
-              className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900 shadow-sm hover:shadow-md transition-all text-center"
+              className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all text-center"
             >
               <span className="text-4xl mb-4 group-hover:scale-110 transition-transform grayscale-[0.5] group-hover:grayscale-0">{c.flag}</span>
               <span className="text-sm font-bold dark:text-slate-200 mb-1">{c.name}</span>
@@ -464,21 +506,39 @@ export function Home() {
       <section className="mb-16 max-w-4xl mx-auto px-2 border-t border-slate-200 dark:border-slate-800 pt-16">
         <h2 className="text-2xl font-bold dark:text-white mb-8 text-center">Frequently Asked Questions</h2>
         <div className="space-y-6">
-          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800">
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
             <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">What is a SWIFT / BIC code?</h3>
             <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
               A SWIFT code or Business Identifier Code (BIC) is a standard format of Bank Identifier Codes used to identify banks and financial institutions globally, verifying money transfers between institutions.
             </p>
           </div>
-          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800">
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
             <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">How many bank directories are available?</h3>
             <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
               Our directory currently holds <strong>over 186,000 banking codes</strong> including BICs, Sort Codes, and BLZs across multiple countries, providing one of the most comprehensive free databases for international bank routing.
             </p>
           </div>
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
+            <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">What is the difference between an IBAN and a SWIFT code?</h3>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
+              A SWIFT code identifies a specific bank or branch internationally, while an IBAN identifies a specific individual bank account in a particular country. You typically need both to complete an international wire transfer.
+            </p>
+          </div>
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
+            <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">Are SWIFT codes 8 or 11 characters long?</h3>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
+              SWIFT codes can be either 8 or 11 characters. An 8-character code refers to the primary or head office of a bank, while an 11-character code includes a 3-character branch code at the end to identify a specific branch.
+            </p>
+          </div>
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
+            <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">What happens if I use the wrong SWIFT code?</h3>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
+              If you use an incorrect SWIFT code, your transfer may be delayed, returned, or subject to additional fees as it gets routed improperly or rejected by the receiving banking network.
+            </p>
+          </div>
         </div>
       </section>
 
-    </main>
+    </div>
   );
 }

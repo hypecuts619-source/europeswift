@@ -16,6 +16,130 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
 
   {
+    slug: "ultimate-guide-swift-bic-codes-2026",
+    title: "The Ultimate Guide to SWIFT/BIC Codes: Everything You Need to Know for 2026",
+    date: "2026-05-28",
+    excerpt: "The definitive, single-page guide to SWIFT codes. Learn about structure, IBAN differences, and the ISO 20022 future.",
+    content: `# The Ultimate Guide to SWIFT/BIC Codes: Everything You Need to Know for 2026
+
+## What is a SWIFT Code?
+A SWIFT code (or BIC) is an international bank identifier used during wire transfers. It helps route money to the correct financial institution.
+
+## SWIFT Code Structure (8 vs. 11 characters)
+Standard codes are 8 characters long (Bank + Country + Location). The 11-character version adds a 3-character branch code.
+Read more in our guide on [SWIFT Code Formatting Explained](/blog/swift-code-formatting-explained-cracking-bic).
+
+## When You Need a SWIFT Code vs. IBAN
+While SWIFT identifies the bank, an IBAN identifies the specific individual account. See [IBAN vs SWIFT Code](/blog/iban-vs-swift-code) for details.
+
+## How to Find Your Bank's SWIFT Code
+Use our free [SWIFT Code Finder](/swift) to instantly look up any bank's code.
+
+## The Future: ISO 20022 and Structured Addresses
+By 2026, the ISO 20022 mandate ensures richer, more structured data payload for international payments.
+
+## FAQ
+**Q:** Are all SWIFT codes 11 digits?
+**A:** No, 8 digits signify a primary office, and 11 point to a specific branch.
+
+> Use our free [SWIFT Code Finder](/swift) tool to instantly look up any bank's code.
+`
+  },
+  {
+    slug: "how-to-find-swift-code-30-seconds",
+    title: "How to Find Your SWIFT/BIC Code in 30 Seconds",
+    date: "2026-05-28",
+    excerpt: "Quick guide to locating the correct SWIFT/BIC code for your next international bank transfer.",
+    content: `# How to Find Your SWIFT/BIC Code in 30 Seconds
+
+Looking for a SWIFT code? Usually, it's printed on your bank statement or visible within your online banking portal. However, an easy and reliable way is to search using a specialized database.
+
+> Use our free [SWIFT Code Finder](/swift) tool to instantly look up any bank's code.
+`
+  },
+  {
+    slug: "why-international-wire-transfers-are-expensive",
+    title: "Why Are International Wire Transfers Still So Expensive?",
+    date: "2026-05-28",
+    excerpt: "Discover the hidden correspondent bank fees and FX markups that make international wire transfers costly.",
+    content: `# Why Are International Wire Transfers Still So Expensive?
+
+It comes down to correspondent banking chains and foreign exchange markups. Each hop takes a cut...
+`
+  },
+  {
+    slug: "how-to-get-mid-market-exchange-rate",
+    title: "How to Get the Mid-Market Exchange Rate (and Avoid Bank Markups)",
+    date: "2026-05-28",
+    excerpt: "Avoid excessive bank margins by understanding the mid-market exchange rate during your transfers.",
+    content: `# How to Get the Mid-Market Exchange Rate (and Avoid Bank Markups)
+
+Banks often charge a spread over the real mid-market rate. Here is how to avoid it...
+`
+  },
+  {
+    slug: "what-is-an-iban-beginners-guide",
+    title: "What is an IBAN? A Beginner's Guide",
+    date: "2026-05-28",
+    excerpt: "An introductory guide to International Bank Account Numbers and why they matter for Eurozone payments.",
+    content: `# What is an IBAN? A Beginner's Guide
+
+An IBAN identifies an exact account. It includes the country code, checksum digits, and national bank details.
+> Validate any IBAN using our [IBAN Validator Tool](/iban/validator).
+`
+  },
+  {
+    slug: "list-of-iban-formats-by-country",
+    title: "List of IBAN Formats by Country (2026 Edition)",
+    date: "2026-05-28",
+    excerpt: "A comprehensive reference for IBAN lengths and structural formats across all participating nations.",
+    content: `# List of IBAN Formats by Country (2026 Edition)
+
+Different countries have different lengths for IBANs. For example, France requires 27 characters.
+`
+  },
+  {
+    slug: "how-to-validate-iban-number-instantly",
+    title: "How to Validate an IBAN Number Instantly",
+    date: "2026-05-28",
+    excerpt: "Step-by-step instructions for ensuring your IBAN is accurate before making a payment.",
+    content: `# How to Validate an IBAN Number Instantly
+
+> Try our free [IBAN Validator Tool](/iban/validator) right now!
+`
+  },
+  {
+    slug: "understanding-german-blz-codes",
+    title: "Understanding German Bankleitzahl (BLZ) Codes",
+    date: "2026-05-28",
+    excerpt: "A deep dive into Germany's BLZ sorting system and how it integrates with modern SEPA IBANs.",
+    content: `# Understanding German Bankleitzahl (BLZ) Codes
+
+Germany uses the BLZ system to uniquely identify banks.
+`
+  },
+  {
+    slug: "bsb-numbers-explained-australia-routing",
+    title: "BSB Numbers Explained: Australia's Domestic Routing System",
+    date: "2026-05-28",
+    excerpt: "Learn what an Australian BSB number is and how to use it for domestic transfers in Australia.",
+    content: `# BSB Numbers Explained: Australia's Domestic Routing System
+
+A BSB (Bank-State-Branch) number identifies an Australian bank branch.
+`
+  },
+  {
+    slug: "ifsc-codes-indian-domestic-transfers",
+    title: "IFSC Codes: The Key to Indian Domestic Transfers",
+    date: "2026-05-28",
+    excerpt: "Understand the Indian Financial System Code and its role in NEFT, RTGS, and IMPS payments.",
+    content: `# IFSC Codes: The Key to Indian Domestic Transfers
+
+IFSC is essential for transfers in India.
+`
+  },
+
+  {
     slug: "complete-2026-guide-uk-bank-sort-codes",
     title: "The Complete 2026 Guide to UK Bank Sort Codes: How to Verify Branches and Prevent Transfer Errors",
     date: "2026-05-14",

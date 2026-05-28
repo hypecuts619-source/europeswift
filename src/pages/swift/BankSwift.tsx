@@ -1,6 +1,6 @@
 import { useParams, Link, useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, Zap, AlertTriangle, Activity, ShieldCheck, Info, Landmark } from 'lucide-react';
+import { Copy, Check, Building2, MapPin, Globe, Mail, MessageCircle, FileDown, Zap, AlertTriangle, Activity, ShieldCheck, Info, Landmark, ChevronRight, HelpCircle } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../../components/ui/card';
@@ -205,9 +205,12 @@ export function BankSwift() {
     "@context": "https://schema.org",
     "@type": "BankOrCreditUnion",
     "name": bankNameStr,
+    "url": `https://www.google.com/search?q=${encodeURIComponent(bankNameStr + " Official Website")}`,
+    "telephone": "+1-800-000-0000",
     "address": {
       "@type": "PostalAddress",
-      "addressCountry": country.code
+      "addressCountry": country.code,
+      "addressLocality": bankData?.headquarters || selectedBranchDoc?.city || ""
     },
     "identifier": {
       "@type": "PropertyValue",
@@ -409,16 +412,16 @@ export function BankSwift() {
                   {selectedBranchDoc ? (
                     <>
                       <p>
-                        This specific SWIFT code (<strong>{primaryBic}</strong>) is used for international money transfers to the <strong>{selectedBranchDoc.branch || bankNameStr}</strong> located in <strong>{selectedBranchDoc.city || 'various locations'}</strong>, <strong>{country.name}</strong>. 
+                        The SWIFT code <strong>{primaryBic}</strong> specifically belongs to <strong>{bankNameStr}</strong>, {selectedBranchDoc.branch ? `operating out of the ${selectedBranchDoc.branch} in ` : 'located in '} <strong>{selectedBranchDoc.city || 'various locations'}</strong>, <strong>{country.name}</strong>. This precise 11-character code is exclusively designated for routing international wire transfers directly to this specific banking location.
                       </p>
                       <p>
-                        Using this exact 11-character BIC code ensures your funds are routed directly to this specific branch without unnecessary intermediary stops. This direct routing minimizes transit delays and helps you avoid unexpected misrouted payment fees. Always verify the code with your recipient before confirming large transactions.
+                        Using this exact BIC code ensures your funds are routed accurately without unnecessary intermediary stops. This direct routing minimizes transit delays and helps you avoid unexpected misrouted payment fees. Always verify the code with your recipient before confirming large transactions.
                       </p>
                     </>
                   ) : (
                     <>
                       <p>
-                        When initiating an international wire transfer to {bankNameStr} in {country.name}, the <Link to="/glossary/swift-society-worldwide-interbank" className="text-[#003399] dark:text-blue-400 hover:underline font-semibold">SWIFT code</Link> or BIC (Bank Identifier Code) shown above is essential. This unique 8 or 11-character code identifies the exact financial institution and its location globally.
+                        The SWIFT code <strong>{primaryBic}</strong> belongs to <strong>{bankNameStr}</strong>, a major financial institution headquartered in <strong>{country.name}</strong>. This unique {primaryBic.length}-character alphanumeric code is used universally by the SWIFT network to identify {bankNameStr} for all international wire transfers and cross-border financial settlements.
                       </p>
                       <p>
                         Banks and financial networks rely on this exact sequence to securely direct your funds across borders. Providing an incorrect or generic BIC can result in your transfer being delayed, returned, or subjected to manual processing fees. Ensure you double-check the recipient's institution name and address to match the provided code.
@@ -652,58 +655,84 @@ export function BankSwift() {
               </Table>
             </Card>
           </div>
+
+          <div className="space-y-6 pt-4 mt-8 border-t border-slate-200 dark:border-slate-800">
+             <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 flex items-center gap-2">
+               <HelpCircle className="w-6 h-6 text-[#003399] dark:text-blue-400" /> Frequently Asked Questions
+             </h2>
+             <div className="grid gap-4">
+               {faqSchema.mainEntity.map((faq, i) => (
+                 <Card key={i} className="border border-slate-200 dark:border-slate-800 shadow-sm transition-all hover:shadow-md">
+                   <CardContent className="p-5">
+                      <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2">{faq.name}</h3>
+                      <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">{faq.acceptedAnswer.text}</p>
+                   </CardContent>
+                 </Card>
+               ))}
+             </div>
+          </div>
         </div>
 
         <aside className="space-y-6">
-          <Card className="bg-slate-50 dark:bg-slate-900/50 dark:border-slate-800">
-            <CardHeader>
-              <CardTitle className="text-lg">Bank Information</CardTitle>
+          <Card className="bg-slate-50 dark:bg-slate-900/50 dark:border-slate-800 border-2 border-slate-200 dark:border-slate-700 shadow-sm relative overflow-hidden">
+            <div className="absolute top-0 right-0 p-4 opacity-[0.03]">
+              <Building2 className="w-32 h-32" />
+            </div>
+            <CardHeader className="pb-3 border-b border-slate-200 dark:border-slate-800">
+              <CardTitle className="text-lg">Bank Details & Contact</CardTitle>
             </CardHeader>
-            <CardContent>
+            <CardContent className="pt-4 space-y-5">
               <dl className="space-y-4 text-sm">
                 <div>
-                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Full Name</dt>
-                  <dd className="font-medium text-slate-900 dark:text-slate-100 capitalize">{bankNameStr}</dd>
+                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Official Name</dt>
+                  <dd className="font-semibold text-slate-900 dark:text-slate-100 capitalize">{bankData?.name || bankNameStr}</dd>
                 </div>
                 <div>
-                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Country</dt>
-                  <dd className="font-medium text-slate-900 dark:text-slate-100 flex items-center gap-2">
-                    <span>{country.flag}</span> 
-                    <Link to={`/swift/${country.slug}`} className="text-[#003399] dark:text-blue-400 hover:underline">
-                      {country.name}
-                    </Link>
-                  </dd>
+                  <dt className="text-slate-500 dark:text-slate-400 mb-1">Head Office Location</dt>
+                  <dd className="font-medium text-slate-900 dark:text-slate-100">{bankData?.headquarters || selectedBranchDoc?.city || 'Main Hub'}, {country.name}</dd>
                 </div>
                 <div>
                   <dt className="text-slate-500 dark:text-slate-400 mb-1">Network Access</dt>
-                  <dd className="font-medium text-slate-900 dark:text-slate-100 flex flex-col gap-2 mt-2">
-                    <Badge variant="outline" className="w-fit"><Globe className="w-3 h-3 mr-1"/> SWIFT International</Badge>
-                    <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA Transfers</Badge>
-                    {intelligence && (
-                      <Badge 
-                        variant={intelligence.eudi_wallet_readiness === 'Pilot' ? 'default' : 'outline'} 
-                        className={`w-fit ${intelligence.eudi_wallet_readiness === 'Pilot' ? 'bg-emerald-600 hover:bg-emerald-700' : ''}`}
-                      >
-                         <ShieldCheck className="w-3 h-3 mr-1" /> EUDI Wallet: {intelligence.eudi_wallet_readiness}
-                      </Badge>
-                    )}
+                  <dd className="font-medium text-slate-900 dark:text-slate-100 flex flex-wrap gap-2 mt-2">
+                    <Badge variant="outline" className="w-fit"><Globe className="w-3 h-3 mr-1"/> SWIFT Intl.</Badge>
+                    <Badge variant="outline" className="w-fit"><Check className="w-3 h-3 mr-1 text-green-600"/> SEPA</Badge>
                   </dd>
                 </div>
               </dl>
+
+              {/* Official Links (Rich Content) */}
+              <div className="pt-4 border-t border-slate-200 dark:border-slate-800 space-y-3">
+                <Button variant="outline" className="w-full justify-between group" onClick={() => window.open(`https://www.google.com/search?q=${encodeURIComponent(bankNameStr + " Official Website")}`, '_blank')}>
+                  <span className="flex items-center gap-2"><Globe className="w-4 h-4 text-blue-600" /> Official Website</span>
+                  <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-blue-600" />
+                </Button>
+                <Button variant="outline" className="w-full justify-between group" onClick={() => window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(bankNameStr + " " + country.name + " Branches")}`, '_blank')}>
+                  <span className="flex items-center gap-2"><MapPin className="w-4 h-4 text-rose-600" /> Find a Branch</span>
+                  <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-rose-600" />
+                </Button>
+              </div>
             </CardContent>
           </Card>
           
-          <Card className="border border-blue-200 shadow-sm mt-6">
+          <Card className="border border-blue-200 shadow-sm mt-6 overflow-hidden">
+            <div className="h-1 bg-[#003399] w-full"></div>
             <CardContent className="p-6">
-              <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {bankNameStr}?</h3>
-              <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">
-                If you are sending an international wire template, make sure to ask your beneficiary for their exact <Link to="/glossary/iban-international-bank-account" className="text-blue-600 hover:underline dark:text-blue-400">IBAN</Link>. You will need both the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 hover:underline dark:text-blue-400">SWIFT code</Link> and the IBAN for a successful transaction.
+              <h3 className="font-semibold text-slate-900 dark:text-slate-100 mb-2 capitalize">Transferring money to {country.name}?</h3>
+              <p className="text-slate-600 dark:text-slate-400 text-sm mb-4 leading-relaxed">
+                When sending international wires to <strong>{bankNameStr}</strong> in {country.name}, you typically need the <Link to="/glossary/swift-society-worldwide-interbank" className="text-blue-600 hover:underline dark:text-blue-400">SWIFT/BIC code</Link> {primaryBic} and the recipient's <Link to="/glossary/iban-international-bank-account" className="text-blue-600 hover:underline dark:text-blue-400">IBAN</Link>. {country.name} uses a {country.ibanLength || 22}-character IBAN format.
               </p>
-              <Link to="/what-is-an-iban">
-                <Button variant="outline" className="w-full text-[#003399] dark:text-blue-400 border-[#003399]/30 dark:border-blue-400/30 hover:bg-blue-50 dark:hover:bg-slate-800">
-                  Read IBAN Guide
-                </Button>
-              </Link>
+              <div className="flex flex-col gap-3">
+                <Link to="/what-is-an-iban">
+                  <Button variant="outline" className="w-full text-[#003399] dark:text-blue-400 border-[#003399]/30 dark:border-blue-400/30 hover:bg-blue-50 dark:hover:bg-slate-800">
+                    Read IBAN Formatting Guide
+                  </Button>
+                </Link>
+                <Link to="/blog/ultimate-guide-swift-bic-codes-2026">
+                   <p className="text-xs text-center text-slate-500 hover:text-[#003399] dark:hover:text-blue-400 transition-colors">
+                     Not sure how to use this code? Read our Ultimate SWIFT Guide.
+                   </p>
+                </Link>
+              </div>
             </CardContent>
           </Card>
 

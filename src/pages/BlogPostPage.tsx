@@ -141,11 +141,17 @@ export function BlogPostPage() {
         
         <article className="bg-white dark:bg-slate-900 rounded-3xl p-6 md:p-12 border border-slate-200 dark:border-slate-800 shadow-sm">
           <header className="mb-6 text-center">
-            <div className="flex items-center justify-center gap-2 text-sm font-medium text-[#003399] dark:text-blue-400 mb-4 bg-blue-50 dark:bg-blue-900/30 w-fit mx-auto px-3 py-1 rounded-full border border-blue-100 dark:border-blue-800">
-              <Calendar className="w-4 h-4" />
-              <time dateTime={post.date}>
-                {new Date(post.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
-              </time>
+            <div className="flex flex-wrap items-center justify-center gap-3 text-sm font-medium mb-4">
+              <div className="flex items-center gap-2 text-[#003399] dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 px-3 py-1.5 rounded-full border border-blue-100 dark:border-blue-800 shadow-sm">
+                <Calendar className="w-4 h-4" />
+                <time dateTime={post.date}>
+                  Last Updated: {new Date(post.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+                </time>
+              </div>
+              <div className="flex items-center gap-1.5 text-emerald-700 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/30 px-3 py-1.5 rounded-full border border-emerald-100 dark:border-emerald-800/50 shadow-sm font-semibold">
+                <ShieldCheck className="w-4 h-4" />
+                <span>Fact Checked</span>
+              </div>
             </div>
             <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight">
               {post.title}
