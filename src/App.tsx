@@ -74,7 +74,7 @@ function Layout() {
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-50 font-sans flex flex-col transition-colors duration-200">
-      <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-6 xl:px-8 hidden md:flex items-center flex-none">
+      <header className="h-16 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md sticky top-0 z-50 border-b border-slate-200/80 dark:border-slate-800/80 px-6 xl:px-8 hidden md:flex items-center flex-none">
         {/* Left section: Logo + Nav */}
         <div className="flex items-center gap-8 flex-1">
           <Link to="/" className="flex items-center gap-2 group shrink-0">
@@ -130,7 +130,7 @@ function Layout() {
       </header>
       
       {/* Mobile Header below */}
-      <header className="h-16 bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-4 flex items-center justify-between flex-none md:hidden">
+      <header className="h-16 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md sticky top-0 z-50 border-b border-slate-200/80 dark:border-slate-800/80 px-4 flex items-center justify-between flex-none md:hidden">
         <Link to="/" className="flex items-center gap-2 font-bold text-xl text-[#003399] dark:text-blue-400">
           <div className="relative flex items-center justify-center w-8 h-8 flex-shrink-0">
             <div className="absolute inset-0 bg-[#003399] rounded-[10px] transform rotate-3"></div>

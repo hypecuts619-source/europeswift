@@ -139,7 +139,11 @@ export function Home() {
   ];
 
   return (
-    <div className="w-full mx-auto py-8 md:py-16">
+    <div className="w-full mx-auto py-8 md:py-16 relative">
+      {/* Ambient Glow Effects */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[500px] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-blue-100/50 via-slate-50/5 to-transparent dark:from-blue-900/20 dark:via-slate-950/5 dark:to-transparent pointer-events-none -z-10" />
+      <div className="absolute -top-32 -left-32 w-96 h-96 bg-purple-200/30 dark:bg-purple-900/10 blur-3xl rounded-full opacity-50 mix-blend-multiply dark:mix-blend-lighten pointer-events-none -z-10" />
+      
       <SEO 
         title="US Routing Number Lookup: Instant Check & Verification"
         description="Instantly find and verify any US bank routing number. Run client-side Modulo 10 checksum validation to prevent transfer errors. 100% secure."
@@ -149,8 +153,9 @@ export function Home() {
 
       {/* Mandatory Infrastructure Deadline Countdown */}
       <motion.div 
-        initial={{ opacity: 0, y: -10 }}
-        animate={{ opacity: 1, y: 0 }}
+        initial={{ opacity: 0, scale: 0.95 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.5, ease: "easeOut" }}
         className="mb-8 p-3 bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-2xl flex items-center justify-center gap-3 text-center"
       >
         <Zap className="w-4 h-4 text-amber-600 dark:text-amber-400 animate-pulse" />
@@ -164,11 +169,12 @@ export function Home() {
       
       {/* Hero Section */}
       <motion.section 
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
+        variants={container}
+        initial="hidden"
+        animate="show"
         className="text-center mb-16"
       >
-        <div className="flex flex-wrap justify-center gap-3 mb-6">
+        <motion.div variants={item} className="flex flex-wrap justify-center gap-3 mb-6">
           <div className="inline-flex px-4 py-1.5 bg-white dark:bg-slate-900 rounded-full border border-slate-200 dark:border-slate-800 shadow-sm hover:shadow transition-all relative group overflow-hidden">
             <div className="absolute inset-0 bg-blue-50 dark:bg-blue-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
             <span className="relative text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-widest flex items-center gap-2">
@@ -182,22 +188,22 @@ export function Home() {
               <span role="img" aria-label="check" className="text-emerald-500">✓</span> 101 IBAN Regions <span className="opacity-60 font-normal capitalize hidden sm:inline">Including all territories</span>
             </span>
           </div>
-        </div>
-        <h1 className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight text-slate-900 dark:text-white max-w-4xl mx-auto leading-[1.1] selection:bg-blue-100 dark:selection:bg-blue-900/50">
+        </motion.div>
+        <motion.h1 variants={item} className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight text-slate-900 dark:text-white max-w-4xl mx-auto leading-[1.1] selection:bg-blue-100 dark:selection:bg-blue-900/50">
           {t('home.title')}
-        </h1>
-        <p className="text-slate-500 dark:text-slate-400 mb-10 max-w-2xl mx-auto text-lg md:text-xl leading-relaxed">
+        </motion.h1>
+        <motion.p variants={item} className="text-slate-500 dark:text-slate-400 mb-10 max-w-2xl mx-auto text-lg md:text-xl leading-relaxed">
           {t('home.subtitle')}
-        </p>
+        </motion.p>
         
-        <div className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.08)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4)] text-left border border-slate-200/80 dark:border-slate-800 transition-all hover:shadow-[0_8px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_8px_40px_rgb(59,130,246,0.1)]">
-          <Suspense fallback={<div className="h-14 bg-gray-50 dark:bg-slate-950 rounded-xl animate-pulse w-full"></div>}>
+        <motion.div variants={item} className="max-w-2xl mx-auto relative bg-white dark:bg-slate-900 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.08)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4)] text-left border border-slate-200/80 dark:border-slate-800 transition-all hover:shadow-[0_8px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_8px_40px_rgb(59,130,246,0.1)]">
+          <Suspense fallback={<div className="flex items-center h-16 px-4 bg-white dark:bg-slate-900 rounded-2xl w-full animate-pulse"><div className="w-5 h-5 rounded-full bg-slate-200 dark:bg-slate-800 mr-3"></div><div className="h-4 bg-slate-200 dark:bg-slate-800 rounded-md w-1/3"></div></div>}>
             <DirectorySearch />
           </Suspense>
           <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 italic absolute -bottom-8 left-0 right-0 text-center">
             Example: <span className="font-mono">Barclays Bank</span>, <span className="font-mono">Frankfurt</span>, or <span className="font-mono">CHASUS33</span>
           </p>
-        </div>
+        </motion.div>
       </motion.section>
 
       {/* Top Adsterra Native Slot (Below Hero) */}
@@ -209,12 +215,13 @@ export function Home() {
       <motion.div 
         variants={container}
         initial="hidden"
-        animate="show"
+        whileInView="show"
+        viewport={{ once: true, margin: "-50px" }}
         className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16"
       >
         {/* SWIFT Search Service */}
         <motion.div variants={item}>
-          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/swift" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-[0_20px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_20px_40px_rgb(59,130,246,0.1)] hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
             <div className="absolute -right-8 -top-8 w-32 h-32 bg-[#003399] opacity-[0.03] dark:opacity-5 rounded-full group-hover:scale-110 transition-transform"></div>
             <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
               <Globe className="w-7 h-7" />
@@ -237,7 +244,7 @@ export function Home() {
         {/* IBAN Services */}
         <motion.div variants={item} className="md:col-span-2 lg:col-span-1">
           <div className="h-full flex flex-col gap-4">
-            <Link to="/iban/validator" className="group flex-1 bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 hover:-translate-y-1 hover:shadow-2xl transition-all flex flex-col relative overflow-hidden">
+            <Link to="/iban/validator" className="group flex-1 bg-slate-900 dark:bg-slate-950 text-white rounded-3xl p-8 shadow-xl hover:bg-slate-800 hover:-translate-y-1 will-change-transform hover:shadow-2xl transition-all flex flex-col relative overflow-hidden">
               <div className="absolute inset-0 bg-gradient-to-br from-[#003399] to-transparent opacity-20 z-0"></div>
               <div className="relative z-10 h-full flex flex-col">
                 <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center mb-6">
@@ -253,7 +260,7 @@ export function Home() {
               </div>
             </Link>
             
-            <Link to="/iban/calculator" className="group flex-1 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+            <Link to="/iban/calculator" className="group flex-1 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-[0_20px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_20px_40px_rgb(59,130,246,0.1)] hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
               <div className="w-14 h-14 bg-blue-50 dark:bg-blue-950/50 rounded-2xl flex items-center justify-center mb-6 text-[#003399] dark:text-blue-400">
                 <Calculator className="w-7 h-7" />
               </div>
@@ -270,7 +277,7 @@ export function Home() {
 
         {/* UK Sort Codes Service */}
         <motion.div variants={item}>
-          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/sort-code" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-[0_20px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_20px_40px_rgb(59,130,246,0.1)] hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-slate-50 dark:bg-slate-800 rounded-2xl flex items-center justify-center mb-6 text-slate-400 dark:text-slate-500">
               <CreditCard className="w-7 h-7" />
             </div>
@@ -286,7 +293,7 @@ export function Home() {
 
         {/* German BLZ Service */}
         <motion.div variants={item}>
-          <Link to="/blz" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/blz" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-[0_20px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_20px_40px_rgb(59,130,246,0.1)] hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-blue-50/50 dark:bg-blue-900/20 rounded-2xl flex items-center justify-center mb-6 text-blue-600 dark:text-blue-500">
               <Landmark className="w-7 h-7" />
             </div>
@@ -302,7 +309,7 @@ export function Home() {
 
         {/* US Routing Numbers Service */}
         <motion.div variants={item}>
-          <Link to="/routing-number" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-xl hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/routing-number" className="group h-full bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm hover:shadow-[0_20px_40px_rgb(0,51,153,0.1)] dark:hover:shadow-[0_20px_40px_rgb(59,130,246,0.1)] hover:border-blue-200 dark:hover:border-blue-900/50 hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-green-50 dark:bg-green-950/30 rounded-2xl flex items-center justify-center mb-6 text-green-600 dark:text-green-500">
               <Search className="w-7 h-7" />
             </div>
@@ -318,7 +325,7 @@ export function Home() {
 
         {/* Knowledge Base */}
         <motion.div variants={item}>
-          <Link to="/blog" className="group h-full bg-slate-50 dark:bg-slate-900/40 rounded-3xl border-2 border-dashed border-slate-200 dark:border-slate-800 p-8 hover:bg-white dark:hover:bg-slate-900 hover:border-solid hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-xl hover:-translate-y-1 transition-all flex flex-col relative overflow-hidden">
+          <Link to="/blog" className="group h-full bg-slate-50 dark:bg-slate-900/40 rounded-3xl border-2 border-dashed border-slate-200 dark:border-slate-800 p-8 hover:bg-white dark:hover:bg-slate-900 hover:border-solid hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-xl hover:-translate-y-1 will-change-transform transition-all flex flex-col relative overflow-hidden">
              <div className="w-14 h-14 bg-purple-50 dark:bg-purple-950/30 rounded-2xl flex items-center justify-center mb-6 text-purple-600 dark:text-purple-500">
               <Landmark className="w-7 h-7" />
             </div>
@@ -439,7 +446,7 @@ export function Home() {
       </motion.div>
 
       {/* UK Top Banks Quick Links */}
-      <section className="mb-16">
+      <section className="mb-16" style={{ contentVisibility: 'auto', containIntrinsicSize: '400px' }}>
         <div className="flex justify-between items-center mb-6 px-2 border-b border-slate-200 dark:border-slate-800 pb-4">
           <h2 className="text-2xl font-bold dark:text-white flex items-center gap-2">
             <span className="text-3xl">🇬🇧</span> UK Top Banks & Sort Codes
@@ -462,7 +469,7 @@ export function Home() {
             <Link
               key={idx}
               to={bank.link}
-              className="px-4 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 rounded-xl text-center shadow-sm hover:shadow-md hover:-translate-y-1 transition-all group flex flex-col justify-center min-h-[4rem]"
+              className="px-4 py-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 rounded-xl text-center shadow-sm hover:shadow-[0_8px_30px_rgb(0,51,153,0.12)] dark:hover:shadow-[0_8px_30px_rgb(59,130,246,0.15)] hover:-translate-y-1 will-change-transform transition-all group flex flex-col justify-center min-h-[4rem]"
             >
               <div className="font-semibold text-slate-800 dark:text-slate-200 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
                 {bank.name}
@@ -473,7 +480,7 @@ export function Home() {
       </section>
 
       {/* Major Banking Hubs Grid */}
-      <section className="mb-16">
+      <section className="mb-16" style={{ contentVisibility: 'auto', containIntrinsicSize: '400px' }}>
         <div className="flex justify-between items-center mb-8 px-2">
           <h2 className="text-2xl font-bold dark:text-white">Major Banking Hubs</h2>
           <Link to="/swift" className="text-sm font-bold text-[#003399] dark:text-blue-400 hover:underline">View all 89 countries</Link>
@@ -492,7 +499,7 @@ export function Home() {
             <Link 
               key={c.slug}
               to={`/swift/${c.slug}`}
-              className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all text-center"
+              className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 shadow-sm hover:shadow-[0_8px_30px_rgb(0,51,153,0.12)] dark:hover:shadow-[0_8px_30px_rgb(59,130,246,0.15)] hover:-translate-y-1 will-change-transform transition-all text-center"
             >
               <span className="text-4xl mb-4 group-hover:scale-110 transition-transform grayscale-[0.5] group-hover:grayscale-0">{c.flag}</span>
               <span className="text-sm font-bold dark:text-slate-200 mb-1">{c.name}</span>
@@ -503,7 +510,7 @@ export function Home() {
       </section>
 
       {/* FAQ Section */}
-      <section className="mb-16 max-w-4xl mx-auto px-2 border-t border-slate-200 dark:border-slate-800 pt-16">
+      <section className="mb-16 max-w-4xl mx-auto px-2 border-t border-slate-200 dark:border-slate-800 pt-16" style={{ contentVisibility: 'auto', containIntrinsicSize: '600px' }}>
         <h2 className="text-2xl font-bold dark:text-white mb-8 text-center">Frequently Asked Questions</h2>
         <div className="space-y-6">
           <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
