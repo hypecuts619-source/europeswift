@@ -1,6 +1,6 @@
 import { useParams, Navigate, Link } from "react-router-dom";
 import { SEO } from "../components/SEO";
-import { getWireTransferFeesFaqSchema } from "../utils/seoHelpers";
+import { WireTransferFeesFaqSchema } from "../components/SEO/StructuredDataEngine";
 import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
@@ -116,12 +116,10 @@ export function BlogPostPage() {
   };
 
   const schemas: any[] = [articleSchema];
-  if (post.slug === "swift-wire-transfer-fees") {
-    schemas.push(getWireTransferFeesFaqSchema());
-  }
 
   return (
     <div className="w-full mx-auto">
+      {post.slug === "swift-wire-transfer-fees" && <WireTransferFeesFaqSchema />}
       <SEO 
         title={`${post.title} | SwiftCodeDir`}
         description={post.excerpt}

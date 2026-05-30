@@ -10,6 +10,8 @@ import { Badge } from '../components/ui/badge';
 import { InternalEquityLinks } from '../components/SEO/InternalEquityLinks';
 import { AdsterraNativeSlot } from '../components/AdsterraNativeSlot';
 
+import { DirectoryEquityBox } from '../components/Navigation/DirectoryEquityBox';
+
 import { getDaysRemaining } from '../lib/dateUtils';
 
 const DirectorySearch = lazy(() => import('../components/DirectorySearch').then(module => ({ default: module.DirectorySearch })));
@@ -205,6 +207,9 @@ export function Home() {
           </p>
         </motion.div>
       </motion.section>
+
+      {/* Authority Equity Transfer Block */}
+      <DirectoryEquityBox />
 
       {/* Top Adsterra Native Slot (Below Hero) */}
       <section className="mb-16 w-full flex justify-center">

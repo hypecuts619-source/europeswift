@@ -27,6 +27,8 @@ const slugify = (text: string) => {
   return text.toLowerCase().replace(/[\s_]+/g, '-').replace(/[^\w-]/g, '');
 };
 
+import { WebApplicationSchema } from '../../components/SEO/StructuredDataEngine';
+
 export function IbanHome() {
   const [searchQuery, setSearchQuery] = useState('');
 
@@ -54,6 +56,11 @@ export function IbanHome() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <WebApplicationSchema 
+        name="Global IBAN Directory & Validator Utility"
+        url="https://swiftcodedir.com/iban"
+        description={meta.description}
+      />
       <SEO 
         title={meta.title}
         description={meta.description}

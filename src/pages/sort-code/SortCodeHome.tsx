@@ -8,6 +8,8 @@ import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { SORT_CODES } from '../../data/sortCodes';
 
+import { WebApplicationSchema } from '../../components/SEO/StructuredDataEngine';
+
 export function SortCodeHome() {
   const navigate = useNavigate();
   const webAppSchema = getWebApplicationSchema("https://swiftcodedir.com/sort-code", "UK Bank Sort Code Directory Utility");
@@ -18,9 +20,14 @@ export function SortCodeHome() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      <WebApplicationSchema 
+        name="UK Bank Sort Code Directory Utility"
+        url="https://swiftcodedir.com/sort-code"
+        description="Look up, verify, and check UK bank sort codes instantly. Pinpoint exact branch routing codes, clearing parameters, and processing details without scrolling."
+      />
       <SEO 
-        title="UK Sort Codes | SwiftcodeDir"
-        description="Search our complete directory of UK Sort Codes. Verify bank branch sort codes for Barclays, HSBC, Lloyds, NatWest, Santander and other British & Irish banks."
+        title="[2026 Sort Code Registry] UK Bank Sort Code Finder & Checker"
+        description="Look up, verify, and check UK bank sort codes instantly. Pinpoint exact branch routing codes, clearing parameters, and processing details without scrolling."
         canonicalUrl="https://swiftcodedir.com/sort-code"
         jsonLd={[webAppSchema, breadcrumbSchema]}
       />

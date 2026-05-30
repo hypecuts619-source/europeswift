@@ -1,6 +1,6 @@
 /**
  * Centralized Technical SEO Metadata & Schema Architect
- * Enforces strict truncation boundaries and builds semantic topical authority
+ * Enforces strict truncation boundaries (55 max title, 145 max desc) and builds semantic topical authority
  */
 
 export interface MetaTags {
@@ -9,45 +9,89 @@ export interface MetaTags {
 }
 
 /**
- * Enforces Title strictly under 60 characters and Description strictly under 155 characters.
- * Switch from descriptive phrasing to high-intent, action-oriented, utility-driven models.
+ * Clamps strings strictly to the configured desktop snippet bounds.
+ * Truncates cleanly at the end of the nearest whole word and appends an optimized semantic suffix.
  */
+function clampTitle(text: string): string {
+  if (text.length <= 55) return text;
+  return text.substring(0, 52).replace(/\s+\S*$/, "") + "...";
+}
+
+function clampDesc(text: string): string {
+  if (text.length <= 145) return text;
+  return text.substring(0, 142).replace(/\s+\S*$/, "") + "...";
+}
+
 export function getIbanRootMeta(): MetaTags {
   return {
-    title: "Free IBAN Directory & Validator: Check 110+ Countries", // 53 characters
-    description: "Instantly verify International Bank Account Number (IBAN) formats, structures & lengths. Check 110+ countries with our free utility validator." // 142 characters
+    title: clampTitle("Free IBAN Directory & Validator: Check 110+ Countries Instantly"),
+    description: clampDesc("Verify any international bank account number instantly. Access official character lengths, country code validations, and structural maps for free.")
   };
 }
 
+export function getSortCodeRootMeta(): MetaTags {
+  return {
+    title: clampTitle("[2026 Sort Code Registry] UK Bank Sort Code Finder & Checker"),
+    description: clampDesc("Look up, verify, and check UK bank sort codes instantly. Pinpoint exact branch routing codes, clearing parameters, and processing details without scrolling.")
+  };
+}
+
+export function getIbanCalculatorRootMeta(): MetaTags {
+  return {
+    title: clampTitle("Interactive IBAN Calculator & Generator | Free Bank Verification"),
+    description: clampDesc("Calculate your IBAN from your local bank code and account number using our free generator. Supports UK Sort Codes, German BLZ, and more.")
+  };
+}
+
+/**
+ * Advanced sequential fallback engine to prevent truncation while preserving keyword targets.
+ */
+export function getDynamicBankMeta(entityType: "Bank" | "IBAN" | "Routing", entityName: string, countryOrCode: string): MetaTags {
+  // Primary Pattern: [2026 Bank Registry] Verify {Bank Name} SWIFT Code
+  // Secondary Fallback: [SWIFT Code] {Bank Name} {Country}
+  // Tertiary Fallback: Verify {Bank Name} BIC Code
+  const keyword = entityType === "Routing" ? "SWIFT Code" : entityType;
+
+  const sequences = [
+    `[2026 Bank Registry] Verify ${entityName} ${keyword}`,
+    `[${keyword}] ${entityName} ${countryOrCode}`,
+    `Verify ${entityName} BIC Code`
+  ];
+
+  let formattedTitle = sequences[2]; // Default to shortest
+  for (const seq of sequences) {
+    if (seq.length <= 55) {
+      formattedTitle = seq;
+      break;
+    }
+  }
+
+  const baseDesc = `Verify standard ${entityName} (${countryOrCode}) details and ${entityType} formatting accurately.`;
+  const optimizedDesc = clampDesc(baseDesc);
+
+  return { title: formattedTitle, description: optimizedDesc };
+}
+
 export function getIbanCountryMeta(countryName: string, countryCode: string, ibanLength: number): MetaTags {
-  // Try to use highly optimized eye-catching desktop brackets first if under 60 characters
-  const defaultMeta = `[2026 Bank Registry] Verify ${countryName} IBAN Layout`;
+  const sequences = [
+    `[2026 Registry] Verify ${countryName} IBAN Layout`,
+    `Verify ${countryName} IBAN Format & Rules`,
+    `Check ${countryName} IBAN Length`,
+    `${countryName} IBAN Validator`
+  ];
   
-  let title = defaultMeta;
-  if (title.length >= 60) {
-    title = `Verify ${countryName} IBAN Format & Rules`;
-  }
-  if (title.length >= 60) {
-    title = `Check ${countryName} IBAN Length & Formats`;
-  }
-  if (title.length >= 60) {
-    title = `${countryName} IBAN Format & Validator`;
-  }
-  // Ultimate hard fallback to keep strictly under 60 characters
-  if (title.length >= 60) {
-    title = title.substring(0, 59);
+  let formattedTitle = sequences[3];
+  for (const seq of sequences) {
+    if (seq.length <= 55) {
+      formattedTitle = seq;
+      break;
+    }
   }
 
-  // Strict length validator on description under 155 chars
   let description = `Get official ${countryName} IBAN formatting, lengths (${ibanLength} chars) & examples. Run real-time format validation for standard ${countryCode} bank routing.`;
-  if (description.length >= 155) {
-    description = `Verify standard ${countryName} (${countryCode}) IBAN details. Check official formatting, BBAN patterns, and standard ${ibanLength}-character structures.`;
-  }
-  if (description.length >= 155) {
-    description = description.substring(0, 151) + "...";
-  }
+  description = clampDesc(description);
 
-  return { title, description };
+  return { title: formattedTitle, description };
 }
 
 /**
@@ -72,7 +116,8 @@ export function getWebApplicationSchema(url: string, name: string): object {
 
 /**
  * Technical SEO BreadcrumbList Schemas
- * Ensures clean traversal maps connect Home -> Hub -> Region
+ * Ensures clean traversal maps connect Home ➔ Directory Hub ➔ Country Node
+ * This renders an elegant navigation trail in desktop SERPs instead of raw URLs.
  */
 export function getBreadcrumbSchema(items: { name: string; url: string }[]): object {
   return {

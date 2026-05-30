@@ -77,7 +77,7 @@ export function IbanCalculator() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
-        title="IBAN Calculator — Generate & Build IBANs by Country (2026)"
+        title="Interactive IBAN Calculator & Generator | Free Bank Verification"
         description="Calculate your IBAN from your local bank code and account number using our free IBAN Generator. Supports UK Sort Codes, German BLZ, and more."
         canonicalUrl="https://swiftcodedir.com/iban/calculator"
         jsonLd={[
