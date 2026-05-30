@@ -1,0 +1,24 @@
+# SwiftCodeDir
+
+> https://swiftcodedir.com
+
+The definitive, privacy-centric global financial directory and routing parameter index. Manually verified database designed to prevent international cross-border payment errors, routing failures, and transaction settlement friction.
+
+## Core Platform Architecture
+
+- **Zero-Scroll Viewport Optimization:** Structural directory metadata and parameters are served at a 0% scroll depth above the fold for immediate mobile and desktop utility intent validation.
+- **Local-First, Privacy-Centric Philosophy:** Application architectures isolate user lookup history and session validation checks to local client device storage without cloud synchronization pipelines.
+- **Programmatic Directory Scale:** Real-time infrastructure parsing over 186,000+ manually verified SWIFT/BIC codes and structural parameter rules for 110+ international IBAN country jurisdictions.
+
+## Primary Financial Tools & Hubs
+
+- **SWIFT/BIC Directory (`/swift`):** Global search matrix mapped by country and institution tracking BIC formatting parameters, branch location codes, and clearing house details verified for 2026 compliance standards.
+- **IBAN Structural Registry (`/iban`):** Country-specific parameters detailing standard character lengths, check-digit calculations, and exact Basic Bank Account Number (BBAN) structural maps.
+- **IBAN Calculator & Validator (`/iban/calculator`):** Interactive mathematical validation utility using local execution scripts to calculate and check character string validity.
+- **UK Sort Code Registry (`/sort-code`):** Specialized clearing house routing directory mapping 6-digit UK bank sort codes to exact physical branch locations and automated settlement clearing eligibility.
+
+## Technical Fintech Insights & Compliance Mapping
+
+- **SWIFT Wire Transfer Fees Breakdown (`/blog/swift-wire-transfer-fees`):** Explicit operational analysis of correspondent banking layers, serial vs. cover routing networks, intermediary deductions (OUR, BEN, SHA methods), and recipient bank landing fees.
+- **Global Messaging Standards:** Full integration mapping for macro international updates, including the ISO 20022 XML transformation structure, CBPR+ timelines, and the retirement of legacy unstructured address fields.
+- **Instant Payment Networks:** Technical validation maps for cross-border instant clearing mechanisms, including SEPA Instant rails (Eurozone), FedNow / Fedwire routing layers (United States), and New Payments Architecture (NPA) transitions (United Kingdom).
