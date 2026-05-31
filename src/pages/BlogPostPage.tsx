@@ -100,15 +100,56 @@ export function BlogPostPage() {
     .filter(p => p.slug !== slug)
     .slice(0, 3);
 
+  const readingTime = Math.max(1, Math.round((post.content || "").split(/\s+/).length / 200));
+
+  const cta = isCompliance 
+    ? {
+        title: "Verify Enterprise SWIFT & Clearing Identifiers Instantly",
+        subtitle: "Minimize payment failure and transaction delays. Locate correct BIC codes and cross-border routing parameters.",
+        btnText: "BIC & SWIFT Checker",
+        path: "/swift"
+      }
+    : post.slug.includes("iban") 
+    ? {
+        title: "Calculated IBAN Validation Engine",
+        subtitle: "Execute instant structure audits, checksum digit confirmation, and Basic Bank Account Number decoding.",
+        btnText: "IBAN Calculator Tool",
+        path: "/iban/validator"
+      }
+    : post.slug.includes("sort-code")
+    ? {
+        title: "UK Sort Code Verification Channel",
+        subtitle: "Audit UK domestic routing and Confirmation of Payee parameters.",
+        btnText: "BACS Sort Code Finder",
+        path: "/sort-code"
+      }
+    : {
+        title: "Access SWIFT/BIC & National Bank Directories",
+        subtitle: "Retrieve verified country formatting rules, branch identifiers, and international routing routes.",
+        btnText: "Global SWIFT Directory",
+        path: "/swift"
+      };
+
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": post.title,
     "datePublished": post.date,
+    "dateModified": post.date,
     "description": post.excerpt,
     "author": {
+      "@type": "Person",
+      "name": author.name,
+      "jobTitle": author.title,
+      "sameAs": `https://swiftcodedir.com/about`
+    },
+    "publisher": {
       "@type": "Organization",
-      "name": "SwiftCodeDir Architectural Team"
+      "name": "SwiftCodeDir",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://swiftcodedir.com/favicon.svg"
+      }
     },
     ...(post.executiveSummary && {
       "abstract": `${post.executiveSummary.engineers} ${post.executiveSummary.compliance}`
@@ -149,6 +190,10 @@ export function BlogPostPage() {
               <div className="flex items-center gap-1.5 text-emerald-700 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/30 px-3 py-1.5 rounded-full border border-emerald-100 dark:border-emerald-800/50 shadow-sm font-semibold">
                 <ShieldCheck className="w-4 h-4" />
                 <span>Fact Checked</span>
+              </div>
+              <div className="flex items-center gap-1.5 text-slate-500 dark:text-slate-400 bg-slate-50 dark:bg-slate-800/30 px-3 py-1.5 rounded-full border border-slate-100 dark:border-slate-800 shadow-sm font-semibold">
+                <Landmark className="w-4 h-4 text-slate-400" />
+                <span>{readingTime} min read</span>
               </div>
             </div>
             <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight">
@@ -200,6 +245,25 @@ export function BlogPostPage() {
               </div>
             )}
           </header>
+
+          <div className="my-8 p-6 bg-gradient-to-r from-blue-500/10 to-indigo-500/10 dark:from-blue-950/20 dark:to-indigo-950/20 border border-blue-100 dark:border-blue-900/30 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="flex items-center gap-3">
+              <div className="p-2.5 bg-[#003399] dark:bg-blue-600 text-white rounded-xl shadow-md shrink-0">
+                <Landmark className="w-5 h-5" />
+              </div>
+              <div className="text-left">
+                <h3 className="font-bold text-slate-900 dark:text-white text-base leading-snug">{cta.title}</h3>
+                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 leading-relaxed">{cta.subtitle}</p>
+              </div>
+            </div>
+            <Link 
+              to={cta.path} 
+              className="px-5 py-2.5 bg-[#003399] hover:bg-blue-700 text-white font-bold text-xs rounded-xl shadow-lg shadow-blue-500/10 hover:shadow-blue-500/20 transition-all flex items-center gap-2 group shrink-0"
+            >
+              {cta.btnText}
+              <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
+            </Link>
+          </div>
 
           <div className="prose prose-slate dark:prose-invert prose-lg max-w-none prose-headings:font-bold prose-a:text-[#003399] dark:prose-a:text-blue-400 hover:prose-a:text-blue-700 dark:hover:prose-a:text-blue-300 prose-a:underline prose-a:underline-offset-4 prose-a:font-semibold prose-img:rounded-xl">
             <ReactMarkdown 
