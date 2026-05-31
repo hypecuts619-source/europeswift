@@ -22,6 +22,7 @@
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
     "firebase": "^12.13.0",
+    "googleapis": "^173.0.0",
     "html2canvas": "^1.4.1",
     "iban": "^0.0.14",
     "ibantools": "^4.5.4",
