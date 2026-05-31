@@ -210,6 +210,7 @@ function Layout() {
               <h4 className="font-bold text-slate-900 dark:text-slate-50 mb-4 uppercase tracking-wider text-sm">Directories</h4>
               <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
                 <li><Link to="/banks" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Banks A-Z Directory</Link></li>
+                <li><Link to="/directory-hub" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">Global Directory</Link></li>
                 <li><Link to="/swift" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">SWIFT Codes by Country</Link></li>
                 <li><Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">UK Sort Codes</Link></li>
                 <li><Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 transition-colors">German BLZ Codes</Link></li>
