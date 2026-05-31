@@ -62,6 +62,7 @@ import { SepaCountries } from './pages/guides/SepaCountries';
 import { IbanCompleteCoverage } from './pages/guides/IbanCompleteCoverage';
 import { IbanRegionalHub } from './pages/iban/IbanRegionalHub';
 import { IbanCountryFormat } from './pages/iban/IbanCountryFormat';
+import DirectoryHub from './pages/DirectoryHub';
 
 const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
 
@@ -294,6 +295,8 @@ export default function App() {
                   <Route index element={<SortCodeHome />} />
                   <Route path=":sortCode" element={<SortCodeDetails />} />
                 </Route>
+
+                <Route path="directory-hub" element={<DirectoryHub />} />
 
                 <Route path="blz">
                   <Route index element={<BlzHome />} />
