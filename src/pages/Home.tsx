@@ -147,8 +147,8 @@ export function Home() {
       <div className="absolute -top-32 -left-32 w-96 h-96 bg-purple-200/30 dark:bg-purple-900/10 blur-3xl rounded-full opacity-50 mix-blend-multiply dark:mix-blend-lighten pointer-events-none -z-10" />
       
       <SEO 
-        title="US Routing Number Lookup: Instant Check & Verification"
-        description="Instantly find and verify any US bank routing number. Run client-side Modulo 10 checksum validation to prevent transfer errors. 100% secure."
+        title="SWIFT Codes & IBAN Formats Global Directory | SwiftCodeDir"
+        description="Search over 186,000 manually verified SWIFT codes, BIC credentials, and international IBAN formats. Validate routing parameters instantly."
         canonicalUrl="https://swiftcodedir.com"
         jsonLd={jsonLd}
       />

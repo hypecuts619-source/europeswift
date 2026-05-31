@@ -2,10 +2,16 @@ import { Link } from 'react-router-dom';
 import { Map, CreditCard, Landmark, FileText, Globe, Search, BookOpen, ShieldCheck } from 'lucide-react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../components/ui/breadcrumb';
 import { glossaryTerms } from '../data/glossaryTerms';
+import { SEO } from '../components/SEO';
 
 export function SiteMap() {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO 
+        title="Site Map | SwiftCodeDir"
+        description="Find all tools, directories, and resources available on SwiftCodeDir. Navigate through our complete SWIFT/BIC directory, routing numbers, and banking tools."
+      />
+      
       <Breadcrumb className="mb-6">
         <BreadcrumbList>
           <BreadcrumbItem>
