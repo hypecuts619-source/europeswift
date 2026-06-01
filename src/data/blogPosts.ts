@@ -14,6 +14,170 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  {
+    slug: "wrong-swift-code-what-happens",
+    title: "Wrong SWIFT Code? Here's What Happens & How to Recover Your Money (2026)",
+    date: "2026-06-01",
+    excerpt: "Entered the wrong SWIFT code for an international transfer? Find out what really happens, whether your money is lost, and the exact steps to recover it quickly.",
+    content: `You've just sent an international wire transfer and realised — heart sinking — that you may have entered the wrong SWIFT code. Maybe you transposed two letters. Maybe you used an old branch code that no longer exists. Or maybe you're just not sure and need to know what's at risk.
+
+Don't panic yet. The outcome of a wrong SWIFT code depends entirely on *which type of error* was made, and most mistakes are recoverable — if you act quickly.
+
+This guide explains exactly what happens when a wrong SWIFT code is used, what the bank does, and the step-by-step process to recover your funds.
+
+## What Is a SWIFT Code and Why It Matters
+
+A SWIFT code (also called a BIC — Bank Identifier Code) is an 8 to 11-character alphanumeric identifier that tells the global banking network *exactly which bank and branch* should receive your transfer. It follows this structure:
+
+- **Characters 1–4**: Bank code (e.g., \`HDFC\` for HDFC Bank)
+- **Characters 5–6**: Country code (e.g., \`IN\` for India)
+- **Characters 7–8**: Location code (e.g., \`BB\` for Mumbai)
+- **Characters 9–11** *(optional)*: Branch code (e.g., \`001\`)
+
+When you initiate an international wire transfer, the SWIFT code is the routing instruction the entire transaction depends on. A single wrong character can mean your money is sent to the wrong bank, held in a suspense account, or rejected entirely.
+
+> **Pro tip:** Before sending any international transfer, always verify the SWIFT code using a trusted lookup tool. Use our free [SWIFT code finder](/) to confirm the exact code for any bank worldwide.
+
+## What Actually Happens When You Use the Wrong SWIFT Code
+
+Not all SWIFT code errors result in the same outcome. Here are the four most common scenarios:
+
+### Scenario 1 — The Code Does Not Exist
+
+If the SWIFT code you entered is completely invalid (it doesn't match any registered bank in the SWIFT network), the transfer will typically be **rejected automatically** before it even leaves your bank. Your funds are returned to your account, often within 1–5 business days, though your bank may still charge a processing fee.
+
+This is the best-case outcome. An invalid code acts like a safety net.
+
+### Scenario 2 — The Code Belongs to a Different Bank
+
+This is where things get complicated. If the wrong code you entered actually belongs to a *different, real bank*, the payment may be routed to that institution. What happens next depends on that bank's procedures:
+
+- If the account number you provided doesn't match any account at that bank, the funds will likely be rejected and returned
+- If — by a very rare coincidence — the account number matches an account at the wrong bank, the money could be credited to a stranger's account
+
+In most cases, the receiving bank's compliance team will place the funds in a suspense account while they investigate. You will need to contact your bank immediately to initiate a recall.
+
+### Scenario 3 — The Code Is Valid but for the Wrong Branch
+
+Some banks have multiple SWIFT codes — one for the head office and separate codes for individual branches. If you use a valid code for the wrong branch of the *correct* bank, your transfer is often still processed successfully. Most banks internally route funds between branches once they identify the account number.
+
+However, this can cause **1–3 day delays**, and in some cases, a small fee is charged for the manual rerouting.
+
+### Scenario 4 — Outdated SWIFT Code (Bank Merger or Rebrand)
+
+Banks occasionally change their SWIFT codes after mergers, acquisitions, or rebranding. If you use a deactivated SWIFT code, the outcome varies:
+
+- Some deactivated codes are redirected to the new bank automatically
+- Others result in an outright rejection
+- In rare cases, funds enter limbo in a correspondent bank's system
+
+This is particularly common for transfers to countries that have seen significant banking consolidation in recent years.
+
+## How to Fix a Wrong SWIFT Code Transfer — Step by Step
+
+If you suspect or know you've used an incorrect SWIFT code, follow these steps immediately:
+
+### Step 1 — Contact Your Bank as Soon as Possible
+
+Time is critical. The sooner you act, the greater the chance of intercepting the payment before it is fully processed. Call your bank's international transfers helpline — don't just send an email or use the app chat.
+
+Tell them:
+- The exact amount transferred
+- The date and time of the transfer
+- The reference or transaction number
+- The SWIFT code you used (correct and incorrect if you know both)
+- The intended recipient's bank details
+
+### Step 2 — Request a Payment Recall (SWIFT gpi Recall)
+
+The SWIFT network operates a service called **SWIFT gpi (Global Payments Innovation)**, which since 2017 has given banks the ability to track and recall international payments in real time. As of 2026, over 4,500 financial institutions are gpi members, covering more than 90% of international SWIFT traffic.
+
+Under SWIFT gpi, your bank can send a **recall request** (a SWIFT MT192 or gCCT cancellation message) to the receiving bank or intermediary. The receiving bank must respond within a defined time window — typically 24 hours for gpi-enabled banks.
+
+Ask your bank specifically whether your transfer was processed through SWIFT gpi, as this dramatically improves recall success rates.
+
+### Step 3 — File a Formal Dispute or Indemnity
+
+If the recall is rejected — for instance, because funds were credited to a third party — your bank will require you to sign an indemnity form. This formally authorises the bank to pursue recovery on your behalf. Be aware that:
+
+- Recovery is not guaranteed if funds have been withdrawn by a third party
+- The process can take **2–8 weeks** or longer for cross-border disputes
+- Legal costs may apply in complex cases
+
+### Step 4 — Escalate to the Receiving Bank (If Known)
+
+If you can identify the bank that received your funds (by tracing through your bank's records), you or your bank can contact that institution directly. Provide all transaction details and a formal recall letter. In India, the Reserve Bank of India (RBI) has guidelines supporting the recovery of misdirected SWIFT transfers under FEMA regulations.
+
+## Will You Get Your Money Back?
+
+The honest answer: **usually yes, but not always immediately.**
+
+Here's a rough guide based on the type of error:
+
+| Error Type | Likely Outcome | Timeframe |
+|---|---|---|
+| Non-existent SWIFT code | Full refund to your account | 1–5 business days |
+| Wrong bank, account not found | Refund after recall | 3–10 business days |
+| Wrong bank, account exists | Recovery uncertain; formal dispute required | 2–8 weeks |
+| Wrong branch of correct bank | Usually processed; minor delay possible | 1–3 extra days |
+| Outdated / deactivated code | Refund or rerouted (varies by bank) | 2–7 business days |
+
+Banks charge recall or amendment fees that typically range from ₹500 to ₹2,000 in India, or $15–$50 internationally. These are non-refundable even if your money is recovered.
+
+## How to Avoid SWIFT Code Errors in the First Place
+
+Prevention is always better than cure when it comes to international wire transfers.
+
+### Always Verify the Code Before Sending
+
+Never rely on a SWIFT code given to you verbally or in a handwritten note. Always cross-reference it using an official source. You can use our [free SWIFT code lookup tool](/) to instantly verify any bank's code before initiating a transfer.
+
+### Use the 8-Character Head Office Code When Unsure
+
+If you are uncertain whether to use an 8-character or 11-character SWIFT code, opt for the 8-character version (the head office code). Most banks can route funds to the correct branch internally using the account number.
+
+### Double-Check Country and Bank Codes
+
+The most common errors are transpositions in the country code (characters 5–6) and bank code (characters 1–4). For example:
+- \`ICICINBB\` vs \`ICICINBBXXX\` — both refer to ICICI Bank's Mumbai head office
+- \`HDFCINBB\` — HDFC Bank, India; not to be confused with \`HDFCAU2S\` (HDFC's Australian operations)
+
+### Ask the Recipient to Confirm in Writing
+
+For large transfers, always ask the recipient to send their SWIFT code and account details in an official email or on their bank's letterhead. This protects you legally and reduces the risk of errors.
+
+### Start With a Small Test Transfer
+
+For first-time transfers to a new beneficiary — especially for large amounts — consider sending a small test amount (₹100–₹500 equivalent) first to confirm the details are correct before transferring the full amount.
+
+## Frequently Asked Questions
+
+**Q: Can I cancel a SWIFT transfer after it's sent?**  
+A: You can request a recall, but you cannot unilaterally cancel it once it has left your bank. Contact your bank immediately to initiate a recall through the SWIFT gpi network. Success depends on how far the transfer has progressed.
+
+**Q: What if I used the right SWIFT code but the wrong account number?**  
+A: This is a separate issue. If the account number doesn't match the SWIFT code's bank, the transfer will usually be rejected and returned. If it matches a real account at that bank belonging to someone else, recovery becomes more complex.
+
+**Q: How long does a SWIFT recall take in India?**  
+A: Typically 5–15 business days, depending on which bank received the funds and their internal procedures. RBI regulations require Indian banks to cooperate with legitimate recall requests.
+
+**Q: Will my bank charge a fee for recalling a wrong SWIFT transfer?**  
+A: Yes. Most banks charge a recall or amendment fee regardless of whether the recovery is successful. In India, this typically ranges from ₹500 to ₹2,500.
+
+**Q: Does SWIFT gpi work for all international transfers?**  
+A: SWIFT gpi covers over 90% of international SWIFT payment traffic as of 2026. If both the sending and receiving banks are gpi members, tracking and recall is significantly faster and more reliable.
+
+## Conclusion
+
+Entering the wrong SWIFT code is more common than you'd think — and in most cases, it's fixable. The key is to act immediately: call your bank, request a recall through SWIFT gpi, and document everything. A non-existent code will simply bounce the transfer back. A code belonging to a different bank requires a formal recall process.
+
+The best protection, of course, is verification before you send. Use our [SWIFT code directory](/) to look up and confirm any bank's BIC code instantly — for free. With over 100,000 codes from banks across 200+ countries, it takes seconds to make sure your next transfer reaches exactly the right destination.
+
+*Related articles:*
+- *[SWIFT Wire Transfer Fees Explained](/blog/swift-wire-transfer-fees)*
+- *[IBAN vs SWIFT Code: What's the Difference?](/blog/iban-vs-swift-code)*
+- *[How Long Does a SWIFT Transfer Take?](/blog/how-long-swift-transfer)*`
+  },
 
   {
     slug: "ultimate-guide-swift-bic-codes-2026",
@@ -141,7 +305,7 @@ IFSC is essential for transfers in India.
 
   {
     slug: "complete-2026-guide-uk-bank-sort-codes",
-    title: "The Complete 2026 Guide to UK Bank Sort Codes: How to Verify Branches and Prevent Transfer Errors",
+    title: "UK Bank Sort Codes Guide 2026: Verify Branches Safely",
     date: "2026-05-14",
     excerpt: "Learn how to understand and verify UK Bank Sort Codes in 2026 to prevent APP fraud, reduce transfer errors, and safely navigate the Pay.UK and Confirmation of Payee systems.",
     content: `
@@ -1314,7 +1478,7 @@ By combining rigorous internal security cultures with a deep understanding of co
     slug: "swift-wire-transfer-fees",
     title: "SWIFT Wire Transfer Fees Explained",
     date: "2026-05-05",
-    excerpt: "Why are SWIFT transfers so expensive? Break down the hidden fees, correspondent bank charges, and exchange rate markups of international wires.",
+    excerpt: "Learn exactly how much SWIFT wire transfers cost. Discover hidden correspondent bank fees, exchange rate markups, and how to choose between OUR, SHA, and BEN fee codes to lower your costs.",
     content: `Sending money across the globe isn't free. While the SWIFT network is incredibly secure, it involves multiple moving parts that can result in unexpectedly high fees.
 
 Here is a breakdown of what you actually pay for when executing a SWIFT wire transfer:
@@ -2012,7 +2176,7 @@ Until these revolutionary systems reach global maturity, however, the SWIFT netw
   },
   {
     slug: "guide-to-wire-transfers-united-kingdom",
-    title: "A Complete Guide to Wire Transfers in the United Kingdom",
+    title: "UK Wire Transfers: A Complete Guide",
     date: "2026-05-13",
     excerpt: "Sending or receiving money in the UK? This comprehensive guide explains Sort Codes, CHAPS, BACS, Faster Payments, and international SWIFT routing rules.",
     content: `The United Kingdom boasts one of the most advanced and multi-layered banking systems in the world. However, this complexity can be daunting, especially when navigating the nuances of domestic versus international transfers. Whether you're paying rent in London or receiving an invoice from abroad, here is your definitive guide to UK wire transfers.

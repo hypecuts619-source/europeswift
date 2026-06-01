@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from "react";
 import { useParams, Navigate, Link } from "react-router-dom";
 import { SEO } from "../components/SEO";
 import { WireTransferFeesFaqSchema } from "../components/SEO/StructuredDataEngine";
@@ -5,7 +6,7 @@ import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User, Landmark } from "lucide-react";
+import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User, Landmark, Twitter, Linkedin, Bookmark, Link2, Check, Share2 } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
 
 // Internal Auto-Linker for maximum SEO
@@ -69,6 +70,44 @@ function autoLink(text: string): string {
 export function BlogPostPage() {
   const { slug } = useParams<{ slug: string }>();
   const post = blogPosts.find(p => p.slug === slug);
+
+  const [copied, setCopied] = useState(false);
+  const [saved, setSaved] = useState(false);
+
+  useEffect(() => {
+    if (slug) {
+      try {
+        const savedPosts = JSON.parse(localStorage.getItem('savedPosts') || '[]');
+        setSaved(savedPosts.includes(slug));
+      } catch (e) {}
+    }
+  }, [slug]);
+
+  const handleCopyLink = () => {
+    navigator.clipboard.writeText(`https://swiftcodedir.com/blog/${slug}`);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  const handleSavePost = () => {
+    try {
+      const savedPosts = JSON.parse(localStorage.getItem('savedPosts') || '[]');
+      if (saved) {
+        const index = savedPosts.indexOf(slug);
+        if (index > -1) savedPosts.splice(index, 1);
+        localStorage.setItem('savedPosts', JSON.stringify(savedPosts));
+        setSaved(false);
+      } else {
+        if (!savedPosts.includes(slug)) {
+          savedPosts.push(slug);
+          localStorage.setItem('savedPosts', JSON.stringify(savedPosts));
+        }
+        setSaved(true);
+      }
+    } catch (e) {
+      console.error('Error saving post', e);
+    }
+  };
 
   if (!post) {
     return <Navigate to="/blog" replace />;
@@ -196,9 +235,47 @@ export function BlogPostPage() {
                 <span>{readingTime} min read</span>
               </div>
             </div>
-            <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight">
+            <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight mb-6">
               {post.title}
             </h1>
+
+            {/* Share and Save Options */}
+            <div className="flex flex-wrap items-center justify-center gap-3 mb-8">
+              <a 
+                href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(`https://swiftcodedir.com/blog/${slug}`)}&text=${encodeURIComponent(post.title)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 bg-[#1DA1F2]/10 hover:bg-[#1DA1F2]/20 text-[#1DA1F2] rounded-full text-sm font-semibold transition-colors"
+                aria-label="Share on Twitter"
+              >
+                <Twitter className="w-4 h-4" /> Twitter
+              </a>
+              <a 
+                href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://swiftcodedir.com/blog/${slug}`)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 bg-[#0A66C2]/10 hover:bg-[#0A66C2]/20 text-[#0A66C2] rounded-full text-sm font-semibold transition-colors"
+                aria-label="Share on LinkedIn"
+              >
+                <Linkedin className="w-4 h-4" /> LinkedIn
+              </a>
+              <button 
+                onClick={handleCopyLink}
+                className="flex items-center gap-2 px-4 py-2 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 rounded-full text-sm font-semibold transition-colors"
+                aria-label="Copy link"
+              >
+                {copied ? <Check className="w-4 h-4 text-emerald-500" /> : <Link2 className="w-4 h-4" />}
+                {copied ? 'Copied!' : 'Copy Link'}
+              </button>
+              <button 
+                onClick={handleSavePost}
+                className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold transition-colors ${saved ? 'bg-amber-100/80 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400' : 'bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300'}`}
+                aria-label={saved ? "Unsave post" : "Save post"}
+              >
+                <Bookmark className={`w-4 h-4 ${saved ? 'fill-current' : ''}`} />
+                {saved ? 'Saved' : 'Save'}
+              </button>
+            </div>
 
             {post.executiveSummary && (
               <div className="grid md:grid-cols-2 gap-4 text-left max-w-4xl mx-auto mt-8 mb-4">
