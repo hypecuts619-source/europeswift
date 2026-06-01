@@ -88,18 +88,8 @@ async function generateSitemap() {
       for (const bank of banks) {
         addUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}`, '0.6', 'monthly');
         
-        // Add individual branches for each bank
-        const details = bankDetails[bank.slug];
-        if (details && Array.isArray(details.branches)) {
-          for (const branch of details.branches) {
-            // Skip adding the branch URL if it's likely the same as the head office / bank overview
-            // We consider it a "branch" only if it's not the primary BIC of the bank
-            // and doesn't just end in XXX (or is 8 chars) which usually maps to the main office.
-            if (branch.bic && branch.bic !== bank.primaryBic && !branch.bic.endsWith('XXX') && branch.bic.length === 11) {
-              addUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}/${branch.bic}`, '0.4', 'monthly');
-            }
-          }
-        }
+        // Optimize crawl budget: We do not add individual sub-branch URLs to the sitemap to prevent WRS queue bloat.
+        // Googlebot will crawl and index these leaf nodes naturally from the Bank page internal HTML links.
       }
     }
   }

@@ -30,7 +30,12 @@ export function SEO({
   try {
     const location = useLocation();
     if (!finalCanonicalUrl) {
-      finalCanonicalUrl = `https://swiftcodedir.com${location.pathname === '/' ? '' : location.pathname}`;
+      let path = location.pathname;
+      // Strip trailing slashes to enforce strict canonical normalization matching the sitemap
+      if (path.length > 1 && path.endsWith('/')) {
+        path = path.slice(0, -1);
+      }
+      finalCanonicalUrl = `https://swiftcodedir.com${path === '/' ? '' : path}`;
     }
   } catch (e) {
     if (!finalCanonicalUrl) {
