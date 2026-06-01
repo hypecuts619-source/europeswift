@@ -1066,7 +1066,7 @@ Because wire transfers are inherently irreversible once cleared, preventing the 
 By combining rigorous internal security cultures with a deep understanding of correspondent banking mechanisms, economic actors can safely maneuver substantial capital across an increasingly complex and regulated global ecosystem.`
   },
   {
-    slug: "wrong-swift-code-what-happens",
+    slug: "what-happens-wrong-swift-code",
     title: "What Happens if I Use the Wrong [SWIFT Code](/swift)?",
     date: "2026-05-05",
     excerpt: "Made a typo on your wire transfer? Here is what happens when you use the wrong [SWIFT code](/swift) and how you can recover your money.",

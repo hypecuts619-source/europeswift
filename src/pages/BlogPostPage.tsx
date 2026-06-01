@@ -6,7 +6,7 @@ import { blogPosts } from "../data/blogPosts";
 import { trackEvent } from "../services/analytics";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User, Landmark, Twitter, Linkedin, Bookmark, Link2, Check, Share2 } from "lucide-react";
+import { Calendar, ArrowLeft, ShieldCheck, Zap, AlertTriangle, MessageSquarePlus, Newspaper, ArrowRight, User, Landmark, Linkedin, Bookmark, Link2, Check, Share2 } from "lucide-react";
 import { Card, CardContent } from "../components/ui/card";
 
 // Internal Auto-Linker for maximum SEO
@@ -245,10 +245,10 @@ export function BlogPostPage() {
                 href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(`https://swiftcodedir.com/blog/${slug}`)}&text=${encodeURIComponent(post.title)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 px-4 py-2 bg-[#1DA1F2]/10 hover:bg-[#1DA1F2]/20 text-[#1DA1F2] rounded-full text-sm font-semibold transition-colors"
-                aria-label="Share on Twitter"
+                className="flex items-center gap-2 px-4 py-2 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 rounded-full text-sm font-semibold transition-colors"
+                aria-label="Share on X"
               >
-                <Twitter className="w-4 h-4" /> Twitter
+                <span>X</span>
               </a>
               <a 
                 href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://swiftcodedir.com/blog/${slug}`)}`}
