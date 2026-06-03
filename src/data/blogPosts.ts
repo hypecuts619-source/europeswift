@@ -627,7 +627,7 @@ This guide clarifies the differences, outlines when to use each code, and tells 
 
 The main distinction is geographic:
 - **SWIFT Codes (BIC)**: Used for **international** money transfers across borders. They identify a bank anywhere in the global financial system.
-- **Routing Numbers**: Used for **domestic** transfers *within* a single country... while routing numbers are US-specific ([learn more about routing numbers here](https://usroutingnumber.com/what-is-routing-number)). They are only recognized by local clearing systems.
+- **Routing Numbers**: Used for **domestic** transfers *within* a single country. They are only recognized by local clearing systems.
 
 ## Comparative Summary Table
 
@@ -642,9 +642,7 @@ The main distinction is geographic:
 ## When to Use Which: Key Scenarios
 
 ### 1. Sending an Instate Wire inside the US
-If you are wire routing from a Wells Fargo account in New York to a Chase account in California, use the bank's **9-digit ABA Routing Number**. You do *not* need a SWIFT code. For US domestic transfers, routing numbers are used instead. 
-See our [complete routing number guide](https://usroutingnumber.com) 
-for how to find your US bank's routing number.
+If you are wire routing from a Wells Fargo account in New York to a Chase account in California, use the bank's **9-digit ABA Routing Number**. You do *not* need a SWIFT code.
 
 ### 2. Sending Money from London to New York
 Because the capital is passing from the UK to the US, this is a cross-border international payment. You must collect the US recipient’s **SWIFT/BIC Code**, along with their bank details.
