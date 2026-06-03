@@ -236,7 +236,7 @@ export function BlogPostPage() {
               </div>
             </div>
             <h1 className="text-3xl md:text-5xl font-extrabold dark:text-white tracking-tight leading-tight mb-6">
-              {post.title}
+              {post.h1 || post.title}
             </h1>
 
             {/* Share and Save Options */}
