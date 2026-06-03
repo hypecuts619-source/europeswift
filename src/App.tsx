@@ -1,5 +1,15 @@
-import { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate } from 'react-router-dom';
+import { Suspense, lazy, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link, Outlet, useNavigate, useLocation } from 'react-router-dom';
+
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
 import { HelmetProvider } from 'react-helmet-async';
 import { Landmark, Search, Map, CreditCard, Menu, Globe, Zap } from 'lucide-react';
 import { Button, buttonVariants } from './components/ui/button';
@@ -109,6 +119,16 @@ function Layout() {
             <Link to="/iban" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.iban')}</Link>
             <Link to="/sort-code" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.sortcode')}</Link>
             <Link to="/blz" className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 py-5 transition-colors">{t('nav.blz')}</Link>
+            <div className="relative group/resources py-5 animate-none">
+              <button className="hover:text-[#003399] dark:hover:text-blue-400 border-transparent hover:border-[#003399] dark:hover:border-blue-400 border-b-2 transition-colors flex items-center gap-1 pb-1">
+                Resources <span className="text-[10px] opacity-60">▼</span>
+              </button>
+              <div className="absolute top-12 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl rounded-xl p-2 opacity-0 invisible group-hover/resources:opacity-100 group-hover/resources:visible transition-all z-50">
+                 <Link to="/blog" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">Banking Blog</Link>
+                 <Link to="/glossary" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">Banking Glossary</Link>
+                 <Link to="/banking-statistics" className="block px-3 py-2 text-sm hover:bg-slate-50 dark:hover:bg-slate-800 rounded-md">Data & Stats</Link>
+              </div>
+            </div>
           </nav>
         </div>
 
@@ -181,7 +201,10 @@ function Layout() {
                 EUDI Readiness Checker
               </DropdownMenuItem>
               <DropdownMenuItem onClick={() => navigate('/blog')} className="cursor-pointer">
-                Blog
+                Banking Blog
+              </DropdownMenuItem>
+              <DropdownMenuItem onClick={() => navigate('/glossary')} className="cursor-pointer">
+                Banking Glossary
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
@@ -268,6 +291,7 @@ export default function App() {
       <HelmetProvider>
       <LanguageProvider>
         <Router>
+          <ScrollToTop />
           <Suspense fallback={<div className="flex items-center justify-center min-h-screen bg-slate-50 dark:bg-slate-950"><div className="w-8 h-8 border-4 border-[#003399] border-t-transparent rounded-full animate-spin"></div></div>}>
             <Routes>
               <Route path="/" element={<Layout />}>

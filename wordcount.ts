@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 const content = fs.readFileSync('src/data/blogPosts.ts', 'utf8');
-const regex = /content:\s*`([\s\S]*?)`/g;
+const regex = /content:\s*`([\s\S]*?)(?<!\\)`/g;
 let match;
 let i = 1;
 
