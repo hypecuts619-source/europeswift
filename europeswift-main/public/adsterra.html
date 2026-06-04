@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="ad-target"></div>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      const zoneId = urlParams.get('zoneId');
+      if (zoneId) {
+        document.getElementById('ad-target').id = 'container-' + zoneId;
+        const script = document.createElement('script');
+        script.async = true;
+        script.setAttribute('data-cfasync', 'false');
+        script.src = '//pl29558648.effectivecpmnetwork.com/' + zoneId + '/invoke.js';
+        document.body.appendChild(script);
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default Deny All
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // SWIFT Codes Collection
+    match /swiftCodes/{swiftCodeId} {
+      allow get: if true;
+      allow list: if true;
+      allow write: if false;
+    }
+  }
+}

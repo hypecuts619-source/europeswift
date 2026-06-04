@@ -2,5 +2,7 @@
   "name": "Swiftcodedir.com",
   "description": "European bank codes directory: SWIFT, IBAN, Sort Codes, and BLZ.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
