@@ -14,7 +14,8 @@ import { DirectoryEquityBox } from '../components/Navigation/DirectoryEquityBox'
 
 import { getDaysRemaining } from '../lib/dateUtils';
 
-const DirectorySearch = lazy(() => import('../components/DirectorySearch').then(module => ({ default: module.DirectorySearch })));
+import { DirectorySearch } from '../components/DirectorySearch';
+import { useRecentViews } from '../hooks/useRecentViews';
 
 const container = {
   hidden: { opacity: 0 },
@@ -34,6 +35,7 @@ const item = {
 export function Home() {
   const { t } = useLanguage();
   const daysRemaining = getDaysRemaining('2026-11-14');
+  const { recentViews } = useRecentViews();
 
   const faqSchema = {
     "@context": "https://schema.org",
@@ -210,6 +212,28 @@ export function Home() {
 
       {/* Authority Equity Transfer Block */}
       <DirectoryEquityBox />
+
+      {recentViews.length > 0 && (
+        <section className="mb-16 w-full max-w-4xl mx-auto px-4">
+          <div className="flex justify-between items-center mb-6 border-b border-slate-200 dark:border-slate-800 pb-2">
+            <h2 className="text-lg font-bold dark:text-white flex items-center gap-2">
+              Recently Viewed Banks
+            </h2>
+          </div>
+          <div className="flex flex-wrap gap-3">
+            {recentViews.map(view => (
+              <Link 
+                key={view.id} 
+                to={view.url}
+                className="px-4 py-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl hover:border-blue-300 dark:hover:border-blue-700 shadow-sm transition-all text-sm font-medium text-slate-800 dark:text-slate-200 hover:text-[#003399] dark:hover:text-blue-400 flex items-center gap-2 group"
+              >
+                <div className="w-1.5 h-1.5 rounded-full bg-blue-500 opacity-50 group-hover:opacity-100" />
+                {view.title}
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Top Adsterra Native Slot (Below Hero) */}
       <section className="mb-16 w-full flex justify-center">

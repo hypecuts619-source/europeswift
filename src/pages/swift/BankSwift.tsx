@@ -14,6 +14,8 @@ import { AuthorityProfile } from '../../components/AuthorityProfile';
 import { bankRegulatoryIntelligence } from '../../data/bankRegulatoryIntelligence';
 import { motion } from 'motion/react';
 
+import { useRecentViews } from '../../hooks/useRecentViews';
+
 export interface SwiftCodeDoc {
   bic: string;
   bank: string;
@@ -29,6 +31,7 @@ export function BankSwift() {
   const [copied, setCopied] = useState<string | null>(null);
   const [branches, setBranches] = useState<SwiftCodeDoc[]>([]);
   const [loading, setLoading] = useState(true);
+  const { trackView } = useRecentViews();
 
   let country = countriesData.find(c => c.slug === countrySlug);
   if (!country && countrySlug) {
@@ -49,12 +52,21 @@ export function BankSwift() {
         .then(data => {
           if (data && data.bankDetails && data.bankDetails[bankSlug]) {
             const bankInfo = data.bankDetails[bankSlug];
+            let nameToUse = realBankName;
             if (bankInfo.bank && (!location.state?.realBankName)) {
               setRealBankName(bankInfo.bank);
+              nameToUse = bankInfo.bank;
             }
             if (Array.isArray(bankInfo.branches)) {
               setBranches(bankInfo.branches);
             }
+            // Track this bank view
+            trackView({
+              id: `swift-${country.code}-${bankSlug}`,
+              title: `${nameToUse} (${country.name})`,
+              type: 'swift',
+              url: `/swift/${countrySlug}/${bankSlug}`
+            });
           } else {
             setBranches([]);
           }
@@ -67,6 +79,7 @@ export function BankSwift() {
         });
     }
   }, [country, bankSlug]);
+
 
   const bankNameStr = realBankName;
 

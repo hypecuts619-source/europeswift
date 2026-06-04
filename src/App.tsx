@@ -73,6 +73,8 @@ import { IbanCompleteCoverage } from './pages/guides/IbanCompleteCoverage';
 import { IbanRegionalHub } from './pages/iban/IbanRegionalHub';
 import { IbanCountryFormat } from './pages/iban/IbanCountryFormat';
 import DirectoryHub from './pages/DirectoryHub';
+import { BookmarkPrompt } from './components/BookmarkPrompt';
+import { InstallPWA } from './components/InstallPWA';
 
 const BankingStatistics = lazy(() => import('./pages/BankingStatistics').then(module => ({ default: module.BankingStatistics })));
 
@@ -214,6 +216,9 @@ function Layout() {
       <main className="flex-1 w-full max-w-[1200px] mx-auto p-4 md:p-6 pb-20">
         <Outlet />
       </main>
+
+      <InstallPWA />
+      <BookmarkPrompt />
 
       <div className="w-full bg-slate-50 dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 py-4 flex justify-center">
         <AdsterraNativeSlot zoneId="d3204c449d1c550b52260207ce88c485" format="horizontal" />

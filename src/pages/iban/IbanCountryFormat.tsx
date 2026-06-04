@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { useParams, Navigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
@@ -9,6 +9,7 @@ import * as ibantools from 'ibantools';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
+import { useRecentViews } from '../../hooks/useRecentViews';
 
 const getFlagEmoji = (countryCode: string) => {
   if (!countryCode || countryCode.length !== 2) return '🌐';
@@ -35,12 +36,25 @@ export function IbanCountryFormat() {
   const { countrySlug } = useParams<{ countrySlug: string }>();
   const [testIban, setTestIban] = useState('');
   const [hasInteracted, setHasInteracted] = useState(false);
+  const { trackView } = useRecentViews();
 
   const countryData = useMemo(() => {
     return (ibanFormatsDataJson as any[]).find(item => 
       slugify(item.country) === countrySlug || item.code.toLowerCase() === countrySlug
     );
   }, [countrySlug]);
+
+  useEffect(() => {
+    if (countryData) {
+      trackView({
+        id: `iban-${countryData.code}`,
+        title: `${countryData.country} IBAN`,
+        type: 'iban',
+        url: `/iban/${slugify(countryData.country)}`
+      });
+    }
+  }, [countryData]);
+
 
   const validationResult = useMemo(() => {
     if (!testIban) return null;
