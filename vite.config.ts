@@ -12,6 +12,10 @@ export default defineConfig(({mode}) => {
       tailwindcss(),
       VitePWA({
         registerType: 'autoUpdate',
+        devOptions: {
+          enabled: true,
+          type: 'module'
+        },
         includeAssets: ['favicon.svg', 'favicon-96x96.png', 'apple-touch-icon.png'],
         manifest: {
           name: 'SwiftCodeDir',
@@ -24,12 +28,14 @@ export default defineConfig(({mode}) => {
             {
               src: 'favicon-192x192.png',
               sizes: '192x192',
-              type: 'image/png'
+              type: 'image/png',
+              purpose: 'any'
             },
             {
-              src: 'favicon-192x192.png',
+              src: 'favicon-512x512.png',
               sizes: '512x512',
-              type: 'image/png'
+              type: 'image/png',
+              purpose: 'any maskable'
             }
           ]
         }
