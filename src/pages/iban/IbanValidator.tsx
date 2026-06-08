@@ -37,6 +37,14 @@ export function IbanValidator() {
 
     const isValid = IBAN.isValid(cleanIban);
     
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', 'iban_validation_check', {
+        event_category: 'engagement',
+        event_label: isValid ? 'valid' : 'invalid',
+        iban_country: cleanIban.substring(0, 2)
+      });
+    }
+
     if (!isValid) {
       // Try to determine why it's invalid
       const countryCode = cleanIban.substring(0, 2);
@@ -77,6 +85,19 @@ export function IbanValidator() {
         description="Verify the checksum and format of an International Bank Account Number. Safe and secure IBAN validation using ISO 7064 MOD 97-10 algorithm."
         canonicalUrl="https://swiftcodedir.com/iban/validator"
         jsonLd={[
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://swiftcodedir.com/iban/validator",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://swiftcodedir.com/iban/validator?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          },
           {
             "@context": "https://schema.org",
             "@type": "FAQPage",

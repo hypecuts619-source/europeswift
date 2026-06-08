@@ -149,8 +149,8 @@ export function Home() {
       <div className="absolute -top-32 -left-32 w-96 h-96 bg-purple-200/30 dark:bg-purple-900/10 blur-3xl rounded-full opacity-50 mix-blend-multiply dark:mix-blend-lighten pointer-events-none -z-10" />
       
       <SEO 
-        title="SWIFT Codes & IBAN Formats Global Directory | SwiftCodeDir"
-        description="Search over 186,000 manually verified SWIFT codes, BIC credentials, and international IBAN formats. Validate routing parameters instantly."
+        title="SWIFT & IBAN Directory: 186,000+ Global Banking Codes"
+        description="Search 186,000+ SWIFT codes and IBAN formats globally. Verify codes for international wire transfers. Free lookup and validation tools."
         canonicalUrl="https://swiftcodedir.com"
         jsonLd={jsonLd}
       />

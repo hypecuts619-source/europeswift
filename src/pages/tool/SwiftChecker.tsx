@@ -36,6 +36,15 @@ export function SwiftChecker() {
 
     const country = countriesData.find((c) => c.code === countryCode);
 
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', 'swift_validation_check', {
+        event_category: 'engagement',
+        swift_format_valid: true,
+        swift_country: countryCode,
+        is_head_office: isHeadOffice
+      });
+    }
+
     setResult({
       valid: !!country,
       formatValid: true,
@@ -48,14 +57,51 @@ export function SwiftChecker() {
     });
   };
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "SWIFT Code Checker",
-    "description": "Check, decode and verify SWIFT / BIC codes instantly.",
-    "applicationCategory": "FinanceApplication",
-    "operatingSystem": "All"
-  };
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "SWIFT Code Checker",
+      "description": "Check, decode and verify SWIFT / BIC codes instantly.",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "All"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://swiftcodedir.com/swift-checker",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://swiftcodedir.com/swift-checker?code={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does this SWIFT Code Checker verify the code?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The checker decodes the standard 8 or 11-character SWIFT/BIC string. It validates the length, identifies the 4-letter bank code, matches the 2-letter ISO country code against international directories, decodes the 2-character location code, and reads the 3-character branch code (which is 'XXX' for head offices)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if a SWIFT code fails the check?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If a SWIFT code fails, it typically means the code format is incorrect (e.g., wrong length, invalid characters). Our tool will alert you to 'Invalid SWIFT Format'. Double-check your code against your bank documentation."
+          }
+        }
+      ]
+    }
+  ];
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-12">
@@ -63,12 +109,8 @@ export function SwiftChecker() {
         title="SWIFT Code Checker - Verify BIC Codes | SwiftCodeDir"
         description="Check, decode and verify SWIFT / BIC codes instantly. Find the bank, country, location, and branch details from any SWIFT code."
         canonicalUrl="https://swiftcodedir.com/swift-checker"
+        jsonLd={jsonLd}
       />
-      <Helmet>
-        <script type="application/ld+json">
-          {JSON.stringify(jsonLd)}
-        </script>
-      </Helmet>
 
       <div className="text-center mb-10">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-[#0B1C3D] to-[#003399] dark:from-blue-400 dark:to-blue-600 bg-clip-text text-transparent mb-4">

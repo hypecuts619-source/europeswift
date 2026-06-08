@@ -3,12 +3,24 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { SEO } from '../../components/SEO';
 
 export function SepaTransfer() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "SEPA Transfer Guide: How Europe's Payment System Works",
+    "description": "Learn about the Single Euro Payments Area (SEPA), how long transfers take, and why you mostly just need an IBAN for payments within Europe.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SwiftCodeDir"
+    }
+  };
+
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
         title="SEPA Transfer Guide: How Europe's Payment System Works | SwiftCodeDir"
         description="Learn about the Single Euro Payments Area (SEPA), how long transfers take, and why you mostly just need an IBAN for payments within Europe."
         canonicalUrl="https://swiftcodedir.com/sepa-transfer-guide"
+        jsonLd={schema}
       />
 
       <Breadcrumb className="mb-8">

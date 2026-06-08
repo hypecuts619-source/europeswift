@@ -3,12 +3,30 @@ import { Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
 
 export function IbanFormatByCountry() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "IBAN Format by Country",
+    "description": "Comprehensive guide to IBAN formats, BBAN structures, and character lengths for all 89 countries in the SWIFT IBAN registry.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SwiftCodeDir"
+    },
+    "mainEntity": {
+      "@type": "Dataset",
+      "name": "IBAN Formats by Country",
+      "description": "Table displaying IBAN lengths and formats by country.",
+      "VariableMeasured": ["Country", "Code", "IBAN Length", "BBAN Format"]
+    }
+  };
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
         title="IBAN Format by Country | Global Standards 2026"
         description="Comprehensive guide to IBAN formats, BBAN structures, and character lengths for all 89 countries in the SWIFT IBAN registry."
         canonicalUrl="https://swiftcodedir.com/iban-format-by-country"
+        jsonLd={schema}
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

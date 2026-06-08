@@ -70,6 +70,9 @@ import { IbanVsAccountNumber } from './pages/guides/IbanVsAccountNumber';
 import { IbanVsRoutingNumber } from './pages/guides/IbanVsRoutingNumber';
 import { SepaCountries } from './pages/guides/SepaCountries';
 import { IbanCompleteCoverage } from './pages/guides/IbanCompleteCoverage';
+import { BestIbanValidators } from './pages/guides/BestIbanValidators';
+import { EmergingMarketsWireTransfers } from './pages/guides/EmergingMarketsWireTransfers';
+import { CryptoToBankBridges } from './pages/guides/CryptoToBankBridges';
 import { IbanRegionalHub } from './pages/iban/IbanRegionalHub';
 import { IbanCountryFormat } from './pages/iban/IbanCountryFormat';
 import DirectoryHub from './pages/DirectoryHub';
@@ -365,6 +368,9 @@ export default function App() {
                 <Route path="iban-vs-account-number" element={<IbanVsAccountNumber />} />
                 <Route path="iban-vs-routing-number" element={<IbanVsRoutingNumber />} />
                 <Route path="sepa-countries" element={<SepaCountries />} />
+                <Route path="guides/best-iban-validators-2026" element={<BestIbanValidators />} />
+                <Route path="guides/emerging-markets-wire-transfers" element={<EmergingMarketsWireTransfers />} />
+                <Route path="guides/crypto-traditional-bank-bridges" element={<CryptoToBankBridges />} />
               </Route>
               
               <Route path="iban/complete-coverage" element={<IbanCompleteCoverage />} />

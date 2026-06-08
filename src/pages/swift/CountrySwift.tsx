@@ -104,13 +104,36 @@ export function CountrySwift() {
     ]
   };
 
+  const countryPageSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `SWIFT Codes in ${country.name}`,
+    "description": `Directory of banks in ${country.name} with SWIFT codes`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": uniqueBanks.slice(0, 100).map((bank, idx) => ({
+        "@type": "ListItem",
+        "position": idx + 1,
+        "item": {
+          "@type": "BankOrCreditUnion",
+          "name": bank.name,
+          "swiftCode": bank.primaryBic,
+          "areaServed": {
+            "@type": "Country",
+            "name": country.name
+          }
+        }
+      }))
+    }
+  };
+
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
         title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
         description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
         canonicalUrl={`https://swiftcodedir.com/swift/${country.slug.toLowerCase()}`}
-        jsonLd={[datasetSchema, faqSchema]}
+        jsonLd={[datasetSchema, faqSchema, countryPageSchema]}
       />
 
       <Breadcrumb className="mb-8">

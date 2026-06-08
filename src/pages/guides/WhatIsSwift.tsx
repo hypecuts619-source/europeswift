@@ -3,12 +3,24 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { SEO } from '../../components/SEO';
 
 export function WhatIsSwift() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "What is a SWIFT Code? Structure and Meaning Explained",
+    "description": "Learn what a SWIFT code is, how to read its 8 or 11 character format, and why it's essential for safe international bank transfers.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SwiftCodeDir"
+    }
+  };
+
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
         title="What is a SWIFT Code? Structure and Meaning Explained | SwiftCodeDir"
         description="Learn what a SWIFT code is, how to read its 8 or 11 character format, and why it's essential for safe international bank transfers."
         canonicalUrl="https://swiftcodedir.com/what-is-a-swift-code"
+        jsonLd={articleSchema}
       />
 
       <Breadcrumb className="mb-8">

@@ -54,7 +54,15 @@ export function SwiftHome() {
       "@type": "WebPage",
       "name": "SWIFT / BIC Codes Directory",
       "description": "Select a country to find SWIFT codes formatting and browse local bank directories.",
-      "url": "https://swiftcodedir.com/swift"
+      "url": "https://swiftcodedir.com/swift",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://swiftcodedir.com/swift?search={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
     },
     faqSchema
   ];
