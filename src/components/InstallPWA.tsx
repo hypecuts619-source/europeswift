@@ -6,8 +6,14 @@ import { Button } from './ui/button';
 export function InstallPWA() {
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [isVisible, setIsVisible] = useState(false);
+  const [isIOS, setIsIOS] = useState(false);
 
   useEffect(() => {
+    // Detect iOS for fallback instructions since iOS doesn't support beforeinstallprompt
+    const userAgent = window.navigator.userAgent.toLowerCase();
+    const isIosDevice = /iphone|ipad|ipod/.test(userAgent);
+    setIsIOS(isIosDevice);
+
     const handler = (e: Event) => {
       e.preventDefault();
       setDeferredPrompt(e);
@@ -17,26 +23,49 @@ export function InstallPWA() {
 
     window.addEventListener('beforeinstallprompt', handler);
 
+    // Optional: show fallback prompt on iOS after custom delay
+    if (isIosDevice) {
+      setTimeout(() => setIsVisible(true), 5000);
+    }
+
     return () => {
       window.removeEventListener('beforeinstallprompt', handler);
     };
   }, []);
 
   const handleInstallClick = async () => {
-    if (!deferredPrompt) return;
-    
-    deferredPrompt.prompt();
-    const { outcome } = await deferredPrompt.userChoice;
-    
-    if (outcome === 'accepted') {
-      setIsVisible(false);
+    if (isIOS) {
+      alert("To install on iOS: tap the 'Share' icon at the bottom of Safari, then select 'Add to Home Screen'.");
+      return;
     }
-    setDeferredPrompt(null);
+
+    if (!deferredPrompt && !isIOS) {
+      alert("Install prompt is not ready. If you are in an iframe or Safari, the native prompt may not be available. Please open the app in a new, standalone Chrome tab.");
+      return;
+    }
+    
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const { outcome } = await deferredPrompt.userChoice;
+      
+      if (outcome === 'accepted') {
+        setIsVisible(false);
+      }
+      setDeferredPrompt(null);
+    }
   };
 
   const handleDismiss = () => {
     setIsVisible(false);
   };
+
+  // Check if we want to render the fallback (e.g., inside iframe or iOS or standard)
+  // For standard Chrome where the event hasn't fired yet, it won't render unless isVisible is true.
+  // We'll add a manual trigger or just leave it relying on the event/iOS detection.
+  if (!isVisible && !isIOS) {
+      // In development or if the user is explicitly testing the PWA popup, we can force visibility.
+      // But we will stick to native behavior here.
+  }
 
   if (!isVisible) return null;
 
