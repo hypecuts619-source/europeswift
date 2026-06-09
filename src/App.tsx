@@ -44,6 +44,7 @@ const IbanValidator = lazy(() => import('./pages/iban/IbanValidator').then(modul
 const IbanCalculator = lazy(() => import('./pages/iban/IbanCalculator').then(module => ({ default: module.IbanCalculator })));
 const SwiftChecker = lazy(() => import('./pages/tool/SwiftChecker').then(module => ({ default: module.SwiftChecker })));
 const BanksAtoZ = lazy(() => import('./pages/banks/BanksAtoZ').then(module => ({ default: module.BanksAtoZ })));
+const NotFound = lazy(() => import('./pages/NotFound').then(module => ({ default: module.NotFound })));
 
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 import { AdsterraNativeSlot } from './components/AdsterraNativeSlot';
@@ -371,6 +372,9 @@ export default function App() {
                 <Route path="guides/best-iban-validators-2026" element={<BestIbanValidators />} />
                 <Route path="guides/emerging-markets-wire-transfers" element={<EmergingMarketsWireTransfers />} />
                 <Route path="guides/crypto-traditional-bank-bridges" element={<CryptoToBankBridges />} />
+                
+                {/* 404 Catch-All Route for Soft 404 Resolution */}
+                <Route path="*" element={<NotFound />} />
               </Route>
               
               <Route path="iban/complete-coverage" element={<IbanCompleteCoverage />} />

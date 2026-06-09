@@ -20,6 +20,7 @@ export function SortCodeDetails() {
   if (!bank) {
     return (
       <div className="max-w-4xl mx-auto px-4 py-12 text-center">
+        <SEO title="Sort Code Not Found | SwiftCodeDir" robots="noindex" />
         <Landmark className="w-16 h-16 text-slate-200 mx-auto mb-6" />
         <h1 className="text-3xl font-bold mb-4 font-serif">Sort Code Not Found</h1>
         <p className="text-slate-600 mb-8 text-lg">We couldn't find an official record for sort code: <span className="font-mono font-bold text-slate-900">{sortCode}</span></p>

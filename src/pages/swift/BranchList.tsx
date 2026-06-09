@@ -54,6 +54,7 @@ export function BranchList() {
   if (!country) {
     return (
       <div className="max-w-7xl mx-auto px-4 py-16 text-center">
+        <SEO title="Country Not Found | SwiftCodeDir" robots="noindex" />
         <h1 className="text-2xl font-bold text-gray-900 mb-4">Country not found</h1>
         <Link to="/swift" className="text-[#003399] hover:underline flex items-center justify-center gap-2">
           <ArrowLeft className="w-4 h-4" /> Back to countries

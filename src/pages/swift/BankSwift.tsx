@@ -89,7 +89,7 @@ export function BankSwift() {
     setTimeout(() => setCopied(null), 2000);
   };
 
-  if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400">Bank not found</div>;
+  if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400"><SEO title="Bank Not Found | SwiftCodeDir" robots="noindex" />Bank not found</div>;
 
   // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
   // If a specific bicCode was provided in the URL, that becomes our primary BIC for this page view.
@@ -276,11 +276,10 @@ export function BankSwift() {
       ? `Verified Q2 2026 data for ${bankNameStr} in ${country.name}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` 
       : `Find verified SWIFT and BIC codes for ${bankNameStr} located in ${country.name}. Check exact branch codes, head office information, and routing details.`;
 
-  const canonicalBicPart = (bicCode && bicCode.toUpperCase() !== (headOfficeSwiftDoc?.bic || '').toUpperCase()) 
-    ? `/${bicCode.toUpperCase()}` 
-    : '';
-
-  const canonicalUrl = `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}${canonicalBicPart}`;
+  // Centralize all branch URLs to the primary bank canonical URL
+  // This resolves indexing validation failures for thinly sliced branch routes
+  // by marking them as official alternates to the primary bank page.
+  const canonicalUrl = `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}`;
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">

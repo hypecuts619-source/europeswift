@@ -64,7 +64,7 @@ export function CountrySwift() {
     return [];
   }, [banks, loading, country]);
 
-  if (!country) return <div className="p-12 text-center text-xl text-gray-500">Country not found</div>;
+  if (!country) return <div className="p-12 text-center text-xl text-gray-500"><SEO title="Country Not Found | SwiftCodeDir" robots="noindex" />Country not found</div>;
 
   const datasetSchema = {
     "@context": "https://schema.org",
