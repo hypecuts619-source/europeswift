@@ -11,9 +11,10 @@ export default defineConfig(({mode}) => {
       react(), 
       tailwindcss(),
       VitePWA({
+        selfDestroying: true,
         registerType: 'autoUpdate',
         devOptions: {
-          enabled: true,
+          enabled: false,
           type: 'module'
         },
         includeAssets: ['favicon.svg', 'favicon-96x96.png', 'apple-touch-icon.png'],
@@ -42,7 +43,7 @@ export default defineConfig(({mode}) => {
       })
     ],
     define: {
-      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
+      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY || ''),
     },
     resolve: {
       alias: {

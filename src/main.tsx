@@ -5,9 +5,11 @@ import './index.css';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
 if ('serviceWorker' in navigator) {
-  import('virtual:pwa-register').then(({ registerSW }) => {
-    registerSW({ immediate: true });
-  }).catch(() => {});
+  navigator.serviceWorker.getRegistrations().then(function(registrations) {
+    for(let registration of registrations) {
+      registration.unregister();
+    }
+  });
 }
 
 createRoot(document.getElementById('root')!).render(
