@@ -276,10 +276,10 @@ export function BankSwift() {
       ? `Verified Q2 2026 data for ${bankNameStr} in ${country.name}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` 
       : `Find verified SWIFT and BIC codes for ${bankNameStr} located in ${country.name}. Check exact branch codes, head office information, and routing details.`;
 
-  // Centralize all branch URLs to the primary bank canonical URL
-  // This resolves indexing validation failures for thinly sliced branch routes
-  // by marking them as official alternates to the primary bank page.
-  const canonicalUrl = `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}`;
+  const cleanBankSlug = bankSlug.toLowerCase().replace(/-+/g, '-').replace(/-$/, '');
+  const canonicalUrl = bicCode 
+    ? `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}/${bicCode.toUpperCase()}`
+    : `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}`;
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
