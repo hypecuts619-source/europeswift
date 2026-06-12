@@ -55,6 +55,7 @@ const ContactUs = lazy(() => import('./pages/ContactUs').then(module => ({ defau
 const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy').then(module => ({ default: module.PrivacyPolicy })));
 const TermsAndConditions = lazy(() => import('./pages/TermsAndConditions').then(module => ({ default: module.TermsAndConditions })));
 const CookiePolicy = lazy(() => import('./pages/CookiePolicy').then(module => ({ default: module.CookiePolicy })));
+const DataMethodology = lazy(() => import('./pages/DataMethodology').then(module => ({ default: module.default })));
 const BlogIndex = lazy(() => import('./pages/BlogIndex').then(module => ({ default: module.BlogIndex })));
 const BlogPostPage = lazy(() => import('./pages/BlogPostPage').then(module => ({ default: module.BlogPostPage })));
 const GlossaryIndex = lazy(() => import('./pages/GlossaryIndex').then(module => ({ default: module.GlossaryIndex })));
@@ -353,6 +354,7 @@ export default function App() {
                 <Route path="privacy-policy" element={<PrivacyPolicy />} />
                 <Route path="terms-and-conditions" element={<TermsAndConditions />} />
                 <Route path="cookie-policy" element={<CookiePolicy />} />
+                <Route path="data-methodology" element={<DataMethodology />} />
                 <Route path="blog" element={<BlogIndex />} />
                 <Route path="blog/:slug" element={<BlogPostPage />} />
                 <Route path="glossary" element={<GlossaryIndex />} />

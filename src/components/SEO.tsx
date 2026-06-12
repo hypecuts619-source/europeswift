@@ -74,6 +74,22 @@ export function SEO({
           {JSON.stringify(jsonLd)}
         </script>
       )}
+      
+      {/* Dataset / DataCatalog Schema for AEO */}
+      <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Dataset",
+          "name": "Global Bank Swift & Routing Code Database",
+          "description": "A comprehensive, structured dataset of over 90,000 active SWIFT codes, BICs, and routing numbers across global financial institutions.",
+          "url": "https://swiftcodedir.com",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "creator": {
+            "@type": "Organization",
+            "name": "SwiftcodeDir"
+          }
+        })}
+      </script>
     </Helmet>
   );
 }

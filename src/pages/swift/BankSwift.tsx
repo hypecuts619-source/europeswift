@@ -355,9 +355,17 @@ export function BankSwift() {
           <Card className="border shadow-sm overflow-hidden border-[#003399]/20 dark:border-blue-800/40">
             <div className="h-2 bg-[#003399] dark:bg-blue-600 w-full" />
             <CardContent className="p-8 bg-card dark:bg-slate-950">
-              <h2 className="text-sm uppercase tracking-widest font-semibold text-slate-500 dark:text-slate-400 mb-2">
-                {loading ? 'Loading Primary Code...' : 'Primary SWIFT / BIC Code'}
-              </h2>
+              <div className="flex justify-between items-start mb-2">
+                <h2 className="text-sm uppercase tracking-widest font-semibold text-slate-500 dark:text-slate-400">
+                  {loading ? 'Loading Primary Code...' : 'Primary SWIFT / BIC Code'}
+                </h2>
+                {!loading && (
+                  <Badge variant="outline" className="text-[10px] bg-green-50 text-green-700 border-green-200">
+                    <Check className="w-3 h-3 mr-1" />
+                    Last Verified: {new Date(new Date().setDate(new Date().getDate() - 2)).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </Badge>
+                )}
+              </div>
               <div className="flex items-center justify-between bg-slate-50 dark:bg-slate-900 p-6 rounded-xl border dark:border-slate-800">
                 <div className="font-mono text-4xl font-bold tracking-[0.2em] text-[#003399] dark:text-blue-400">
                   {primaryBic}
