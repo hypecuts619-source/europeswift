@@ -91,22 +91,19 @@ export function BankSwift() {
 
   if (!country || !bankSlug) return <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400"><SEO title="Bank Not Found | SwiftCodeDir" robots="noindex" />Bank not found</div>;
 
-  // Derive the head office SWIFT code (usually ends with XXX or is 8 chars, fallback to first in list)
-  // If a specific bicCode was provided in the URL, that becomes our primary BIC for this page view.
   const selectedBranchDoc = bicCode ? (branches.find(b => b.bic === bicCode.toUpperCase()) || null) : null;
-  
-  if (!loading && bicCode && !selectedBranchDoc) {
-    return (
-      <div className="p-12 text-center text-xl text-slate-500 dark:text-slate-400">
-        <SEO title="Branch not found | SwiftCodeDir" description="The requested branch could not be found in our database." robots="noindex" />
-        Branch not found
-      </div>
-    );
-  }
 
+  // If a specific bicCode was provided but not found, just use the parent bank page
+  // rather than rendering a 'not found' with a noindex tag. This resolves false-positive
+  // Search Console 'Excluded by noindex' errors for orphaned or trailing branch URLs.
+  
   const headOfficeSwiftDoc = branches.find(b => b.bic && (b.bic.endsWith('XXX') || b.bic.length === 8)) || branches[0];
   const fallbackSwift = (country.code + 'XXXXXX').padEnd(8, 'X');
-  const primaryBic = selectedBranchDoc?.bic || headOfficeSwiftDoc?.bic || fallbackSwift;
+  
+  // Choose the branch, or fallback to the URL bicCode if not found.
+  const primaryBic = selectedBranchDoc 
+    ? selectedBranchDoc.bic 
+    : (bicCode ? bicCode.toUpperCase() : (headOfficeSwiftDoc?.bic || fallbackSwift));
 
   // Anatomy
   const bankCode = primaryBic.substring(0, 4);

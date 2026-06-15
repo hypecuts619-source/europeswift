@@ -27,8 +27,15 @@ export function SEO({
   robots = "index, follow"
 }: SEOProps) {
   let finalCanonicalUrl = canonicalUrl;
+  let finalRobots = robots;
   try {
     const location = useLocation();
+    
+    // Add noindex for dynamic query variants to fix Search Console warnings
+    if (location.search && (location.search.includes('ref=') || location.search.includes('fbclid='))) {
+      finalRobots = "noindex, follow";
+    }
+
     if (!finalCanonicalUrl) {
       let path = location.pathname;
       // Strip trailing slashes to enforce strict canonical normalization matching the sitemap
@@ -49,7 +56,7 @@ export function SEO({
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="keywords" content={keywords.join(', ')} />
-      <meta name="robots" content={robots} />
+      <meta name="robots" content={finalRobots} />
 
       {/* Canonical URL */}
       <link rel="canonical" href={finalCanonicalUrl} />
