@@ -23,10 +23,25 @@ function clampDesc(text: string): string {
 }
 
 export function getIbanRootMeta(): MetaTags {
-  return {
-    title: clampTitle("Free IBAN Directory & Validator: Check 110+ Countries Instantly"),
-    description: clampDesc("Verify any international bank account number instantly. Access official character lengths, country code validations, and structural maps for free.")
-  };
+  const sequences = [
+    `[2026 Registry] Find & Verify Global IBANs`,
+    `How to Find Your IBAN Number (2026 Directory)`,
+    `IBAN Finder & Global Directory`,
+    `Find, Calculate & Validate IBANs`
+  ];
+  
+  let formattedTitle = sequences[3];
+  for (const seq of sequences) {
+    if (seq.length <= 60) {
+      formattedTitle = seq;
+      break;
+    }
+  }
+
+  let description = `Learn how to find your IBAN number. Use our IBAN finder, calculator, and global directory to verify international bank account numbers instantly.`;
+  description = clampDesc(description);
+
+  return { title: formattedTitle, description };
 }
 
 export function getSortCodeRootMeta(): MetaTags {
@@ -37,10 +52,25 @@ export function getSortCodeRootMeta(): MetaTags {
 }
 
 export function getIbanCalculatorRootMeta(): MetaTags {
-  return {
-    title: clampTitle("Interactive IBAN Calculator & Generator | Free Bank Verification"),
-    description: clampDesc("Calculate your IBAN from your local bank code and account number using our free generator. Supports UK Sort Codes, German BLZ, and more.")
-  };
+  const sequences = [
+    `Calculate IBAN: Convert Account Number to IBAN`,
+    `IBAN & BIC Calculator | Convert Bank Codes`,
+    `Free IBAN Converter & Calculator (2026)`,
+    `Account Number to IBAN Converter`
+  ];
+  
+  let formattedTitle = sequences[3];
+  for (const seq of sequences) {
+    if (seq.length <= 60) {
+      formattedTitle = seq;
+      break;
+    }
+  }
+
+  let description = `Calculate your IBAN from your local bank code and account number using our free IBAN Converter & BIC Calculator. Validates MOD-97 checks for all countries.`;
+  description = clampDesc(description);
+
+  return { title: formattedTitle, description };
 }
 
 /**
@@ -74,7 +104,7 @@ export function getDynamicBankMeta(entityType: "Bank" | "IBAN" | "Routing", enti
 
 export function getIbanCountryMeta(countryName: string, countryCode: string, ibanLength: number): MetaTags {
   const sequences = [
-    `[2026 Registry] Verify ${countryName} IBAN Layout`,
+    `${countryName} IBAN & Bank Account Number Format`,
     `Verify ${countryName} IBAN Format & Rules`,
     `Check ${countryName} IBAN Length`,
     `${countryName} IBAN Validator`
@@ -82,13 +112,13 @@ export function getIbanCountryMeta(countryName: string, countryCode: string, iba
   
   let formattedTitle = sequences[3];
   for (const seq of sequences) {
-    if (seq.length <= 55) {
+    if (seq.length <= 60) {
       formattedTitle = seq;
       break;
     }
   }
 
-  let description = `Get official ${countryName} IBAN formatting, lengths (${ibanLength} chars) & examples. Run real-time format validation for standard ${countryCode} bank routing.`;
+  let description = `Get the official ${countryName} IBAN and bank account number format (${ibanLength} chars). Use our real-time validator to check ${countryCode} routing codes safely.`;
   description = clampDesc(description);
 
   return { title: formattedTitle, description };
@@ -174,5 +204,20 @@ export function getWireTransferFeesFaqSchema(): object {
         }
       }
     ]
+  };
+}
+
+export function getFAQSchema(faqs: { question: string, answer: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
   };
 }

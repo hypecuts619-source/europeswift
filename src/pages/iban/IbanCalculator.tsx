@@ -9,6 +9,8 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '.
 import { SEO } from '../../components/SEO';
 import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import IBAN from 'iban';
+import { FAQAccordion } from '../../components/FAQAccordion';
+import { getFAQSchema } from '../../utils/seoHelpers';
 
 import { calculateIbanChecksum, formatIban } from '../../lib/ibanUtils';
 
@@ -65,6 +67,25 @@ export function IbanCalculator() {
     }
   };
 
+  const faqs = [
+    {
+      question: "How do I calculate an IBAN from a bank account number?",
+      answer: "You can calculate your IBAN by entering your country, your local bank routing code (like a UK Sort Code or German BLZ), and your domestic bank account number into our IBAN Calculator. The tool uses the official country format to generate the full International Bank Account Number and calculates the exact MOD-97 check digits."
+    },
+    {
+      question: "Can I extract my account number from an IBAN?",
+      answer: "Yes. The BBAN (Basic Bank Account Number) portion of your IBAN contains your domestic account number and routing code. Our IBAN converter tool can instantly extract your exact account number and bank code from any valid IBAN."
+    },
+    {
+      question: "Is it safe to use this IBAN converter?",
+      answer: "Absolutely. Our IBAN calculator and converter perform all logic directly in your browser. We do not store your account numbers or send them to external databases, ensuring your privacy remains completely secure."
+    },
+    {
+      question: "What is an IBAN converter?",
+      answer: "An IBAN converter is a tool that takes domestic banking details (like sort codes, BLZ, or routing numbers) and converts them into the internationally recognized IBAN format required for cross-border wire transfers."
+    }
+  ];
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
@@ -77,56 +98,12 @@ export function IbanCalculator() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
-        title="Interactive IBAN Calculator & Generator | Free Bank Verification"
-        description="Calculate your IBAN from your local bank code and account number using our free IBAN Generator. Supports UK Sort Codes, German BLZ, and more."
+        title="IBAN Calculator & Generator (2026) | Free Bank Account Converter"
+        description="Calculate your IBAN from your local bank code, sort code, or BLZ and account number using our free IBAN Generator. Extract account numbers from any IBAN."
         canonicalUrl="https://swiftcodedir.com/iban/calculator"
         jsonLd={[
-          {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [
-              {
-                "@type": "Question",
-                "name": "How does the IBAN calculator work?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "The calculator takes your local bank code and account number, adds the country prefix, and calculates the required two-digit checksum using the MOD 97-10 algorithm to produce a valid IBAN."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Is the generated IBAN guaranteed to work?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "The IBAN is mathematically correct, but you must verify that the account number belongs to a real, active account with your bank before sending significant funds."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "What is a BBAN?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "BBAN stands for Basic Bank Account Number. It is the domestic part of the IBAN that contains the bank and branch identifier along with the account number."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Can I use this for any country?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Our calculator supports over 80 countries that have officially adopted the IBAN standard, including EU nations, the UK, and several Middle Eastern and African countries."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Does the calculator verify my bank balance?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "No. This tool only performs a mathematical formatting check. It does not have access to your private bank account details or balance."
-                }
-              }
-            ]
-          }
+          jsonLd,
+          getFAQSchema(faqs)
         ]}
       />
 
@@ -307,6 +284,11 @@ export function IbanCalculator() {
           <p className="text-xs text-amber-800/80 dark:text-amber-400/80 leading-relaxed">
             This tool generates IBANs based strictly on standard algorithmic formatting. It cannot verify if the underlying bank account is open, active, or belongs to a specific person. We recommend performing a "penny test" (sending a very small amount) before fulfilling any large invoices to ensure the recipient's bank account fully supports the generated IBAN without automated reversal.
           </p>
+        </div>
+
+        <div className="mt-16 mb-8">
+          <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">Frequently Asked Questions</h2>
+          <FAQAccordion items={faqs} />
         </div>
       </div>
     </main>

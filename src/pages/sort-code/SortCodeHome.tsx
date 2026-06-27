@@ -1,12 +1,13 @@
 import { useNavigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
-import { getWebApplicationSchema, getBreadcrumbSchema } from '../../utils/seoHelpers';
+import { getWebApplicationSchema, getBreadcrumbSchema, getFAQSchema } from '../../utils/seoHelpers';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { Search } from 'lucide-react';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { Card, CardContent } from '../../components/ui/card';
 import { SORT_CODES } from '../../data/sortCodes';
+import { FAQAccordion } from '../../components/FAQAccordion';
 
 import { WebApplicationSchema } from '../../components/SEO/StructuredDataEngine';
 
@@ -18,6 +19,21 @@ export function SortCodeHome() {
     { name: "Sort Codes", url: "https://swiftcodedir.com/sort-code" }
   ]);
 
+  const faqs = [
+    {
+      question: "How do I find a sort code?",
+      answer: "You can find your UK bank sort code on your bank statement, inside your online banking app, on the front of your debit card, or by using our Sort Code Checker tool to look up a specific branch."
+    },
+    {
+      question: "How can I check a bank sort code?",
+      answer: "You can check a bank sort code by entering it into our Sort Code Checker. It will verify the format and show you the exact bank and branch details associated with that 6-digit routing number."
+    },
+    {
+      question: "What is a sort code used for?",
+      answer: "A sort code is used by British and Irish banks to route money transfers internally. It is essential for domestic BACS, CHAPS, and Faster Payments."
+    }
+  ];
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <WebApplicationSchema 
@@ -26,10 +42,10 @@ export function SortCodeHome() {
         description="Look up, verify, and check UK bank sort codes instantly. Pinpoint exact branch routing codes, clearing parameters, and processing details without scrolling."
       />
       <SEO 
-        title="[2026 Sort Code Registry] UK Bank Sort Code Finder & Checker"
-        description="Look up, verify, and check UK bank sort codes instantly. Pinpoint exact branch routing codes, clearing parameters, and processing details without scrolling."
+        title="UK Bank Sort Codes: Finder, Checker & Branch Lookup (2026)"
+        description="Find a sort code, lookup, and check UK bank sort codes instantly. Use our sort code checker to find exact branch routing details and clearing parameters."
         canonicalUrl="https://swiftcodedir.com/sort-code"
-        jsonLd={[webAppSchema, breadcrumbSchema]}
+        jsonLd={[webAppSchema, breadcrumbSchema, getFAQSchema(faqs)]}
       />
       
       <Breadcrumb className="mb-8">
@@ -78,6 +94,11 @@ export function SortCodeHome() {
                 <p className="text-sm text-slate-500 dark:text-slate-400">View Sort Codes &rarr;</p>
               </Link>
             ))}
+          </div>
+
+          <div className="mt-16 mb-8">
+            <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">Frequently Asked Questions</h2>
+            <FAQAccordion items={faqs} />
           </div>
         </div>
         

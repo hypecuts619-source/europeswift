@@ -262,16 +262,17 @@ export function BankSwift() {
   };
 
   const pageTitle = selectedBranchDoc 
-    ? `${bankNameStr} ${selectedBranchDoc.city || ''} ${selectedBranchDoc.branch || ''} SWIFT Code ${selectedBranchDoc.bic} | SwiftCodeDir`
+    ? `${selectedBranchDoc.bic} SWIFT Code - ${bankNameStr} (${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'}) 2026 | PDF`
     : authorityData 
-      ? `${bankNameStr} ${country.name} SWIFT/BIC Code & Institutional Intelligence (2026)` 
-      : `${bankNameStr} ${country.name} SWIFT/BIC Code & Address Details`;
+      ? `${primaryBic} SWIFT Code - ${bankNameStr} ${country.name} (2026 Verified)` 
+      : `${bankNameStr} SWIFT Code ${primaryBic} (${country.name}) | Verified Directory`;
 
   const pageDescription = selectedBranchDoc
-    ? `Find the SWIFT / BIC code and address for ${bankNameStr} branch ${selectedBranchDoc.branch || ''} in ${selectedBranchDoc.city || ''}, ${country.name}. Correct BIC: ${selectedBranchDoc.bic}.`
+    ? `Looking for the SWIFT / BIC code for ${bankNameStr} in ${selectedBranchDoc.city || ''}? The exact, verified routing code is ${selectedBranchDoc.bic}. Find branch details and download official PDF format.`
     : authorityData 
-      ? `Verified Q2 2026 data for ${bankNameStr} in ${country.name}. Primary BIC: ${primaryBic}. ${authorityData.bank_role.substring(0, 150)}` 
-      : `Find verified SWIFT and BIC codes for ${bankNameStr} located in ${country.name}. Check exact branch codes, head office information, and routing details.`;
+      ? `Verify the SWIFT/BIC code for ${bankNameStr} in ${country.name}. The official code is ${primaryBic}. Check branch information, ISO 20022 readiness, and download as PDF.` 
+      : `Looking for the SWIFT / BIC code for ${bankNameStr} in ${country.name}? Find verified branch codes, head office information, and international routing details. Free PDF download available.`;
+
 
   const cleanBankSlug = bankSlug.toLowerCase().replace(/-+/g, '-').replace(/-$/, '');
   const canonicalUrl = bicCode 

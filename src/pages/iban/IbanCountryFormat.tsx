@@ -2,7 +2,7 @@ import { useMemo, useState, useEffect } from 'react';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '../../components/ui/breadcrumb';
 import { useParams, Navigate, Link } from 'react-router-dom';
 import { SEO } from '../../components/SEO';
-import { getIbanCountryMeta, getBreadcrumbSchema } from '../../utils/seoHelpers';
+import { getIbanCountryMeta, getBreadcrumbSchema, getFAQSchema } from '../../utils/seoHelpers';
 import { Globe, CheckCircle2, ShieldCheck, Banknote, HelpCircle, ArrowRight, Check, X } from 'lucide-react';
 import ibanFormatsDataJson from '../../data/iban-formats.json';
 import * as ibantools from 'ibantools';
@@ -10,6 +10,7 @@ import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
 import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import { useRecentViews } from '../../hooks/useRecentViews';
+import { FAQAccordion } from '../../components/FAQAccordion';
 
 const getFlagEmoji = (countryCode: string) => {
   if (!countryCode || countryCode.length !== 2) return '🌐';
@@ -91,13 +92,30 @@ export function IbanCountryFormat() {
     { name: `${countryData.country} IBAN`, url: `https://swiftcodedir.com/iban/${slugify(countryData.country)}` }
   ]);
 
+  const faqs = [
+    {
+      question: `What is the bank account number format for ${countryData.country}?`,
+      answer: `In ${countryData.country}, the official format for international bank account numbers is the IBAN. A complete ${countryData.country} IBAN is exactly ${countryData.length} characters long, starts with the country code '${countryData.code}', and contains the national bank routing information followed by your specific account number. BBAN format: ${countryData.format}.`
+    },
+    {
+      question: `Where can I find my ${countryData.country} IBAN number?`,
+      answer: `You can typically find your ${countryData.country} IBAN printed on your bank statements, inside your online banking portal (often under 'Account Details' or 'International Payments'), or on your physical debit card or checkbook if your bank issues them.`
+    },
+    {
+      question: `Is the SWIFT code the same as the IBAN in ${countryData.country}?`,
+      answer: `No. The IBAN identifies your specific individual bank account in ${countryData.country}, while the SWIFT/BIC code identifies the bank institution itself on the global network. You usually need both to receive an international wire transfer.`
+    }
+  ];
+
+  const faqSchema = getFAQSchema(faqs);
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
         title={meta.title}
         description={meta.description}
         canonicalUrl={`https://swiftcodedir.com/iban/${slugify(countryData.country)}`}
-        jsonLd={[breadcrumbSchema]}
+        jsonLd={[breadcrumbSchema, faqSchema]}
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
@@ -302,6 +320,11 @@ export function IbanCountryFormat() {
           While your IBAN meticulously identifies your distinct, specific, individual banking account ledger residing within {countryData.country}, the SWIFT code (sometimes termed BIC or Bank Identifier Code) strictly identifies the institutional bank organization itself on a macroeconomic global scale. When originating an international wire format, most banking platforms will demand both the final beneficiary's IBAN and their receiving bank's 8 or 11 character SWIFT code to guarantee the capital reaches both the correct destination institution and the exact granular account directory.
         </p>
       </article>
+
+      <div className="mt-12 mb-8">
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">Frequently Asked Questions</h2>
+        <FAQAccordion items={faqs} />
+      </div>
 
     </div>
   );

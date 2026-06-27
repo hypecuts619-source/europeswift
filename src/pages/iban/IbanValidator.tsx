@@ -8,6 +8,8 @@ import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/ca
 import { SEO } from '../../components/SEO';
 import { AdsterraNativeSlot } from '../../components/AdsterraNativeSlot';
 import IBAN from 'iban';
+import { FAQAccordion } from '../../components/FAQAccordion';
+import { getFAQSchema } from '../../utils/seoHelpers';
 
 import { validateIbanChecksum } from '../../lib/ibanUtils';
 
@@ -78,11 +80,34 @@ export function IbanValidator() {
     validateIbanAction(iban);
   };
 
+  const faqs = [
+    {
+      question: "Is it safe to enter my IBAN here?",
+      answer: "Yes. Our validator checks the mathematical logic on your device without saving the account number to any database. An IBAN alone cannot be used to withdraw money from your account."
+    },
+    {
+      question: "Can someone steal money with my IBAN?",
+      answer: "No. An IBAN is strictly an 'address' for receiving funds. To withdraw money, a person would need your private authentication, passwords, or direct debit mandates."
+    },
+    {
+      question: "Why did my IBAN validation fail?",
+      answer: "Failures usually occur due to an incorrect length, illegal characters, or a checksum failure (likely a typo in the numbers)."
+    },
+    {
+      question: "How many digits are in a valid IBAN?",
+      answer: "The length varies by country, ranging from 15 characters (Norway) up to 34 characters."
+    },
+    {
+      question: "Do I need an IBAN for US transfers?",
+      answer: "The USA does not use IBAN for domestic transfers. However, if you are sending money FROM the US to an IBAN country, you must provide the recipient's IBAN."
+    }
+  ];
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <SEO 
-        title="IBAN Validator — Check Any IBAN Instantly (2026)"
-        description="Verify the checksum and format of an International Bank Account Number. Safe and secure IBAN validation using ISO 7064 MOD 97-10 algorithm."
+        title="IBAN Checker & Validator (2026) | Verify Account Numbers"
+        description="Check any IBAN with account number instantly. Verify the checksum, bank details, and format of an International Bank Account Number securely."
         canonicalUrl="https://swiftcodedir.com/iban/validator"
         jsonLd={[
           {
@@ -98,52 +123,7 @@ export function IbanValidator() {
               "query-input": "required name=search_term_string"
             }
           },
-          {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [
-              {
-                "@type": "Question",
-                "name": "Is it safe to enter my IBAN here?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Yes. Our validator checks the mathematical logic on your device without saving the account number to any database. An IBAN alone cannot be used to withdraw money from your account."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Can someone steal money with my IBAN?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "No. An IBAN is strictly an 'address' for receiving funds. To withdraw money, a person would need your private authentication, passwords, or direct debit mandates."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Why did my IBAN validation fail?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "Failures usually occur due to an incorrect length, illegal characters, or a checksum failure (likely a typo in the numbers)."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "How many digits are in a valid IBAN?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "The length varies by country, ranging from 15 characters (Norway) up to 34 characters."
-                }
-              },
-              {
-                "@type": "Question",
-                "name": "Do I need an IBAN for US transfers?",
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": "The USA does not use IBAN for domestic transfers. However, if you are sending money FROM the US to an IBAN country, you must provide the recipient's IBAN."
-                }
-              }
-            ]
-          }
+          getFAQSchema(faqs)
         ]}
       />
       <Breadcrumb className="mb-8">
@@ -272,6 +252,11 @@ export function IbanValidator() {
             Different countries have unique quirks in their IBAN structure. For instance, French IBANs (27 chars) include a RIB (Relevé d'Identité Bancaire) which contains a bank code, branch code, account number, and two additional check digits within the BBAN itself. UK IBANs (22 chars) always start with GB, followed by a 4-character bank identifier (like 'WEST' or 'BARC') and the 6-digit sort code. Some Middle Eastern nations have recently adopted IBANs but may still require additional local identifiers for certain types of domestic clearances. Our database accounts for these localized rules during the validation process.
           </p>
         </section>
+        
+        <div className="mt-12 mb-8">
+          <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">Frequently Asked Questions</h2>
+          <FAQAccordion items={faqs} />
+        </div>
       </div>
     </div>
   );

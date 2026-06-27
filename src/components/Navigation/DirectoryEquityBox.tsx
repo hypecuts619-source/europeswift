@@ -12,12 +12,12 @@ export const DirectoryEquityBox = () => {
             <span className="relative inline-flex rounded-full h-3 w-3 bg-blue-500"></span>
           </div>
           <h3 className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider">
-            Financial Toolkits
+            Popular Searches
           </h3>
           <span className="h-px bg-slate-100 dark:bg-slate-800/80 flex-grow ml-2"></span>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
           <Link 
             to="/sort-code" 
             className="group flex flex-col p-4 rounded-xl border border-slate-100 dark:border-slate-800/60 bg-slate-50/50 dark:bg-slate-950/30 hover:border-blue-200 dark:hover:border-blue-800/80 hover:bg-blue-50/80 dark:hover:bg-blue-900/20 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
@@ -31,10 +31,27 @@ export const DirectoryEquityBox = () => {
               </span>
             </div>
             <p className="text-[11px] text-slate-500 dark:text-slate-400 ml-[42px] leading-relaxed">
-              Verify UK branch routing codes accurately.
+              Verify UK branch routing codes.
             </p>
           </Link>
           
+          <Link 
+            to="/swift/united-kingdom/hsbc-bank-plc-rfb-" 
+            className="group flex flex-col p-4 rounded-xl border border-slate-100 dark:border-slate-800/60 bg-slate-50/50 dark:bg-slate-950/30 hover:border-blue-200 dark:hover:border-blue-800/80 hover:bg-blue-50/80 dark:hover:bg-blue-900/20 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+          >
+            <div className="flex items-center gap-3 mb-2">
+              <div className="bg-blue-100 dark:bg-blue-900/60 p-2 rounded-lg text-[#003399] dark:text-blue-400 border border-blue-200/50 dark:border-blue-800/50 transition-colors group-hover:bg-blue-600 group-hover:text-white dark:group-hover:bg-blue-500 dark:group-hover:text-white">
+                <Landmark size={18} />
+              </div>
+              <span className="font-medium text-slate-900 dark:text-slate-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
+                HSBC SWIFT Codes
+              </span>
+            </div>
+            <p className="text-[11px] text-slate-500 dark:text-slate-400 ml-[42px] leading-relaxed">
+              HSBC BIC codes & routing info.
+            </p>
+          </Link>
+
           <Link 
             to="/swift-vs-iban" 
             className="group flex flex-col p-4 rounded-xl border border-slate-100 dark:border-slate-800/60 bg-slate-50/50 dark:bg-slate-950/30 hover:border-blue-200 dark:hover:border-blue-800/80 hover:bg-blue-50/80 dark:hover:bg-blue-900/20 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
@@ -48,7 +65,7 @@ export const DirectoryEquityBox = () => {
               </span>
             </div>
             <p className="text-[11px] text-slate-500 dark:text-slate-400 ml-[42px] leading-relaxed">
-              When to use which code for transfers.
+              When to use which code.
             </p>
           </Link>
 
@@ -61,11 +78,11 @@ export const DirectoryEquityBox = () => {
                 <Calculator size={18} />
               </div>
               <span className="font-medium text-slate-900 dark:text-slate-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
-                Wire Transfer Fees
+                Wire Fees
               </span>
             </div>
             <p className="text-[11px] text-slate-500 dark:text-slate-400 ml-[42px] leading-relaxed">
-              Explore global banking deductions limits.
+              Explore deduction limits.
             </p>
           </Link>
           
@@ -78,11 +95,11 @@ export const DirectoryEquityBox = () => {
                 <Landmark size={18} />
               </div>
               <span className="font-medium text-slate-900 dark:text-slate-100 group-hover:text-[#003399] dark:group-hover:text-blue-400 transition-colors text-sm">
-                IBAN Map & Calculator
+                IBAN Map
               </span>
             </div>
             <p className="text-[11px] text-slate-500 dark:text-slate-400 ml-[42px] leading-relaxed">
-              Generate & validate international accounts.
+              Generate & validate accounts.
             </p>
           </Link>
         </div>

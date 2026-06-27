@@ -16,6 +16,128 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "wells-fargo-swift-code",
+    title: "Wells Fargo SWIFT Code (BIC) & Routing Guide [2026]",
+    date: "2026-06-25",
+    excerpt: "Find the verified Wells Fargo SWIFT code for international wire transfers. Learn the difference between Wells Fargo SWIFT codes and ABA routing numbers.",
+    content: `When receiving an international wire transfer to your Wells Fargo account in the United States, you will need to provide the sender with a specific set of alphanumeric characters known as a SWIFT Code (or BIC).
+
+Unlike domestic transfers, which rely on your 9-digit ABA routing number, international transfers require this global identifier to ensure funds cross borders safely.
+
+## What is the Wells Fargo SWIFT Code?
+
+For the vast majority of international incoming wire transfers, Wells Fargo uses a single, centralized SWIFT code for all accounts across the United States.
+
+**Wells Fargo SWIFT Code (BIC):**
+# WFBIUS6S
+
+### Breaking Down the Code:
+- **WFBI**: Bank Code (Wells Fargo Bank International)
+- **US**: Country Code (United States)
+- **6S**: Location Code (San Francisco / Head Office)
+
+*Note: Some systems may require an 11-character code. If so, simply append 'XXX' to the end of the 8-character code: **WFBIUS6SXXX**.*
+
+## SWIFT Code vs. Routing Number
+
+It is critical not to confuse these two identifiers:
+
+- **SWIFT Code (WFBIUS6S):** Use this ONLY when someone is sending you money from **outside** the United States.
+- **ABA Routing Number:** Use this for domestic (US-to-US) wire transfers, direct deposits, or ACH payments. Wells Fargo has different routing numbers depending on the state where you opened your account.
+
+*Never provide your domestic routing number when an international sender asks for a SWIFT code, as the transaction will fail.*
+
+## Do I Need an IBAN for Wells Fargo?
+
+No. The United States does not participate in the [IBAN (International Bank Account Number)](/iban) system. 
+
+If an international sender's banking app asks for an IBAN, you should instruct them to look for a "Send to USA" or "Non-IBAN transfer" option. They will need to provide:
+1. The Wells Fargo SWIFT Code (**WFBIUS6S**)
+2. Your regular Wells Fargo Account Number
+
+Always double-check instructions with your local Wells Fargo branch before initiating large international transfers to avoid costly correspondent bank fees.`
+  },
+  {
+    slug: "german-blz-bankleitzahl-guide",
+    title: "German BLZ (Bankleitzahl) Guide: Code Lookup & Formatting [2026]",
+    date: "2026-06-25",
+    excerpt: "Understand the German Bankleitzahl (BLZ) system. Learn how to convert your 8-digit BLZ into a valid German IBAN for international SEPA transfers.",
+    content: `Before the widespread adoption of the SEPA (Single Euro Payments Area) framework, domestic bank transfers within Germany relied entirely on a two-part system: the **Kontonummer** (Account Number) and the **Bankleitzahl (BLZ)**. 
+
+While the IBAN has officially replaced this system for consumer transactions, the BLZ remains a critical piece of banking infrastructure. It is literally baked into the structure of every modern German IBAN.
+
+## What is a BLZ (Bankleitzahl)?
+
+The Bankleitzahl (BLZ) is an 8-digit routing code used by the German Bundesbank to identify specific banks and branches during clearing. 
+
+The structure of the 8-digit BLZ is highly logical:
+- **Digit 1-3:** Clearing area and routing hub (e.g., '100' indicates Berlin).
+- **Digit 4:** Bank group classification (e.g., '5' often indicates Sparkassen or Landesbanken).
+- **Digit 5-8:** The specific bank and branch identifier.
+
+For example, a common search query is **"BLZ 100 500"**. This specific routing code belongs to the **Landesbank Berlin (Berliner Sparkasse)**.
+
+## How the BLZ integrates into the German IBAN
+
+If you need to receive money from outside of Germany, you cannot simply provide your BLZ and Kontonummer. You must provide your full 22-character **[IBAN](/iban)**. 
+
+Fortunately, calculating your German IBAN is incredibly straightforward because the BLZ is inserted directly into the string.
+
+A standard German IBAN format is:
+# DE + 2 Check Digits + 8-Digit BLZ + 10-Digit Kontonummer
+
+If your Kontonummer is shorter than 10 digits, you simply pad the beginning of it with zeros.
+
+For example, if your BLZ is \`10050000\` and your account number is \`123456\`, your BBAN (Basic Bank Account Number) is \`100500000000123456\`. You can use our **[IBAN Calculator](/iban/calculator)** to automatically compute the two check digits that follow the 'DE' country code.
+
+## Do I still need a SWIFT Code for Germany?
+
+If you are receiving a transfer from within the SEPA zone (e.g., from France or Italy), the sender typically only needs your IBAN. The BLZ embedded within the IBAN provides all the routing information necessary for the Eurosystem.
+
+However, if you are receiving funds from **outside** the SEPA zone (e.g., from the United States or Japan), the sender will need both your German IBAN and your bank's international **[SWIFT Code (BIC)](/swift/germany)**. 
+
+Many German banks map specific SWIFT codes directly to their regional BLZ networks to ensure international wires are routed to the correct local clearing hub.`
+  },
+  {
+    slug: "wire-payment-location-swift-format-bic",
+    title: "Wire Payment Location Code & Format BIC Explained [2026]",
+    date: "2026-06-25",
+    excerpt: "Learn what the wire payment location code is, how to format a BIC correctly, and understand the anatomy of a SWIFT code for international transfers.",
+    content: `When completing an international wire transfer form, you may be asked to provide a **Wire Payment Location**, a **Format BIC**, or simply a **SWIFT Code**. Understanding how these terms relate to the alphanumeric string you provide is essential for ensuring your funds reach their destination safely.
+
+## What is a Wire Payment Location Code?
+
+In the context of international banking, the "wire payment location" usually refers directly to the **5th and 6th characters** of a standard SWIFT/BIC code. 
+
+A SWIFT code is designed not just to identify a bank, but to identify *exactly where* on the globe that bank is located. It is structured like a postal address for money.
+
+### The Anatomy of a SWIFT Code (Format BIC)
+
+To format a BIC (Bank Identifier Code) correctly, it must be either 8 or 11 characters long. Here is the strict breakdown:
+
+1. **Bank Code (4 Letters):** Identifies the specific banking institution (e.g., 'BOFA' for Bank of America, 'CHAS' for Chase).
+2. **Country Code (2 Letters):** The ISO 3166-1 alpha-2 country code (e.g., 'US' for the United States, 'GB' for the United Kingdom).
+3. **Location Code (2 Characters):** This is the **Wire Payment Location**. It consists of letters or numbers and identifies the specific city, region, or time zone where the bank's central processing hub is located (e.g., '33' for New York, '2L' for London).
+4. **Branch Code (3 Characters - Optional):** Identifies a specific local branch. If a code is only 8 characters long, it implies the primary head office (which can also be written with an 'XXX' suffix).
+
+## Why is the Location Code Important?
+
+The wire payment location code tells the SWIFT network which specific regional gateway should process the transaction. 
+
+For massive global banks like HSBC or Citibank, routing a payment to the wrong location code can cause significant delays. For example, sending USD to an HSBC account in London (Location code: 22) requires different correspondent routing than sending USD to an HSBC account in Hong Kong (Location code: HH).
+
+If a banking app specifically asks for the "Wire Payment Location," they are usually asking you to confirm the 2-character location code from the middle of the SWIFT string to ensure the country and city match the beneficiary's address.
+
+## How to Format BIC on a Wire Form
+
+If a wire form asks you to "Format BIC" or "Enter BIC Format," they are instructing you to enter the 8 or 11-character code without any spaces or hyphens. 
+
+**Correct Format:** \`CHASUS33\` or \`CHASUS33XXX\`
+**Incorrect Format:** \`CHAS US 33\` or \`CHAS-US-33\`
+
+Always verify the full SWIFT/BIC code using a reliable directory before initiating the transfer. A typo in the wire payment location code could route your funds to a different continent, resulting in rejection fees and weeks of delays.`
+  },
+  {
     slug: "swift-code-lookup",
     title: "SWIFT Code Lookup: Find Any Bank's Code [2026]",
     date: "2026-06-02",
@@ -372,10 +494,146 @@ By utilizing distributed ledger technology (DLT) or private blockchain infrastru
 Until these revolutionary systems reach global maturity, however, the SWIFT network remains the undisputed arbiter of international finance. Precision in routing details, understanding fee structures (OUR, SHA, BEN), and navigating regional compliance rules remain the most effective tools for any individual or corporation engaging in the global economy.`
   },
   {
+    slug: "french-bank-account-number-iban",
+    title: "French Bank Account Number & Routing (RIB) Guide [2026]",
+    date: "2026-06-25",
+    excerpt: "Learn how to find your French bank account number and routing number. Understand the RIB format, French IBAN structure, and how to send money to France.",
+    content: `When sending money to or receiving money from France, you will encounter the **RIB (Relevé d'Identité Bancaire)**. Unlike the US or UK, which use separate routing and account numbers, the French banking system relies on this comprehensive document to identify your specific account and its location.
+
+## What is a French Bank Account Number (RIB)?
+
+The RIB is a standardized banking document in France containing all the information needed to execute domestic or international transfers. The mathematical core of the RIB is the French BBAN (Basic Bank Account Number), which is 23 digits long.
+
+The French BBAN is structured as follows:
+- **Bank Code (Code Banque):** 5 digits identifying the specific bank institution (e.g., 30002 for Le Crédit Lyonnais).
+- **Branch Code (Code Guichet):** 5 digits identifying the specific branch where the account is held.
+- **Account Number (Numéro de Compte):** 11 alphanumeric characters unique to the customer.
+- **RIB Key (Clé RIB):** 2 digits at the end used as a mathematical checksum to prevent typos.
+
+## How the French IBAN is Formatted
+
+The **[IBAN](/iban)** (International Bank Account Number) for France is simply the 23-digit BBAN prefixed with the ISO country code and two IBAN check digits.
+
+A full French IBAN is exactly **27 characters** long:
+
+# FR + 2 Check Digits + 5 Bank Code + 5 Branch Code + 11 Account No. + 2 RIB Key
+
+If you need to calculate your French IBAN, you can use our free **[IBAN Calculator](/iban/calculator)**. You will need your Code Banque, Code Guichet, and Account Number.
+
+## Routing Number France: Does It Exist?
+
+A common point of confusion for American or British expats moving to France is the request for a "Routing Number" or "Sort Code." 
+
+**France does not use ABA routing numbers or Sort Codes.** 
+
+If a foreign bank asks for a French routing number, they are usually looking for the 5-digit **Code Banque** (Bank Code) or the combination of the Code Banque and the 5-digit **Code Guichet** (Branch Code). In most modern cross-border transfers, providing the full 27-character French IBAN and the bank's **[SWIFT Code](/swift/france)** completely eliminates the need to provide these routing elements separately.
+
+## How to Find Your French Bank Details
+
+If you need to provide your banking details to an employer, a landlord, or an international sender, you should download a PDF copy of your RIB.
+
+1. **Online Banking:** Log into your French bank's website or mobile app. Look for an option to "Télécharger un RIB" or "Imprimer RIB." This will generate a standard PDF document containing your full IBAN and BIC (SWIFT code).
+2. **Checkbook:** Your RIB details are always printed at the bottom of standard French checks or included on separate slips within the checkbook.
+3. **Bank Statements:** Your monthly Relevé de Compte will display your full IBAN and BIC at the top of the first page.
+
+Always provide the official PDF RIB when possible, as French institutions generally require it for setting up direct debits (prélèvements) or salary deposits.`
+  },
+  {
+    slug: "danske-bank-swift-code",
+    title: "Danske Bank SWIFT Code (BIC) & Routing Information",
+    date: "2026-06-25",
+    excerpt: "Find the verified Danske Bank SWIFT code for international wire transfers. Ensure fast and secure cross-border transactions to Denmark.",
+    content: `When sending funds internationally to Danske Bank in Denmark, you must provide the sender with your specific Bank Identifier Code (BIC), commonly known as a SWIFT code.
+
+Because Danske Bank operates globally, it maintains different SWIFT codes for its various international branches. Using the incorrect code can lead to transaction delays, rejections, and unnecessary processing fees.
+
+## What is the Danske Bank SWIFT Code?
+
+For standard consumer and business accounts held at Danske Bank's primary operations in Denmark, the standard SWIFT code is:
+
+**Danske Bank SWIFT Code (Denmark):**
+# DABADKKK
+
+### Code Breakdown:
+- **DABA**: Bank Code (Danske Bank)
+- **DK**: Country Code (Denmark)
+- **KK**: Location Code (Copenhagen)
+
+If your platform requires an 11-character code, use **DABADKKKXXX**. The 'XXX' suffix simply indicates the primary head office.
+
+## Danske Bank International Branches
+
+If your account is held with a Danske Bank branch outside of Denmark, you **must** use the localized SWIFT code for that specific jurisdiction:
+
+- **Danske Bank Finland:** DABAFIHH
+- **Danske Bank Sweden:** DABASESX
+- **Danske Bank Norway:** DABANOKK
+- **Danske Bank UK (London):** DABAUK2L
+- **Danske Bank Northern Ireland:** DANBNB21 (Operated under the Northern Bank legacy)
+
+## Do I Need an IBAN for Danske Bank?
+
+**Yes.** Denmark is fully integrated into the SEPA (Single Euro Payments Area) framework. 
+
+To receive a cross-border wire transfer, you must provide both the Danske Bank SWIFT Code and your complete Danish **[IBAN](/iban)**. 
+
+A standard Danish IBAN is 18 characters long and begins with 'DK'. It incorporates your bank's local routing number and your unique account number.
+
+You can easily locate your full IBAN by logging into the Danske Bank eBanking portal, checking a recent bank statement, or looking at your physical debit card.`
+  },
+  {
+    slug: "hsbc-expat-jersey-sort-code",
+    title: "HSBC Expat Jersey Sort Code & SWIFT Code Guide [2026]",
+    date: "2026-06-25",
+    excerpt: "Find the verified HSBC Expat Jersey sort code and SWIFT (BIC) code for international accounts. Understand how to format your payments to the Channel Islands.",
+    content: `For expatriates and international investors managing wealth globally, HSBC Expat (formerly HSBC International) is a premier banking solution. Headquartered in St Helier, Jersey (Channel Islands), this division operates distinctly from HSBC UK, meaning it utilizes different routing parameters for receiving funds.
+
+When funding your HSBC Expat account or setting up domestic UK transfers to your Jersey-based accounts, utilizing the correct Sort Code and SWIFT Code is vital to prevent rejected payments.
+
+## HSBC Expat Jersey Sort Code
+
+If you are transferring funds in GBP (Sterling) from a bank within the United Kingdom (via Faster Payments, BACS, or CHAPS), you will need the specific HSBC Expat Sort Code.
+
+**HSBC Expat Jersey Sort Code:**
+# 40-11-95
+
+### Code Breakdown:
+- **40**: Identifies the primary clearing bank (Midland Bank legacy, now HSBC).
+- **11-95**: The specific branch identifier for the HSBC Expat headquarters in St Helier, Jersey.
+
+Always combine this 6-digit sort code with your 8-digit sterling account number. 
+
+*Note: While Jersey is technically outside the UK, its banking infrastructure is deeply integrated with the UK's domestic clearing system. Therefore, standard UK Sort Codes are used for sterling transfers.*
+
+## HSBC Expat SWIFT Code (BIC)
+
+If you are transferring funds from outside the UK, or if you are sending foreign currencies (USD, EUR, AUD, etc.) to your multi-currency HSBC Expat accounts, you cannot use a Sort Code. You must use the international SWIFT Code (BIC) and your **[IBAN](/iban)**.
+
+**HSBC Expat Jersey SWIFT Code:**
+# MIDLGB22
+
+### Code Breakdown:
+- **MIDL**: Bank Code (Legacy Midland Bank, now HSBC).
+- **GB**: Country Code (Great Britain & Crown Dependencies).
+- **22**: Location Code (London/Jersey Central Processing).
+
+## Formatting Your HSBC Expat IBAN
+
+To receive an international transfer, the sender will ask for your IBAN. Because Jersey utilizes the UK banking format, your HSBC Expat IBAN will be 22 characters long and begin with 'GB'.
+
+The format is: **GB + 2 Check Digits + MIDL + 401195 + Your 8-Digit Account Number**.
+
+You can safely calculate and format your full HSBC Expat IBAN using our **[IBAN Calculator](/iban/calculator)**. Select 'United Kingdom', enter '401195' as the Sort Code, and input your specific account number.
+
+## Can I use HSBC UK Codes?
+
+**No.** It is a common mistake to use the generic HSBC UK SWIFT code (MIDLGB21) or a mainland UK sort code when trying to reach an HSBC Expat account. Doing so will result in the funds being held in suspense by HSBC's mainland clearing team, delaying your transfer by several days while they manually attempt to locate your offshore account. Always use the specific '40-11-95' sort code and 'MIDLGB22' SWIFT code for Jersey accounts.`
+  },
+  {
     slug: "hsbc-bank-swift-code",
-    title: "HSBC Bank SWIFT Code [Complete Guide 2026]",
+    title: "HSBC SWIFT Code (UK & Global): Find & Verify BIC Codes [2026]",
     date: "2026-06-02",
-    excerpt: "HSBC SWIFT code guide for 70+ countries. Find regional codes, branch-specific codes, and verify your HSBC bank's BIC for international transfers.",
+    excerpt: "HSBC SWIFT code guide for the UK and 70+ countries. Find regional codes, branch-specific codes, and verify your HSBC bank's BIC for international transfers.",
     content: `With a footprint spanning Europe, Asia, North America, and the Middle East, HSBC is one of the world's absolute largest financial services organisations. However, because HSBC operates separate local legal entities in each country, they utilize distinct SWIFT (BIC) codes for their various regions.
 
 Using the wrong HSBC SWIFT code can route your funds to the wrong country's clearing house, leading to automatic rejection. This guide aggregates the accurate, up-to-date codes for HSBC.
@@ -3246,9 +3504,9 @@ By combining rigorous internal security cultures with a deep understanding of co
   },
   {
     slug: "2026-iso-20022-mandate",
-    title: "ISO 20022 Mandate 2026: What It Means for You",
+    title: "SWIFT Mandates & ISO 20022 Migration 2026: What It Means",
     date: "2026-05-14",
-    excerpt: "The SWIFT network is shifting to ISO 20022. Learn what granular XML formats and the Nov 2026 'Structured Address' deadlines mean for your payments.",
+    excerpt: "The SWIFT network is shifting to ISO 20022. Learn what the SWIFT mandates, granular XML formats, and the Nov 2026 'Structured Address' deadlines mean for your payments.",
     executiveSummary: {
       engineers: "Legacy MT formats are being fully replaced with MX (XML) schemas under ISO 20022. Migration entails shifting from free-text addressing lines to discrete <StrtNm>, <BldgNb>, and <TwnNm> elements to ensure STP rates stay elevated and prevent MT103 repair cascades.",
       compliance: "Structured MX data significantly reduces AML/KYC false positives by strictly defining all counterparty data fields. Unstructured addresses will risk harsh compliance-driven rejections following the Q4 2026 cliff edge.",
@@ -3325,9 +3583,9 @@ Until these revolutionary systems reach global maturity, however, the SWIFT netw
   },
   {
     slug: "nordic-payments-2026-post-p27",
-    title: "Nordic Payments 2026: Navigating the Post-P27 Landscape",
+    title: "P27 Payments & Nordic Payments Platform: 2026 Roadmap Update",
     date: "2026-05-09",
-    excerpt: "Following the withdrawal of the P27 project, Nordic banks are modernizing independently. Here is the 2026 roadmap for Sweden, Finland, and Norway.",
+    excerpt: "Following the withdrawal of the P27 payments platform, Nordic banks are modernizing independently. Discover the 2026 roadmap for Sweden, Finland, and Norway.",
     executiveSummary: {
       engineers: "Developers must pivot from the cancelled P27 APIs to independent ISO 20022 XML gateways for Swedish and Finnish domestic clearing. Direct integration with Eurosystem's T2/T2S platform is now the primary architectural path for Nordic cross-border settlement.",
       compliance: "Finansinspektionen (Sweden) and FIN-FSA (Finland) have issued strict independent modernization mandates following the P27 collapse. December 2026 is the final deadline for the decommissioning of legacy Dataclearingen infrastructure.",

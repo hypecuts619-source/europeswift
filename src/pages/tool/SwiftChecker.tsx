@@ -7,6 +7,8 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Badge } from '../../components/ui/badge';
 import { countriesData } from '../../data/mockData';
 import { SEO } from '../../components/SEO';
+import { FAQAccordion } from '../../components/FAQAccordion';
+import { getFAQSchema } from '../../utils/seoHelpers';
 
 export function SwiftChecker() {
   const [swiftCode, setSwiftCode] = useState('');
@@ -57,6 +59,17 @@ export function SwiftChecker() {
     });
   };
 
+  const faqs = [
+    {
+      question: "How does this SWIFT Code Checker verify the code?",
+      answer: "The checker decodes the standard 8 or 11-character SWIFT/BIC string. It validates the length, identifies the 4-letter bank code, matches the 2-letter ISO country code against international directories, decodes the 2-character location code, and reads the 3-character branch code (which is 'XXX' for head offices)."
+    },
+    {
+      question: "What happens if a SWIFT code fails the check?",
+      answer: "If a SWIFT code fails, it typically means the code format is incorrect (e.g., wrong length, invalid characters). Our tool will alert you to 'Invalid SWIFT Format'. Double-check your code against your bank documentation."
+    }
+  ];
+
   const jsonLd = [
     {
       "@context": "https://schema.org",
@@ -79,35 +92,14 @@ export function SwiftChecker() {
         "query-input": "required name=search_term_string"
       }
     },
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does this SWIFT Code Checker verify the code?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The checker decodes the standard 8 or 11-character SWIFT/BIC string. It validates the length, identifies the 4-letter bank code, matches the 2-letter ISO country code against international directories, decodes the 2-character location code, and reads the 3-character branch code (which is 'XXX' for head offices)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What happens if a SWIFT code fails the check?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If a SWIFT code fails, it typically means the code format is incorrect (e.g., wrong length, invalid characters). Our tool will alert you to 'Invalid SWIFT Format'. Double-check your code against your bank documentation."
-          }
-        }
-      ]
-    }
+    getFAQSchema(faqs)
   ];
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-12">
       <SEO 
-        title="SWIFT Code Checker - Verify BIC Codes | SwiftCodeDir"
-        description="Check, decode and verify SWIFT / BIC codes instantly. Find the bank, country, location, and branch details from any SWIFT code."
+        title="SWIFT Code Checker & Validator (2026) | Verify BIC Codes"
+        description="Check, decode and verify SWIFT / BIC codes instantly. Validate routing numbers, find the bank, country, location, and branch details."
         canonicalUrl="https://swiftcodedir.com/swift-checker"
         jsonLd={jsonLd}
       />
@@ -224,6 +216,11 @@ export function SwiftChecker() {
           )}
         </div>
       )}
+
+      <div className="mt-16 mb-8">
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">Frequently Asked Questions</h2>
+        <FAQAccordion items={faqs} />
+      </div>
     </main>
   );
 }

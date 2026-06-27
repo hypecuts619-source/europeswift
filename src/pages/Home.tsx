@@ -80,6 +80,22 @@ export function Home() {
           "@type": "Answer",
           "text": "If you use an incorrect SWIFT code, your transfer may be delayed, returned, or subject to additional fees as it gets routed improperly or rejected by the receiving banking network."
         }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I format a BIC code correctly?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To format a BIC correctly, you must use either 8 or 11 characters. The first 4 identify the bank, the next 2 the country, the next 2 the wire payment location, and the final 3 characters (optional) identify a specific branch."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a wire transfer SWIFT network?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The wire transfer SWIFT network is a secure messaging system used by banks worldwide to quickly and accurately transmit information and instructions securely regarding international money transfers."
+        }
       }
     ]
   };
@@ -114,13 +130,13 @@ export function Home() {
   const webApplicationSchema = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    "name": "USRoutingNumber.com Verification Engine",
-    "url": "https://usroutingnumber.com",
+    "name": "SwiftCodeDir Banking Search Engine",
+    "url": "https://swiftcodedir.com",
     "applicationCategory": "FinanceApplication",
     "operatingSystem": "All",
     "browserRequirements": "Requires JavaScript. Requires HTML5.",
     "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
-    "featureList": "Client-side Modulo 10 check-digit validation, offline local storage tracking, sub-millisecond bank directory search filtering."
+    "featureList": "Sub-millisecond bank directory search filtering, SWIFT code checking, IBAN validation."
   };
 
   const jsonLd = [
@@ -570,6 +586,18 @@ export function Home() {
             <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">What happens if I use the wrong SWIFT code?</h3>
             <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
               If you use an incorrect SWIFT code, your transfer may be delayed, returned, or subject to additional fees as it gets routed improperly or rejected by the receiving banking network.
+            </p>
+          </div>
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
+            <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">How do I format a BIC code correctly?</h3>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
+              To format a BIC correctly, you must use either 8 or 11 characters. The first 4 identify the bank, the next 2 the country, the next 2 the wire payment location, and the final 3 characters (optional) identify a specific branch.
+            </p>
+          </div>
+          <div className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-200 dark:hover:border-blue-900/50 hover:shadow-md transition-all shadow-sm">
+            <h3 className="text-lg font-bold mb-2 dark:text-white text-[#003399]">What is a wire transfer SWIFT network?</h3>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base leading-relaxed">
+              The wire transfer SWIFT network is a secure messaging system used by banks worldwide to quickly and accurately transmit information and instructions securely regarding international money transfers.
             </p>
           </div>
         </div>

@@ -127,11 +127,20 @@ export function CountrySwift() {
     }
   };
 
+  const isUS = country.code === 'US';
+  const seoTitle = isUS 
+    ? `US Bank SWIFT Codes & Routing Numbers Lookup (2026)` 
+    : `${country.name} SWIFT Codes & Bank Routing Numbers (2026 Updated)`;
+    
+  const seoDesc = isUS
+    ? `Find verified SWIFT and BIC codes for United States banks. Understand how US routing numbers differ from SWIFT codes for international wire transfers.`
+    : `Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our updated 2026 directory to find the correct routing number instantly.`;
+
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title={`All SWIFT/BIC Codes for Banks in ${country.name} | SwiftCodeDir`}
-        description={`Find verified SWIFT and BIC codes for all major banks and branches in ${country.name}. Use our directory to ensure safe international money transfers.`}
+        title={seoTitle}
+        description={seoDesc}
         canonicalUrl={`https://swiftcodedir.com/swift/${country.slug.toLowerCase()}`}
         jsonLd={[datasetSchema, faqSchema, countryPageSchema]}
       />

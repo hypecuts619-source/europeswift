@@ -22,6 +22,17 @@ export function InternalEquityLinks() {
               UK Bank Sort Code Directory
             </span>
           </Link>
+
+          <Link
+            to="/iban/france"
+            id="seo-link-france-iban"
+            className="flex items-center gap-1.5 font-semibold text-slate-700 hover:text-[#003399] dark:text-slate-300 dark:hover:text-blue-400 group transition-colors"
+          >
+            <Landmark className="w-4 h-4 text-[#003399] dark:text-blue-400 shrink-0" />
+            <span className="underline decoration-slate-300/80 group-hover:decoration-[#003399] underline-offset-4">
+              France IBAN & Bank Account Numbers
+            </span>
+          </Link>
           
           <Link
             to="/blog/swift-wire-transfer-fees"
@@ -30,7 +41,7 @@ export function InternalEquityLinks() {
           >
             <FileText className="w-4 h-4 text-[#003399] dark:text-blue-400 shrink-0" />
             <span className="underline decoration-slate-300/80 group-hover:decoration-[#003399] underline-offset-4">
-              SWIFT Wire Transfer Fees & Intermediary Cost Breakdown
+              SWIFT Wire Transfer Fees Breakdown
             </span>
           </Link>
         </div>
