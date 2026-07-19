@@ -16,9 +16,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/australia-and-new-zealand-banking-group-ltd-/anzbckcr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/cook-islands/bank-of-south-pacific-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/bank-of-south-pacific-limited/bospckcr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cook-islands/bank-of-the-cook-islands-limited</loc>
@@ -26,9 +36,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/bank-of-the-cook-islands-limited/bckickcr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/cook-islands/capital-security-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/capital-security-bank-limited/cpsbckca</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cook-islands/cook-islands-development-bank</loc>
@@ -36,8 +56,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/cook-islands-development-bank/cidbckc1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/cook-islands/wall-street-banking-corporation-ltd-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/cook-islands/wall-street-banking-corporation-ltd-the/wsbcckc1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

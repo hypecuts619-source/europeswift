@@ -10,6 +10,7 @@ export function SiteMap() {
       <SEO 
         title="Site Map | SwiftCodeDir"
         description="Find all tools, directories, and resources available on SwiftCodeDir. Navigate through our complete SWIFT/BIC directory, routing numbers, and banking tools."
+        canonicalUrl="https://swiftcodedir.com/sitemap"
       />
       
       <Breadcrumb className="mb-6">

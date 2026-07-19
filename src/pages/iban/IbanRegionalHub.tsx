@@ -82,6 +82,7 @@ export function IbanRegionalHub() {
       <SEO 
         title={`${region.title} | IBAN Guide 2026`}
         description={region.description}
+        canonicalUrl={`https://swiftcodedir.com/iban/${regionSlug}`}
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>

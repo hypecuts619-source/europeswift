@@ -16,9 +16,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/alliance-investment-management-limited/alngjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/automated-payments-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/automated-payments-limited/japljmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/bank-of-jamaica</loc>
@@ -26,9 +36,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/bank-of-jamaica/bajajmk11kn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/bank-of-jamaica/bajajmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/bank-of-nova-scotia-jamaica-ltd-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/bank-of-nova-scotia-jamaica-ltd-the/noscjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/barita-investments-limited</loc>
@@ -36,9 +61,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/barita-investments-limited/bavsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/bpm-financial-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/bpm-financial-limited/bpfijmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/c-o-k-co-operative-credit-union-ltd-</loc>
@@ -46,9 +81,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/c-o-k-co-operative-credit-union-ltd-/ccenjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/capital-and-credit-merchant-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/capital-and-credit-merchant-bank-limited/ccmkjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/capital-and-credit-securities-limited</loc>
@@ -56,9 +101,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/capital-and-credit-securities-limited/cpcsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/capital-solutions-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/capital-solutions-limited/cpsojmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/carreras-limited</loc>
@@ -66,9 +121,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/carreras-limited/batsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ccu-investments-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ccu-investments-limited/ccnvjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/churches-co-operative-credit-union-ltd-</loc>
@@ -76,9 +141,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/churches-co-operative-credit-union-ltd-/cceojmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/citibank-n-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/citibank-n-a-/citijmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/citifinance-limited</loc>
@@ -86,9 +161,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/citifinance-limited/ciafjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/credit-union-fund-management-company-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/credit-union-fund-management-company-ltd/cufmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/development-bank-of-jamaica-limited</loc>
@@ -96,9 +181,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/development-bank-of-jamaica-limited/ndbjjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/first-global-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/first-global-bank-limited/filbjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/first-heritage-co-operative-credit-union-limited</loc>
@@ -106,9 +201,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/first-heritage-co-operative-credit-union-limited/fhcrjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/firstcaribbean-international-bank-jamaica-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/firstcaribbean-international-bank-jamaica-limited/fcibjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/firstcaribbean-international-trust-and-merchant-bank-jamaica-limited</loc>
@@ -116,9 +221,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/firstcaribbean-international-trust-and-merchant-bank-jamaica-limited/fcibjm21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/guardian-asset-management-jamaica-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/guardian-asset-management-jamaica-limited/gamjjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/guardian-life-limted</loc>
@@ -126,9 +241,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/guardian-life-limted/gulijmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ideal-finance-corporation-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ideal-finance-corporation-limited/idfcjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ideal-portfolio-services-co-ltd</loc>
@@ -136,9 +261,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ideal-portfolio-services-co-ltd/idpsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/infiniti-capital</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/infiniti-capital/ifcpjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/intertrade-finance-corporation-ltd-</loc>
@@ -146,9 +281,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/intertrade-finance-corporation-ltd-/itfcjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/jamaica-central-securities-depository-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jamaica-central-securities-depository-ltd/jcsdjmk1jrr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jamaica-central-securities-depository-ltd/jcsdjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/jamaica-co-operative-credit-union-league-limited</loc>
@@ -156,9 +306,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jamaica-co-operative-credit-union-league-limited/jccujmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/jamaica-money-market-brokers-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jamaica-money-market-brokers-ltd/jmmbjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/jn-bank-limited</loc>
@@ -166,9 +326,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jn-bank-limited/jnbsjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/jn-fund-managers-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/jn-fund-managers-limited/funmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/m-vl-stockbrokers-ltd-</loc>
@@ -176,9 +346,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/m-vl-stockbrokers-ltd-/mvstjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/mayberry-investments-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/mayberry-investments-limited/maynjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/mf-and-g-asset-management-limited</loc>
@@ -186,9 +366,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/mf-and-g-asset-management-limited/asaejmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/mf-and-g-trust-and-finance-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/mf-and-g-trust-and-finance-company/mfgtjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/moneymasters-limited</loc>
@@ -196,9 +386,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/moneymasters-limited/monmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/national-commercial-bank-jamaica-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/national-commercial-bank-jamaica-limited/jncbjmk10k2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/national-commercial-bank-jamaica-limited/jncbjmkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/national-export-import-bank-of-jamaica-limited</loc>
@@ -206,9 +411,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/national-export-import-bank-of-jamaica-limited/naebjmki</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ncb-capital-markets-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ncb-capital-markets-limited/nccmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ncb-insurance-company-limited</loc>
@@ -216,9 +431,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ncb-insurance-company-limited/ncicjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-bank-limited/pcarjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-financial-services-ltd</loc>
@@ -226,9 +451,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-financial-services-ltd/pcfsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-merchant-bank-ltd-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/pan-caribbean-merchant-bank-ltd-/pcmbjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/prime-asset-management-ltd</loc>
@@ -236,9 +471,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/prime-asset-management-ltd/prtgjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/proven-fund-managers-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/proven-fund-managers-limited/fgfsjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/proven-wealth-limited</loc>
@@ -246,9 +491,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/proven-wealth-limited/pweljmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/rbtt-securities-jamaica-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/rbtt-securities-jamaica-limited/rbsjjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/sagicor-bank-jamaica-limited</loc>
@@ -256,9 +511,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/sagicor-bank-jamaica-limited/sajajmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/sagicor-bank-jamaica-limited/sajajmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/sagicor-life-jamaica-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/sagicor-life-jamaica-limited/saljjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/scotia-dbg-merchant-bank-limited</loc>
@@ -266,9 +536,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/scotia-dbg-merchant-bank-limited/scdmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/scotia-investments-jamaica-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/scotia-investments-jamaica-ltd/scnjjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/sterling-asset-management-ltd-</loc>
@@ -276,9 +556,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/sterling-asset-management-ltd-/stegjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/stocks-and-securities-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/stocks-and-securities-limited/sserjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/the-jamaica-stock-exchange-limited</loc>
@@ -286,9 +576,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/the-jamaica-stock-exchange-limited/xjamjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/ugi-finance-and-investments-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/ugi-finance-and-investments-limited/ugfijmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/victoria-mutual-building-society</loc>
@@ -296,9 +596,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/victoria-mutual-building-society/vmbsjmkn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/victoria-mutual-wealth-management-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/victoria-mutual-wealth-management-limited/vmwmjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jamaica/west-indies-union-investment-management-limited</loc>
@@ -306,13 +616,28 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/west-indies-union-investment-management-limited/wiuijmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/workers-bank-trust-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/workers-bank-trust-company/wbtcjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/jamaica/workers-trust-and-merchant-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/jamaica/workers-trust-and-merchant-bank-ltd/wtmbjmk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

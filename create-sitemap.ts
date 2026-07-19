@@ -126,6 +126,14 @@ async function generateSitemap() {
       const banks = countryData.banks || [];
       for (const bank of banks) {
         countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}`, 'monthly', '0.6'));
+        const details = countryData.bankDetails?.[bank.slug];
+        if (details && Array.isArray(details.branches)) {
+          for (const branch of details.branches) {
+            if (branch && branch.bic) {
+              countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}/${branch.bic.toLowerCase()}`, 'monthly', '0.5'));
+            }
+          }
+        }
       }
 
       // If a single country has >40,000 URLs, we need to chunk the country itself.

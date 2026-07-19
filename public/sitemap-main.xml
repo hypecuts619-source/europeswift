@@ -126,6 +126,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/blog/wells-fargo-swift-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/german-blz-bankleitzahl-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/wire-payment-location-swift-format-bic</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/blog/swift-code-lookup</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -142,6 +157,21 @@
   </url>
   <url>
     <loc>https://swiftcodedir.com/blog/deutsche-bank-swift-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/french-bank-account-number-iban</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/danske-bank-swift-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/hsbc-expat-jersey-sort-code</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -332,6 +362,31 @@
   </url>
   <url>
     <loc>https://swiftcodedir.com/blog/wire-transfer-fraud-protection</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/best-banks-for-international-transfers</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/swift-code-vs-ach-transfer</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/us-bank-swift-codes-lookup</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/2026-swift-address-mandate-compliance</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/blog/receiving-international-payments-freelancer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

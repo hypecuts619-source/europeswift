@@ -16,9 +16,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/anguilla/firstcaribbean-international-bank-barbados-limited/fcibaiai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/anguilla/government-of-anguilla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/anguilla/government-of-anguilla/gvanaiai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/anguilla/national-commercial-bank-of-anguilla-ltd</loc>
@@ -26,8 +36,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/anguilla/national-commercial-bank-of-anguilla-ltd/anguaiai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/anguilla/scotiabank-anguilla-ltd-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/anguilla/scotiabank-anguilla-ltd-/noscaiai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -21,9 +21,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/al-hilal-islamic-bank-jsc/hlalkzkz</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/alfa-bank-jsc-sb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/alfa-bank-jsc-sb/alfakzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/asiacredit-bank</loc>
@@ -31,9 +41,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/asiacredit-bank/larikzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/atfbank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/atfbank-jsc/almnkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/atfbank-jsc/almnkzkatre</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/bank-kassa-nova</loc>
@@ -41,9 +66,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/bank-kassa-nova/ksnvkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/bank-of-astana-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/bank-of-astana-jsc/asfbkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/bank-of-china-kazakhstan</loc>
@@ -51,9 +86,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/bank-of-china-kazakhstan/bkchkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/bank-rbk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/bank-rbk/kinckzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/british-american-tobacco-kazakhstan-trading-llp</loc>
@@ -61,9 +106,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/british-american-tobacco-kazakhstan-trading-llp/batskzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/central-asian-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/central-asian-stock-exchange/xkazkzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/central-securities-depository-jsc</loc>
@@ -71,9 +126,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/central-securities-depository-jsc/cedukzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/chase-manhattan-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/chase-manhattan-bank/chaskzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/cjsc-citibank-kazakhstan</loc>
@@ -81,9 +146,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/cjsc-citibank-kazakhstan/citikzx1trd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/cjsc-citibank-kazakhstan/citikzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/credit-altyn-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/credit-altyn-bank/craykzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/delta-bank-jsc</loc>
@@ -91,9 +171,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/delta-bank-jsc/nfbakz23</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/development-bank-of-kazakhstan-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/development-bank-of-kazakhstan-jsc/dvkakzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/eurasian-bank</loc>
@@ -101,9 +191,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/eurasian-bank/eurikzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/eurasian-development-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/eurasian-development-bank/eabrkzkaacf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/eurasian-development-bank/eabrkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/eximbank-kazakhstan-joint-stock-company</loc>
@@ -111,9 +216,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/eximbank-kazakhstan-joint-stock-company/exkakzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/express-bank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/express-bank-jsc/inkzkzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/fortebank-jsc</loc>
@@ -121,9 +236,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/fortebank-jsc/irtykzka001</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/fortebank-jsc/irtykzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/halyk-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/halyk-bank/halykzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/halyk-savings-bank-of-kazakstan</loc>
@@ -131,9 +261,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/halyk-savings-bank-of-kazakstan/hsbkkzkxtsy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/halyk-savings-bank-of-kazakstan/hsbkkzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/hsbc-securities-kazakhstan-llp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/hsbc-securities-kazakhstan-llp/hsbckzb1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/industrial-and-commercial-bank-of-china</loc>
@@ -141,9 +286,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/industrial-and-commercial-bank-of-china/icbkkzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/international-science-and-techology-center</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/international-science-and-techology-center/iniykz21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/joint-stock-company-house-construction-savings-bank-of-kazakhstan</loc>
@@ -151,9 +306,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/joint-stock-company-house-construction-savings-bank-of-kazakhstan/hcskkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-altyn-bank-sb-of-jsc-halyk-bank-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-altyn-bank-sb-of-jsc-halyk-bank-/atynkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-</loc>
@@ -161,9 +326,124 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1akt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1atb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1alm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1aof</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1ast</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1atr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1kar</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1kok</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1kos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1kzo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1pvl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1ptr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1smp</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1smk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1tld</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1trz</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1url</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1ust</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-centercredit-/kcjbkzk1gzk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-expocredit-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-expocredit-/abnakzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-expocredit-/abnakzkxaty</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-bank-expocredit-/abnakzkxtco</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-capital-bank-kazakhstan</loc>
@@ -171,9 +451,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-capital-bank-kazakhstan/tbkbkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-mittal-steel-temirtau</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/jsc-mittal-steel-temirtau/usinkz21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kaspi-bank-jsc</loc>
@@ -181,9 +471,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kaspi-bank-jsc/caspkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kazakhstan-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kazakhstan-stock-exchange/kicekzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kazakhstan-ziraat-international-bank</loc>
@@ -191,9 +491,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kazakhstan-ziraat-international-bank/kzibkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/-kazkommertsbank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/-kazkommertsbank-jsc/kzkokzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kazpochtabank-joint-stock-bank</loc>
@@ -201,9 +511,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kazpochtabank-joint-stock-bank/kazpkzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kazpost-oao</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kazpost-oao/kajskzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/kreditnoe-tovarischestvo-astana-consolidation</loc>
@@ -211,9 +531,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/kreditnoe-tovarischestvo-astana-consolidation/ktackz21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/national-bank-of-kazakhstan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/national-bank-of-kazakhstan/nbrkkzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/national-bank-of-pakistan-cjsc-sb</loc>
@@ -221,9 +551,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/national-bank-of-pakistan-cjsc-sb/nbpakzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/nurbank-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/nurbank-joint-stock-company/nurskzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/qazaq-banki-joint-stock-company</loc>
@@ -231,9 +571,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/qazaq-banki-joint-stock-company/senikzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/samsung-electronics-kz-and-central-asia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/samsung-electronics-kz-and-central-asia/sectkzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/samsung-electronics-kz-and-central-asia/sectkzk1981</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/sb-jsc-home-credit-and-finance-bank</loc>
@@ -241,9 +596,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/sb-jsc-home-credit-and-finance-bank/inlmkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/sb-sberbank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/sb-sberbank-jsc/sabrkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/sb-sberbank-jsc/sabrkzkaast</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/shinhan-bank-kazakhstan-jsc</loc>
@@ -251,9 +621,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/shinhan-bank-kazakhstan-jsc/shbkkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/sovereign-wealth-fund-samruk-kazyna-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/sovereign-wealth-fund-samruk-kazyna-jsc/smkzkzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/tengri-bank-jsc</loc>
@@ -261,9 +641,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/tengri-bank-jsc/tngrkzkx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/tsesnabank-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/tsesnabank-joint-stock-company/tseskzka</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/turkiye-kazakhstan-international-bank</loc>
@@ -271,9 +661,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/turkiye-kazakhstan-international-bank/tkibkzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/visor-capital</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/visor-capital/viaakzk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/vtb-bank-kazakhstan-</loc>
@@ -281,8 +681,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/vtb-bank-kazakhstan-/vtbakzkz</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kazakhstan/zaman-bank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kazakhstan/zaman-bank-jsc/zajskz22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

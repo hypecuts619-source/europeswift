@@ -16,9 +16,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/banco-del-orinoco-n-v-/oribbqc1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/banco-di-caribe-n-v-bonaire</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/banco-di-caribe-n-v-bonaire/bdccbqbn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/girobank-nv-bonaire-branch</loc>
@@ -26,9 +36,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/girobank-nv-bonaire-branch/gircbqbn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/maduro-and-curiel-s-bank-bonaire-nv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/maduro-and-curiel-s-bank-bonaire-nv/mcbkbqbn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/orco-bank-n-v-bonaire</loc>
@@ -36,13 +56,33 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/orco-bank-n-v-bonaire/orbabqbn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/rbc-royal-bank-n-v-formerly-rbtt-bank-n-v-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/rbc-royal-bank-n-v-formerly-rbtt-bank-n-v-/rbttbqsa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/rbc-royal-bank-n-v-formerly-rbtt-bank-n-v-/rbttbqbn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/caribbean-netherlands/the-windward-islands-bank-ltd-st-eustatius</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/caribbean-netherlands/the-windward-islands-bank-ltd-st-eustatius/wisbbqee</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

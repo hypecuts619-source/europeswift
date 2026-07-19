@@ -21,6 +21,7 @@ export default function DirectoryHub() {
       <SEO 
         title="Global SWIFT & Banking Directory Hub | SwiftCodeDir" 
         description="Access verified SWIFT codes, BICs, and routing details for global financial institutions. A structured directory for cross-border banking."
+        canonicalUrl="https://swiftcodedir.com/directory-hub"
       />
       
       <header className="mb-12 border-b border-slate-200 dark:border-slate-800 pb-8 text-center max-w-3xl mx-auto">

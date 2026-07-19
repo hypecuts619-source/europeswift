@@ -121,6 +121,7 @@ export function EUDIReadiness() {
       <SEO 
         title="2026 EUDI & PSD3 Readiness Checker | SWIFT BIC Compliance | SwiftCodeDir"
         description="Check if your bank or BIC is ready for the November 2026 Structured Address mandate and the European Digital Identity (EUDI) Wallet integration."
+        canonicalUrl="https://swiftcodedir.com/eudi-readiness"
         jsonLd={eudiFaqSchema}
       />
 

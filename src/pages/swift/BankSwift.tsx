@@ -274,10 +274,9 @@ export function BankSwift() {
       : `Looking for the SWIFT / BIC code for ${bankNameStr} in ${country.name}? Find verified branch codes, head office information, and international routing details. Free PDF download available.`;
 
 
-  const cleanBankSlug = bankSlug.toLowerCase().replace(/-+/g, '-').replace(/-$/, '');
   const canonicalUrl = bicCode 
-    ? `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}/${bicCode.toUpperCase()}`
-    : `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}`;
+    ? `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}/${bicCode.toUpperCase()}`
+    : `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}`;
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">

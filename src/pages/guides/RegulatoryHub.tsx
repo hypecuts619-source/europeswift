@@ -47,6 +47,7 @@ export function RegulatoryHub() {
       <SEO 
         title="May 2026 Banking Intelligence Hub | PSD3, P27 & UBS Merger | SwiftCodeDir"
         description="Expert analysis of the May 2026 banking landscape: PSD3 compromise texts, Nordic clearing modernization post-P27, and the final UBS/Credit Suisse SWIFT migration."
+        canonicalUrl="https://swiftcodedir.com/regulatory-hub"
         jsonLd={faqSchema}
       />
 

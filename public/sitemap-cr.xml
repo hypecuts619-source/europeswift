@@ -21,9 +21,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-bac-san-jose/bsnjcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-bct-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-bct-s-a-/cciocrsjbbi</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-bct-s-a-/cciocrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-cathay-de-costa-rica-s-a-</loc>
@@ -31,9 +46,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-cathay-de-costa-rica-s-a-/ktaycrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-central-de-costa-rica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-central-de-costa-rica/bccrcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-credito-agricola-de-cartago</loc>
@@ -41,9 +66,34 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-credito-agricola-de-cartago/bcaccrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-credito-agricola-de-cartago/bcaccrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-davivienda-costa-rica-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-davivienda-costa-rica-s-a-/bxbacrsjdp1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-davivienda-costa-rica-s-a-/bxbacrsjdpr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-davivienda-costa-rica-s-a-/bxbacrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-de-costa-rica</loc>
@@ -51,9 +101,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-de-costa-rica/bcricrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-del-istmo-costa-rica-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-del-istmo-costa-rica-s-a-/balycrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-general-costa-rica-s-a-</loc>
@@ -61,9 +121,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-general-costa-rica-s-a-/bagecrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-improsa-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-improsa-s-a-/bimpcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-internacional-de-exportacion-s-a-</loc>
@@ -71,9 +141,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-internacional-de-exportacion-s-a-/baiecrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-lafise-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-lafise-s-a-/bccecrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-nacional-de-costa-rica</loc>
@@ -81,9 +161,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-nacional-de-costa-rica/bncrcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-nacional-de-costa-rica/bncrcrsjgci</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-popular-y-de-desarrollo-comunal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-popular-y-de-desarrollo-comunal/bpdccrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/banco-promerica</loc>
@@ -91,9 +186,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/banco-promerica/prmkcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/bass-americas-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/bass-americas-s-a-/batscr21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/batcca-park-inversiones-inmobiliarias-s-a-</loc>
@@ -101,9 +206,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/batcca-park-inversiones-inmobiliarias-s-a-/batscr41</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/batcca-servicios-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/batcca-servicios-s-a-/batscrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/bct-valores-puesto-de-bolsa-sa</loc>
@@ -111,9 +226,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/bct-valores-puesto-de-bolsa-sa/bvpbcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/british-american-tobacco-central-america-s-a-sucursal-costa-rica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/british-american-tobacco-central-america-s-a-sucursal-costa-rica/batscr51</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/central-de-valores-s-a-ceval-</loc>
@@ -121,9 +246,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/central-de-valores-s-a-ceval-/cevccrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/compania-financiera-de-londres-ltda-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/compania-financiera-de-londres-ltda-/filocrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/coopenae</loc>
@@ -131,9 +266,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/coopenae/cpopcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/cooperativa-de-ahorro-y-credito-de-los-servidores-publicos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/cooperativa-de-ahorro-y-credito-de-los-servidores-publicos/caovcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/corporacion-franco-americana-de-finanzas-costa-rica-s-a-</loc>
@@ -141,9 +286,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/corporacion-franco-americana-de-finanzas-costa-rica-s-a-/fafccrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/financiera-g-and-t-continental-costa-rica-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/financiera-g-and-t-continental-costa-rica-s-a-/fccrcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/fitch-costa-rica-calificadora-de-riesgo-s-a-</loc>
@@ -151,9 +306,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/fitch-costa-rica-calificadora-de-riesgo-s-a-/fripcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/grupo-mutual-alajuela-la-vivienda-de-ahorro-y-prestamo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/grupo-mutual-alajuela-la-vivienda-de-ahorro-y-prestamo/gmavcrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/instituto-costarricense-de-electricidad</loc>
@@ -161,9 +326,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/instituto-costarricense-de-electricidad/icelcrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/instituto-nacional-de-seguros</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/instituto-nacional-de-seguros/isnscrs1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/prival-bank-costa-rica-s-a-</loc>
@@ -171,13 +346,28 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/prival-bank-costa-rica-s-a-/bdsocrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/scotiabank-de-costa-rica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/scotiabank-de-costa-rica/nosccrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/costa-rica/the-bank-of-nova-scotia-costa-rica-s-a-formerly-banco-citibank-de-costa-rica-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/costa-rica/the-bank-of-nova-scotia-costa-rica-s-a-formerly-banco-citibank-de-costa-rica-s-a-/bacucrsj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

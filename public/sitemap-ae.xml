@@ -21,9 +21,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abn-amro-bank-n-v-united-arab-emirates-branch/abnaaeaaipc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abn-amro-bank-n-v-united-arab-emirates-branch/abnaaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abraaj-capital-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abraaj-capital-limited/abppaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank</loc>
@@ -31,9 +46,44 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaacmd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaafin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaarem</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaatry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-commercial-bank/adcbaeaa060</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-fund-for-development</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-fund-for-development/adfdaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-investment-authority</loc>
@@ -41,9 +91,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-investment-authority/adinaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-investment-council</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-investment-council/adcnaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-investment-council/adcnaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-islamic-bank</loc>
@@ -51,9 +116,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-islamic-bank/abdiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-retirment-pension-and-benefits-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-retirment-pension-and-benefits-fund/adpfaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-retirment-pension-and-benefits-fund/adpfaeab</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-securities-market</loc>
@@ -61,9 +141,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/abu-dhabi-securities-market/adseaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ads-securities-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ads-securities-llc/adslaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/agricultural-bank-of-china-difc-branch-</loc>
@@ -71,9 +161,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/agricultural-bank-of-china-difc-branch-/abocaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/agricultural-bank-of-china-dubai-branch-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/agricultural-bank-of-china-dubai-branch-/abocaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ahli-united-bank-limited</loc>
@@ -81,9 +181,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ahli-united-bank-limited/aubbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ajman-bank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ajman-bank-pjsc/ajmnaeaj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahalia-money-exchange-bureau</loc>
@@ -91,9 +201,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahalia-money-exchange-bureau/ahxbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahli-bank-of-kuwait-k-s-c-p-abudhabi-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahli-bank-of-kuwait-k-s-c-p-abudhabi-branch/abkkaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahli-bank-of-kuwait-k-s-c-p-dubai-branch</loc>
@@ -101,9 +221,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ahli-bank-of-kuwait-k-s-c-p-dubai-branch/abkkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ansari-exchange-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ansari-exchange-llc/alanaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-dahab-exchange</loc>
@@ -111,9 +241,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-dahab-exchange/dmtiaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-dhabi-investment-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-dhabi-investment-pjsc/aldhaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-fardan-exchange</loc>
@@ -121,9 +261,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-fardan-exchange/fexeaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-fardan-exchange-and-finance-co-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-fardan-exchange-and-finance-co-/alfeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-futtaim-hc-securities-company-llc</loc>
@@ -131,9 +281,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-futtaim-hc-securities-company-llc/fsclaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ghurair-international-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-ghurair-international-exchange/alghaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-hilal-bank</loc>
@@ -141,9 +301,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-hilal-bank/hlalaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-jarwan-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-jarwan-exchange/jaexaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-khaliji-france-s-a-</loc>
@@ -151,9 +321,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-khaliji-france-s-a-/licoaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-mal-capital-psc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-mal-capital-psc/amcxaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-mal-securities-emirates-llc</loc>
@@ -161,9 +341,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-mal-securities-emirates-llc/amsuaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-nahdi-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-nahdi-exchange/nahdaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-rasheed-exchange</loc>
@@ -171,9 +361,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-rasheed-exchange/rdexaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-rostamani-international-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-rostamani-international-exchange/tcaraead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-safwa-mubasher-financial-services-private-joint-stock-company</loc>
@@ -181,9 +381,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/al-safwa-mubasher-financial-services-private-joint-stock-company/dbfsaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfa-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfa-exchange/alehaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfalah-exchange-company</loc>
@@ -191,9 +401,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfalah-exchange-company/afecaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfuad-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/alfuad-exchange/alfxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/alramz-securities-co-</loc>
@@ -201,9 +421,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/alramz-securities-co-/alrsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/apex-fund-services-dubai-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/apex-fund-services-dubai-ltd/apfsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-african-international-bank</loc>
@@ -211,9 +441,44 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-african-international-bank/araiaeadauh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-african-international-bank/araiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade/abinaeaasuk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade/abinaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade/abinaeaatfs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade/abinaeaaain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-for-investment-and-foreign-trade/abinaeaadxb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc</loc>
@@ -221,9 +486,79 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadabd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadabc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadajm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadctu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadder</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadmak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadftc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadinv</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadfuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadrak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-bank-plc/arabaeadshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-german-international-broker-finance-brokers-l-l-c-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-german-international-broker-finance-brokers-l-l-c-/agioaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-link-money-transfer</loc>
@@ -231,9 +566,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-link-money-transfer/alnkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-monetary-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-monetary-fund/armfaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-trade-financing-program</loc>
@@ -241,9 +586,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arab-trade-financing-program/atfpaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/aramex-pjsc-financial-department</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/aramex-pjsc-financial-department/armpaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arqaam-capital-limited</loc>
@@ -251,9 +606,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arqaam-capital-limited/arqmaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/arqaam-securities-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/arqaam-securities-llc/arqsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/asia-pacific-banking-group-middle-e</loc>
@@ -261,9 +626,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/asia-pacific-banking-group-middle-e/apgtaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/asia-pacific-financials-services-middle-east-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/asia-pacific-financials-services-middle-east-limited/apfraea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/audi-volkswagen-middle-east</loc>
@@ -271,9 +646,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/audi-volkswagen-middle-east/avmeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/axis-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/axis-bank-limited/utibaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/axis-bank-limited-difc-branch-regulated-by-dfsa-</loc>
@@ -281,9 +666,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/axis-bank-limited-difc-branch-regulated-by-dfsa-/axisaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/aziz-exchange-co-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/aziz-exchange-co-llc/azizaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-alfalah-limited-dubai-branch-</loc>
@@ -291,9 +686,49 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-alfalah-limited-dubai-branch-/alfhaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadadh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadaln</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadbr2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadfuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadrak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-melli-iran/meliaeadshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda</loc>
@@ -301,9 +736,54 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeadadh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeadaln</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeaddei</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeadifc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeaddub</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeadrak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-baroda/barbaeadshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-china-dubai-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-china-dubai-branch/bkchaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-china-abu-dhabi-branch</loc>
@@ -311,9 +791,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-china-abu-dhabi-branch/bkchaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-india</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-india/bkidaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-sharjah-the</loc>
@@ -321,9 +811,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-sharjah-the/sharaeas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-the-arab-coast</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-the-arab-coast/arcoaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-tokyo-mitsubishi-ufj-ltd-</loc>
@@ -331,9 +831,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-tokyo-mitsubishi-ufj-ltd-/botkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-tokyo-mitsubishi-ufj-ltd-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bank-of-tokyo-mitsubishi-ufj-ltd-the/botkaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bankmed-sal-dubai-</loc>
@@ -341,9 +851,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bankmed-sal-dubai-/medlaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-de-commerce-et-de-placements-sa-difc-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-de-commerce-et-de-placements-sa-difc-branch/bpcpaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr</loc>
@@ -351,9 +871,49 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa802</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa806</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa803</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa805</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/banque-misr/bcaiaeaa804</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/barclays-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/barclays-bank-plc/barcaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/barclays-bank-plc/barcaeadabu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/beltone-financial-securities-emirates</loc>
@@ -361,9 +921,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/beltone-financial-securities-emirates/befsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/blom-bank-france-s-a-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/blom-bank-france-s-a-/blomaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bnp-paribas-abu-dhabi</loc>
@@ -371,9 +941,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bnp-paribas-abu-dhabi/bnpaaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/bnp-paribas-dubai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/bnp-paribas-dubai/bnpaaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/british-american-tobacco-gcc-dmcc</loc>
@@ -381,9 +961,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/british-american-tobacco-gcc-dmcc/batsae21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/british-american-tobacco-me-dmcc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/british-american-tobacco-me-dmcc/batsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/canara-bank-difc-branch-</loc>
@@ -391,9 +981,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/canara-bank-difc-branch-/cnrbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/capital-union</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/capital-union/cpunaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/central-bank-of-the-u-a-e-</loc>
@@ -401,9 +1001,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/central-bank-of-the-u-a-e-/cbauaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/central-depository</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/central-depository/ctdtaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/china-construction-bank-difc-branch</loc>
@@ -411,9 +1021,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/china-construction-bank-difc-branch/pcbcaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/cimd-dubai-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/cimd-dubai-limited/cidaaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-</loc>
@@ -421,9 +1041,89 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaeaddif</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaeadtrd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaea10ad</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaea1trd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/citibank-n-a-/citiaea10as</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeadad1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeadan1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeaddb1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeaddb2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeadrk2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeadrk1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaea10ar</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-international/clbiaeadsh1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai</loc>
@@ -431,9 +1131,84 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadadh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadajm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadgar</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadams</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadsaf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadder</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeaddxb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadjal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadjum</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadsaw</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadrak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commercial-bank-of-dubai/cbduaeadshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/commerzbank-ag-dubai-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/commerzbank-ag-dubai-branch/cobaaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/corporate-international-business-finance</loc>
@@ -441,9 +1216,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/corporate-international-business-finance/cibdaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cheuvreux-middle-east</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cheuvreux-middle-east/cachaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cib-difc-branch-regulated-by-thedfsa-</loc>
@@ -451,9 +1236,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cib-difc-branch-regulated-by-thedfsa-/bsuiaeaf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cib-dubai-branch-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-agricole-cib-dubai-branch-/bsuiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-europe-bank-dubai-ltd</loc>
@@ -461,9 +1256,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/credit-europe-bank-dubai-ltd/fbhlaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dbs-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dbs-bank-ltd/dbssaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/desert-exchange</loc>
@@ -471,9 +1276,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/desert-exchange/deexaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/deutsche-bank-ag</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/deutsche-bank-ag/deutaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/deutsche-bank-ag/deutaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dinar-exchange</loc>
@@ -481,9 +1301,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dinar-exchange/dnaraea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/doha-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/doha-bank/dohbaeadabu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/doha-bank/dohbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-bank-pjsc</loc>
@@ -491,9 +1326,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-bank-pjsc/dbxpaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-exchange-centre-l-l-c-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-exchange-centre-l-l-c-/dexeaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-financial-market-pjsc-</loc>
@@ -501,9 +1346,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-financial-market-pjsc-/dfmtaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-gold-and-commodities-exchange-dmcc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-gold-and-commodities-exchange-dmcc/dgcxaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-islamic-bank</loc>
@@ -511,9 +1366,34 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-islamic-bank/duibaeadlcs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-islamic-bank/duibaeaddeo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-islamic-bank/duibaeadtos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-islamic-bank/duibaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-fitch-ratings-ltd-dubai-branch-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/dubai-fitch-ratings-ltd-dubai-branch-/fripaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/duet-mena-limited</loc>
@@ -521,9 +1401,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/duet-mena-limited/dumnaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/economic-exchange-centre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/economic-exchange-centre/ecoxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ed-and-f-man-professional-trading-dubai-limited</loc>
@@ -531,9 +1421,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ed-and-f-man-professional-trading-dubai-limited/mptdaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/efg-hermes-brokerage-uae-ltd-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/efg-hermes-brokerage-uae-ltd-/efghaeb1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/efg-hermes-uae-limited</loc>
@@ -541,9 +1441,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/efg-hermes-uae-limited/efghaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/el-nilein-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/el-nilein-bank/nilbaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emaar-financial-services-llc</loc>
@@ -551,9 +1461,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emaar-financial-services-llc/emfsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emaar-properties-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emaar-properties-pjsc/emppaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-banks-association</loc>
@@ -561,9 +1481,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-banks-association/emibaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-development-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-development-bank/emdvaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-india-international-exchange</loc>
@@ -571,9 +1501,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-india-international-exchange/einiaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-india-international-exchange-lpc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-india-international-exchange-lpc/eiieaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-investment-bank-p-j-s-c-</loc>
@@ -581,9 +1521,69 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-investment-bank-p-j-s-c-/aeinaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadadc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadajs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeaddfr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadriq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadbud</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadmrd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadfuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadros</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadsba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-islamic-bank/meblaeadqfs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-national-bank-ltd</loc>
@@ -591,9 +1591,94 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-national-bank-ltd/enabaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadadb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadamr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadsuk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadbta</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadbsq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeaddmb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadsec</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadgal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadfin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadtfs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadjaz</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadjum</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadkam</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadqid</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/emirates-nbd-bank-pjsc/ebilaeadsat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/etihad-airways</loc>
@@ -601,9 +1686,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/etihad-airways/etihaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/federal-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/federal-exchange/fedxae21</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/federal-exchange/fedxaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/finance-house-p-j-s-c</loc>
@@ -611,9 +1711,359 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/finance-house-p-j-s-c/fhouaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaaml</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadef</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamir</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamur</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaruw</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaslm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaashb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaago</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaamg</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaban</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaabat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaabtb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacsu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacol</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadel</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadcm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaest</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaair</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaifu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaisd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaakma</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaakhb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaalwa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamzd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaakhf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamus</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadir</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaonl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaashm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaarec</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacpu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaassd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaafsb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaasyn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaatfo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaavos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaacod</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/fgbmaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeab</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaajm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaaln</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaclo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaaam</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaasn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaaqb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadei</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadhc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadub</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaajbl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaamoe</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaszr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaatfn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadib</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaafuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaqfa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaanak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaarak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaaaba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaadhd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaakal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaakfn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaasha</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaasia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-abu-dhabi-bank-pjsc/nbadaeaauaq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-gulf-financial-services</loc>
@@ -621,9 +2071,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/first-gulf-financial-services/fgfeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/gcc-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/gcc-exchange/gcceaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/general-pension-and-social-security</loc>
@@ -631,9 +2091,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/general-pension-and-social-security/gpssaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/global-investment-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/global-investment-bank-limited/ribbaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/grimaldi-ltd-</loc>
@@ -641,9 +2111,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/grimaldi-ltd-/griiaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-express-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-express-exchange/gueeaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-international-bank-b-s-c-</loc>
@@ -651,9 +2131,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-international-bank-b-s-c-/gulfaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-merchant-group-llp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/gulf-merchant-group-llp/gmglaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/gws-middle-east-fze</loc>
@@ -661,9 +2151,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/gws-middle-east-fze/gmefaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-ag-zurich</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-ag-zurich/hbzuaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-limited</loc>
@@ -671,9 +2171,29 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-limited/habbaea10aa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-limited/habbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/habib-bank-limited/habbaea10as</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/hinduja-bank-middle-east-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hinduja-bank-middle-east-ltd/absgaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/horizon-exchange</loc>
@@ -681,9 +2201,59 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/horizon-exchange/hrexaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadabu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadala</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeaddif</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadbdu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/hbmeaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadfuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadrks</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-bank-middle-east-limited/bbmeaeadshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-financial-services-middle-east-limited</loc>
@@ -691,9 +2261,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-financial-services-middle-east-limited/wdmeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-middle-east-securities-l-l-c-hmes-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/hsbc-middle-east-securities-l-l-c-hmes-/hmeeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/icici-bank-limited</loc>
@@ -701,9 +2281,34 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/icici-bank-limited/icicaeadcop</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/icici-bank-limited/icicaeadgts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/icici-bank-limited/icicaeadtmo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/icici-bank-limited/icicaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/idbi-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/idbi-bank-ltd/ibklaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/index-exchange-llc-formerly-habib-exchange-co-l-l-c-</loc>
@@ -711,9 +2316,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/index-exchange-llc-formerly-habib-exchange-co-l-l-c-/hexcaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/industrial-and-commercial-bank-of-china-limited-dubai-difc-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/industrial-and-commercial-bank-of-china-limited-dubai-difc-branch/icbkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/industrial-and-commercial-bank-of-china-limited-abu-dhabi-branch</loc>
@@ -721,9 +2336,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/industrial-and-commercial-bank-of-china-limited-abu-dhabi-branch/icbkaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/international-petroleum-investment-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/international-petroleum-investment-company/ipioaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/intesa-sanpaolo-abu-dhabi-branch</loc>
@@ -731,9 +2356,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/intesa-sanpaolo-abu-dhabi-branch/bcitaeab</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/intesa-sanpaolo-spa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/intesa-sanpaolo-spa/bcitaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/invest-ad</loc>
@@ -741,9 +2376,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/invest-ad/adicaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/investbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/investbank/ibtfaeas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/islamic-finance-house-pvt-jsc</loc>
@@ -751,9 +2396,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/islamic-finance-house-pvt-jsc/ifhoaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ittihad-international-investment-l-l-c-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ittihad-international-investment-l-l-c-/iiicaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank</loc>
@@ -761,9 +2416,39 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank/janbaeaaauh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank/janbaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank/janbaeaaaln</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank/janbaeaadxb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/janata-bank/janbaeaashj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/katota-investment-sector-fze</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/katota-investment-sector-fze/kisfaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/kbc-aldini-capital-limited</loc>
@@ -771,9 +2456,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/kbc-aldini-capital-limited/kbckaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/keb-hana-bank-abudhabi-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/keb-hana-bank-abudhabi-branch/koexaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/khalil-al-fardan-exchange</loc>
@@ -781,9 +2476,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/khalil-al-fardan-exchange/khfxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/landmark-retail-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/landmark-retail-limited/lanraead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/lari-exchange</loc>
@@ -791,9 +2496,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/lari-exchange/laeeaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/liberty-international-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/liberty-international-bank-limited/liblaeaaagm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/liberty-international-bank-limited/liblaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/lulu-international-exchange</loc>
@@ -801,9 +2521,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/lulu-international-exchange/luluaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mac-capital-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mac-capital-limited/mccpaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mac-sharaf-securities-uae-llc-</loc>
@@ -811,9 +2541,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mac-sharaf-securities-uae-llc-/mssuaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/majid-al-futtaim-holding-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/majid-al-futtaim-holding-llc/mafhaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/makaseb-islamic-financial-services-llc</loc>
@@ -821,9 +2561,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/makaseb-islamic-financial-services-llc/mifraea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/market-securities-dubai-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/market-securities-dubai-limited/msdlaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreq-securities-llc</loc>
@@ -831,9 +2581,54 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreq-securities-llc/msslaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadcsu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadebc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadftc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadhdo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadram</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadtid</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mashreqbank-psc-/bomlaeadgts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mcb-bank-limited</loc>
@@ -841,9 +2636,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mcb-bank-limited/mucbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mena-corp-financial-services-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mena-corp-financial-services-llc/mfelaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/merrill-lynch-international</loc>
@@ -851,9 +2656,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/merrill-lynch-international/mlinaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/middle-east-financial-brokerage-company-l-l-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/middle-east-financial-brokerage-company-l-l-c/mfbcaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/ministry-of-energy</loc>
@@ -861,9 +2676,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/ministry-of-energy/mieeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mirabaud-middle-east-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mirabaud-middle-east-limited/miraaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mobis-parts-middle-east-fze</loc>
@@ -871,9 +2696,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mobis-parts-middle-east-fze/hymoaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/mubadala-development-company-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mubadala-development-company-pjsc/mubdaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/mubadala-development-company-pjsc/mubdaeaaipc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/multinet-trust-exchange</loc>
@@ -881,9 +2721,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/multinet-trust-exchange/mulxaeae</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/naeem-shares-and-bonds</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/naeem-shares-and-bonds/nshoaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/nasdaq-dubai-limited</loc>
@@ -891,9 +2741,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/nasdaq-dubai-limited/difxaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/nasim-al-barari-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/nasim-al-barari-exchange/nabeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-bahrain</loc>
@@ -901,9 +2761,44 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-bahrain/nbobaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeafauh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeafdxb</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeafjba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeaffuj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeaf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-fujairah/nbfuaeafshj</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-kuwait-s-a-k-</loc>
@@ -911,9 +2806,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-kuwait-s-a-k-/nbokaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-oman</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-oman/nbomaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-ras-al-khaimah-the</loc>
@@ -921,9 +2826,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-ras-al-khaimah-the/nrakaeak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-umm-al-qaiwain-psc-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-umm-al-qaiwain-psc-/ummqaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-bank-of-umm-al-qaiwain-psc-/ummqaeadfxd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-exchange-company</loc>
@@ -931,9 +2851,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-exchange-company/necxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-investment-and-securities-corp-niscorp-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/national-investment-and-securities-corp-niscorp-/insnaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/natixis-dubai</loc>
@@ -941,9 +2871,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/natixis-dubai/natxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/noor-bank-p-j-s-c-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/noor-bank-p-j-s-c-/nislaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/oasis-capital-limited</loc>
@@ -951,9 +2891,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/oasis-capital-limited/oacaaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/oasis-crescent-capital-difc-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/oasis-crescent-capital-difc-limited/occdaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/orient-exchange-co-l-l-c-</loc>
@@ -961,9 +2911,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/orient-exchange-co-l-l-c-/oecoaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/phoenix-global-dmcc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/phoenix-global-dmcc/pgdmaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/prime-emirates-l-l-c</loc>
@@ -971,9 +2931,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/prime-emirates-l-l-c/prelaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/prometheus-capital-finance-limted</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/prometheus-capital-finance-limted/pcfiaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/prometheus-capital-finance-limted/pcfiaeab</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/punjab-national-bank</loc>
@@ -981,9 +2956,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/punjab-national-bank/punbaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/qatar-capital-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/qatar-capital-ltd/qacaaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/redha-al-ansari-exchange</loc>
@@ -991,9 +2976,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/redha-al-ansari-exchange/raecaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/reyl-finance-mea-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/reyl-finance-mea-ltd/reylaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/reyl-finance-mea-ltd/reylaeadifc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/royal-bank-of-canada</loc>
@@ -1001,9 +3001,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/royal-bank-of-canada/roycaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/samba-financial-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/samba-financial-group/sambaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/samsung-gulf-electronics-co-ltd-</loc>
@@ -1011,9 +3021,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/samsung-gulf-electronics-co-ltd-/sectaea1710</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/samsung-gulf-electronics-co-ltd-/sectaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sct-bankers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sct-bankers/sctsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharaf-exchange-llc</loc>
@@ -1021,9 +3046,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharaf-exchange-llc/shexaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharja-islamic-financial-services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharja-islamic-financial-services/sifeaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharjah-islamic-bank</loc>
@@ -1031,9 +3066,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sharjah-islamic-bank/nbshaeas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/shinhan-bank-co-ltd-dubai-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/shinhan-bank-co-ltd-dubai-branch/shbkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/shuaa-capital-p-s-c-</loc>
@@ -1041,9 +3086,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/shuaa-capital-p-s-c-/ageiaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/shuaa-capital-psc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/shuaa-capital-psc/shcpaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/siraj-finance-pjsc</loc>
@@ -1051,9 +3106,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/siraj-finance-pjsc/srajaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sorinet-comercial-trust</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sorinet-comercial-trust/sceraea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/standard-chartered-bank</loc>
@@ -1061,9 +3126,29 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/standard-chartered-bank/scblaeadabd</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/standard-chartered-bank/scblaeaddif</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/standard-chartered-bank/scblaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/state-bank-of-india</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/state-bank-of-india/sbinaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sultan-al-thahab-exchange</loc>
@@ -1071,9 +3156,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sultan-al-thahab-exchange/sltxaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/sumitomo-mitsui-banking-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/sumitomo-mitsui-banking-corporation/smbcaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/swiss-investment-bank-plc</loc>
@@ -1081,9 +3176,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/swiss-investment-bank-plc/fiwsaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/tabarak-investment-capital-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/tabarak-investment-capital-limited/tibiaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/tabra-and-al-nibal-exchange</loc>
@@ -1091,9 +3196,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/tabra-and-al-nibal-exchange/tbraaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/u-a-e-exchange-centre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/u-a-e-exchange-centre/uaexaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/unicredit-s-p-a-</loc>
@@ -1101,9 +3216,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/unicredit-s-p-a-/uncraeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-bank-of-india-difc-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-bank-of-india-difc-branch/ubinaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-national-bank</loc>
@@ -1111,9 +3236,29 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-national-bank/unbeaeaaqtr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-national-bank/unbeaeaatfs</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/union-national-bank/unbeaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-arab-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-arab-bank/uarbaeaa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-bank-ltd-</loc>
@@ -1121,9 +3266,34 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-bank-ltd-/unilaeadcpu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-bank-ltd-/unilaeadtfc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-bank-ltd-/unilaeadtry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-bank-ltd-/unilaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-investment-bank-ltd-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/united-investment-bank-ltd-/uiblaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/universal-exchange-center</loc>
@@ -1131,9 +3301,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/universal-exchange-center/ueceaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/wall-street-exchange-centre-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/wall-street-exchange-centre-llc/wseeaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/woori-bank-dubai-branch</loc>
@@ -1141,8 +3321,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/woori-bank-dubai-branch/hvbkaead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/united-arab-emirates/zfp-equity-trading-dubai-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/united-arab-emirates/zfp-equity-trading-dubai-limited/zetdaea1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

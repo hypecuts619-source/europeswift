@@ -21,9 +21,29 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/banque-nationale-de-paris-succursale-de-pointe-a-pitre/bnpagpgxbas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/banque-nationale-de-paris-succursale-de-pointe-a-pitre/bnpagpgx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-d-epargne-cepac-formerly-banque-des-antilles-francaises-</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-d-epargne-cepac-formerly-banque-des-antilles-francaises-/bdafgpgx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-d-epargne-cepac-formerly-banque-des-antilles-francaises-/bdafgpgx971</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-epargne-prevoyance-guadeloupe</loc>
@@ -31,9 +51,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-epargne-prevoyance-guadeloupe/cepggpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-regionale-de-credit-agricole-mutuel-de-guadeloupe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-regionale-de-credit-agricole-mutuel-de-guadeloupe/cgctgpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-regionale-de-credit-maritime-mutuel-d-outre-mer</loc>
@@ -41,9 +71,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/caisse-regionale-de-credit-maritime-mutuel-d-outre-mer/cmdmgpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/credit-agricole</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/credit-agricole/agrigpgxbtr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/credit-agricole/agrigpgx</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/credit-moderne-antilles</loc>
@@ -51,9 +96,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/credit-moderne-antilles/crmsgpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/societe-anonyme-de-gestion-et-de-financement-sagefi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/societe-anonyme-de-gestion-et-de-financement-sagefi/sgfagpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/societe-generale-de-banque-aux-antilles</loc>
@@ -61,8 +116,28 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/societe-generale-de-banque-aux-antilles/sogegpgpgua</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/societe-generale-de-banque-aux-antilles/sogegpgp</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/societe-generale-de-banque-aux-antilles/sogegpgpmar</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/guadeloupe/societe-guadeloupeenne-de-financement-soguafi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/guadeloupe/societe-guadeloupeenne-de-financement-soguafi/sgfogpg1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

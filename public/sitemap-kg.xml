@@ -16,9 +16,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/amanbank-joint-stock-russian-kyrgyz-amanbank-/ajrakg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/bai-tushum-bank-cjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/bai-tushum-bank-cjsc/bbtpkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/bakai-bank-ojsc</loc>
@@ -26,9 +36,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/bakai-bank-ojsc/bakakg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/bank-of-asia-cjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/bank-of-asia-cjsc/ascjkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/bta-bank-cjsc-formerly-ineximbank-cjsc-bishkek-kg</loc>
@@ -36,9 +56,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/bta-bank-cjsc-formerly-ineximbank-cjsc-bishkek-kg/eimbkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/cjsc-ecoislamicbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/cjsc-ecoislamicbank/ecbikg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/cjsc-finca-bank</loc>
@@ -46,9 +76,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/cjsc-finca-bank/fbankg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/demir-kyrgyz-international-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/demir-kyrgyz-international-bank/demikg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/dos-credobank-ojsc</loc>
@@ -56,9 +96,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/dos-credobank-ojsc/dosskg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/eurasian-savings-bank-ojsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/eurasian-savings-bank-ojsc/kyrgkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/financecreditbank-kab</loc>
@@ -66,9 +116,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/financecreditbank-kab/fikbkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/investment-bank-chang-an-ojsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/investment-bank-chang-an-ojsc/ibchkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/kompanion-bank-closed-joint-stock-company</loc>
@@ -76,9 +136,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/kompanion-bank-closed-joint-stock-company/kompkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/kyrgyz-investment-and-credit-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/kyrgyz-investment-and-credit-bank/kicbkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/kyrgyz-swiss-bank-cjsc</loc>
@@ -86,9 +156,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/kyrgyz-swiss-bank-cjsc/ksbckg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/national-bank-of-pakistan-bishkek-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/national-bank-of-pakistan-bishkek-branch/nbpakg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/national-bank-of-the-kyrgyz-republic</loc>
@@ -96,9 +176,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/national-bank-of-the-kyrgyz-republic/nbkikg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-aiyl-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-aiyl-bank/aiylkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-commercial-bank-kyrgyzstan</loc>
@@ -106,9 +196,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-commercial-bank-kyrgyzstan/kyrskg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-halyk-bank-kyrgyzstan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-halyk-bank-kyrgyzstan/makakg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-kyrgyzkommertsbank</loc>
@@ -116,9 +216,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-kyrgyzkommertsbank/kakykg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-rsk-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-rsk-bank/sesvkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-russian-investment-bank</loc>
@@ -126,9 +236,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/ojsc-russian-investment-bank/rinbkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/optima-bank-ojsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/optima-bank-ojsc/enejkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/the-open-joint-stock-company-capital-bank</loc>
@@ -136,8 +256,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/the-open-joint-stock-company-capital-bank/akilkg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://swiftcodedir.com/swift/kyrgyzstan/tolubay-bank-closed-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://swiftcodedir.com/swift/kyrgyzstan/tolubay-bank-closed-joint-stock-company/tolukg22</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
