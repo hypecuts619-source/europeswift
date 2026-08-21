@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/somalia/amal-bank-ltd/aallsosg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/somalia/central-bank-of-somalia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/somalia/central-bank-of-somalia/cbsososm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/somalia/dahabshil-bank-international</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/somalia/dahabshil-bank-international/dahisosm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/somalia/international-bank-of-somalia-ibs-</loc>
+    <loc>https://swiftcodedir.com/swift/somalia/international-bank-of-somalia-ibs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/somalia/international-bank-of-somalia-ibs-/ibossosm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/somalia/premier-bank-limited</loc>
@@ -61,28 +41,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/somalia/premier-bank-limited/pbsmsosm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/somalia/salaam-somali-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/somalia/salaam-somali-bank/ssbmsosm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/somalia/trust-african-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/somalia/trust-african-bank/ttafsosm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

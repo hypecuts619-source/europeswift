@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/abn-amro-trust-company-jersey-limited/atcjjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/abu-dhabi-commercial-bank-pjsc-jersey-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/abu-dhabi-commercial-bank-pjsc-jersey-branch/adcbjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/alpha-bank-jersey-limited</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/alpha-bank-jersey-limited/aljejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/asahi-life-investment-europe-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/asahi-life-investment-europe-limited/aliejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/ashburton-jersey-limited</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/ashburton-jersey-limited/ashmjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/b-a-i-i-trust-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/b-a-i-i-trust-ltd/btrujes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/baloise-finance-jersey-limited</loc>
@@ -76,29 +46,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/baloise-finance-jersey-limited/bafjjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/bank-leumi-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/bank-leumi-jersey-limited/lumijes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/bank-of-india-jersey-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/bank-of-india-jersey-branch/bkidjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/bank-of-scotland-jersey-treasury</loc>
@@ -161,11 +116,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/banque-nationale-de-paris/bnpajesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/barclays-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -206,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/barclays-bank-plc-fiduciary-deposit-business/barcjesx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/barclays-bank-plc-jersey-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/barclays-bank-plc-jersey-branch/barcjesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/barclays-private-bank-and-trust-ltd</loc>
@@ -226,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/barclays-private-bank-and-trust-ltd/bpbljes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/bedell-trust-company-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/bedell-trust-company-limited/bedljesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/bnp-paribas-securities-services-jersey-branch</loc>
@@ -881,11 +811,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/brevan-howard-investment-products-limited/bhirjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/capita-fiduciary-group-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -916,19 +841,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/cater-allen-stockbrokers-limited/jefejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/cazenove-portfolio-management-jersey</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/cazenove-portfolio-management-jersey/cazejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/cfp-energy-limited</loc>
@@ -936,27 +851,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/cfp-energy-limited/cfpejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a-/citijesxefx</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a/citijesxefx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a-/citijesxlpn</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a/citijesxlpn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a-/citijesx</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/citibank-n-a/citijesx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -966,19 +876,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citicorp-banking-corporation/citijehx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/citigroup-channel-islands-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/citigroup-channel-islands-limited/citijejx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/collins-stewart-offshore-limited</loc>
@@ -986,19 +886,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/collins-stewart-offshore-limited/matsjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/deutsche-bank-international-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/deutsche-bank-international-limited/mgcojesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/deutsche-international-corporate-services-ltd</loc>
@@ -1006,19 +896,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/deutsche-international-corporate-services-ltd/dicejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/ebc-trust-company-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/ebc-trust-company-jersey-limited/ebcjjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/efg-private-bank-c-i-lt-jersey-branch</loc>
@@ -1026,19 +906,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/efg-private-bank-c-i-lt-jersey-branch/efgbjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/fenchurch-trust-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/fenchurch-trust-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/fenchurch-trust-ltd-/fetrjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/ferguson-plc</loc>
@@ -1046,19 +916,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/ferguson-plc/frgsjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/forten-asset-management-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/forten-asset-management-limited/fosnjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/gartmore-fund-managers-international-limited</loc>
@@ -1066,19 +926,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/gartmore-fund-managers-international-limited/grtljes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/goldman-sachs-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/goldman-sachs-jersey-limited/gosyjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/hsbc-bank-international-limited</loc>
@@ -1126,19 +976,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/hsbc-global-asset-management-international-limited/jccljes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/hsbc-jersey-st-brelade</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/hsbc-jersey-st-brelade/midljej1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/income-partners</loc>
@@ -1146,19 +986,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/income-partners/icmejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/j-p-morgan-international-derivatives-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/j-p-morgan-international-derivatives-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/j-p-morgan-international-derivatives-ltd-/moiejes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/jpmorgan-chase-bank-n-a-jersey-branch</loc>
@@ -1186,11 +1016,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/l-b-i-finance-jersey-ltd/lbfjjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/lloyds-bank-international-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1209,11 +1034,6 @@
     <loc>https://swiftcodedir.com/swift/jersey/lloyds-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/lloyds-bank-plc/llcmjeshmkt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/lloyds-bank-plc-jersey</loc>
@@ -1271,19 +1091,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/lombard-odier-darier-hentsch-jersey-limited/locyjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/lyxor-black-diamond-arbitrage</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/lyxor-black-diamond-arbitrage/lydajes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/minerva-trust-and-corporate-services-limited</loc>
@@ -1291,19 +1101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/minerva-trust-and-corporate-services-limited/mtcsjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/morgan-guaranty-trust-co-of-new-york</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/morgan-guaranty-trust-co-of-new-york/mgtcjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/mourant-and-co-limited</loc>
@@ -1311,19 +1111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/mourant-and-co-limited/mourjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/natwest-offshore-jersey</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/natwest-offshore-jersey/rbosje41</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/natwest-jersey</loc>
@@ -1331,19 +1121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/natwest-jersey/rbosjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/nedbank-private-wealth-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/nedbank-private-wealth-ltd/rflcjesx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/net-gold-services-ltd</loc>
@@ -1351,19 +1131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/net-gold-services-ltd/gmnyjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/newton-fund-managers-c-i-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/newton-fund-managers-c-i-limited/nefajeh1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/pala-assets-holdings-limited</loc>
@@ -1371,19 +1141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/pala-assets-holdings-limited/pasdjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/pala-investments-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/pala-investments-limited/pavvjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/pershing-channel-islands-limited</loc>
@@ -1391,19 +1151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/pershing-channel-islands-limited/perljesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/platform-securities-international-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/platform-securities-international-limited/plsijej1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/quilter-and-co-channel-islands</loc>
@@ -1411,19 +1161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/quilter-and-co-channel-islands/quitjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/r-and-h-fund-services-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/r-and-h-fund-services-jersey-limited/fusjjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/rbs-international</loc>
@@ -1431,47 +1171,37 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/rbs-international/rbosjesj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-international-limited-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-international-limited-the/rbosjesx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-/rbosjes1028</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc/rbosjes1028</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-/rbosjes1891</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc/rbosjes1891</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-/rbosjes1893</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc/rbosjes1893</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-/rbosjes1</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc/rbosjes1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc-/rbosjes1560</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/royal-bank-of-scotland-jersey-st-helier-plc/rbosjes1560</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1479,11 +1209,6 @@
     <loc>https://swiftcodedir.com/swift/jersey/sanne-fiduciary-services-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/sanne-fiduciary-services-limited/snltjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/santander-uk-plc</loc>
@@ -1506,19 +1231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/sg-kleinwort-hambros-bank-ci-limited/hambjesx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/societe-general-investment-management-channel-is-lands-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/societe-general-investment-management-channel-is-lands-limited/sgimjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/soditic-and-co-ltd</loc>
@@ -1526,19 +1241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/soditic-and-co-ltd/sofljes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/standard-bank-jersey-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/standard-bank-jersey-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/standard-bank-jersey-ltd-/sbicjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/standard-bank-stockbrokers-c-i-ltd</loc>
@@ -1561,19 +1266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/standard-chartered-bank-jersey-branch/scbljesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/standard-chartered-trust-co-</loc>
+    <loc>https://swiftcodedir.com/swift/jersey/standard-chartered-trust-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/standard-chartered-trust-co-/sdctjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/state-street-bank-and-trust-company</loc>
@@ -1581,19 +1276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/state-street-bank-and-trust-company/sbosjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/stonehage-fleming-dealing-and-treasury-services-jersey-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/stonehage-fleming-dealing-and-treasury-services-jersey-ltd/sdtsjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/stonehage-fleming-trust-holdings-jersey-limited</loc>
@@ -1601,19 +1286,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/stonehage-fleming-trust-holdings-jersey-limited/sfshjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/tintrade-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/tintrade-ltd/tinrjes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/trident-trust-company-limited</loc>
@@ -1621,19 +1296,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/trident-trust-company-limited/tdenjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/ubs-ag-jersey-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/ubs-ag-jersey-branch/ubswjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/jersey/union-bancaire-privee-ubp</loc>
@@ -1641,18 +1306,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/jersey/union-bancaire-privee-ubp/ubpgjesx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/jersey/vistra-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/jersey/vistra-jersey-limited/vistjesh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

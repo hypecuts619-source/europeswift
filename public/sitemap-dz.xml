@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/algeria/al-salam-bank-algeria/salgdzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/algeria/algeria-gulf-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/algeria/algeria-gulf-bank/agubdzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/algeria/arab-bank-plc-algeria</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/algeria/arab-bank-plc-algeria/arabdzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/algeria/arab-banking-corporation-algeria</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/algeria/arab-banking-corporation-algeria/abcodzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/algeria/bank-of-algeria</loc>
@@ -76,29 +56,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/algeria/banque-de-developpement-local/bdlodzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/algeria/banque-de-l-agriculture-et-de-developpement-rural</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/algeria/banque-de-l-agriculture-et-de-developpement-rural/badrdzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/algeria/banque-du-maghreb-arabe-pour-l-investissement-et-le-commerce</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/algeria/banque-du-maghreb-arabe-pour-l-investissement-et-le-commerce/bmicdzal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/algeria/banque-exterieure-d-algerie</loc>

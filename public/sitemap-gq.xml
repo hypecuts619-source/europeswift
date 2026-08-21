@@ -11,14 +11,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/banco-nacional-de-guinea-ecuatorial-bange-</loc>
+    <loc>https://swiftcodedir.com/swift/equatorial-guinea/banco-nacional-de-guinea-ecuatorial-bange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/banco-nacional-de-guinea-ecuatorial-bange-/nagcgqgq</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/equatorial-guinea/banque-des-etats-de-l-afrique-centrale-d-n-guinee-equatoriale</loc>
@@ -39,11 +34,6 @@
     <loc>https://swiftcodedir.com/swift/equatorial-guinea/bgfibank-guinee-equatoriale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/bgfibank-guinee-equatoriale/bgfigqgq</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/equatorial-guinea/ccei-bank-ge</loc>
@@ -76,28 +66,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/commercial-bank-guinea-ecuatorial/cbgmgqg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/equatorial-guinea/ecobank-guinee-equatoriale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/ecobank-guinee-equatoriale/ecocgqgq</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/equatorial-guinea/societe-generale-de-banque-en-guinee-equatoriale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/equatorial-guinea/societe-generale-de-banque-en-guinee-equatoriale/sggegqgq</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

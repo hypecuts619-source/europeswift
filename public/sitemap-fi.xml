@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/a-g-securities/agpafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/accountor-etela-suomi-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/accountor-etela-suomi-oy/acetfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/accunia-oy</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/accunia-oy/acuufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ahtarin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ahtarin-osuuspankki/ahosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/aito-saastopankki-oy</loc>
@@ -61,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/aito-saastopankki-oy/aisafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/akaan-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/akaan-seudun-osuuspankki/aksufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/aktia-asset-management-oy-ab</loc>
@@ -81,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/aktia-asset-management-oy-ab/akamfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/aktia-bank-p-l-c-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/aktia-bank-p-l-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/aktia-bank-p-l-c-/helsfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/alajarven-osuuspankki</loc>
@@ -101,19 +61,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/alajarven-osuuspankki/aloufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/alastaron-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/alastaron-osuuspankki/alopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/alavieskan-osuuspankki</loc>
@@ -121,19 +71,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/alavieskan-osuuspankki/alonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/alavuden-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/alavuden-seudun-osuuspankki/alepfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/alexandria-pankkiiriliike-oyj</loc>
@@ -141,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/alexandria-pankkiiriliike-oyj/alpyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/alfred-berg-omaisuudenhoito-suomi-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/alfred-berg-omaisuudenhoito-suomi-oy/aboofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/alfred-berg-pankkiiriliike</loc>
@@ -161,19 +91,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/alfred-berg-pankkiiriliike/alfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/andelsbanken-for-aland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/andelsbanken-for-aland/anadfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/andelsbanken-raseborg</loc>
@@ -181,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/andelsbanken-raseborg/anrsfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/aros-securities-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/aros-securities-oy/abbofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/artjarven-osuuspankki</loc>
@@ -201,19 +111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/artjarven-osuuspankki/aroufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/as-lhv-pank-finnish-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/as-lhv-pank-finnish-branch/lpfbfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/askolan-osuuspankki</loc>
@@ -221,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/askolan-osuuspankki/asosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/atine-group-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/atine-group-oy/atgofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/auran-osuuspankki</loc>
@@ -241,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/auran-osuuspankki/auosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/aurator-varainhoito-oy-aurator-asset-management</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/aurator-varainhoito-oy-aurator-asset-management/avaafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/avida-finans-ab-filial-i-finland</loc>
@@ -261,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/avida-finans-ab-filial-i-finland/affnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/b10-varainhoito-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/b10-varainhoito-oy/varifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/bank-of-aland-plc</loc>
@@ -296,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/basware-corporation/bawcfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/belgrano-inversiones-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/belgrano-inversiones-oy/beidfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/bigbank-as-finland-branch</loc>
@@ -316,19 +176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/bigbank-as-finland-branch/bigkfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/bigbank-as-suomen-sivuliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/bigbank-as-suomen-sivuliike/biskfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/bonum-bank-plc</loc>
@@ -336,19 +186,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/bonum-bank-plc/popffi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/bostadsobligationsfonden</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/bostadsobligationsfonden/botdfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/cargotec-oyj</loc>
@@ -356,19 +196,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/cargotec-oyj/ctecfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/carnegie-asset-management-finland-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/carnegie-asset-management-finland-ltd/crtefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/celeres-rahastoyhtio-oy</loc>
@@ -376,19 +206,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/celeres-rahastoyhtio-oy/cerhfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/central-bank-of-savings-banks-finland-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/central-bank-of-savings-banks-finland-plc/itelfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/citibank-europe-plc-finland-branch</loc>
@@ -396,19 +216,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/citibank-europe-plc-finland-branch/citifihx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/collector-credit-ab-filial-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/collector-credit-ab-filial-finland/ccfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/conventum-securities-limited</loc>
@@ -416,19 +226,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/conventum-securities-limited/cvmlfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/credit-agricole-cib</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/credit-agricole-cib/bsuifihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/d-carnegie-ab-finland-branch</loc>
@@ -436,29 +236,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/d-carnegie-ab-finland-branch/casffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/danske-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/danske-bank/dabafihx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/danske-bank-a-s-helsinki-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/danske-bank-a-s-helsinki-branch/proefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/danske-bank-plc</loc>
@@ -486,19 +271,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/danske-kiinnitysluottopankki-oyj/dakofihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/danske-mortgage-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/danske-mortgage-bank-plc/dakofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/de-lage-landen-finans-ab-soumen-sivuliike</loc>
@@ -506,19 +281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/de-lage-landen-finans-ab-soumen-sivuliike/dlfnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/digia-financial-software-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/digia-financial-software-ltd/difsfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/diners-club-finland-branch-of-diners-club-nordic-ab</loc>
@@ -526,19 +291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/diners-club-finland-branch-of-diners-club-nordic-ab/dcfbfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/dnb-bank-asa-filial-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/dnb-bank-asa-filial-finland/dnbafihx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/e-ohman-j-or-fondbolag-finland-ab</loc>
@@ -546,19 +301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/e-ohman-j-or-fondbolag-finland-ab/ojfafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ekenas-sparbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ekenas-sparbank/eksrfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/elcoteq-se</loc>
@@ -566,19 +311,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/elcoteq-se/elcofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/elina-pankkiiriliike-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/elina-pankkiiriliike-oy/elpafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/elite-private-banking-ltd</loc>
@@ -586,19 +321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/elite-private-banking-ltd/elprfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/elo-mutual-pension-insurance-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/elo-mutual-pension-insurance-company/empnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/emissions-trading-registry-of-finland</loc>
@@ -606,19 +331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/emissions-trading-registry-of-finland/etrffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/enon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/enon-osuuspankki/enosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/eq-asset-management-oy</loc>
@@ -626,19 +341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/eq-asset-management-oy/asngfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/eq-pankki-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/eq-pankki-oy/eqpifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/eq-turku-omaisuudenhoito-oy</loc>
@@ -646,19 +351,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/eq-turku-omaisuudenhoito-oy/tuomfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/erajarven-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/erajarven-saastopankki/erssfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/erik-selin-bankers-ltd</loc>
@@ -666,19 +361,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/erik-selin-bankers-ltd/ersbfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/erikoissijoitusrahasto-nordea-navigo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/erikoissijoitusrahasto-nordea-navigo/ernnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/estlander-and-partners-ltd</loc>
@@ -686,19 +371,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/estlander-and-partners-ltd/esprfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/estlander-and-ronnlund-financial-products-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/estlander-and-ronnlund-financial-products-oy/erfpfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/etela-karjalan-osuuspankki</loc>
@@ -706,19 +381,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/etela-karjalan-osuuspankki/etosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/etela-karjalan-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/etela-karjalan-saastopankki/etsafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/etela-paijanteen-osuuspankki</loc>
@@ -726,19 +391,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/etela-paijanteen-osuuspankki/etoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/etela-pohjanmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/etela-pohjanmaan-osuuspankki/etopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/etela-savon-osuuspankki</loc>
@@ -746,19 +401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/etela-savon-osuuspankki/etoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/etera-mutual-pension-ins-co-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/etera-mutual-pension-ins-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/etera-mutual-pension-ins-co-/empifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/eufex-pankki-oyj</loc>
@@ -766,19 +411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/eufex-pankki-oyj/eufpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/eurajoen-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/eurajoen-saastopankki/euspfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/euran-osuuspankki</loc>
@@ -786,19 +421,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/euran-osuuspankki/euoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/eurocard-ab-filial-i-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/eurocard-ab-filial-i-finland/eufffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/euroclear-finland-ltd</loc>
@@ -846,19 +471,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/fa-solutions-oy/soltfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/fennia-asset-management-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/fennia-asset-management-ltd/feanfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/fim-asset-management-ltd</loc>
@@ -866,19 +481,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/fim-asset-management-ltd/fmamfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/fim-pankkiiriliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/fim-pankkiiriliike/fipafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/finlandia-group-oyj</loc>
@@ -886,19 +491,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/finlandia-group-oyj/figyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/finnair-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/finnair-plc/fnarfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/folkia-as-suomen-sivuliike</loc>
@@ -906,19 +501,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/folkia-as-suomen-sivuliike/fosifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/forea-capital-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/forea-capital-oy/foctfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/forex-bank-ab-filial-i-finland</loc>
@@ -926,19 +511,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/forex-bank-ab-filial-i-finland/forxfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/forssan-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/forssan-seudun-osuuspankki/fosofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/fortum-oyj</loc>
@@ -946,19 +521,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/fortum-oyj/fooyfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/fourton-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/fourton-oy/fourfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/front-capital-oy</loc>
@@ -966,19 +531,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/front-capital-oy/frcpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/fsb-oy-pankkiiriliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/fsb-oy-pankkiiriliike/fsopfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/gcc-capital-ab-filial-i-finland</loc>
@@ -986,19 +541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/gcc-capital-ab-filial-i-finland/gcfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/glitnir-alternative-investments-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/glitnir-alternative-investments-oy/glaifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/haapajarven-osuuspankki</loc>
@@ -1006,19 +551,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/haapajarven-osuuspankki/haoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/haapamaen-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/haapamaen-seudun-osuuspankki/haskfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/hailuodon-osuuspankki</loc>
@@ -1026,19 +561,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/hailuodon-osuuspankki/haoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/halsuan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/halsuan-osuuspankki/haonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/hameenlinnan-seudun-osuuspankki</loc>
@@ -1046,19 +571,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/hameenlinnan-seudun-osuuspankki/haeofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/haminan-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/haminan-seudun-osuuspankki/haepfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/hannulan-osuuspankki</loc>
@@ -1066,19 +581,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/hannulan-osuuspankki/haosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/harjavallan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/harjavallan-osuuspankki/haokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/hartolan-osuuspankki</loc>
@@ -1086,19 +591,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/hartolan-osuuspankki/haoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/hauhon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/hauhon-osuuspankki/hausfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/haukivuoren-osuuspankki</loc>
@@ -1106,19 +601,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/haukivuoren-osuuspankki/hauufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/head-asset-management-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/head-asset-management-oy/heaafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/heinaveden-osuuspankki</loc>
@@ -1126,19 +611,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/heinaveden-osuuspankki/heoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/hellanmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/hellanmaan-osuuspankki/heosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/helmi-saastopankki-oy</loc>
@@ -1146,19 +621,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/helmi-saastopankki-oy/hesafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/helsingin-op-pankki-oyj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/helsingin-op-pankki-oyj/hepyfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/helsinki-capital-partners-rahastoyhtio-oy</loc>
@@ -1166,19 +631,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/helsinki-capital-partners-rahastoyhtio-oy/hcprfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/himangan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/himangan-osuuspankki/hiosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/hirvensalmen-osuuspankki</loc>
@@ -1186,19 +641,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/hirvensalmen-osuuspankki/hioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/holvi-payment-services-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/holvi-payment-services-ltd/holvfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/honkajoen-osuuspankki</loc>
@@ -1206,19 +651,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/honkajoen-osuuspankki/hoosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/honkilahden-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/honkilahden-osuuspankki/hooufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/huhtamon-osuuspankki</loc>
@@ -1226,19 +661,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/huhtamon-osuuspankki/huosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/huittisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/huittisten-osuuspankki/huoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/huittisten-saastopankki</loc>
@@ -1246,19 +671,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/huittisten-saastopankki/husofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/humppilan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/humppilan-osuuspankki/huopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/icecapital-asset-management-ltd</loc>
@@ -1266,19 +681,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/icecapital-asset-management-ltd/icsnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/icecapital-markets-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/icecapital-markets-ltd/icsufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/if-p-and-c-insurance-ltd</loc>
@@ -1286,19 +691,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/if-p-and-c-insurance-ltd/ifpcfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ikaalisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ikaalisten-osuuspankki/ikosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ikano-bank-ab-publ-finland-filial</loc>
@@ -1306,19 +701,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ikano-bank-ab-publ-finland-filial/kpfffi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ilomantsin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ilomantsin-osuuspankki/ilosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/index-helsinki-osakeyhtio</loc>
@@ -1326,19 +711,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/index-helsinki-osakeyhtio/inhafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/investa-asset-management</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/investa-asset-management/inatfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/isojoen-osuuspankki</loc>
@@ -1346,19 +721,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/isojoen-osuuspankki/isoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/j-p-morgan-europe-limited-helsingin-sivuliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/j-p-morgan-europe-limited-helsingin-sivuliike/chasfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/jam-advisors-ltd</loc>
@@ -1366,19 +731,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/jam-advisors-ltd/jaadfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/jamijarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/jamijarven-osuuspankki/jaoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/jamsan-seudun-osuuspankki</loc>
@@ -1386,19 +741,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/jamsan-seudun-osuuspankki/jassfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/janakkalan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/janakkalan-osuuspankki/jaopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/joensuun-seudun-osuuspankki</loc>
@@ -1406,19 +751,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/joensuun-seudun-osuuspankki/jossfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/jokioisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/jokioisten-osuuspankki/joosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/joroisten-osuuspankki</loc>
@@ -1426,19 +761,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/joroisten-osuuspankki/jorufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/juuan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/juuan-osuuspankki/juosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kainuun-osuuspankki</loc>
@@ -1446,19 +771,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kainuun-osuuspankki/kaokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kalajoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kalajoen-osuuspankki/kaoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kalannin-saastopankki</loc>
@@ -1466,19 +781,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kalannin-saastopankki/kalafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kalkkisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kalkkisten-osuuspankki/kaspfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kangasalan-seudun-osuuspankki</loc>
@@ -1486,19 +791,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kangasalan-seudun-osuuspankki/kasofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kangasniemen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kangasniemen-osuuspankki/kausfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kannonkosken-osuuspankki</loc>
@@ -1506,19 +801,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kannonkosken-osuuspankki/kanofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kannuksen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kannuksen-osuuspankki/kauufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kantasaastopankki-oy</loc>
@@ -1526,19 +811,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kantasaastopankki-oy/kanpfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/karjalan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/karjalan-osuuspankki/kauafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/karkolan-osuuspankki</loc>
@@ -1546,19 +821,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/karkolan-osuuspankki/kaosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/karkun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/karkun-osuuspankki/kaunfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/karvian-osuuspankki</loc>
@@ -1566,19 +831,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/karvian-osuuspankki/kaopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kaustisen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kaustisen-osuuspankki/kaoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kaylan-osuuspankki</loc>
@@ -1586,19 +841,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kaylan-osuuspankki/kaonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/keikyan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/keikyan-osuuspankki/keskfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/keiteleen-osuuspankki</loc>
@@ -1606,19 +851,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/keiteleen-osuuspankki/keopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kemin-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kemin-seudun-osuuspankki/kesofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kemira-oyj</loc>
@@ -1626,19 +861,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kemira-oyj/kemifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kerimaen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kerimaen-osuuspankki/keokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kesalahden-osuuspankki</loc>
@@ -1646,19 +871,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kesalahden-osuuspankki/keoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/keskinainen-elakevakuutusyhtioe-ilmarinen</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/keskinainen-elakevakuutusyhtioe-ilmarinen/impifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/keski-suomen-osuuspankki</loc>
@@ -1666,19 +881,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/keski-suomen-osuuspankki/keoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/keski-uudenmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/keski-uudenmaan-osuuspankki/keonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/keuruun-osuuspankki</loc>
@@ -1686,19 +891,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/keuruun-osuuspankki/keoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kihnion-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kihnion-osuuspankki/kioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kiihtelysvaaran-osuuspankki</loc>
@@ -1706,19 +901,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kiihtelysvaaran-osuuspankki/kiopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kiikoisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kiikoisten-osuuspankki/kioafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kiikoisten-saastopankki</loc>
@@ -1726,19 +911,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kiikoisten-saastopankki/kisofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kiteen-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kiteen-seudun-osuuspankki/kisufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kiuruveden-osuuspankki</loc>
@@ -1746,19 +921,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kiuruveden-osuuspankki/kiosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kjk-capital-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kjk-capital-oy/kjkcfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/koillis-savon-osuuspankki</loc>
@@ -1766,19 +931,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/koillis-savon-osuuspankki/kooufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/koitin-pertunmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/koitin-pertunmaan-osuuspankki/kookfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kokemaen-osuuspankki</loc>
@@ -1786,19 +941,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kokemaen-osuuspankki/kooifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kokkolan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kokkolan-osuuspankki/kospfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kone-corporation</loc>
@@ -1806,19 +951,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kone-corporation/konefi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/konneveden-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/konneveden-osuuspankki/konofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/korpilahden-osuuspankki</loc>
@@ -1826,19 +961,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/korpilahden-osuuspankki/kosnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/korsnas-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/korsnas-andelsbank/koadfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kortesjarven-saastopankki</loc>
@@ -1846,19 +971,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kortesjarven-saastopankki/kosafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kosken-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kosken-osuuspankki/koosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kotkan-seudun-osuuspankki</loc>
@@ -1866,19 +981,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kotkan-seudun-osuuspankki/kosofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kouvolan-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kouvolan-seudun-osuuspankki/kosufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/koylion-osuuspankki</loc>
@@ -1886,19 +991,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/koylion-osuuspankki/koonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kristinestads-sparbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kristinestads-sparbank/krsnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kronoby-andelsbank</loc>
@@ -1906,19 +1001,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kronoby-andelsbank/kradfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kuhmoisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kuhmoisten-osuuspankki/kuoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kuhmon-osuuspankki</loc>
@@ -1926,19 +1011,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kuhmon-osuuspankki/kuopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kuntien-elakevakuutus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kuntien-elakevakuutus/kuelfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kuortaneen-osuuspankki</loc>
@@ -1946,19 +1021,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kuortaneen-osuuspankki/kuonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kurikan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kurikan-osuuspankki/kuoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kurun-osuuspankki</loc>
@@ -1966,19 +1031,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kurun-osuuspankki/kuokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kuusamon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kuusamon-osuuspankki/kussfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kvevlax-sparbank</loc>
@@ -1986,19 +1041,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kvevlax-sparbank/kvspfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kymijoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kymijoen-osuuspankki/kyopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kyron-seudun-osuuspankki</loc>
@@ -2006,19 +1051,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kyron-seudun-osuuspankki/kysofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/kyronmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/kyronmaan-osuuspankki/kyoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/kyyjarven-osuuspankki</loc>
@@ -2026,19 +1061,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/kyyjarven-osuuspankki/kyyofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lago-kapital-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lago-kapital-ltd/lagofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/laihian-osuuspankki</loc>
@@ -2046,19 +1071,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/laihian-osuuspankki/laopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lammin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lammin-osuuspankki/laonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lammin-saastopankki</loc>
@@ -2066,19 +1081,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lammin-saastopankki/lamtfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lamy-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lamy-oy/lamyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/landsbanki-islands</loc>
@@ -2086,19 +1091,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/landsbanki-islands/laisfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/langelmaen-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/langelmaen-saastopankki/laskfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lanneveden-osuuspankki</loc>
@@ -2106,19 +1101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lanneveden-osuuspankki/laoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lansi-kymen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lansi-kymen-osuuspankki/laokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lansi-suomen-osuuspankki</loc>
@@ -2126,19 +1111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lansi-suomen-osuuspankki/lanofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lansi-uudenmaan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lansi-uudenmaan-osuuspankki/laoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lansi-uudenmaan-saastopankki</loc>
@@ -2146,19 +1121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lansi-uudenmaan-saastopankki/lastfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lapin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lapin-osuuspankki/lasufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lapinlahden-osuuspankki</loc>
@@ -2166,19 +1131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lapinlahden-osuuspankki/laplfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lappajarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lappajarven-osuuspankki/laosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lappo-andelsbank</loc>
@@ -2186,19 +1141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lappo-andelsbank/laadfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lapuan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lapuan-osuuspankki/lapufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lavian-osuuspankki</loc>
@@ -2206,19 +1151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lavian-osuuspankki/laoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lehtimaen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lehtimaen-osuuspankki/leosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lemin-osuuspankki</loc>
@@ -2226,19 +1161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lemin-osuuspankki/leokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/leppavirran-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/leppavirran-osuuspankki/leoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/liedon-osuuspankki</loc>
@@ -2246,19 +1171,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/liedon-osuuspankki/liosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/liedon-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/liedon-saastopankki/lsaafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/limingan-osuuspankki</loc>
@@ -2266,19 +1181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/limingan-osuuspankki/lioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/liperin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/liperin-osuuspankki/liopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/liqvinet-oy</loc>
@@ -2286,19 +1191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/liqvinet-oy/liqvfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/localtapiola-asset-management-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/localtapiola-asset-management-ltd/ltapfi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/loimaan-seudun-osuuspankki</loc>
@@ -2306,19 +1201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/loimaan-seudun-osuuspankki/losofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lokalahden-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lokalahden-osuuspankki/loosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/lopen-osuuspankki</loc>
@@ -2326,19 +1211,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/lopen-osuuspankki/looufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/lounais-suomen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/lounais-suomen-osuuspankki/loopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/luhangan-osuuspankki</loc>
@@ -2346,19 +1221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/luhangan-osuuspankki/luopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/luopioisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/luopioisten-osuuspankki/luosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/luumaen-osuuspankki</loc>
@@ -2366,19 +1231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/luumaen-osuuspankki/luoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/luvian-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/luvian-osuuspankki/luoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/maaningan-osuuspankki</loc>
@@ -2386,19 +1241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/maaningan-osuuspankki/maoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/mandatum-life-investment-services-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/mandatum-life-investment-services-ltd/mlirfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/mantan-seudun-osuuspankki</loc>
@@ -2406,19 +1251,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/mantan-seudun-osuuspankki/maekfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/mantsalan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/mantsalan-osuuspankki/maokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/marttilan-osuuspankki</loc>
@@ -2426,19 +1261,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/marttilan-osuuspankki/maunfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/maskun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/maskun-osuuspankki/maukfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/mb-corporate-finance-limited</loc>
@@ -2446,19 +1271,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/mb-corporate-finance-limited/mbcffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/mellilan-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/mellilan-seudun-osuuspankki/mesnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/merimaskun-osuuspankki</loc>
@@ -2466,19 +1281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/merimaskun-osuuspankki/meosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/metsa-group-treasury-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/metsa-group-treasury-oy/mgrpfi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/metsamaan-osuuspankki</loc>
@@ -2486,19 +1291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/metsamaan-osuuspankki/meoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/metso-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/metso-corporation/mtsofihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/miehikkalan-osuuspankki</loc>
@@ -2506,19 +1301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/miehikkalan-osuuspankki/mioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/mietoisten-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/mietoisten-saastopankki/misnfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/model-it-oy</loc>
@@ -2526,19 +1311,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/model-it-oy/mddefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/mouhijarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/mouhijarven-osuuspankki/mooufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/multian-osuuspankki</loc>
@@ -2546,19 +1321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/multian-osuuspankki/muosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/municipality-finance-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/municipality-finance-plc/mufifihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/mynamaen-osuuspankki</loc>
@@ -2566,19 +1331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/mynamaen-osuuspankki/myosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/myrskylan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/myrskylan-osuuspankki/myoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/myrskylan-saastopankki</loc>
@@ -2586,19 +1341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/myrskylan-saastopankki/mysafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nagu-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nagu-andelsbank/naanfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nakkilan-osuuspankki</loc>
@@ -2606,19 +1351,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nakkilan-osuuspankki/naoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/narpes-sparbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/narpes-sparbank/naskfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/national-westminster-bank-plc-filial-i-finland</loc>
@@ -2626,19 +1361,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/national-westminster-bank-plc-filial-i-finland/nwfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/neste-oyj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/neste-oyj/nstefi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/netposti</loc>
@@ -2646,19 +1371,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/netposti/netpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/niinijoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/niinijoen-osuuspankki/niosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nivalan-jarvikylan-osuuspankki</loc>
@@ -2666,19 +1381,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nivalan-jarvikylan-osuuspankki/nijofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nivalan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nivalan-osuuspankki/nioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nokia-corporation</loc>
@@ -2686,19 +1391,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nokia-corporation/nooafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nomura-international-plc-suomen-sivuliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nomura-international-plc-suomen-sivuliike/nisufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nooa-saastoepankki-oy</loc>
@@ -2706,19 +1401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nooa-saastoepankki-oy/noasfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-aaa-government-bond-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-aaa-government-bond-fund/nagbfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefond-stabil</loc>
@@ -2726,19 +1411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefond-stabil/noktfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefonden-sverige</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefonden-sverige/nokvfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefonden-vaerden</loc>
@@ -2746,29 +1421,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-aktiefonden-vaerden/nokafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-alfa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-alfa/nollfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-avtalspensionsfond-midi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-avtalspensionsfond-midi/novdfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-bank-ab-publ-finnish-branch</loc>
@@ -2826,19 +1486,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-capital-protection-75/noaofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-china-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-china-fund/nohffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-corporate-bond-fund</loc>
@@ -2846,19 +1496,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-corporate-bond-fund/ncbffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-donationsmedelsfond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-donationsmedelsfond/nodofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-eastern-europe-fund</loc>
@@ -2866,19 +1506,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-eastern-europe-fund/neeffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-emerging-market-bond-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-emerging-market-bond-fund/nemofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-emerging-market-equities-fund</loc>
@@ -2886,19 +1516,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-emerging-market-equities-fund/nemefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-equity-portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-equity-portfolio/noelfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-euro-medium-term-bond-fund</loc>
@@ -2906,19 +1526,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-euro-medium-term-bond-fund/nemtfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-europe-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-europe-fund/noeufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-european-equity-markets-fund</loc>
@@ -2926,19 +1536,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-european-equity-markets-fund/neemfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-european-high-yield-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-european-high-yield-fund/nehyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-european-index-fund</loc>
@@ -2946,19 +1546,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-european-index-fund/neiffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-european-new-frontiers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-european-new-frontiers/nenffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-far-east-fund</loc>
@@ -2966,19 +1556,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-far-east-fund/nfeffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-finland-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-finland-fund/nofufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-finnish-130-30</loc>
@@ -2986,19 +1566,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-finnish-130-30/nofhfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-finnish-small-cap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-finnish-small-cap/nfmcfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-fixed-income-portfolio-plus</loc>
@@ -3006,19 +1576,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-fixed-income-portfolio-plus/nfiofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-foeretagsobligationsfond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-foeretagsobligationsfond/nofefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-foresta-fund</loc>
@@ -3026,19 +1586,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-foresta-fund/nofffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-generationsfond-90-tal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-generationsfond-90-tal/nontfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-generationsfond-senior</loc>
@@ -3046,19 +1596,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-generationsfond-senior/nonefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-dividend-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-dividend-fund/ngdffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-emerging-markets-equities-ucits-etf</loc>
@@ -3066,19 +1606,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-emerging-markets-equities-ucits-etf/ngemfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-enchanced-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-enchanced-fund/ngeffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-high-yield</loc>
@@ -3086,19 +1616,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-high-yield/nghyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-index-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-index-fund/ngiffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-global-technology-fund</loc>
@@ -3106,19 +1626,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-global-technology-fund/ngtffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-henkivakuutus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-henkivakuutus/nohefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-indexfond-sverige</loc>
@@ -3126,19 +1636,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-indexfond-sverige/nonsfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-india-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-india-fund/noiffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-institutionell-aktiefoervaltning</loc>
@@ -3146,19 +1646,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-institutionell-aktiefoervaltning/noikfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-invest-european-smaller-favourites-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-invest-european-smaller-favourites-fund/niemfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-investment-management-ab-finnish-branch</loc>
@@ -3166,19 +1656,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-investment-management-ab-finnish-branch/nimffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-japan-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-japan-fund/nojffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-latinamerikafond</loc>
@@ -3186,19 +1666,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-latinamerikafond/noltfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-aggressiv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-aggressiv/nlsafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-balans</loc>
@@ -3206,19 +1676,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-balans/nladfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-defensiv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-defensiv/nlsnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-global</loc>
@@ -3226,19 +1686,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-global/nlagfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-offensiv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-aktiva-offensiv/nlslfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-alternatives</loc>
@@ -3246,19 +1696,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-alternatives/nlalfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-equity-nlp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-equity-nlp/nlaffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-erkki-etola</loc>
@@ -3266,19 +1706,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-erkki-etola/nlsifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-heikki-kyostila</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-heikki-kyostila/nlaafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-kauppa-ja-kone</loc>
@@ -3286,19 +1716,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-kauppa-ja-kone/nlanfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-nordea-maailma-osake</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-nordea-maailma-osake/nlsdfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-private-equity</loc>
@@ -3306,19 +1726,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-private-equity/nlpqfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-real-estate</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-life-assurance-finland-ltd-real-estate/nlsffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-medica-fund</loc>
@@ -3326,19 +1736,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-medica-fund/nomffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-nordenfond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-nordenfond/nonofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-nordic-fund</loc>
@@ -3346,19 +1746,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-nordic-fund/nonffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-nordic-small-cap-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-nordic-small-cap-fund/nnscfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-norsk-kredittobligasjon-fund</loc>
@@ -3366,19 +1756,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-norsk-kredittobligasjon-fund/nnkffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-north-america-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-north-america-fund/nnaffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-obligationsfond</loc>
@@ -3386,19 +1766,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-obligationsfond/nooifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-olympiafond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-olympiafond/noolfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-plan-konservativ-placeringsforening</loc>
@@ -3406,19 +1776,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-plan-konservativ-placeringsforening/npkpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-balanced-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-balanced-fund/npaafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-conservative-fund</loc>
@@ -3426,19 +1786,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-conservative-fund/npatfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-balanced-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-balanced-fund/ngbffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-growth-fund</loc>
@@ -3446,19 +1796,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-growth-fund/nggffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-moderate-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-global-moderate-fund/ngmffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-growth-fund</loc>
@@ -3466,19 +1806,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-growth-fund/npagfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-moderate-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-premium-asset-management-moderate-fund/npanfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-equity-opportunities-fund</loc>
@@ -3486,19 +1816,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-equity-opportunities-fund/npeofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-fixed-income</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-fixed-income/npfcfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-focus-finland-fund</loc>
@@ -3506,19 +1826,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-focus-finland-fund/npfifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-focus-nordic-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-focus-nordic-fund/npfnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-kort-obligasjon-fund</loc>
@@ -3526,19 +1836,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-kort-obligasjon-fund/npkofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-likviditet-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-likviditet-fund/nplffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-norsk-aksje-portefolje</loc>
@@ -3546,19 +1846,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-norsk-aksje-portefolje/npnafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-raenteportfoelie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-private-banking-raenteportfoelie/noprfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-pro-european-fund</loc>
@@ -3566,19 +1856,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-pro-european-fund/npeffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-pro-finland-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-pro-finland-fund/npfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-pro-stable-return-fund</loc>
@@ -3586,19 +1866,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-pro-stable-return-fund/npsrfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-rentefond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-rentefond/nondfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-rentefond-laanga-placement</loc>
@@ -3606,29 +1876,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-rentefond-laanga-placement/nrlpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-russia-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-russia-fund/nrfnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-savings-10</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-savings-10/novgfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-savings-25</loc>
@@ -3651,19 +1906,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-savings-75/novvfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-savings-fixed-income</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-savings-fixed-income/nsfnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-smaabolagsfond</loc>
@@ -3671,19 +1916,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-smaabolagsfond/nosdfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-stabile-equities-ucits-etf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-stabile-equities-ucits-etf/nseufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-stable-return-fund</loc>
@@ -3691,19 +1926,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-stable-return-fund/nsrffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-stratega-10</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-stratega-10/noggfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-stratega-fixed-income</loc>
@@ -3711,19 +1936,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-stratega-fixed-income/nsfifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-swe-inflation-linked-bond-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-swe-inflation-linked-bond-fund/nsilfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-swe-institutional-short-duration-bond-fund</loc>
@@ -3731,19 +1946,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-swe-institutional-short-duration-bond-fund/nsisfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-equidity-market-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-equidity-market-fund/nsemfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-ideas-equity-fund</loc>
@@ -3751,19 +1956,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-ideas-equity-fund/nsiqfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-stars</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-swedish-stars/nowsfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-us-equidity-market-fund</loc>
@@ -3771,19 +1966,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-us-equidity-market-fund/nemffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-world-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-world-fund/nowffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordea-yield-fund</loc>
@@ -3791,19 +1976,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordea-yield-fund/noyffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordeaprivate-banking-obligasjon-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordeaprivate-banking-obligasjon-fund/npoffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nordic-investment-bank</loc>
@@ -3811,19 +1986,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordic-investment-bank/noinfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/nordnet-bank-ab-suomen-sivuliike</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/nordnet-bank-ab-suomen-sivuliike/nousfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/northern-star-partners-oy</loc>
@@ -3831,19 +1996,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/northern-star-partners-oy/notpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/norvestia-oyj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/norvestia-oyj/nooyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/nousiaisten-osuuspankki</loc>
@@ -3851,19 +2006,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/nousiaisten-osuuspankki/noosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/oma-saastopankki-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/oma-saastopankki-oy/omsafi2s</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/omx-nordic-exchange-group-oy</loc>
@@ -3871,19 +2016,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/omx-nordic-exchange-group-oy/xfomfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/onvest-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/onvest-oy/onvefi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/op-corporate-bank-plc</loc>
@@ -3891,19 +2026,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-corporate-bank-plc/okoyfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-corporate-bank-plc-markets-clearing-and-settlement-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/op-corporate-bank-plc-markets-clearing-and-settlement</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-corporate-bank-plc-markets-clearing-and-settlement-/opsefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/op-pension-fund</loc>
@@ -3911,19 +2036,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-pension-fund/pefnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-pohjola-group-securities-transaction-reportingop-branches-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/op-pohjola-group-securities-transaction-reportingop-branches</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/op-pohjola-group-securities-transaction-reportingop-branches-/pohgfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/opuscapita-group-oy</loc>
@@ -3931,19 +2046,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/opuscapita-group-oy/opusfi2h</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/orimattilan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/orimattilan-osuuspankki/orosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/oripaan-osuuspankki</loc>
@@ -3951,19 +2056,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/oripaan-osuuspankki/oropfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/oriveden-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/oriveden-seudun-osuuspankki/orsofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ostnylands-andelsbank</loc>
@@ -3971,19 +2066,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ostnylands-andelsbank/osanfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ostra-korsholms-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ostra-korsholms-andelsbank/osknfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/osuuspankki-kantrisalo</loc>
@@ -3991,19 +2076,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/osuuspankki-kantrisalo/oskafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/oulaisten-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/oulaisten-osuuspankki/ouosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/oulun-osuuspankki</loc>
@@ -4011,19 +2086,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/oulun-osuuspankki/ouopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/outokummun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/outokummun-osuuspankki/ououfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/outotec-oyj</loc>
@@ -4031,19 +2096,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/outotec-oyj/outcfi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/overmark-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/overmark-andelsbank/ovanfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/oy-ahola-maliniemi-partners-ab</loc>
@@ -4051,19 +2106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/oy-ahola-maliniemi-partners-ab/ahmpfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/oy-samlink-ab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/oy-samlink-ab/salkfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/paattisten-osuuspankki</loc>
@@ -4071,19 +2116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/paattisten-osuuspankki/paopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/paijat-hameen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/paijat-hameen-osuuspankki/paoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/paltamon-osuuspankki</loc>
@@ -4091,19 +2126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/paltamon-osuuspankki/paoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pareto-securities-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pareto-securities-oy/ojfffih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/parikkalan-osuuspankki</loc>
@@ -4111,19 +2136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/parikkalan-osuuspankki/paokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/parkanon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/parkanon-osuuspankki/paoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/parkanon-saastopankki</loc>
@@ -4131,19 +2146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/parkanon-saastopankki/paakfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pedersorenejdens-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pedersorenejdens-andelsbank/peaefi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pension-fennia</loc>
@@ -4151,19 +2156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pension-fennia/pefefi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/peraseinajoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/peraseinajoen-osuuspankki/peoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/perhon-osuuspankki</loc>
@@ -4171,19 +2166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/perhon-osuuspankki/peopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/petajaveden-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/petajaveden-osuuspankki/peosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pielaveden-osuuspankki</loc>
@@ -4191,19 +2176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pielaveden-osuuspankki/pioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pielisen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pielisen-osuuspankki/piosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pihtiputaan-osuuspankki</loc>
@@ -4211,19 +2186,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pihtiputaan-osuuspankki/pioafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/piikkion-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/piikkion-osuuspankki/piikfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pohjanmaan-osuuspankki</loc>
@@ -4231,19 +2196,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pohjanmaan-osuuspankki/kaoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pohjois-savon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pohjois-savon-osuuspankki/poosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pohjola-asset-management-limited</loc>
@@ -4251,19 +2206,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pohjola-asset-management-limited/poaefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pohjolan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pohjolan-osuuspankki/pooafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/polvijarven-osuuspankki</loc>
@@ -4271,19 +2216,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/polvijarven-osuuspankki/pooufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/porvoon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/porvoon-osuuspankki/poopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/posion-osuuspankki</loc>
@@ -4291,29 +2226,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/posion-osuuspankki/poonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/poytyan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/poytyan-osuuspankki/pookfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pp-laskenta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pp-laskenta/pplafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/privanet-capital-markets-oy</loc>
@@ -4336,19 +2256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/privanet-securities-ltd/pseufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pudasjarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pudasjarven-osuuspankki/puosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pukkilan-osuuspankki</loc>
@@ -4356,19 +2266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pukkilan-osuuspankki/puoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pulkkilan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pulkkilan-osuuspankki/puopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/punkalaitumen-osuuspankki</loc>
@@ -4376,19 +2276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/punkalaitumen-osuuspankki/puonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/puolangan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/puolangan-osuuspankki/puokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/purmo-andelsbank</loc>
@@ -4396,19 +2286,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/purmo-andelsbank/puanfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pyhajarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pyhajarven-osuuspankki/pyoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pyhalaakson-osuuspankki</loc>
@@ -4416,19 +2296,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pyhalaakson-osuuspankki/pyosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/pyharannan-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/pyharannan-saastopankki/pysafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/pyhaselan-paikallisosuuspankki</loc>
@@ -4436,19 +2306,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/pyhaselan-paikallisosuuspankki/pypafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/quorum-fund-management-company-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/quorum-fund-management-company-ltd/qfmcfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/raahen-seudun-osuuspankki</loc>
@@ -4456,19 +2316,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/raahen-seudun-osuuspankki/rasufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/raakkylan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/raakkylan-osuuspankki/raosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ramirent-plc</loc>
@@ -4476,19 +2326,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ramirent-plc/rmrtfi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/rantasalmen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/rantasalmen-osuuspankki/raoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/rautalammin-osuuspankki</loc>
@@ -4496,19 +2336,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/rautalammin-osuuspankki/raokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/reisjarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/reisjarven-osuuspankki/reosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/resurs-bank-ab-suomen-sivuliike</loc>
@@ -4516,19 +2346,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/resurs-bank-ab-suomen-sivuliike/reskfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/riihimaen-seudun-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/riihimaen-seudun-osuuspankki/risofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/riistaveden-osuuspankki</loc>
@@ -4536,19 +2356,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/riistaveden-osuuspankki/riosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ruoveden-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ruoveden-osuuspankki/ruosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ruukin-osuuspankki</loc>
@@ -4556,19 +2366,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ruukin-osuuspankki/ruoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/rvm-investium-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/rvm-investium-oy/rvinfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/rymattylan-osuuspankki</loc>
@@ -4576,19 +2376,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/rymattylan-osuuspankki/ryoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/saastopankki-optia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/saastopankki-optia/saotfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sakylan-osuuspankki</loc>
@@ -4596,29 +2386,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sakylan-osuuspankki/saosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sallan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sallan-osuuspankki/saoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/salon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/salon-osuuspankki/saokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sampo-plc</loc>
@@ -4661,19 +2436,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sanoma-corporation/sawsfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sauvon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sauvon-osuuspankki/saoifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/savitaipaleen-osuuspankki</loc>
@@ -4681,29 +2446,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/savitaipaleen-osuuspankki/saupfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/s-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/s-bank-ltd/sbanfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/s-bank-ltd-formerly-fim-investment-services-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/s-bank-ltd-formerly-fim-investment-services-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/s-bank-ltd-formerly-fim-investment-services-ltd-/fisefihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/scania-finans-ab-finnish-branch</loc>
@@ -4711,19 +2461,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/scania-finans-ab-finnish-branch/sffnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/seb-fund-management-company-finland-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/seb-fund-management-company-finland-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/seb-fund-management-company-finland-ltd-/segofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/seb-kort-bank-ab-helsingin-sivuliike</loc>
@@ -4731,19 +2471,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/seb-kort-bank-ab-helsingin-sivuliike/skhsfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/seb-wealth-management-finland-ltd-former-seb-gyllenberg-asset-management-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/seb-wealth-management-finland-ltd-former-seb-gyllenberg-asset-management-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/seb-wealth-management-finland-ltd-former-seb-gyllenberg-asset-management-ltd-/gyamfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/seligson-and-co-oyj</loc>
@@ -4751,19 +2481,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/seligson-and-co-oyj/seoyfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sideby-andelsbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sideby-andelsbank/siakfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sievin-osuuspankki</loc>
@@ -4771,19 +2491,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sievin-osuuspankki/sioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/siikajoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/siikajoen-osuuspankki/siokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/siikalatvan-osuuspankki</loc>
@@ -4791,19 +2501,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/siikalatvan-osuuspankki/sionfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/siilinjarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/siilinjarven-osuuspankki/siosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sijoitusrahasto-nordea-north-american-enhanced</loc>
@@ -4811,19 +2511,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sijoitusrahasto-nordea-north-american-enhanced/snnmfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sijoitusrahasto-nordea-private-banking-equity-core</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sijoitusrahasto-nordea-private-banking-equity-core/snpefih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/simpeleen-osuuspankki</loc>
@@ -4831,19 +2521,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/simpeleen-osuuspankki/sioifi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/skandinaviska-enskilda-banken</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/skandinaviska-enskilda-banken/essefihx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/skandinaviska-enskilda-banken-ab-publ-helsinki-branch</loc>
@@ -4851,19 +2531,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/skandinaviska-enskilda-banken-ab-publ-helsinki-branch/enssfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/skargardssparbanken-ab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/skargardssparbanken-ab/skasfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sofi-pankkiiriliike-sofi-securities-inc</loc>
@@ -4871,19 +2541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sofi-pankkiiriliike-sofi-securities-inc/sopafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/solidus-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/solidus-oy/sodufih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/somerniemen-osuuspankki</loc>
@@ -4891,19 +2551,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/somerniemen-osuuspankki/soosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/someron-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/someron-osuuspankki/sooufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/someron-saastopankki</loc>
@@ -4911,19 +2561,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/someron-saastopankki/soaofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sonkajarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sonkajarven-osuuspankki/soopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sotkamon-osuuspankki</loc>
@@ -4931,19 +2571,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sotkamon-osuuspankki/sooafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sp-kapitaali-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sp-kapitaali-oy/kaplfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/specialfonden-pappers</loc>
@@ -4951,19 +2581,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/specialfonden-pappers/seepfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sp-rahastoyhtio-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sp-rahastoyhtio-oy/sphtfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/stadshypotek-ab-julk-suomen-sivukonttoritoiminta</loc>
@@ -4971,19 +2591,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/stadshypotek-ab-julk-suomen-sivukonttoritoiminta/sjsifih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/state-treasury</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/state-treasury/vkskfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sulkavan-osuuspankki</loc>
@@ -4991,29 +2601,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sulkavan-osuuspankki/suoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/suodenniemen-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/suodenniemen-saastopankki/susofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/suomen-hypoteekkiyhdistys-mortgage-society-of-finland-</loc>
+    <loc>https://swiftcodedir.com/swift/finland/suomen-hypoteekkiyhdistys-mortgage-society-of-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/suomen-hypoteekkiyhdistys-mortgage-society-of-finland-/shmsfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/suomen-pankki-finlands-bank</loc>
@@ -5081,19 +2676,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/suomen-pankkiiriliike-oy/supnfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/suomenniemen-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/suomenniemen-saastopankki/sussfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/suomussalmen-osuuspankki</loc>
@@ -5101,19 +2686,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/suomussalmen-osuuspankki/suopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/suonenjoen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/suonenjoen-osuuspankki/suoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/suupohjan-osuuspankki</loc>
@@ -5121,29 +2696,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/suupohjan-osuuspankki/suosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/suur-savon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/suur-savon-osuuspankki/suonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/svea-ekonomi-ab-filial-i-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/svea-ekonomi-ab-filial-i-finland/seidfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/svenska-handelsbanken</loc>
@@ -5166,19 +2726,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/swedbank-ab/swedfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/sysman-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/sysman-osuuspankki/syosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/sysman-saastopankki</loc>
@@ -5186,19 +2736,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/sysman-saastopankki/sysafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/taaleritehdas-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/taaleritehdas-oy/taalfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/taivalkosken-osuuspankki</loc>
@@ -5206,19 +2746,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/taivalkosken-osuuspankki/taoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/taivassalon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/taivassalon-osuuspankki/taoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tampereen-seudun-osuuspankki</loc>
@@ -5226,19 +2756,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tampereen-seudun-osuuspankki/taeofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tapiola-asset-management-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tapiola-asset-management-ltd/taplfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tarvasjoen-osuuspankki</loc>
@@ -5246,19 +2766,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tarvasjoen-osuuspankki/taopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/teliasonera-finans-finland-filial-till-teliasonera-finans-ab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/teliasonera-finans-finland-filial-till-teliasonera-finans-ab/tffffi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tervolan-osuuspankki</loc>
@@ -5266,19 +2776,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tervolan-osuuspankki/teoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tervon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tervon-osuuspankki/teosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tf-bank-ab-filial-finland</loc>
@@ -5286,19 +2786,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tf-bank-ab-filial-finland/fifdfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/the-royal-bank-of-scotland-plc-filial-i-finland</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/the-royal-bank-of-scotland-plc-filial-i-finland/rbosfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/the-state-pension-fund</loc>
@@ -5306,19 +2796,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/the-state-pension-fund/stpdfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tieto-oyj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tieto-oyj/ticofihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tiistenjoen-osuuspankki</loc>
@@ -5326,19 +2806,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tiistenjoen-osuuspankki/tiosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/titanium-rahastoyhtio-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/titanium-rahastoyhtio-oy/tirhfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/toholammin-osuuspankki</loc>
@@ -5346,19 +2816,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/toholammin-osuuspankki/toosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tornion-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tornion-osuuspankki/toopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/turun-seudun-osuuspankki</loc>
@@ -5366,19 +2826,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/turun-seudun-osuuspankki/tusufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tuuloksen-saastopankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tuuloksen-saastopankki/tusafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tuupovaaran-osuuspankki</loc>
@@ -5386,19 +2836,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tuupovaaran-osuuspankki/tuoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tuusniemen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tuusniemen-osuuspankki/tuosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/tyottomyysvakuutusrahasto</loc>
@@ -5406,19 +2846,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/tyottomyysvakuutusrahasto/tyotfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/tyrnavan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/tyrnavan-osuuspankki/tyosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ub-rahastoyhtio-oy</loc>
@@ -5426,19 +2856,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ub-rahastoyhtio-oy/rahtfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ub-securities-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ub-securities-oy/unbrfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ullavan-osuuspankki</loc>
@@ -5446,19 +2866,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ullavan-osuuspankki/ulosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/umo-capital-oy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/umo-capital-oy/ulkofih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/united-bankers-omaisuudenhoito-oy</loc>
@@ -5466,19 +2876,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/united-bankers-omaisuudenhoito-oy/unomfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/upm-kymmene-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/upm-kymmene-corporation/upmkfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/urjalan-osuuspankki</loc>
@@ -5486,19 +2886,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/urjalan-osuuspankki/urosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/utajarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/utajarven-osuuspankki/utosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/uukuniemen-osuuspankki</loc>
@@ -5506,19 +2896,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/uukuniemen-osuuspankki/uuosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vaasan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vaasan-osuuspankki/vaopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vakka-suomen-osuuspankki</loc>
@@ -5526,19 +2906,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vakka-suomen-osuuspankki/vaoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/valkeakosken-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/valkeakosken-osuuspankki/vaoafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/valmet-corporation</loc>
@@ -5546,19 +2916,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/valmet-corporation/vlmtfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/valo-research-and-trading-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/valo-research-and-trading-ltd/varafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vammalan-seudun-osuuspankki</loc>
@@ -5566,19 +2926,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vammalan-seudun-osuuspankki/vasofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vampulan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vampulan-osuuspankki/vaonfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/varainhallinta-tresor-oy</loc>
@@ -5586,19 +2936,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/varainhallinta-tresor-oy/vatsfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/varpaisjarven-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/varpaisjarven-osuuspankki/vaokfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vaskion-osuuspankki</loc>
@@ -5606,19 +2946,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vaskion-osuuspankki/vaosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vehmersalmen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vehmersalmen-osuuspankki/veosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/veritas-pension-fund</loc>
@@ -5626,19 +2956,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/veritas-pension-fund/vepffi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vesannon-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vesannon-osuuspankki/veoufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vessila-oy-ab</loc>
@@ -5646,19 +2966,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vessila-oy-ab/vessfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vetelin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vetelin-osuuspankki/veopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vetelin-ylipaan-osuuspankki</loc>
@@ -5666,19 +2976,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vetelin-ylipaan-osuuspankki/veyofi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/viereman-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/viereman-osuuspankki/vierfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vihannin-osuuspankki</loc>
@@ -5686,19 +2986,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vihannin-osuuspankki/viosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vimpelin-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vimpelin-osuuspankki/vioufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/vimpu-intressenter-ab</loc>
@@ -5706,19 +2996,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/vimpu-intressenter-ab/viitfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/virala-oy-ab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/virala-oy-ab/virafih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/virolahden-osuuspankki</loc>
@@ -5726,19 +3006,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/virolahden-osuuspankki/viopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/virtain-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/virtain-osuuspankki/vioafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/visio-varainhoito-oy</loc>
@@ -5746,19 +3016,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/visio-varainhoito-oy/visvfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/vora-sparbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/vora-sparbank/vospfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/wallstreet-asset-management-ltd</loc>
@@ -5766,19 +3026,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/wallstreet-asset-management-ltd/waagfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/wartsila-oyj-abp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/wartsila-oyj-abp/wrtcfihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/wihuri-international-oy</loc>
@@ -5786,19 +3036,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/wihuri-international-oy/wihufihh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/williams-de-broe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/williams-de-broe/wibrfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/wip-asset-management</loc>
@@ -5806,19 +3046,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/wip-asset-management/wianfih1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ylaneen-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ylaneen-osuuspankki/ylosfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/yliharman-saastopankki</loc>
@@ -5826,19 +3056,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/yliharman-saastopankki/ylsafi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ylitornion-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/ylitornion-osuuspankki/yloufi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/finland/ylivieskan-osuuspankki</loc>
@@ -5846,28 +3066,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ylivieskan-osuuspankki/ylopfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/ypajan-osuuspankki</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/finland/ypajan-osuuspankki/yposfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/finland/yttermark-sparbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/finland/yttermark-sparbank/ytspfi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

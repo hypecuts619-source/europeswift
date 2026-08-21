@@ -21,29 +21,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/banka-ekonomike-sh-a/ekomxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kosovo/banka-kombetare-tregtare-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/banka-kombetare-tregtare-sh-a/ncbaxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/banka-per-biznes-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/kosovo/banka-per-biznes-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/banka-per-biznes-sh-a-/bpbxxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kosovo/central-bank-of-the-republic-of-kosovo</loc>
@@ -51,49 +36,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/central-bank-of-the-republic-of-kosovo/cbrkxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kosovo/jugobanka-jugobanka-a-d-kosovska-mitrovica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/jugobanka-jugobanka-a-d-kosovska-mitrovica/jjkmxk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/nlb-prishtina-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/kosovo/nlb-prishtina-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/nlb-prishtina-sh-a-/nlprxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/procredit-bank-kosovo-formerly-micro-enterprise-bank-pristina-kosovo-</loc>
+    <loc>https://swiftcodedir.com/swift/kosovo/procredit-bank-kosovo-formerly-micro-enterprise-bank-pristina-kosovo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/procredit-bank-kosovo-formerly-micro-enterprise-bank-pristina-kosovo-/mbkoxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kosovo/raiffeisen-bank-kosovo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/raiffeisen-bank-kosovo/rbkoxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kosovo/teb-sha</loc>
@@ -226,18 +186,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/turkiye-cumhuriyeti-ziraat-bankasi/tczbxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kosovo/turkiye-is-bankasi-a-s-all-kosovo-branches</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kosovo/turkiye-is-bankasi-a-s-all-kosovo-branches/isbkxkpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -16,29 +16,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-angolano-de-investimentos-sa/baipaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-angolano-negocios-e-comercio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-angolano-negocios-e-comercio/anceaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-bic-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-bic-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-bic-s-a-/bccbaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-caixa-geral-de-angola</loc>
@@ -46,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-caixa-geral-de-angola/bcgaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-comercial-angolano</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-comercial-angolano/comlaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-comercial-do-huambo</loc>
@@ -66,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-comercial-do-huambo/bchuaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-de-desenvolvimento-de-angola</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-desenvolvimento-de-angola/bdaaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-de-fomento-angola-sa</loc>
@@ -86,29 +51,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-fomento-angola-sa/bfabaol1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-de-fomento-sarl-angola</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-fomento-sarl-angola/bfmxaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-investimento-rural-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-de-investimento-rural-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-investimento-rural-s-a-/birvaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-de-negocios-internacional</loc>
@@ -131,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-de-poupanca-e-credito-sarl/cgdiaol1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-economico-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-economico-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-economico-s-a-/bescaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-kwanza-invest-sa</loc>
@@ -151,29 +91,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-kwanza-invest-sa/bkiaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a-/prtlaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a-formerly-banco-millennium-angola-sa-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a-formerly-banco-millennium-angola-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-millennium-atlantico-s-a-formerly-banco-millennium-angola-sa-/bcomaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-nacional-de-angola</loc>
@@ -196,24 +121,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-postal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-postal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-postal-s-a-/potaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-prestigio-sa-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-prestigio-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-prestigio-sa-/prtsaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-pungo-andongo-sa</loc>
@@ -221,19 +136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-pungo-andongo-sa/puadaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-regional-do-keve-sarl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-regional-do-keve-sarl/brdkaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-sol-sarl</loc>
@@ -241,39 +146,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-sol-sarl/soloaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/banco-valor-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-valor-bank/bvbxaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-vtb-africa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-vtb-africa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-vtb-africa-s-a-/vtblaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-yetu-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/banco-yetu-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/banco-yetu-s-a-/yetuaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/bank-of-china-limited-luanda-branch</loc>
@@ -281,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/bank-of-china-limited-luanda-branch/bkchaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/bci-banco-de-comercio-e-industria</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/bci-banco-de-comercio-e-industria/bcidaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/bmf-banco-bai-microfinancas-sarl</loc>
@@ -301,19 +176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/bmf-banco-bai-microfinancas-sarl/nosaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/bolsa-de-divida-e-valores-de-angola-bodiva-sociedade-gestora-de-mercados-regulamentados-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/bolsa-de-divida-e-valores-de-angola-bodiva-sociedade-gestora-de-mercados-regulamentados-sa/bdvaaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/bpc-banco-de-poupanca-e-credito</loc>
@@ -321,19 +186,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/bpc-banco-de-poupanca-e-credito/bpclaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/british-american-tobacco-angola-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/british-american-tobacco-angola-ltd/batsaol1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/credisul-banco-de-credito-do-sul-sa</loc>
@@ -341,19 +196,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/credisul-banco-de-credito-do-sul-sa/cdtsaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/finibanco-angola-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/finibanco-angola-s-a/fbcoaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/ministerio-das-financas</loc>
@@ -361,19 +206,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/ministerio-das-financas/mdfnaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/angola/sociedada-industrial-tabacos-angola-lda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/sociedada-industrial-tabacos-angola-lda/batsao41</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/sociedade-unificanda-tabacos-angola-lda</loc>
@@ -381,28 +216,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/angola/sociedade-unificanda-tabacos-angola-lda/batsao31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/standard-bank-de-angola-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/angola/standard-bank-de-angola-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/standard-bank-de-angola-s-a-/sbicaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/angola/standard-chartered-bank-angola-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/angola/standard-chartered-bank-angola-sa/scblaolu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

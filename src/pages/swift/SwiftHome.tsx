@@ -138,7 +138,7 @@ export function SwiftHome() {
               filteredCountries.map(c => (
                 <Link 
                   key={c.code} 
-                  to={`/swift/${c.slug}`}
+                  to={`/swift/${c.slug.toLowerCase()}`}
                   className="bg-white dark:bg-slate-900 border dark:border-slate-800 hover:border-[#003399]/50 dark:hover:border-blue-400/50 hover:shadow-lg hover:-translate-y-1 transition-all duration-300 rounded-xl p-4 flex flex-col gap-2 group"
                 >
                   <div className="flex justify-between items-center">

@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/afghan-united-bank/afguafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/afghanistan-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/afghanistan-commercial-bank/tbaaafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/afghanistan-international-bank</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/afghanistan-international-bank/afibafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/arian-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/arian-bank/afabafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/azizi-bank</loc>
@@ -56,32 +36,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/azizi-bank/azbaafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/bakhtar-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/bakhtar-bank/ibafafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch-</loc>
+    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch-/alfhafka803</loc>
+    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch/alfhafka803</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch-/alfhafka</loc>
+    <loc>https://swiftcodedir.com/swift/afghanistan/bank-alfalah-limited-afghanistan-kabul-branch/alfhafka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -91,29 +61,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/banke-millie-afghan/bmafafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/da-afghanistan-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/da-afghanistan-bank/afgbafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/first-microfinance-bank-ltd-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/first-microfinance-bank-ltd-the/fmfbafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/ghazanfar-bank</loc>
@@ -136,19 +91,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/habib-bank-limited/habbafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/industrial-development-bank-of-afghanistan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/industrial-development-bank-of-afghanistan/idtbafk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/maiwand-bank</loc>
@@ -156,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/maiwand-bank/mwbkafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/mortgage-and-construction-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/mortgage-and-construction-bank/cbmoafk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/national-bank-of-pakistan-kabul-branch</loc>
@@ -176,28 +111,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/national-bank-of-pakistan-kabul-branch/nbpaafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/new-kabul-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/new-kabul-bank/kabuafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/afghanistan/pashtany-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/afghanistan/pashtany-bank/pibaafka</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

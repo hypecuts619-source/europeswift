@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/bank-of-africa-burkina-fasso/afribfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-atlantique-burkina-faso</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-atlantique-burkina-faso/atbfbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-centrale-des-etats-de-l-afrique-de-l-ouest</loc>
@@ -51,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-commerciale-du-burkina/bncfbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-de-l-habitat-du-burkina-faso</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-de-l-habitat-du-burkina-faso/bhbfbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-de-l-union-burkina-faso</loc>
@@ -71,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-de-l-union-burkina-faso/bdugbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-nationale-de-developpement</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-nationale-de-developpement/ndevbfb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/banque-pour-le-financement-du-commerce-et-des-investissements-du-burkina</loc>
@@ -91,19 +61,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-pour-le-financement-du-commerce-et-des-investissements-du-burkina/bfcbbfb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-burkina-faso-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-burkina-faso-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-burkina-faso-s-a-/bsahbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/bicia-du-burkina</loc>
@@ -111,19 +71,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/bicia-du-burkina/bicibfbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/caisse-centrale-de-cooperation-economique</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/caisse-centrale-de-cooperation-economique/ccecbfb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/cbao-groupe-attijariwafa-bank-burkina-faso</loc>
@@ -131,29 +81,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/cbao-groupe-attijariwafa-bank-burkina-faso/cbaobfbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/coris-bank-international</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/coris-bank-international/coribfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/depositaire-central-banque-de-reglement-dcbr-burkina-faso-</loc>
+    <loc>https://swiftcodedir.com/swift/burkina-faso/depositaire-central-banque-de-reglement-dcbr-burkina-faso</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/depositaire-central-banque-de-reglement-dcbr-burkina-faso-/dcrcbfb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/ecobank-burkina</loc>
@@ -161,19 +96,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/ecobank-burkina/ecocbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/la-financiere-de-proximite-sa-fiproxi-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/la-financiere-de-proximite-sa-fiproxi-sa/fipxbfb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/orabank-burkina-faso</loc>
@@ -181,28 +106,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/orabank-burkina-faso/orbkbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/societe-generale-burkina-faso</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/societe-generale-burkina-faso/sgbbbfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/burkina-faso/uba-burkina</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/burkina-faso/uba-burkina/bibubfbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

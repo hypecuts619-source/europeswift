@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/access-bank-plc/abngngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/african-export-import-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/african-export-import-bank/afxmngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/asset-management-corporation-of-nigeria</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/asset-management-corporation-of-nigeria/amngngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/b2bsolutins-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/b2bsolutins-ltd/bbsongl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/bank-of-industry-financial-department</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/bank-of-industry-financial-department/boiyngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/british-american-tobacco-nigeria-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/british-american-tobacco-nigeria-ltd/batsng21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/british-american-tobacco-marketing-nigeria-ltd</loc>
@@ -76,19 +46,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/british-american-tobacco-marketing-nigeria-ltd/batsngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/bt-international-nigeria-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/bt-international-nigeria-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/bt-international-nigeria-ltd-/nigingl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/bzx-investments-ltd</loc>
@@ -96,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/bzx-investments-ltd/bzinngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/central-bank-of-nigeria</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/central-bank-of-nigeria/cbningla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/central-securities-clearing-system-plc</loc>
@@ -116,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/central-securities-clearing-system-plc/cscyngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/chapel-hill-denham-securities-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/chapel-hill-denham-securities-limited/chdengl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/citibank-nigeria-limited</loc>
@@ -151,11 +91,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/city-express-bank-limited/ciehngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/coronation-merchant-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -176,29 +111,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/csl-stockbrokers-limited/csskngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/devcom-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/devcom-bank-ltd/devcngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/devcom-merchant-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/devcom-merchant-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/devcom-merchant-bank-ltd-/dembngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/diamond-bank-plc</loc>
@@ -206,29 +126,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/diamond-bank-plc/dblnngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/ecobank-nigeria-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/ecobank-nigeria-limited/ecocngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/fbn-merchant-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/fbn-merchant-bank-limited/kdhlngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/fidelity-bank-plc</loc>
@@ -276,14 +181,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/first-interstate-merchant-bank-nigeria-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/first-interstate-merchant-bank-nigeria-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/first-interstate-merchant-bank-nigeria-ltd-/fimnngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/fortune-international-banc-plc</loc>
@@ -291,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/fortune-international-banc-plc/foibngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/fsdh-merchant-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/fsdh-merchant-bank-ltd/fsdhngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/guaranty-trust-bank-plc</loc>
@@ -326,19 +216,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/gulf-bank-of-nigeria-plc/gbnpngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/hallmark-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/hallmark-bank-plc/halmngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/heritage-banking-company-limited</loc>
@@ -346,19 +226,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/heritage-banking-company-limited/hbclngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/ikon-capital-africa-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/ikon-capital-africa-limited/ikonngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/indorama-eleme-fertilizer-and-chemicals-limited</loc>
@@ -366,19 +236,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/indorama-eleme-fertilizer-and-chemicals-limited/iefcngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/indorama-eleme-petrochemicals-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/indorama-eleme-petrochemicals-limited/inlhngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/jaiz-bank-plc</loc>
@@ -386,19 +246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/jaiz-bank-plc/jaizngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/keystone-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/keystone-bank-limited/plningla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/lobe-bank-of-nigeria</loc>
@@ -406,19 +256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/lobe-bank-of-nigeria/lbningl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/manny-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/manny-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/manny-bank-ltd-/mambngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/metropolitan-bank-ltd</loc>
@@ -426,19 +266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/metropolitan-bank-ltd/metmngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/mobil-oil-nigeria-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/mobil-oil-nigeria-plc/moogngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-limited</loc>
@@ -446,22 +276,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-limited/kacbng21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd-/knubngl1022</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd/knubngl1022</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd-/knubngl1</loc>
+    <loc>https://swiftcodedir.com/swift/nigeria/nigeria-universal-bank-ltd/knubngl1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -471,19 +296,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigerian-export-import-bank/nexmngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/nigerian-industrial-development-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigerian-industrial-development-bank-ltd/nidbngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/nigerian-stock-exchange-the</loc>
@@ -491,19 +306,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/nigerian-stock-exchange-the/xnsangl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/providusbank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/providusbank-plc/umplngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/rand-merchant-bank-nigeria-limited</loc>
@@ -524,11 +329,6 @@
     <loc>https://swiftcodedir.com/swift/nigeria/renaissance-securities-nigeria-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/renaissance-securities-nigeria-limited/reecngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/sabmiller-nigeria</loc>
@@ -581,11 +381,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/skye-bank-plc/prdtngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/stanbic-ibtc-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -636,19 +431,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/sterling-bank-plc/namengla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/suntrust-bank-nigeria-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/suntrust-bank-nigeria-limited/sutgngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/trade-bank-plc</loc>
@@ -656,29 +441,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/trade-bank-plc/tdebngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/trade-on-web-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/trade-on-web-llc/trllngl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/union-bank-of-nigeria-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/union-bank-of-nigeria-plc/ubningla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/nigeria/united-bank-for-africa-plc</loc>
@@ -1251,11 +1021,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/unity-bank-plc/icitngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/nigeria/wema-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1299,10 +1064,5 @@
     <loc>https://swiftcodedir.com/swift/nigeria/zenith-pensions-custodian-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nigeria/zenith-pensions-custodian-limited/zepcngla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

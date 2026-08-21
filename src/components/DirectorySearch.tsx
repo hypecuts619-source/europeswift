@@ -134,7 +134,7 @@ export function DirectorySearch() {
                   key={c.code}
                   className="w-full text-left px-4 py-3 text-base justify-between hover:bg-slate-50 dark:hover:bg-slate-800 rounded-lg flex items-center group transition-colors"
                   onClick={() => {
-                    navigate(`/swift/${c.slug}`);
+                    navigate(`/swift/${c.slug.toLowerCase()}`);
                     setIsOpen(false);
                     setSearchQuery('');
                   }}
@@ -157,7 +157,7 @@ export function DirectorySearch() {
                   key={b.bic}
                   className="w-full text-left px-4 py-3 text-base hover:bg-slate-50 dark:hover:bg-slate-800 rounded-lg flex flex-col group transition-colors"
                   onClick={() => {
-                    navigate(`/swift/${b.countrySlug}/${b.slug}`);
+                    navigate(`/swift/${b.countrySlug.toLowerCase()}/${b.slug.toLowerCase()}`);
                     setIsOpen(false);
                     setSearchQuery('');
                   }}
@@ -181,8 +181,8 @@ export function DirectorySearch() {
                   className="w-full text-left px-4 py-3 text-base hover:bg-slate-50 dark:hover:bg-slate-800 rounded-lg flex flex-col group transition-colors"
                   onClick={() => {
                     const country = countriesData.find(c => c.code === b.country);
-                    const countrySlug = country ? country.slug : b.country.toLowerCase();
-                    const bankSlug = b.bank.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                    const countrySlug = (country ? country.slug : b.country).toLowerCase();
+                    const bankSlug = b.bank.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
                     navigate(`/swift/${countrySlug}/${bankSlug}`);
                     setIsOpen(false);
                     setSearchQuery('');

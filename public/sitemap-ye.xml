@@ -16,24 +16,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/al-amal-microfinance-bank-amb-</loc>
+    <loc>https://swiftcodedir.com/swift/yemen/al-amal-microfinance-bank-amb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/al-amal-microfinance-bank-amb-/aarmyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/alkuraimi-islamic-microfinance-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/alkuraimi-islamic-microfinance-bank/krmbyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/arab-bank-plc-yemen</loc>
@@ -106,19 +96,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/bank-of-yemen/bayeyey1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/yemen/central-bank-of-yemen</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/central-bank-of-yemen/cbyeyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/cooperative-and-agricultural-credit-bank</loc>
@@ -146,19 +126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/housing-credit-bank/hocbyes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/international-bank-of-yemen-y-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/yemen/international-bank-of-yemen-y-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/international-bank-of-yemen-y-s-c-/iboyyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/islamic-bank-of-yemen-for-finance-and-investment</loc>
@@ -199,11 +169,6 @@
     <loc>https://swiftcodedir.com/swift/yemen/ministry-of-finance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/ministry-of-finance/mofyyes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/national-bank-of-yemen</loc>
@@ -256,19 +221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/qatar-national-bank-saq/qnbayesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/yemen/rafidain-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/rafidain-bank/rafbyes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/saba-islamic-bank</loc>
@@ -276,19 +231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/saba-islamic-bank/saaiyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/yemen/shamil-bank-of-yemen-and-bahrain</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/shamil-bank-of-yemen-and-bahrain/sbybyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/tadhamon-international-islamic-bank</loc>
@@ -329,11 +274,6 @@
     <loc>https://swiftcodedir.com/swift/yemen/united-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/united-bank-limited/unilyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/yemen-bank-for-reconstruction-and-development</loc>
@@ -436,19 +376,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/yemen-commercial-bank/yecoyesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/yemen/yemen-gulf-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/yemen-gulf-bank/ygbkyes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/yemen/yemen-kuwait-bank-for-trade-and-investment-y-s-c-the</loc>
@@ -456,18 +386,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/yemen/yemen-kuwait-bank-for-trade-and-investment-y-s-c-the/ykbayesa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/yemen-lng-company-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/yemen/yemen-lng-company-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/yemen/yemen-lng-company-ltd-/yelnyes1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

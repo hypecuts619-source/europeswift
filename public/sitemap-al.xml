@@ -21,29 +21,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/ak-invest-joint-stock-company/akivaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/albania/alpha-bank-albania</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/alpha-bank-albania/crbaaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/american-bank-of-investments-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/american-bank-of-investments-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/american-bank-of-investments-s-a-/empoaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/bank-of-albania</loc>
@@ -91,24 +76,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/banka-kombetare-tregtare-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/banka-kombetare-tregtare-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/banka-kombetare-tregtare-sh-a-/ncbaaltx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/banka-nbg-albania-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/banka-nbg-albania-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/banka-nbg-albania-sh-a-/ethnaltx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/banka-societe-generale-albania</loc>
@@ -116,29 +91,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/banka-societe-generale-albania/puppaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/british-american-tobacco-albania-sh-p-k-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/british-american-tobacco-albania-sh-p-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/british-american-tobacco-albania-sh-p-k-/batsalt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/credins-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/credins-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/credins-bank-s-a-/cdisaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/credit-bank-of-albania</loc>
@@ -146,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/credit-bank-of-albania/cboaaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/albania/first-investment-bank-albania-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/first-investment-bank-albania-sh-a/finvaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/international-commercial-bank</loc>
@@ -166,87 +116,82 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/international-commercial-bank/icoaaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrdur</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrdur</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrdr2</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrdr2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrelb</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrelb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrfie</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrfie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrgjr</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrgjr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrkj1</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrkj1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrkor</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrkor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrlzh</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrlzh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrlus</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrlus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrsh1</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrsh1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltr020</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltr020</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltr010</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltr010</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltr</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrvlr</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrvlr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a-/usalaltrvl2</loc>
+    <loc>https://swiftcodedir.com/swift/albania/intesa-sanpaolo-bank-albania-sh-a/usalaltrvl2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -256,54 +201,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/ministry-of-finance-of-albania/mifbaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/posta-shqiptare-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/posta-shqiptare-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/posta-shqiptare-sh-a-/shqhalt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank-/fefaaltrdur</loc>
+    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank/fefaaltrdur</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank-/fefaaltrfie</loc>
+    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank/fefaaltrfie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank-/fefaaltr</loc>
+    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank/fefaaltr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank-/fefaaltrtir</loc>
+    <loc>https://swiftcodedir.com/swift/albania/procredit-bank-sh-a-albania-formerly-fefad-bank/fefaaltrtir</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/raiffeisen-bank-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/raiffeisen-bank-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/raiffeisen-bank-sh-a-/sgsbaltx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/tirana-bank</loc>
@@ -311,19 +241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/tirana-bank/tirbaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/union-bank-sh-a-</loc>
+    <loc>https://swiftcodedir.com/swift/albania/union-bank-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/union-bank-sh-a-/unalaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/albania/united-bank-of-albania-sh-a</loc>
@@ -331,18 +251,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/albania/united-bank-of-albania-sh-a/aaisaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/albania/veneto-banka-sh-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/albania/veneto-banka-sh-a/itsvaltr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

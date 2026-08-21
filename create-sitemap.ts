@@ -125,12 +125,19 @@ async function generateSitemap() {
       
       const banks = countryData.banks || [];
       for (const bank of banks) {
-        countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}`, 'monthly', '0.6'));
-        const details = countryData.bankDetails?.[bank.slug];
+        if (!bank || !bank.slug) continue;
+        const cleanBankSlug = bank.slug.toLowerCase().replace(/-+/g, '-').replace(/-$/, '');
+        countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug.toLowerCase()}/${cleanBankSlug}`, 'monthly', '0.6'));
+        
+        const details = countryData.bankDetails?.[bank.slug] || countryData.bankDetails?.[cleanBankSlug];
         if (details && Array.isArray(details.branches)) {
-          for (const branch of details.branches) {
-            if (branch && branch.bic) {
-              countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug}/${bank.slug}/${branch.bic.toLowerCase()}`, 'monthly', '0.5'));
+          // If a bank has more than 1 branch, index individual branches.
+          // For single-branch institutions, the parent bank page covers all routing needs.
+          if (details.branches.length > 1) {
+            for (const branch of details.branches) {
+              if (branch && branch.bic) {
+                countryUrls.push(formatUrl(`${rootUrl}/swift/${countrySlug.toLowerCase()}/${cleanBankSlug}/${branch.bic.toLowerCase()}`, 'monthly', '0.5'));
+              }
             }
           }
         }

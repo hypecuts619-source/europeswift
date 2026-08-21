@@ -11,14 +11,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/acesco-caribe-mfg-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/acesco-caribe-mfg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/acesco-caribe-mfg-/acaipr21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/activo-international-bank</loc>
@@ -26,29 +21,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/activo-international-bank/acttprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/andcapital-bank-international-corp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/andcapital-bank-international-corp/acbipr22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/arca-international-bank-inc-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/arca-international-bank-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/arca-international-bank-inc-/arnrprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/banco-popular-de-puerto-rico</loc>
@@ -71,11 +51,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/banco-san-juan-internacional-inc/bsjiprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/banco-santander-puerto-rico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -96,14 +71,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/bancolombia-puerto-rico-internacional-inc-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/bancolombia-puerto-rico-internacional-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/bancolombia-puerto-rico-internacional-inc-/cfsuprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/bancredito-international-bank-corp</loc>
@@ -111,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/bancredito-international-bank-corp/bibcprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/banplus-international-bank-inc-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/banplus-international-bank-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/banplus-international-bank-inc-/bipnprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/bnc-international-banking-corporation</loc>
@@ -131,19 +91,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/bnc-international-banking-corporation/cibpprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/caribe-international-bank-corp-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/caribe-international-bank-corp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/caribe-international-bank-corp-/cbntprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/citibank-na-puerto-rico</loc>
@@ -151,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/citibank-na-puerto-rico/citiprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/cooperativa-de-ahorro-y-credito-sol</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/cooperativa-de-ahorro-y-credito-sol/cpelprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/elite-international-bank</loc>
@@ -171,19 +111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/elite-international-bank/elirprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/euro-pacific-intl-bank-inc-</loc>
+    <loc>https://swiftcodedir.com/swift/puerto-rico/euro-pacific-intl-bank-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/euro-pacific-intl-bank-inc-/eupnprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/facebank-international-corporation</loc>
@@ -191,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/facebank-international-corporation/filcpr22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/firstbank-puerto-rico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/firstbank-puerto-rico/fbprprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-capital-advisers-llc</loc>
@@ -211,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-capital-advisers-llc/gbdcpr21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-group-puerto-rico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-group-puerto-rico/gbprpr21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-savings-and-loan-group-puerto-rico</loc>
@@ -231,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/gbtd-savings-and-loan-group-puerto-rico/gblgpr21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/italbank-international-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/italbank-international-inc/ibiiprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/nodus-international-bank</loc>
@@ -251,29 +151,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/nodus-international-bank/ndbkprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/oriental-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/oriental-bank/obprprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/ponce-federal-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/ponce-federal-bank/pfebpr21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/scotiabank-de-puerto-rico</loc>
@@ -296,28 +181,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/statetrust-international-bank-and-trust-llc/stulprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/stern-international-bank-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/stern-international-bank-llc/siecprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/puerto-rico/vestin-bank-international-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/puerto-rico/vestin-bank-international-llc/veilprsj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

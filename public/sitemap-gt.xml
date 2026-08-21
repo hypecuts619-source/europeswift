@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/bac-reformador/amcngtgt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-agromercantil-de-guatemala-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-agromercantil-de-guatemala-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-agromercantil-de-guatemala-s-a-/agrogtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-america-central</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-america-central/amcngtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-americano-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-americano-s-a/amrigtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-azteca-de-guatemala</loc>
@@ -61,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-azteca-de-guatemala/aztkgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-centroamericano-de-integracion-economica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-centroamericano-de-integracion-economica/bciegtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-corporativo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-corporativo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-corporativo-s-a-/copvgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-de-antigua-s-a</loc>
@@ -91,29 +56,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-antigua-s-a/antggtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-comercio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-comercio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-comercio-s-a-/cmmegtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-credito-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-credito-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-credito-s-a-/bdctgtgt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-de-guatemala</loc>
@@ -131,14 +81,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-la-republica-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-la-republica-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-la-republica-s-a-/reblgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-de-los-trabajadores</loc>
@@ -146,57 +91,52 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-de-los-trabajadores/trajgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g6</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g6</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10ga</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10ga</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g7</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g7</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g8</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g8</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g3</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg1</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g4</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g2</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a-/baejgtg10g5</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-del-ejercito-s-a/baejgtg10g5</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -206,69 +146,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-ficohsa-guatemala/fcohgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-g-and-t-continental-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-g-and-t-continental-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-g-and-t-continental-s-a-/gtcogtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-industrial-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-industrial-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-industrial-s-a-/indlgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-inmobiliario-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-inmobiliario-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-inmobiliario-s-a-/binmgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-internacional-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-internacional-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-internacional-s-a-/dibigtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-inv-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-inv-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-inv-s-a-/fivngtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-metropolitano-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-metropolitano-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-metropolitano-s-a-/bmetgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/banco-nacional-de-la-vivienda</loc>
@@ -276,59 +181,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-nacional-de-la-vivienda/bnvigtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-de-guatemala-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-de-guatemala-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-de-guatemala-s-a-/citbgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a-/bprcgtgcgua</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a/bprcgtgcgua</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a-/bprcgtgc</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a/bprcgtgc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a-/bprkgtg1</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-promerica-s-a/bprkgtg1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-sci-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banco-sci-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banco-sci-s-a-/ciicgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banrural-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/banrural-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/banrural-s-a-/brrlgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/bolsa-de-valores-nacional-sa</loc>
@@ -336,29 +221,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/bolsa-de-valores-nacional-sa/xgtggtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/guatemala/british-american-tobacco-central-america-s-a-sucursal-guatemala</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/british-american-tobacco-central-america-s-a-sucursal-guatemala/batsgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/central-de-valores-nacional-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/central-de-valores-nacional-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/central-de-valores-nacional-s-a-/cevigtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/citibank-n-a-sucursal-guatemala</loc>
@@ -366,19 +236,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/citibank-n-a-sucursal-guatemala/citigtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/guatemala/corporacion-bursatil-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/corporacion-bursatil-sa/corrgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/el-credito-hipotecario-nacional-de-guatemala</loc>
@@ -386,19 +246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/el-credito-hipotecario-nacional-de-guatemala/chnagtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-agromercantil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-agromercantil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-agromercantil-s-a-/fagogtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/financiera-consolidada-s-a</loc>
@@ -406,29 +256,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-consolidada-s-a/fcoogtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-corporativa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-corporativa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-corporativa-s-a-/fcorgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-capitales-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-capitales-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-capitales-s-a-/fircgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-credito-s-a</loc>
@@ -436,22 +271,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-credito-s-a/fcregtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a-/fiocgtg1</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a/fiocgtg1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a-/ocicgtgc</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-de-occidente-s-a/ocicgtgc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -461,29 +291,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-del-pais-s-a/fnpagtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-guatemalteca-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-guatemalteca-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-guatemalteca-s-a-/figagtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-industrial-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-industrial-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-industrial-s-a-/fiudgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/financiera-latinoamericana-s-a</loc>
@@ -491,19 +306,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-latinoamericana-s-a/filmgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-reforma-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-reforma-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-reforma-s-a-/firfgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/guatemala/financiera-san-miguel-s-a</loc>
@@ -511,58 +316,28 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-san-miguel-s-a/fsmcgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/guatemala/financiera-summa-s-a-centro-gerencial-las-margaritas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-summa-s-a-centro-gerencial-las-margaritas/fscggtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-uno-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/financiera-uno-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/financiera-uno-s-a-/fiungtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/fitch-centroamerica-guatemala-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/fitch-centroamerica-guatemala</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/fitch-centroamerica-guatemala-/fripgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/imagenes-computarizadas-de-guatemala-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/imagenes-computarizadas-de-guatemala-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/imagenes-computarizadas-de-guatemala-s-a-/icgsgtgc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/primer-banco-de-ahorro-y-prstamo-para-la-vivienda-familiar-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/guatemala/primer-banco-de-ahorro-y-prstamo-para-la-vivienda-familiar-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/guatemala/primer-banco-de-ahorro-y-prstamo-para-la-vivienda-familiar-s-a-/vivbgtg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

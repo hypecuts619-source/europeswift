@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/bank-of-africa-senegal/afrisnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-atlantique-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-atlantique-senegal/atsnsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-centrale-des-etats-de-l-afrique-de-l-ouest</loc>
@@ -56,14 +46,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-centrale-des-etats-de-l-afrique-de-l-ouest-b-c-e-a-o-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/banque-centrale-des-etats-de-l-afrique-de-l-ouest-b-c-e-a-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-centrale-des-etats-de-l-afrique-de-l-ouest-b-c-e-a-o-/bcaosndp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-de-dakar-sa</loc>
@@ -71,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-de-dakar-sa/bdkrsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-de-l-habitat-du-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-de-l-habitat-du-senegal/lhsesnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-des-institutions-mutualistes-d-afrique-de-l-ouest</loc>
@@ -91,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-des-institutions-mutualistes-d-afrique-de-l-ouest/bimusnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-internationale-pour-le-commerce-et-l-industrie-du-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-internationale-pour-le-commerce-et-l-industrie-du-senegal/bicisndx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-islamique-du-senegal</loc>
@@ -111,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-islamique-du-senegal/issnsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-nationale-pour-le-developpement-economique-du-senegal-bnde-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/banque-nationale-pour-le-developpement-economique-du-senegal-bnde</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-nationale-pour-le-developpement-economique-du-senegal-bnde-/bndxsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-pour-le-commerce-et-l-industrie-senegal</loc>
@@ -131,29 +86,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-pour-le-commerce-et-l-industrie-senegal/colisnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/banque-regionale-de-marches</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-regionale-de-marches/brmxsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-senegal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-senegal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-senegal-s-a-/bsahsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/bgfibank-senegal</loc>
@@ -161,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/bgfibank-senegal/bgfisnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/caisse-nationale-de-credit-agricole-du-senegal-c-n-c-a-s-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/caisse-nationale-de-credit-agricole-du-senegal-c-n-c-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/caisse-nationale-de-credit-agricole-du-senegal-c-n-c-a-s-/cadksnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/caisse-nationale-d-epargne</loc>
@@ -181,19 +111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/caisse-nationale-d-epargne/ndecsnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/citibank-n-a-/citisnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/compagnie-bancaire-de-l-afrique-occidentale</loc>
@@ -201,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/compagnie-bancaire-de-l-afrique-occidentale/cbaosnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/coris-bank-international</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/coris-bank-international/corisnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/credit-du-senegal</loc>
@@ -221,29 +131,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/credit-du-senegal/bcmasnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/credit-international-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/credit-international-sa/clibsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/depositaire-central-banque-de-reglement-dcbr-senegal-</loc>
+    <loc>https://swiftcodedir.com/swift/senegal/depositaire-central-banque-de-reglement-dcbr-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/depositaire-central-banque-de-reglement-dcbr-senegal-/dcecsnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/diamondbank-senegal</loc>
@@ -251,19 +146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/diamondbank-senegal/dblnsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/ecobank-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/ecobank-senegal/ecocsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/international-commercial-bank-senegal</loc>
@@ -271,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/international-commercial-bank-senegal/icsgsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/la-poste</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/la-poste/lpstsnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/massraf-faysal-al-islami-senegal</loc>
@@ -291,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/massraf-faysal-al-islami-senegal/mfissnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/orabank-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/orabank-senegal/orbksnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/senegal/societe-generale-de-banques-au-senegal</loc>
@@ -326,28 +191,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/sonabanque/sonasnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/union-senegalaise-de-banque-pour-le-commerce-et-l-industrie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/senegal/union-senegalaise-de-banque-pour-le-commerce-et-l-industrie/usbasnd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/senegal/united-bank-for-africa-senegal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/senegal/united-bank-for-africa-senegal/unafsnda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

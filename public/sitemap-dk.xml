@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/a-p-moller-maersk/apmmdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/abn-amro-asset-management-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/abn-amro-asset-management-a-s/aasmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/abn-amro-asset-management-fondsmaeglerselskab-a-s</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/abn-amro-asset-management-fondsmaeglerselskab-a-s/abkfdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/absalon-capital-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/absalon-capital-fondsmaeglerselskab-a-s/abakdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/accunia-fondsmaeglerselskab-a-s</loc>
@@ -61,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/accunia-fondsmaeglerselskab-a-s/acfddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/agri-egens-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/agri-egens-sparekasse/agesdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/alm-brand-bank-a-s</loc>
@@ -81,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/alm-brand-bank-a-s/almbdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/almind-spare-og-laanekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/almind-spare-og-laanekasse/alspdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/aloc-a-s</loc>
@@ -101,19 +61,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/aloc-a-s/aoocdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/andelskassen-j-a-k-slagelse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/andelskassen-j-a-k-slagelse/anjsdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/andelskassen-oikos</loc>
@@ -121,29 +71,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/andelskassen-oikos/anokdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/ap-pension</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ap-pension/appndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/arbejdernes-landsbank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/arbejdernes-landsbank-a-s/albadkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/arla-foods-amba</loc>
@@ -171,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/atp-fondsmaeglerselskab-a-s/atfodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/bank-invest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bank-invest/bivedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/banknordik</loc>
@@ -206,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/basisbank-a-s/isnkdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/bestseller-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bestseller-a-s/bestdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/bi-asset-management-fondsmaeglerselskab-a-s</loc>
@@ -226,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bi-asset-management-fondsmaeglerselskab-a-s/biamdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/bi-management-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bi-management-a-s/maggdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/bil-danmark-filial-af-banque-international-a-luxembourg-sa</loc>
@@ -246,19 +151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bil-danmark-filial-af-banque-international-a-luxembourg-sa/billdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bjoernskov-and-co-a-s-</loc>
+    <loc>https://swiftcodedir.com/swift/denmark/bjoernskov-and-co-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bjoernskov-and-co-a-s-/bjskdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/bnp-paribas-s-a-denmark-filial-af-bnp-paribas-s-a-frankrig</loc>
@@ -266,19 +161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/bnp-paribas-s-a-denmark-filial-af-bnp-paribas-s-a-frankrig/ftsbdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/boddum-ydby-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/boddum-ydby-sparekasse/boyddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/borbjerg-sparekasse</loc>
@@ -286,19 +171,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/borbjerg-sparekasse/bobjdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/brfkredit-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/brfkredit-a-s/brfkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/broager-sparekasse</loc>
@@ -306,19 +181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/broager-sparekasse/brsldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/canegie-asset-administration-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/canegie-asset-administration-a-s/cadmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/capital-four-aifm-a-s</loc>
@@ -326,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/capital-four-aifm-a-s/cfaidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/capital-four-management-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/capital-four-management-fondsmaeglerselskab-a-s/cfmfdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/carlsberg-a-s</loc>
@@ -346,19 +201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/carlsberg-a-s/carwdkk2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/carlsberg-breweries-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/carlsberg-breweries-a-s/carwdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/carnegie-asset-management-fondmaeglerselskab-a-s</loc>
@@ -366,19 +211,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/carnegie-asset-management-fondmaeglerselskab-a-s/carndk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/carnegie-investment-bank-dk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/carnegie-investment-bank-dk/carndkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/carnegie-kreditinstitut-a-s</loc>
@@ -386,19 +221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/carnegie-kreditinstitut-a-s/cajbdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/chr-hansen-holding-as</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/chr-hansen-holding-as/chhhdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/citibank-europe-plc-denmark-branch</loc>
@@ -406,19 +231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/citibank-europe-plc-denmark-branch/citidkkx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/commercial-bankers-trust-k-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/commercial-bankers-trust-k-s/ctrsdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/dana-invest-fondsmaeglerselskab-a-s</loc>
@@ -426,19 +241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dana-invest-fondsmaeglerselskab-a-s/daiodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/danfoss-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danfoss-a-s/dfibdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/danmarks-nationalbank</loc>
@@ -476,19 +281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danmarks-skibskredit-a-s/skibdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dansk-autoriseret-markedsplads-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dansk-autoriseret-markedsplads-a-s/damkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/dansk-formue-and-investeringspleje-a-s-fondsmaeglerselskab</loc>
@@ -496,29 +291,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dansk-formue-and-investeringspleje-a-s-fondsmaeglerselskab/dfiidk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dansk-kapitalforvaltning-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dansk-kapitalforvaltning-fondsmaeglerselskab-a-s/dakfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dansk-o-t-c-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dansk-o-t-c-fondsmaeglerselskab-a-s/daofdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/dansk-supermarked-a-s</loc>
@@ -549,11 +329,6 @@
     <loc>https://swiftcodedir.com/swift/denmark/danske-andelskassers-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-andelskassers-bank-a-s/danbdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/danske-bank-a-s</loc>
@@ -866,19 +641,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-capital/dacpdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/danske-civil-and-akademiingeniorers-pensionskasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-civil-and-akademiingeniorers-pensionskasse/dcakdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/danske-commodities-a-s</loc>
@@ -886,19 +651,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-commodities-a-s/dacddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/danske-forsikring-skade-i-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-forsikring-skade-i-a-s/dafkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/danske-invest-administration-a-s</loc>
@@ -906,19 +661,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/danske-invest-administration-a-s/daiddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/den-jyske-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/den-jyske-sparekasse/jyspdk2g</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/den-professionelle-forening-ld</loc>
@@ -1006,19 +751,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dexia-p-h-private-bank-denmark-a-s/billdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/difko-bors-a-s-fondsmaeglerselskab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/difko-bors-a-s-fondsmaeglerselskab/dibfdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/djurslands-bank-a-s</loc>
@@ -1111,11 +846,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dlr-kredit-a-s/dlkrdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dnb-bank-asa-filial-af-dnb-bank-asa-norge</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1136,29 +866,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dragsholm-sparekasse/dragdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dronninglund-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dronninglund-sparekasse/drondk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/dsv-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/dsv-a-s/dsvadkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/ecco-sko-a-s</loc>
@@ -1206,19 +921,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/egnsbank-han-herred/fjbadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/egns-invest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/egns-invest/egnsdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/faelleskassen-samoekonomi-j-a-k-andelskasse</loc>
@@ -1226,19 +931,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/faelleskassen-samoekonomi-j-a-k-andelskasse/faeldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/fanoe-spare-og-laanekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/fanoe-spare-og-laanekasse/fasldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/faster-andelskasse</loc>
@@ -1246,19 +941,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/faster-andelskasse/faandk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/fdb-datterselskab-af-13-december-2012-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/fdb-datterselskab-af-13-december-2012-a-s/fddddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/flakkeberg-og-omegns-sparekasse</loc>
@@ -1266,19 +951,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/flakkeberg-og-omegns-sparekasse/flakdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/flemloese-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/flemloese-sparekasse/flemdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/flsmidth-and-co-a-s</loc>
@@ -1301,29 +976,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/folkesparekassen/fospdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/fondsaeglerselskabet-maj-invest-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/fondsaeglerselskabet-maj-invest-a-s/mafgdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/fondsmaeglerselskabet-maj-invest-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/fondsmaeglerselskabet-maj-invest-a-s/fonkdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/forca-a-s</loc>
@@ -1391,19 +1051,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/formuepleje-a-s/forjdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/froes-herreds-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/froes-herreds-sparekasse/frosdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/frorup-andelkasse</loc>
@@ -1411,19 +1061,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/frorup-andelkasse/fropdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/froslev-mollerup-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/froslev-mollerup-sparekasse/frmodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/futop-clearing-centre-the</loc>
@@ -1431,19 +1071,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/futop-clearing-centre-the/ftupdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/fynske-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/fynske-bank-a-s/vesbdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/g-p-borsmaglerselskab-a-s</loc>
@@ -1451,19 +1081,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/g-p-borsmaglerselskab-a-s/gpbsdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/glitnir-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/glitnir-bank/isbadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/global-evolution-fondsmaeglerselskab-a-s</loc>
@@ -1471,19 +1091,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/global-evolution-fondsmaeglerselskab-a-s/gevodk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/grundfos-holding-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/grundfos-holding-a-s/gfosdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-eu-high-yield</loc>
@@ -1491,19 +1101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-eu-high-yield/grhedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-health-care</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-health-care/grhcdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-invest-a-s</loc>
@@ -1511,19 +1111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-invest-a-s/guridkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-investment-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-investment-bank/grpbdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-nordic-alpha</loc>
@@ -1531,29 +1121,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-nordic-alpha/grnadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-selection</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-selection/grsldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-us-high-yield</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/gudme-raaschou-us-high-yield/grhydkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/handelsbanken</loc>
@@ -1576,19 +1151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/hemonto-a-s/hmtodk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/henton-borsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/henton-borsmaeglerselskab-a-s/hebodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/hp-fondsmaeglerselskab-a-s</loc>
@@ -1596,19 +1161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/hp-fondsmaeglerselskab-a-s/fonmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/hunstrup-oesterild-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/hunstrup-oesterild-sparekasse/huspdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/hvidbjerg-bank-aktieselskab</loc>
@@ -1616,19 +1171,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/hvidbjerg-bank-aktieselskab/hvbadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/id-sparinvest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/id-sparinvest/sinvdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/industriens-pensionsforsikring-a-s</loc>
@@ -1636,19 +1181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/industriens-pensionsforsikring-a-s/indfdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/inpay-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/inpay-a-s/npaydkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/invest-administration-a-s</loc>
@@ -1656,19 +1191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/invest-administration-a-s/iadmdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investering-and-tryghed-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investering-and-tryghed-a-s/itrydk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-ms-investvalue-aktier</loc>
@@ -1676,19 +1201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-ms-investvalue-aktier/inukdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-aktier</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-aktier/ivnidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-aktier-ii</loc>
@@ -1696,19 +1211,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-aktier-ii/ioitdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-danmark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-danmark/ioiddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-emerging-markets</loc>
@@ -1716,19 +1221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-emerging-markets/ionmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-europa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-europa/ioiedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-europa-small-cap</loc>
@@ -1736,19 +1231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-europa-small-cap/ioiudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-fjerneoesten</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-fjerneoesten/inijdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-fonde</loc>
@@ -1756,19 +1241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-fonde/ioifdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-global-teknologi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-global-teknologi/iongdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-global-vaekst</loc>
@@ -1776,19 +1251,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-global-vaekst/ioigdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-globale-aktier-indeks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-globale-aktier-indeks/ionldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-globale-obligationer</loc>
@@ -1796,19 +1261,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-globale-obligationer/ioildkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-health-care</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-health-care/ioihdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-indien</loc>
@@ -1816,19 +1271,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-indien/ionndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-japan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-japan/ivnvdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-kina</loc>
@@ -1836,19 +1281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-kina/ionidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-korte-obligationer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-korte-obligationer/ionkdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-korte-obligationer-privat</loc>
@@ -1856,19 +1291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-korte-obligationer-privat/ioikdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-lange-obligationer-privat</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-lange-obligationer-privat/ioiadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-latinamerika</loc>
@@ -1876,19 +1301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-latinamerika/ionadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-mellemlange-obligationer-pension</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-mellemlange-obligationer-pension/ioimdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-mellemlange-obligationer-privat</loc>
@@ -1896,19 +1311,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-mellemlange-obligationer-privat/ioindkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-nordic-small-cap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-nordic-small-cap/ioiodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-nordon</loc>
@@ -1916,19 +1321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-nordon/ioirdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-oest-europa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-oest-europa/ionodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-portfoelje-fleksible-obligationer</loc>
@@ -1936,19 +1331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-portfoelje-fleksible-obligationer/ioijdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-portfolie-danmark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-portfolie-danmark/ionfdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-european-high-yield-bond</loc>
@@ -1956,19 +1341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-european-high-yield-bond/ioisdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-europaeiske-aktier-fokus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-europaeiske-aktier-fokus/ioipdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-formueforvaltning-obligationer</loc>
@@ -1976,19 +1351,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-formueforvaltning-obligationer/ioicdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-global-value</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-special-global-value/ionedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-stabil-aktier</loc>
@@ -1996,19 +1361,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-stabil-aktier/iontdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-stabil-balanceret</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-stabil-balanceret/ioiidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-usa</loc>
@@ -2016,19 +1371,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-usa/ionudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-verden</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-verden/ioivdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-virksomhedsobligationer</loc>
@@ -2036,19 +1381,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-virksomhedsobligationer/innhdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-engros-korte-obligationer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-engros-korte-obligationer/ioegdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-engros-mellemlange-obligationer</loc>
@@ -2056,19 +1391,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-invest-engros-mellemlange-obligationer/ioerdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-1/iovndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-2</loc>
@@ -2076,19 +1401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-2/ionvdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-3/ioondkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-4</loc>
@@ -2096,19 +1411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investbasis-4/ioevdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities/iovadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities-ii</loc>
@@ -2116,19 +1421,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities-ii/iovbdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities-ii-etisk-valg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-absolute-return-equities-ii-etisk-valg/iovodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-corporate-bonds</loc>
@@ -2136,19 +1431,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-corporate-bonds/iovcdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-euro-investment-grade</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-euro-investment-grade/iovrdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-europaeiske-aktier</loc>
@@ -2156,19 +1441,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-europaeiske-aktier/iovudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-global-high-yield</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-global-high-yield/iovgdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-internationale-aktier</loc>
@@ -2176,19 +1451,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-internationale-aktier/iovidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-internationale-aktier-etisk-valg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-internationale-aktier-etisk-valg/iovtdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-obligationer</loc>
@@ -2196,19 +1461,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investengros-obligationer/ionbdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investglobale-aktier-fokus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investglobale-aktier-fokus/ionrdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investkapitalsikring</loc>
@@ -2216,19 +1471,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investkapitalsikring/ivnndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investklima-og-miljoe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investklima-og-miljoe/innjdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investkorte-obligationer-2</loc>
@@ -2236,19 +1481,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investkorte-obligationer-2/ioeodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investlange-obligationer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investlange-obligationer/iovldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-aktier</loc>
@@ -2256,19 +1491,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-aktier/iovkdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-eksterne-afdelinger</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-eksterne-afdelinger/ioeedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-emerging-markets-og-asien</loc>
@@ -2276,19 +1501,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-emerging-markets-og-asien/iovmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-korte-obligationer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-korte-obligationer/ioekdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-lange-obligationer</loc>
@@ -2296,19 +1511,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-lange-obligationer/ioendkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-usa-og-europa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-usa-og-europa/ioeudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-verden</loc>
@@ -2316,19 +1521,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-verden/iovddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-verdens-obligationsmarkeder</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investportefolie-verdens-obligationsmarkeder/iovvdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investverdens-obligationsmarkeder</loc>
@@ -2336,19 +1531,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-investverdens-obligationsmarkeder/ionddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-portefolie-flex</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-nordea-portefolie-flex/iopfdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-pfa-invest</loc>
@@ -2356,19 +1541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforeningen-pfa-invest/ivpidk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/investeringsforvalltningsselskabet-sebinvest-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/investeringsforvalltningsselskabet-sebinvest-a-s/ivsndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/iss-a-s</loc>
@@ -2376,19 +1551,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/iss-a-s/isssdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/j-a-k-andelskasse-oestervraa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/j-a-k-andelskasse-oestervraa/jaoedk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/j-p-morgan-europe-uk-copenhagen-br-filial-af-j-p-morgan-europe-ltd-storbritannien</loc>
@@ -2396,19 +1561,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/j-p-morgan-europe-uk-copenhagen-br-filial-af-j-p-morgan-europe-ltd-storbritannien/chasdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/jak-andelskasse-varde</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/jak-andelskasse-varde/janvdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/jelling-sparekasse</loc>
@@ -2416,29 +1571,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/jelling-sparekasse/jelldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/juristernes-og-oekonomernes-pensionkasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/juristernes-og-oekonomernes-pensionkasse/juopdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/jutlander-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/jutlander-bank-a-s/jutbdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/jyske-bank-a-s</loc>
@@ -2466,19 +1606,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kapitalforeningen-absalon-invest/kaaidk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/kapitalforeningen-absalon-invest-afd-verdensaktieindeks-kl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kapitalforeningen-absalon-invest-afd-verdensaktieindeks-kl/kaifdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/kapitalforeningen-formuepleje-penta-afdeling-formuepleje-penta</loc>
@@ -2486,19 +1616,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kapitalforeningen-formuepleje-penta-afdeling-formuepleje-penta/kfpfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/klim-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/klim-sparekasse/klimdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/kobenhavns-andelskasse</loc>
@@ -2506,19 +1626,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kobenhavns-andelskasse/koandkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/kommunekredit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kommunekredit/kommdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/kongeriget-danmarks-hypotekbank</loc>
@@ -2526,19 +1636,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kongeriget-danmarks-hypotekbank/kdhydkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/kosmopolitex-bankers-trust-k-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kosmopolitex-bankers-trust-k-s/kotudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/kreditbanken-a-s</loc>
@@ -2546,19 +1646,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/kreditbanken-a-s/aakrdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/laegernes-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/laegernes-bank/lapndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/laerernes-pension-forsikringsakties</loc>
@@ -2566,19 +1656,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/laerernes-pension-forsikringsakties/lapfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/lan-and-spar-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lan-and-spar-bank-a-s/losadkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/landbrugets-finansieringsbank</loc>
@@ -2586,19 +1666,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/landbrugets-finansieringsbank/lafidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/langa-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/langa-sparekasse/lasadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/lego-system-a-s</loc>
@@ -2606,19 +1676,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lego-system-a-s/legodk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/leo-pharma-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/leo-pharma-a-s/lephdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/lind-capital-a-s</loc>
@@ -2626,19 +1686,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lind-capital-a-s/lcaidk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/lind-capital-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lind-capital-fondsmaeglerselskab-a-s/licfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/lollands-bank-a-s</loc>
@@ -2646,19 +1696,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lollands-bank-a-s/lobadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/lpi-high-yield-globale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lpi-high-yield-globale/lhygdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/lpi-indeksobligationer</loc>
@@ -2666,19 +1706,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lpi-indeksobligationer/linmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/lpi-indeksobligationer-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lpi-indeksobligationer-ii/linpdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/lr-realkredit-a-s</loc>
@@ -2686,19 +1716,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lr-realkredit-a-s/reakdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/lunde-kvong-andelskasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/lunde-kvong-andelskasse/lukvdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/maersk-tankers-a-s</loc>
@@ -2706,19 +1726,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/maersk-tankers-a-s/mrskdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/maj-af-29-august-2014-a-s-maj-bank-a-s-</loc>
+    <loc>https://swiftcodedir.com/swift/denmark/maj-af-29-august-2014-a-s-maj-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/maj-af-29-august-2014-a-s-maj-bank-a-s-/maajdkl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/maj-invest-a-s</loc>
@@ -2726,19 +1736,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/maj-invest-a-s/mavvdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/markedskraft-danmark-filial-af-markedskraft-asa-norge</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/markedskraft-danmark-filial-af-markedskraft-asa-norge/mdfmdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/merkur-andelskasse</loc>
@@ -2746,19 +1746,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/merkur-andelskasse/mekudk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/middelfart-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/middelfart-sparekasse/mispdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/midtinvest-investeringsforvaltning-a-s</loc>
@@ -2766,19 +1756,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/midtinvest-investeringsforvaltning-a-s/mididk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/moens-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/moens-bank-a-s/monsdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/more-2-save-aps</loc>
@@ -2786,29 +1766,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/more-2-save-aps/movadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/mp-pension</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/mp-pension/penndk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ne-fondsmaeglerselskab-a-s-ne-capital-management-a-s-</loc>
+    <loc>https://swiftcodedir.com/swift/denmark/ne-fondsmaeglerselskab-a-s-ne-capital-management-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ne-fondsmaeglerselskab-a-s-ne-capital-management-a-s-/focmdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nets-denmark-a-s</loc>
@@ -2831,19 +1796,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ni-portefolje-globale-aktier-strategi-kl/pgasdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/ni-portefolje-pbpm-danske-obligationer-kl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ni-portefolje-pbpm-danske-obligationer-kl/ppdodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/ni-portefolje-pbpm-globale-aktier-fokus-kl</loc>
@@ -2851,19 +1806,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ni-portefolje-pbpm-globale-aktier-fokus-kl/ppgadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/ni-portfolie-pbpm-obligationer-kl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ni-portfolie-pbpm-obligationer-kl/ppoldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/ni-portfolje-pbpm-balance-kl</loc>
@@ -2871,19 +1816,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ni-portfolje-pbpm-balance-kl/pbpmdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nie-emerging-market-bonds</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nie-emerging-market-bonds/nembdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-danmark-filial-af-nordea-bank-ab-publ-sverige</loc>
@@ -2971,19 +1906,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-finans-danmark-a-s/unredkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-bolig-2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-bolig-2/nonldkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-emerging-stars</loc>
@@ -2991,19 +1916,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-emerging-stars/nieadkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-fund-management-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-fund-management-a-s/nifndk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-hoejrentelande</loc>
@@ -3011,19 +1926,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-hoejrentelande/noihdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-kommune-i</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-kommune-i/noiudkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-kommune-ii-c-o-investeringsforeningen</loc>
@@ -3031,19 +1936,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-kommune-ii-c-o-investeringsforeningen/niktdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-obligationer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-obligationer/nonbdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-special-c-o-investeringsforeningen</loc>
@@ -3051,29 +1946,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-special-c-o-investeringsforeningen/nisndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-stabile-aktier-akkumulerende</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-stabile-aktier-akkumulerende/nistdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-virksomhedsobligationer-hoejrente</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordea-invest-virksomhedsobligationer-hoejrente/nivhdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordea-investment-management-ab-denmark-branch</loc>
@@ -3121,19 +2001,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordic-asset-management-fondsmaeglerselskab-a-s/namndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordjyske-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordjyske-bank-a-s/nrsbdk24</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nordnet-bank</loc>
@@ -3141,19 +2011,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nordnet-bank/nodndkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/northern-rock-bank-danmark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/northern-rock-bank-danmark/norndkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/novozymes-a-s</loc>
@@ -3161,19 +2021,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/novozymes-a-s/novzdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nykredit-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nykredit-a-s/nykrdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/nykredit-am</loc>
@@ -3181,29 +2031,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nykredit-am/nykedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nykredit-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nykredit-bank-a-s/nykbdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/nykredit-portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/nykredit-portfolio/nypodkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/o-w-bunker-and-trading-a-s</loc>
@@ -3226,19 +2061,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/oresundsbro-konsortiet-i-s/okondkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/ostjydsk-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ostjydsk-bank-a-s/osbadk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/p-h-borsmaeglerselskab</loc>
@@ -3246,19 +2071,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/p-h-borsmaeglerselskab/boledkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/pen-sam-bank-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pen-sam-bank-a-s/psbsdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/pensam-liv-forsikringsaktieselskab</loc>
@@ -3266,19 +2081,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pensam-liv-forsikringsaktieselskab/penfdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/pensiondanmark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pensiondanmark/penodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/pensiondanmark-pensionsforsikringsaktieselskab</loc>
@@ -3286,19 +2091,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pensiondanmark-pensionsforsikringsaktieselskab/pndkdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/pfa-asset-management-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pfa-asset-management-a-s/pamqdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/pfa-bank-a-s</loc>
@@ -3306,19 +2101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pfa-bank-a-s/pfuddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/pfa-kapitalforvaltning</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pfa-kapitalforvaltning/pfakdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/pfa-pension</loc>
@@ -3326,29 +2111,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/pfa-pension/pfpedkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/p-h-borsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/p-h-borsmaeglerselskab-a-s/phbsdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/placeringsforeningen-profil-invest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/placeringsforeningen-profil-invest/plpidkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/realdania</loc>
@@ -3411,19 +2181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/realkredit-danmark/rddkdkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/refsnaes-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/refsnaes-sparekasse/reprdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/ringkjobing-landbobank-a-s</loc>
@@ -3466,19 +2226,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/rise-spare-og-laanekasse/risedk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/rockwool-international-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/rockwool-international-a-s/roitdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/ronde-og-omegns-sparekasse</loc>
@@ -3486,19 +2236,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ronde-og-omegns-sparekasse/rspkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/ryomgaard-og-omegns-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/ryomgaard-og-omegns-sparekasse/ryomdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/salling-bank-a-s</loc>
@@ -3506,19 +2246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/salling-bank-a-s/salldk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/santander-consumer-bank-as-denmark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/santander-consumer-bank-as-denmark/saoddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/saxo-bank-a-s</loc>
@@ -3526,19 +2256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/saxo-bank-a-s/saxodkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/saxo-payments-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/saxo-payments-a-s/sxpydkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/saxo-privatbank</loc>
@@ -3561,19 +2281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/saxobank-a-s/saxodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/skandia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/skandia/skaddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/skandia-asset-management</loc>
@@ -3581,19 +2291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/skandia-asset-management/skdadkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/skandinavisk-data-center-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/skandinavisk-data-center-a-s/sduddk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/skandinaviska-enskilda-banken</loc>
@@ -3624,11 +2324,6 @@
     <loc>https://swiftcodedir.com/swift/denmark/skandinaviska-enskilda-banken-former-seb-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/skandinaviska-enskilda-banken-former-seb-a-s/essedk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/skjern-bank</loc>
@@ -3676,19 +2371,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/soeby-skader-halling-sparekasse/sobydk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/soenderhaa-hoersted-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/soenderhaa-hoersted-sparekasse/sohodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/spar-nord-bank-a-s</loc>
@@ -3696,19 +2381,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/spar-nord-bank-a-s/spnodk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-balling</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-balling/balldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-bredebro</loc>
@@ -3716,19 +2391,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-bredebro/bbrodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-den-lille-bikube</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-den-lille-bikube/libidk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-djursland</loc>
@@ -3736,19 +2401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-djursland/vividk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-for-noerre-nebel-og-omegn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-for-noerre-nebel-og-omegn/nrnedk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-kronjylland</loc>
@@ -3756,19 +2411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-kronjylland/krondk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-midtdjurs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-midtdjurs/spmjdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-nordmors</loc>
@@ -3776,19 +2421,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-nordmors/nomodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-ravsted</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-ravsted/sravdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-sjaelland</loc>
@@ -3796,19 +2431,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-sjaelland/swesdk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-spar-mors</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-spar-mors/bjfldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-thy</loc>
@@ -3816,19 +2441,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-thy/sthydk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/sparekassen-vendsyssel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/sparekassen-vendsyssel/vraadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/stadil-sparekasse</loc>
@@ -3836,19 +2451,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/stadil-sparekasse/sspkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/steffen-ronn-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/steffen-ronn-fondsmaeglerselskab-a-s/strddkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/swedbank-ab</loc>
@@ -3856,19 +2461,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/swedbank-ab/sweddkkk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/swiss-re-denmark-reinsurance-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/swiss-re-denmark-reinsurance-a-s/erfrdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/sydbank-a-s</loc>
@@ -3996,19 +2591,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/tdc-pensionskasse/tdcpdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/the-danish-emission-trading-registry</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/the-danish-emission-trading-registry/detrdkk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/top-danmark-forsikring-a-s</loc>
@@ -4016,19 +2601,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/top-danmark-forsikring-a-s/todfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/top-danmark-livsforsikring-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/top-danmark-livsforsikring-a-s/todldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/top-danmark-livsforsikring-v-a-s</loc>
@@ -4036,19 +2611,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/top-danmark-livsforsikring-v-a-s/todvdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/topdanmark-link-livsforsikring-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/topdanmark-link-livsforsikring-a-s/tolldk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/totalbanken-a-s</loc>
@@ -4056,19 +2621,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/totalbanken-a-s/baaadk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/totalkredit-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/totalkredit-a-s/totkdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/tryg-a-s</loc>
@@ -4076,29 +2631,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/tryg-a-s/tyygdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/unipension-fondsmaeglerselskap-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/denmark/unipension-fondsmaeglerselskap-a-s/unfodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/denmark/vestas-wind-systems-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/vestas-wind-systems-a-s/winddk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/vestjysk-bank</loc>
@@ -4139,11 +2679,6 @@
     <loc>https://swiftcodedir.com/swift/denmark/vistoft-sparekasse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/vistoft-sparekasse/visodk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/denmark/vp-securities-a-s</loc>
@@ -4674,10 +3209,5 @@
     <loc>https://swiftcodedir.com/swift/denmark/wealth-management-fondsmaeglerselskab-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/denmark/wealth-management-fondsmaeglerselskab-a-s/wemfdk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

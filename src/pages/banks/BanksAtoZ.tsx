@@ -82,7 +82,7 @@ export function BanksAtoZ() {
               {groupedBanks[letter].map(bank => (
                 <Link 
                   key={bank.slug}
-                  to={`/swift/${bank.countrySlug}/${bank.slug}`}
+                  to={`/swift/${bank.countrySlug.toLowerCase()}/${bank.slug.toLowerCase()}`}
                   className="group p-4 bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-[#003399] dark:hover:border-blue-400 transition-all shadow-sm flex items-center gap-4"
                 >
                   <div className="w-10 h-10 rounded-lg bg-slate-50 dark:bg-slate-800 flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">

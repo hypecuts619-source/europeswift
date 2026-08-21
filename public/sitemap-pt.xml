@@ -16,14 +16,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/321-credito-instituicao-financeira-de-credito-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/321-credito-instituicao-financeira-de-credito-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/321-credito-instituicao-financeira-de-credito-s-a-/ciedptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/abanca-corporacion-bancaria-sa-sucursal-em-portugal</loc>
@@ -46,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/agencia-gestao-da-tesouraria-e-div-publica-igcp-epe/igcpptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/allianz-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/allianz-portugal/alpoptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/andrade-gutierrez-europa-africa-asia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/andrade-gutierrez-europa-africa-asia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/andrade-gutierrez-europa-africa-asia-s-a-/ageaptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/argentaria-volare</loc>
@@ -76,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/argentaria-volare/arvoptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ascor-dealer-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/ascor-dealer-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ascor-dealer-s-a-/asdeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/atrium-investimentos-sociedade-financeira-de-corretagem-sa</loc>
@@ -96,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/atrium-investimentos-sociedade-financeira-de-corretagem-sa/aifcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/autoeuropa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/autoeuropa/auoeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/a-vision-prestacao-de-servicos</loc>
@@ -116,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/a-vision-prestacao-de-servicos/avpeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/axa-life-europe-limited-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/axa-life-europe-limited-sucursal-em-portugal/axlpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/axa-portugal-seguros-vida</loc>
@@ -136,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/axa-portugal-seguros-vida/apsvptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-activobank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-activobank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-activobank-s-a-/actvptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-bai-europa-sa</loc>
@@ -156,37 +96,32 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bai-europa-sa/baipptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a-/bpnpptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a/bpnpptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a-/bpnpptplsfe</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bic-portugues-s-a/bpnpptplsfe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a-/bbvaptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a/bbvaptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a-/bbvaptpltg2</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-bilbao-vizcaya-argentaria-portugal-s-a/bbvaptpltg2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -196,32 +131,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-bpi-sa/bbpiptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-cetelem-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-cetelem-sa/cetmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l-/cmacptp1</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l/cmacptp1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l-/cmacptp1opr</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-comercial-de-macau-s-a-r-l/cmacptp1opr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -306,49 +231,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-credibom-sa/crbbptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-ctt-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-ctt-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-ctt-s-a-/cttvptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-boston-latino-americano-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-de-boston-latino-americano-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-boston-latino-americano-s-a-/bblaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-investimento-global-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-de-investimento-global-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-investimento-global-s-a-/bdigptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-de-investimento-imobiliario-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-investimento-imobiliario-sa/inioptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-de-portugal</loc>
@@ -441,29 +341,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-de-sabadell-s-a/bsabptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-do-brasil-ag-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-do-brasil-ag-sucursal-em-portugal/brasptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-efisa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-efisa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-efisa-s-a-/efisptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-expresso-atlantico-sa</loc>
@@ -471,69 +356,49 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-expresso-atlantico-sa/exatptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-/bfiaptplcor</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a/bfiaptplcor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-/bfiaptplint</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a/bfiaptplint</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-/bfiaptplsec</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a/bfiaptplsec</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-/bfiaptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a/bfiaptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a-/bfiaptplsfe</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-finantia-s-a/bfiaptplsfe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-invest-s-a-/ivvsptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-l-j-carregosa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-l-j-carregosa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-l-j-carregosa-s-a-/bljcptpt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-madesant-sociedade-unipessoal-s-a-zona-franca-da-madeira-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-madesant-sociedade-unipessoal-s-a-zona-franca-da-madeira</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-madesant-sociedade-unipessoal-s-a-zona-franca-da-madeira-/masnptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-mais-sa</loc>
@@ -541,29 +406,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-mais-sa/miisptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-mello</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-mello/meolptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-mello-de-investimentos-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-mello-de-investimentos-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-mello-de-investimentos-s-a-/meiiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-mello-imobiliario-sa</loc>
@@ -571,49 +421,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-mello-imobiliario-sa/meimptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-popular-portugal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-popular-portugal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-popular-portugal-s-a-/crbnptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-gestao-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-gestao-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-gestao-s-a-/bpgpptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-investimento-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-investimento-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-portugues-de-investimento-s-a-/bpipptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-primus-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-primus-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-primus-s-a-/pruuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-privado-atlantico-europa-sa</loc>
@@ -621,42 +446,32 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-privado-atlantico-europa-sa/bapaptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/banco-santander-consumer-portugal-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-consumer-portugal-sa/ibnbptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a-/bnifptplfun</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a/bnifptplfun</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a-/bnifptplsfe</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a/bnifptplsfe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a-/bnifptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a/bnifptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a-/bnifptplopo</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banco-santander-totta-s-a-formerly-banif-banco-internacional-do-funchal-s-a/bnifptplopo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -681,14 +496,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banif-banco-de-investimento-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banif-banco-de-investimento-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banif-banco-de-investimento-s-a-/bnfiptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bank-of-china-luxembourg-s-a-portugal-branch</loc>
@@ -696,19 +506,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bank-of-china-luxembourg-s-a-portugal-branch/bkchptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/bankinter-sucursal-en-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bankinter-sucursal-en-portugal/bkbkptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/banque-de-patrimoines-prives-sucursal-em-portugal</loc>
@@ -716,29 +516,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banque-de-patrimoines-prives-sucursal-em-portugal/bbppptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/banque-privee-edmond-de-rothschild-europe-sucursal-portuguesa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banque-privee-edmond-de-rothschild-europe-sucursal-portuguesa/pribptpx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banque-psa-finance-sucursal-em-portugal-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/banque-psa-finance-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/banque-psa-finance-sucursal-em-portugal-/psabptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/barclays-bank-plc</loc>
@@ -766,29 +551,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/barclays-fundos-sa/bauuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/bbva-instituicao-financeira-de-credito-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bbva-instituicao-financeira-de-credito-s-a/bifdptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/best-banco-electronico-de-servico-total-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/best-banco-electronico-de-servico-total-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/best-banco-electronico-de-servico-total-s-a-/beszptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bie-bank-and-trust-ltd</loc>
@@ -796,19 +566,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bie-bank-and-trust-ltd/bituptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bni-banco-de-negocios-internacional-europa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/bni-banco-de-negocios-internacional-europa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bni-banco-de-negocios-internacional-europa-s-a-/bnicptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-portugal</loc>
@@ -816,19 +576,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-portugal/bnpaptpllis</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-securities-services-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-securities-services-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-securities-services-s-a-/parbptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-sucursal-em-portugal</loc>
@@ -836,19 +586,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-sucursal-em-portugal/bnpaptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-wealth-management-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-wealth-management-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bnp-paribas-wealth-management-s-a-/bpwmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bolsa-de-derivados-do-porto</loc>
@@ -856,19 +596,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bolsa-de-derivados-do-porto/xbdpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/bpi-dealer-sociedade-financeira-de-corretagem-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bpi-dealer-sociedade-financeira-de-corretagem-a/bsfcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/bpi-gestao-de-activos-sociedade-gestora-de-fundo-s-de-investimento-mobiliario-sa</loc>
@@ -876,32 +606,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/bpi-gestao-de-activos-sociedade-gestora-de-fundo-s-de-investimento-mobiliario-sa/bpgaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-agricola-gestione</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-agricola-gestione/caogptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a-/cxbiptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a/cxbiptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a-/cxbiptplmob</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/caixa-banco-de-investimento-s-a/cxbiptplmob</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -911,19 +631,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-central-de-credito-agricola-mutuo/cccmptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-da-chamusca-c-r-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-da-chamusca-c-r-l/ccchptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-da-guarda-crl</loc>
@@ -931,19 +641,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-da-guarda-crl/ccrmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-albufeira-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-albufeira-crl/ccotptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-alcacovas-e-viana-do-alentejo</loc>
@@ -951,19 +651,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-alcacovas-e-viana-do-alentejo/ccooptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-alcoutim-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-alcoutim-crl/crauptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-aljezur-crl</loc>
@@ -971,19 +661,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-aljezur-crl/cromptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-arronches-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-arronches-crl/ceatptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-bombarral-crl</loc>
@@ -991,19 +671,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-bombarral-crl/certptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-cabeceiras-de-b-asto-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-cabeceiras-de-b-asto-crl/ceiuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-castro-daire-crl</loc>
@@ -1011,19 +681,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-castro-daire-crl/celmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-celorico-da-beira</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-celorico-da-beira/celuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-ilhavo-crl</loc>
@@ -1031,19 +691,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-ilhavo-crl/cdimptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-mafra-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-mafra-crl/cdotptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-mira-crl</loc>
@@ -1051,19 +701,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-mira-crl/cdlmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-monforte-crl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-monforte-crl/cdltptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-sever-do-vouga</loc>
@@ -1071,19 +711,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-sever-do-vouga/ctgmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-torres-vedras-c-r-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-torres-vedras-c-r-l/ctiuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-vila-do-bispo-crl</loc>
@@ -1091,19 +721,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-vila-do-bispo-crl/ctcuptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-vila-vicosa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-vila-vicosa/ctlmptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-viseu-tondela</loc>
@@ -1111,19 +731,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-de-viseu-tondela/ctluptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-concelho-de-pinhel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-concelho-de-pinhel/cogtptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-peso-da-regua</loc>
@@ -1131,19 +741,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-peso-da-regua/coioptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-ribatejo-centro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-do-ribatejo-centro/coguptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-dos-acores-crl</loc>
@@ -1151,19 +751,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-agricola-mutuo-dos-acores-crl/ctloptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-de-leiria</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-de-credito-de-leiria/cdctptp2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-da-associacao-de-socorros-mutuos-de-empregados-no-comercio-de-lisboa</loc>
@@ -1171,19 +761,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-da-associacao-de-socorros-mutuos-de-empregados-no-comercio-de-lisboa/cearptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-da-misericordia-de-angra-do-heroismo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-da-misericordia-de-angra-do-heroismo/cemaptp2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-do-porto</loc>
@@ -1191,19 +771,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-do-porto/caepptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-social</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixa-economica-social/caeoptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/caixa-geral-de-depositos</loc>
@@ -1231,19 +801,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/caixagest-tecnicas-de-gestao-de-fundos-sa/ctgfptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/central-banco-de-investimento-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/central-banco-de-investimento-sa/pcbiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/citibank-europe-plc-portugal-branch</loc>
@@ -1356,19 +916,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/cofidis/cffiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/companhia-portuguesa-de-rating-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/companhia-portuguesa-de-rating-s-a/coogptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/credibanco-banco-de-credito-pessoal-sa</loc>
@@ -1376,29 +926,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/credibanco-banco-de-credito-pessoal-sa/crrsptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/credifin-banco-de-credito-ao-consumo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/credifin-banco-de-credito-ao-consumo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/credifin-banco-de-credito-ao-consumo-s-a-/crrcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ctt-correios-de-portugal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/ctt-correios-de-portugal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ctt-correios-de-portugal-s-a-/cttpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/deutsche-bank-ag-portugal-branch</loc>
@@ -1426,19 +961,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/dexia-credit-local-s-a-sucursal-em-portugal/dsblptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/dif-broker-soc-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/dif-broker-soc-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/dif-broker-soc-corretora-s-a-/dbrcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-investimento-imobiliario-sa</loc>
@@ -1446,19 +971,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-investimento-imobiliario-sa/efiiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-investimento-mobiliario-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-investimento-mobiliario-sa/efimptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-pensoes-sa</loc>
@@ -1466,19 +981,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/esaf-es-fundos-de-pensoes-sa/esfpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/esaf-espirito-santo-gestao-de-patrimonios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/esaf-espirito-santo-gestao-de-patrimonios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/esaf-espirito-santo-gestao-de-patrimonios-s-a-/esgpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/eser-sociedade-financeira-de-corretagem-sa</loc>
@@ -1486,19 +991,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/eser-sociedade-financeira-de-corretagem-sa/esfcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/espirito-santo-dealer-sociedade-financeira-de-corretagem</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/espirito-santo-dealer-sociedade-financeira-de-corretagem/esdeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/euronext-lisboa</loc>
@@ -1506,19 +1001,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/euronext-lisboa/xlisptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/f-and-c-portugal-gestao-de-patrimonios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/f-and-c-portugal-gestao-de-patrimonios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/f-and-c-portugal-gestao-de-patrimonios-s-a-/pgpaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/fca-capital-portugal-instituicao-financeira-de-credito-sa</loc>
@@ -1526,19 +1011,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fca-capital-portugal-instituicao-financeira-de-credito-sa/fcpiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/fce-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fce-bank-plc/fcefptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/fincor-sociedade-corretora-sa</loc>
@@ -1546,34 +1021,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fincor-sociedade-corretora-sa/ficcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a-/fbcoptpplis</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a/fbcoptpplis</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a-/fbcoptpp</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/finibanco-s-a/fbcoptpp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/finivalor-sociedade-gestora-de-fundos-mobiliarios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/finivalor-sociedade-gestora-de-fundos-mobiliarios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/finivalor-sociedade-gestora-de-fundos-mobiliarios-s-a-/fivrptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/fundo-de-garantia-de-depositos</loc>
@@ -1581,19 +1046,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fundo-de-garantia-de-depositos/fugdptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/fundo-de-resolucao</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fundo-de-resolucao/fursptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/fundo-garantia-credito-agricola-mut-uo</loc>
@@ -1601,29 +1056,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/fundo-garantia-credito-agricola-mut-uo/fgcaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/golden-broker-sociedade-corretora-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/golden-broker-sociedade-corretora-sa/gbscptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/haitong-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/haitong-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/haitong-bank-s-a-/essiptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/hbf-banco-financiero-sa</loc>
@@ -1631,19 +1071,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/hbf-banco-financiero-sa/hbfiptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/hovione-farmaciencia-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/hovione-farmaciencia-sa/hovfptpt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/igfcss</loc>
@@ -1651,19 +1081,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/igfcss/igfcpt21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/im-gestao-de-ativos-sociedade-gestora-de-fundos-de-investimento-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/im-gestao-de-ativos-sociedade-gestora-de-fundos-de-investimento-sa/gasgptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/ing-bank-nv-sucursal-em-portugal</loc>
@@ -1671,32 +1091,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ing-bank-nv-sucursal-em-portugal/bbruptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a-/iblsptpp999</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a/iblsptpp999</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a-/iblsptpp</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a/iblsptpp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a-/iblsptpp998</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a/iblsptpp998</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a-/iblsptppcug</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/interbolsa-s-g-s-l-s-c-v-m-s-a/iblsptppcug</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1706,29 +1121,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/intermoney-portugal/imptptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/intermoney-valores-sociedad-de-valores-sa-succursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/intermoney-valores-sociedad-de-valores-sa-succursal-em-portugal/ivsvptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/intervalores-sociedade-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/intervalores-sociedade-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/intervalores-sociedade-corretora-s-a-/itcaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/investquest-societa-gestora-patrimonios</loc>
@@ -1736,19 +1136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/investquest-societa-gestora-patrimonios/isgaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/ipagoo-llp-portugal-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ipagoo-llp-portugal-branch/ipagptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/itau-bba-international-limited-sucursal-em-portugal</loc>
@@ -1756,19 +1146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/itau-bba-international-limited-sucursal-em-portugal/itauptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ivn-servicos-partilhados-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/ivn-servicos-partilhados-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ivn-servicos-partilhados-s-a-/isprptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/jeronimo-martins-sgps-s-a</loc>
@@ -1776,39 +1156,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/jeronimo-martins-sgps-s-a/jergptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/lisbon-brokers-sociedade-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/lisbon-brokers-sociedade-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/lisbon-brokers-sociedade-corretora-s-a-/lbscptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/luso-partners-sociedade-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/luso-partners-sociedade-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/luso-partners-sociedade-corretora-s-a-/lpscptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/m-g-gestao-de-activos-financeiros-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/m-g-gestao-de-activos-financeiros-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/m-g-gestao-de-activos-financeiros-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a-/gafsptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/macif-portugal</loc>
@@ -1816,19 +1176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/macif-portugal/mapgptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/math-fund</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/math-fund/maudptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/midas-securities</loc>
@@ -1836,29 +1186,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/midas-securities/mideptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/miillennium-bcp-gestao-de-fundos-de-investimento-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/miillennium-bcp-gestao-de-fundos-de-investimento-sa/mbgfptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/millenium-bcp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/millenium-bcp/mibpptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/montepio-geral-caixa-economica</loc>
@@ -1881,29 +1216,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/mts-portugal-sgmr-sa/pmtsptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/nco-dealer-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/nco-dealer-sa/ncoeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/novo-banco-dos-acores-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/novo-banco-dos-acores-sa/besaptpa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/novo-banco-sa</loc>
@@ -1926,32 +1246,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ok2deal-sociedade-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/ok2deal-sociedade-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/ok2deal-sociedade-corretora-s-a-/okcoptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a-/omicptplasa</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a/omicptplasa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a-/omicptpl</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a/omicptpl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a-/omicptplcli</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/omiclear-c-c-s-a/omicptplcli</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1961,19 +1276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/oney-ific-sa/onifptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/orey-valores-sociedade-corretora-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/orey-valores-sociedade-corretora-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/orey-valores-sociedade-corretora-s-a-/ovscptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/paulo-lopes-and-lopes-lda</loc>
@@ -1981,29 +1286,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/paulo-lopes-and-lopes-lda/pllaptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/pexsettle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/pexsettle/pexsptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/portucel-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/portucel-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/portucel-s-a-/potcptpt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/portuguese-emission-trading-registry</loc>
@@ -2011,29 +1301,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/portuguese-emission-trading-registry/petgptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/pt-pay-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/pt-pay-sa/payyptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/royal-bank-of-scotland-plc-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/royal-bank-of-scotland-plc-sucursal-em-portugal/rbosptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/samsung-electronica-portugal</loc>
@@ -2051,24 +1326,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/santander-asset-management-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/santander-asset-management-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/santander-asset-management-sociedade-gestora-de-fundos-de-investimento-mobiliario-s-a-/sagcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/sibs-pagamentos-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/sibs-pagamentos-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/sibs-pagamentos-s-a-/siaoptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/sibs-sociedade-interbancaria-de-servicos-s-a</loc>
@@ -2076,19 +1341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/sibs-sociedade-interbancaria-de-servicos-s-a/sisrptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/societa-gestora-do-fundo-de-pensoes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/societa-gestora-do-fundo-de-pensoes/sgfeptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/sonae-financial-services-sa</loc>
@@ -2096,39 +1351,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/sonae-financial-services-sa/sonvptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/st-galler-kantonalbank-ag-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/st-galler-kantonalbank-ag-sucursal-em-portugal/ccieptpx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/the-bank-of-tokyo-mitsubishi-ufj-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/the-bank-of-tokyo-mitsubishi-ufj-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/the-bank-of-tokyo-mitsubishi-ufj-ltd-/botkptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/unicre-instituicao-financeira-de-credito-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/unicre-instituicao-financeira-de-credito-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/unicre-instituicao-financeira-de-credito-s-a-/uifcptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/portugal/universo-banco-directo</loc>
@@ -2136,38 +1371,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/universo-banco-directo/uvbdptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/portugal/wizink-bank-s-a-sucursal-em-portugal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/wizink-bank-s-a-sucursal-em-portugal/wznkptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/x-trade-brokers-d-m-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/x-trade-brokers-d-m-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/portugal/x-trade-brokers-d-m-s-a-/tbptptp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/zurich-companhia-de-seguros-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/portugal/zurich-companhia-de-seguros-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/portugal/zurich-companhia-de-seguros-s-a-/zuriptpl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

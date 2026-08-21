@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/access-bank-sierra-leone-limited/absfslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/apex-bank-sierra-leone-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/apex-bank-sierra-leone-limited/apieslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/bank-of-sierra-leone</loc>
@@ -51,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/commerce-and-mortgage-bank-sl-plc/hfcmslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/ecobank-sierra-leone-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/ecobank-sierra-leone-limited/ecocslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/first-international-bank-sl-limited</loc>
@@ -71,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/first-international-bank-sl-limited/fstislfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/guaranty-trust-bank-sl-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/guaranty-trust-bank-sl-ltd/gtbislfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/international-commercial-bank-sl-limited</loc>
@@ -91,39 +61,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/international-commercial-bank-sl-limited/icbzslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/keystone-bank-sl-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/keystone-bank-sl-limited/phbxslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/national-cooperative-development-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/sierra-leone/national-cooperative-development-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/national-cooperative-development-bank-ltd-/ncdbslf1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/rokel-commercial-bank-sierra-leone-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/sierra-leone/rokel-commercial-bank-sierra-leone-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/rokel-commercial-bank-sierra-leone-ltd-/rcbkslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/sierra-leone-commercial-bank-ltd</loc>
@@ -131,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/sierra-leone-commercial-bank-ltd/slcbslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/skye-bank-sl-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/skye-bank-sl-ltd/skyeslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/standard-chartered-bank-sierra-leone-ltd</loc>
@@ -151,19 +91,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/standard-chartered-bank-sierra-leone-ltd/scblslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/union-trust-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/union-trust-bank-limited/utbsslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/united-bank-for-africa-s-l-ltd</loc>
@@ -171,18 +101,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/united-bank-for-africa-s-l-ltd/unafslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sierra-leone/zenith-bank-sierra-leone-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sierra-leone/zenith-bank-sierra-leone-limited/zeslslfr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

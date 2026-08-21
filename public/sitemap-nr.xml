@@ -16,18 +16,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/nauru/bank-of-nauru/bnaunrn1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nauru/eagle-bank-inc-</loc>
+    <loc>https://swiftcodedir.com/swift/nauru/eagle-bank-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/nauru/eagle-bank-inc-/egbnnrn1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

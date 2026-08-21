@@ -21,29 +21,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/australia-and-new-zealand-banking-group-ltd/anzbtldi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/timor-leste/banco-central-de-timor-leste</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/banco-central-de-timor-leste/bctltldi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/banco-nacional-de-comercio-de-timor-leste-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/timor-leste/banco-nacional-de-comercio-de-timor-leste-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/banco-nacional-de-comercio-de-timor-leste-s-a-/bncttldd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/timor-leste/banking-and-payments-authority-of-east-timor</loc>
@@ -51,18 +36,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/banking-and-payments-authority-of-east-timor/bctltlda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/timor-leste/caixa-geral-de-depositos-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/timor-leste/caixa-geral-de-depositos-sa/cgditldi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -16,14 +16,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/arcelormittal-skopje-crm-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/arcelormittal-skopje-crm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/arcelormittal-skopje-crm-/usinmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/bro-deal-inc</loc>
@@ -31,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/bro-deal-inc/bdbkmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/broker-house-postel-broker-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/broker-house-postel-broker-a-d/pobrmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/brokerage-house-kb-broker-inc-skopje</loc>
@@ -51,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/brokerage-house-kb-broker-inc-skopje/kbbrmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/brokerage-house-makos-invest-broker-inc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/brokerage-house-makos-invest-broker-inc/mibrmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/broker-sb-a-d-skopje-brokerage-house-of-stopanska-banka-ad-skopje</loc>
@@ -71,19 +46,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/broker-sb-a-d-skopje-brokerage-house-of-stopanska-banka-ad-skopje/sbsbmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/capital-bank-ad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/capital-bank-ad/inpbmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/central-cooperative-bank-ad-skopje</loc>
@@ -91,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/central-cooperative-bank-ad-skopje/cecbmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/central-securities-depository-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/central-securities-depository-jsc/cdhvmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/clearing-house-interbank-clearing-systems</loc>
@@ -111,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/clearing-house-interbank-clearing-systems/kibsmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/eurostandard-bank-ad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/eurostandard-bank-ad/eswbmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/fersped-broker-ad</loc>
@@ -131,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/fersped-broker-ad/flammk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/halkbank-ad-skopje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/halkbank-ad-skopje/expcmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/health-insurance-fund-of-macedonia</loc>
@@ -151,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/health-insurance-fund-of-macedonia/hifdmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/kapital-banka-ad-skopje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/kapital-banka-ad-skopje/kapbmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/komercijalna-banka-ad-skopje</loc>
@@ -236,19 +161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/macedonian-bank-for-development-promotion/mbdpmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/macedonian-stock-exchange-ad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/macedonian-stock-exchange-ad/xmaemk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/mak-broker-ad</loc>
@@ -256,19 +171,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/mak-broker-ad/mbbrmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/money-market-and-short-term-securities-of-the-rep-of-macedonia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/money-market-and-short-term-securities-of-the-rep-of-macedonia/pphvmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/national-bank-of-the-republic-of-macedonia</loc>
@@ -291,19 +196,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/national-payment-card-ad/npkmmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/nlb-banka-ad-skopje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/nlb-banka-ad-skopje/tutnmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/ohridska-banka-a-d-skopje</loc>
@@ -311,29 +206,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/ohridska-banka-a-d-skopje/ohrdmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/pelagoniska-banka-ad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/pelagoniska-banka-ad/pelamk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/procredit-bank-macedonia-formerly-pro-business-bank-a-d-skopje-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/procredit-bank-macedonia-formerly-pro-business-bank-a-d-skopje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/procredit-bank-macedonia-formerly-pro-business-bank-a-d-skopje-/prbumk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/sakses-brokers-inc</loc>
@@ -341,19 +221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/sakses-brokers-inc/skbrmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/silk-road-bank-ad-skopje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/silk-road-bank-ad-skopje/krskmk2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/sparkasse-bank-makedonija-ad-skopje</loc>
@@ -361,19 +231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/sparkasse-bank-makedonija-ad-skopje/insbmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/stopanska-banka-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/stopanska-banka-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/stopanska-banka-a-d-/stobmk2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/stopanska-banka-ad-bitola</loc>
@@ -381,19 +241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/stopanska-banka-ad-bitola/stbbmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/tdr-skopje-d-o-o-e-l-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/tdr-skopje-d-o-o-e-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/tdr-skopje-d-o-o-e-l-/batsmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/ttk-banka-ad-skopje</loc>
@@ -401,19 +251,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/ttk-banka-ad-skopje/ttxbmk2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/universal-investment-bank-ad-skopje-unibank-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/universal-investment-bank-ad-skopje-unibank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/universal-investment-bank-ad-skopje-unibank-/uibmmk22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/north-macedonia/zavod-za-platen-promet</loc>
@@ -421,18 +261,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/zavod-za-platen-promet/kmbpmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/zemjodelska-banka-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/north-macedonia/zemjodelska-banka-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/north-macedonia/zemjodelska-banka-a-d-/zembmk21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

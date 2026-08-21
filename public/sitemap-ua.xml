@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/accordbank-commercial-bank/acdcuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/agroprosperis-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/agroprosperis-bank/astruauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/apeks-bank</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/apeks-bank/apksuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/arcada-jscb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/arcada-jscb/arjsuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/arcelormittal-kryviy-rih-vat</loc>
@@ -61,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/arcelormittal-kryviy-rih-vat/usinua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/argo-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/argo-ltd/arooua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-3-4</loc>
@@ -81,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-3-4/bkvkuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-alliance-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-alliance-pjsc/aljjuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-for-investments-and-savings</loc>
@@ -101,19 +61,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-for-investments-and-savings/bfisuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-pivdennyi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-pivdennyi/pivdua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-portal-public-joint-stock-company</loc>
@@ -121,19 +71,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-portal-public-joint-stock-company/bprtuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-prestige-jsb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-prestige-jsb/slapuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bank-sich</loc>
@@ -141,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bank-sich/sichuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bm-bank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bm-bank-pjsc/bmltuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/bohuslav-bank</loc>
@@ -161,29 +91,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/bohuslav-bank/bohuuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/capitalium-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/capitalium-llc/cilcuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/cb-zemelny-capital-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/cb-zemelny-capital-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/cb-zemelny-capital-ltd-/zecpuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/center-commercial-bank</loc>
@@ -191,29 +106,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/center-commercial-bank/centuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/chernigiv-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/chernigiv-bank/chrkua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/citibank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/citibank-pjsc/citiuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/credit-agricole-bank-pjsc</loc>
@@ -236,19 +136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/credit-europe-bank-pjsc/fbhluauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/credit-optima-bank-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/credit-optima-bank-pjsc/ceoiuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/credit-union-narodna</loc>
@@ -256,19 +146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/credit-union-narodna/crurua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/cristalbank-joint-stock-public-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/cristalbank-joint-stock-public-bank/crbpuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/delta-bank</loc>
@@ -276,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/delta-bank/deltuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/dialogbank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/dialogbank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/dialogbank-ltd-/diaoua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/dragon-capital</loc>
@@ -296,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/dragon-capital/drcpuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/drgn-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/drgn-limited/draouau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/dv-bank-pjsc</loc>
@@ -316,19 +176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/dv-bank-pjsc/dvbkuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/-east-industrial-commercial-bank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/-east-industrial-commercial-bank-jsc/eacjua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/etalon-bank</loc>
@@ -336,19 +186,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/etalon-bank/etaluau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/fanak-capital-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/fanak-capital-llc/fapcuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/first-ukrainian-international-bank</loc>
@@ -416,19 +256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/foyil-securities-new-europe-zat/fsneuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/gasbank-joint-stock-bank-ukraine</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/gasbank-joint-stock-bank-ukraine/gjsauau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/globus-bank</loc>
@@ -436,19 +266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/globus-bank/glibua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ing-bank-ukraine</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ing-bank-ukraine/ingbuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/international-investment-bank</loc>
@@ -456,19 +276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/international-investment-bank/iinbuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/interregional-financial-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/interregional-financial-company/infyuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/invest-bank-ukraine-jsc</loc>
@@ -476,22 +286,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/invest-bank-ukraine-jsc/kibbua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank-/ukcbuauk</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank/ukcbuauk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank-/ukcbuau102v</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-accent-bank/ukcbuau102v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -501,19 +306,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/joint-stock-company-tmm-bank/jsotuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-clearing-house-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/jsb-clearing-house</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-clearing-house-/clhsuaux</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/jsb-olumpic-ukraine</loc>
@@ -521,59 +316,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-olumpic-ukraine/jsouuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-ukoopspilka-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/jsb-ukoopspilka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-ukoopspilka-/jsukuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-commercial-industrial-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/jsb-commercial-industrial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsb-commercial-industrial-bank-/cibfuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsc-cominvestbank-formerly-koopinvestbank-ltd-commercial-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/jsc-cominvestbank-formerly-koopinvestbank-ltd-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsc-cominvestbank-formerly-koopinvestbank-ltd-commercial-bank-/koopuaux</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsc-kredobank-formerly-jsc-kredyt-bank-ukraina-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/jsc-kredobank-formerly-jsc-kredyt-bank-ukraina</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsc-kredobank-formerly-jsc-kredyt-bank-ukraina-/wucbua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/jsc-settlement-center</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/jsc-settlement-center/irsuuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/jsc-the-state-export-import-bank-of-ukraine</loc>
@@ -771,29 +536,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/kharkov-commodity-exchange/xkhrua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/kiev-universal-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/kiev-universal-exchange/xkieuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/lviv-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/lviv-bank/lvivua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/marfin-bank</loc>
@@ -891,11 +641,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/misto-bank/mibkua2d</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/national-bank-of-ukraine</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -916,19 +661,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/national-depository-of-ukraine/naduuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/national-electronic-registry-of-ukraine</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/national-electronic-registry-of-ukraine/nerkuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/odessa-commodity-exchange</loc>
@@ -936,19 +671,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/odessa-commodity-exchange/xodeua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/odessa-bank-jscb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/odessa-bank-jscb/odbkua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/okci-bank-pjsc</loc>
@@ -956,19 +681,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/okci-bank-pjsc/okciua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pc-bank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pc-bank-jsc/jscjuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/piraeus-bank-icb-jsc</loc>
@@ -976,29 +691,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/piraeus-bank-icb-jsc/icbiuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-alfa-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-alfa-bank/alfauauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-alpari-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-alpari-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-alpari-bank-/alpauauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-altbank</loc>
@@ -1006,19 +706,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-altbank/avtoua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-asvio-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-asvio-bank/asvbua2c</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-avangard</loc>
@@ -1026,29 +716,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-avangard/avgduauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-credit-dnepr-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-credit-dnepr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-credit-dnepr-/crdeua2n</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-forward</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-forward/frwduauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-grant</loc>
@@ -1076,14 +751,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-vostok-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-vostok</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bank-vostok-/acjcua2n</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bat-prilucky-tobacco-company</loc>
@@ -1091,19 +761,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bat-prilucky-tobacco-company/batsua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bta-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-bta-bank/uctbuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-cb-privatbank</loc>
@@ -1366,62 +1026,47 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-creditwest-bank/crewuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-deutsche-bank-dbu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-deutsche-bank-dbu/deutuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-euroindustribank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-euroindustribank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-euroindustribank-/euomua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuaukdon</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuaukdon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuaukkha</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuaukkha</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuauk</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuauk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuaukkon</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuaukkon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuauklvi</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuauklvi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank-/expbuaukode</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-express-bank/expbuaukode</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1431,19 +1076,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-ibox-bank/agcbuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-idea-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-idea-bank/idbauauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-jsc-bank-trust-capital</loc>
@@ -1451,29 +1086,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-jsc-bank-trust-capital/tcbnuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-jscb-concord-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-jscb-concord</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-jscb-concord-/cnrdua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-motor-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-motor-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-motor-bank-/moojua2z</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-rodovid-bank</loc>
@@ -1481,19 +1101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-rodovid-bank/percuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-rws-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-rws-bank/rwspuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-seb-corporate-bank</loc>
@@ -1501,19 +1111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-seb-corporate-bank/esseuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-ukrainian-construction-investment-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-ukrainian-construction-investment-bank/ucibuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-ukrsotsbank</loc>
@@ -1521,29 +1121,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-ukrsotsbank/ukrsuaux</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pjsc-vs-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-vs-bank/elecua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-vtb-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-vtb-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pjsc-vtb-bank-/vtbruauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/policombank-jscb</loc>
@@ -1551,19 +1136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/policombank-jscb/plicua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/poltava-bank-poltava-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/poltava-bank-poltava-joint-stock-bank/poltua2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/portal-bank-public-joint-stock-company</loc>
@@ -1571,19 +1146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/portal-bank-public-joint-stock-company/ppjcuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/prichernomorye-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/prichernomorye-bank/prihua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/pridneprovsk-commodity-exchange</loc>
@@ -1591,19 +1156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/pridneprovsk-commodity-exchange/xpriua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/procredit-bank-public-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/procredit-bank-public-joint-stock-company/mifcuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/prominvestbank</loc>
@@ -1626,19 +1181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-alliance/aljsuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-familny-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-familny</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-familny-/dobyua2t</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-first-investment-bank</loc>
@@ -1646,162 +1191,147 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-first-investment-bank/fibxuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-intercreditbank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-intercreditbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-intercreditbank-/icbnua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-metabank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-metabank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-metabank-/mtlgua2n</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukchk</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukchk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukchg</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukchg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukchv</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukchv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukdni</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukdni</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukdon</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukdon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukivf</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukivf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukkha</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukkha</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukkhe</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukkhe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukkhm</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukkhm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukcri</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukcri</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukkie</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukkie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuauk</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuauk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukkir</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukkir</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukluh</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukluh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukvol</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukvol</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuauklvi</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuauklvi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukmyk</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukmyk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukode</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukode</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukpol</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukpol</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukriv</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukriv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuauksum</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuauksum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukter</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukzak</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukzak</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukvin</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukvin</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukzap</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukzap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine-/cosbuaukzhi</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-state-savings-bank-of-ukraine/cosbuaukzhi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1811,49 +1341,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-unex-bank/unjtuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-unison-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-unison</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-bank-unison-/unsbuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-axiom-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-axiom</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-axiom-/axbnua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-pravex-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-pravex-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-commercial-bank-pravex-bank-/pravuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-melior-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-melior-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-melior-bank-/mlrbua21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-otp-bank</loc>
@@ -1921,19 +1426,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/public-joint-stock-company-vernum-bank/vernuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/-radabank-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/-radabank-joint-stock-bank/radaua2n</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/-raiffeisen-bank-aval-public-joint-stock-company</loc>
@@ -1996,29 +1491,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/sberbank-pjsc/sabruauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/sky-bank-public-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/sky-bank-public-joint-stock-company/regbua2k</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/tascombank-jsc-formerly-bank-business-standard-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/tascombank-jsc-formerly-bank-business-standard</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/tascombank-jsc-formerly-bank-business-standard-/muniua22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-bank-of-reconstruction-and-development</loc>
@@ -2026,19 +1506,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-bank-of-reconstruction-and-development/ukrduauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-capital-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-capital-bank/ukcauauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-commodity-exchange</loc>
@@ -2046,29 +1516,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-commodity-exchange/xukcuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/-ukrainian-financial-group-commercial-bank-b</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/-ukrainian-financial-group-commercial-bank-b/ufgcuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-state-enterprise-of-posts-ukrposhta-</loc>
+    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-state-enterprise-of-posts-ukrposhta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-state-enterprise-of-posts-ukrposhta-/useuuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-universal-commodity-exchange</loc>
@@ -2076,19 +1531,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrainian-universal-commodity-exchange/xukruau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrgasbank-jsb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrgasbank-jsb/ugasuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrposhta-ukrainian-state-enterprise-of-posts</loc>
@@ -2096,19 +1541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrposhta-ukrainian-state-enterprise-of-posts/sepsuau1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/ukrsibbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/ukrsibbank/khabua2k</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/ukraine/united-commercial-bank</loc>
@@ -2141,18 +1576,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/universal-bank-ojsc/unjsuauk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/ukraine/zemelny-capital-cb-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/ukraine/zemelny-capital-cb-pjsc/zecpua2n</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

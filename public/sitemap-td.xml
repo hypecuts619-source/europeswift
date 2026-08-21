@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-agricole-et-commerciale/bagctdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/chad/banque-commerciale-du-chari</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-commerciale-du-chari/bccxtdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/chad/banque-des-etats-de-l-afrique-centrale-d-n-tchad</loc>
@@ -51,24 +41,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-tchad-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/chad/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-tchad-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-sahelo-saharienne-pour-l-investissement-et-le-commerce-tchad-s-a-/bsahtdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-tchadienne-de-credit-et-de-depots-s-a-b-t-c-d-</loc>
+    <loc>https://swiftcodedir.com/swift/chad/banque-tchadienne-de-credit-et-de-depots-s-a-b-t-c-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/chad/banque-tchadienne-de-credit-et-de-depots-s-a-b-t-c-d-/btchtdn1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/chad/commercial-bank-tchad</loc>
@@ -76,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/commercial-bank-tchad/cbtntdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/chad/ecobank-tchad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/chad/ecobank-tchad/ecoctdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/chad/orabank-tchad</loc>
@@ -96,28 +66,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/orabank-tchad/orbktdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/chad/societe-generale-tchad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/chad/societe-generale-tchad/sogetdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/chad/united-bank-for-africa-tchad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/chad/united-bank-for-africa-tchad/unaftdnd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

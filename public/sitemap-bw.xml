@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/african-banking-corporation-of-botswana-proprietary-limited/fmbzbwga</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/bank-gaborone-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/bank-gaborone-limited/bglibwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/bank-of-baroda-botswana-limited</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/bank-of-baroda-botswana-limited/barbbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/bank-of-botswana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/bank-of-botswana/bbotbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/bank-of-india-botswana-limited</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/bank-of-india-botswana-limited/bkidbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/barclays-bank-of-botswana-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/barclays-bank-of-botswana-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/barclays-bank-of-botswana-ltd-/barcbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/botswana-stock-exchange</loc>
@@ -76,19 +46,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/botswana-stock-exchange/xbotbwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/british-american-tobacco-botswana-pty-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/british-american-tobacco-botswana-pty-limited/batsbw21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/capital-bank-limited</loc>
@@ -96,29 +56,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/capital-bank-limited/caplbwga</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/capital-securities</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/capital-securities/cserbwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/debswana-diamond-company-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/debswana-diamond-company-pty-ltd/ddcobwga</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/first-national-bank-of-botswana-limited</loc>
@@ -141,29 +86,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/fx-africa-botswana-pty-ltd/fxafbwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/investec-securities-botswana-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/investec-securities-botswana-pty-ltd/isbtbwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/motswedi-securities-pty-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/motswedi-securities-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/motswedi-securities-pty-ltd-/mosybwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/botswana/national-development-bank</loc>
@@ -206,11 +136,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/paa-capital-pty-ltd/pcpybwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/botswana/sabmiller-botswana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -236,97 +161,92 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/stanbic-bank-botswana-limited/sbicbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx017</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx017</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx026</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx024</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx024</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx036</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx036</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx023</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx023</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx021</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx021</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx027</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx027</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgxssu</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgxssu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx022</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx022</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx008</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx008</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx009</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx009</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx013</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx013</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx019</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx019</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx018</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx018</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx015</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx015</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd-/schbbwgx016</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/standard-chartered-bank-botswana-ltd/schbbwgx016</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -336,18 +256,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/botswana/state-bank-of-india-botswana-ltd/sbinbwgx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/stockbrokers-botswana-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/botswana/stockbrokers-botswana-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/botswana/stockbrokers-botswana-ltd-/stoobwg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

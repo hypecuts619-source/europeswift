@@ -11,14 +11,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/ab-bank-zambia-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/ab-bank-zambia-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/ab-bank-zambia-ltd-/abbazmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/access-bank-zambia-limited</loc>
@@ -26,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/access-bank-zambia-limited/azamzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/african-banking-corporation-zambia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/african-banking-corporation-zambia/fmbzzmlx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/african-commercial-bank-ltd</loc>
@@ -46,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/african-commercial-bank-ltd/acbkzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/bank-of-china-zambia-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/bank-of-china-zambia-ltd/bkchzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/bank-of-zambia</loc>
@@ -96,19 +71,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/british-american-tobacco-zambia-plc/batszml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/cavmont-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/cavmont-bank-limited/cvmtzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/cavmont-securities-limited</loc>
@@ -116,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/cavmont-securities-limited/cavrzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/citibank-zambia-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/citibank-zambia-ltd/citizmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/development-bank-of-zambia</loc>
@@ -136,32 +91,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/development-bank-of-zambia/debzzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/ecobank-zambia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/ecobank-zambia/ecoczmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited-</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited-/zfbazmlu</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited/zfbazmlu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited-/zfbazml102n</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/finance-bank-zambia-limited/zfbazml102n</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -171,19 +116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/first-alliance-bank/fallzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/first-capital-bank-z-ltd-formerly-known-as-international-commercial-bank-zambia-limited-</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/first-capital-bank-z-ltd-formerly-known-as-international-commercial-bank-zambia-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/first-capital-bank-z-ltd-formerly-known-as-international-commercial-bank-zambia-limited-/iczazmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/first-national-bank-zambia-limited</loc>
@@ -191,19 +126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/first-national-bank-zambia-limited/firnzmlx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/fx-africa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/fx-africa/fxafzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/indo-zambia-bank</loc>
@@ -211,19 +136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/indo-zambia-bank/inzazmlx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/intermarket-banking-corporation-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/intermarket-banking-corporation-limited/idhzzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/intermarket-securities-zambia-ltd</loc>
@@ -231,19 +146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/intermarket-securities-zambia-ltd/inszzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/investrust-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/investrust-bank-ltd/vstrzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/lusaka-stock-exchange</loc>
@@ -251,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/lusaka-stock-exchange/xluszml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/luse-central-shares-depository-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/luse-central-shares-depository-limited/lcsdzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/manifold-investment-bank-limited</loc>
@@ -271,29 +166,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/manifold-investment-bank-limited/minvzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/meridien-biao-zambia-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/meridien-biao-zambia-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/meridien-biao-zambia-ltd-/mezazml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/national-pension-scheme-authority</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/national-pension-scheme-authority/npsazml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/national-savings-and-credit-bank-of-zambia</loc>
@@ -346,19 +226,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/new-capital-bank-plc/ncbpzml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/pangaea-emi-securities-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/pangaea-emi-securities-limited/psnizml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/zambia/sabmiller-zambia</loc>
@@ -386,22 +256,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd-/sbiczml10zk</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd/sbiczml10zk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd-/sbiczmlx</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd/sbiczmlx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd-/sbiczml10zn</loc>
+    <loc>https://swiftcodedir.com/swift/zambia/stanbic-bank-zambia-ltd/sbiczml10zn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -431,28 +301,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/united-bank-for-africa-zambia-limited/unafzmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/zambia-export-and-import-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/zambia/zambia-export-and-import-bank-limited/zaeizml1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/zambia/zambia-national-commercial</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/zambia/zambia-national-commercial/zncozmlu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

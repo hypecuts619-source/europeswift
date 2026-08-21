@@ -21,89 +21,44 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/artosis-llc/arlcmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-comertbank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-comertbank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-comertbank-s-a-/cmtbmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-eximbank-gruppo-veneto-banca-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-eximbank-gruppo-veneto-banca-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-comerciala-eximbank-gruppo-veneto-banca-s-a-/exmmmd22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-de-finante-si-comert-s-a-fincombank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/banca-de-finante-si-comert-s-a-fincombank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/banca-de-finante-si-comert-s-a-fincombank-s-a-/ftmdmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-energbank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/bc-energbank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-energbank-s-a-/enegmd22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-eurocreditbank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/bc-eurocreditbank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-eurocreditbank-s-a-/ecbmmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-mobiasbanca-groupe-societe-generale-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/bc-mobiasbanca-groupe-societe-generale-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-mobiasbanca-groupe-societe-generale-s-a-/mobbmd22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-moldova-agroindbank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/bc-moldova-agroindbank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-moldova-agroindbank-s-a-/agrnmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-procredit-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/bc-procredit-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/bc-procredit-bank-s-a-/prcbmd22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/moldova/benderysocbank</loc>
@@ -111,52 +66,47 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/benderysocbank/benrmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21ben</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21ben</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21dnk</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21dnk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21dub</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21dub</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21gri</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21gri</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21kam</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21kam</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21ryb</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21ryb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21slb</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21slb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank-/agrrmd21</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/cjsc-agroprombank/agrrmd21</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -166,19 +116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/cjsc-tiraspromstroybank/cjtimd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/closed-joint-stock-company-cjsc-trans-dniester-savings-bank-sberbank-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/closed-joint-stock-company-cjsc-trans-dniester-savings-bank-sberbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/closed-joint-stock-company-cjsc-trans-dniester-savings-bank-sberbank-/cjsmmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/moldova/joint-stock-commercial-victoriabank</loc>
@@ -186,19 +126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/joint-stock-commercial-victoriabank/vicbmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/moldova/joint-stock-company-the-export-import-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/joint-stock-company-the-export-import-bank/gajcmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/moldova/jscb-ipotechniy</loc>
@@ -206,19 +136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/jscb-ipotechniy/ipojmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/moldova/moldindconbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/moldindconbank/moldmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/moldova/national-bank-of-moldova</loc>
@@ -226,38 +146,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/national-bank-of-moldova/nbmdmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/romanian-commercial-bank-chisinau-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/romanian-commercial-bank-chisinau-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/moldova/romanian-commercial-bank-chisinau-s-a-/rncbmd2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/state-enterprise-posta-moldovei-</loc>
+    <loc>https://swiftcodedir.com/swift/moldova/state-enterprise-posta-moldovei</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/state-enterprise-posta-moldovei-/pmodmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/moldova/trans-dniester-republican-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/moldova/trans-dniester-republican-bank/prbtmd21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

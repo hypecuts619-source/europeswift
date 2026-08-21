@@ -15,9 +15,4 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/micronesia/bank-of-hawaii-pohnpei-branch/bohifmp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

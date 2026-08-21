@@ -16,29 +16,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/absa-bank-namibia-limited/absanan1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/namibia/banco-privado-atlantico-europa-s-a-namibia-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/banco-privado-atlantico-europa-s-a-namibia-branch/bapananx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/namibia/bank-bic-namibia-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/bank-bic-namibia-limited/bbnlnana</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/bank-of-namibia</loc>
@@ -71,14 +56,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/city-savings-and-investment-bank-holdings-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/namibia/city-savings-and-investment-bank-holdings-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/city-savings-and-investment-bank-holdings-ltd-/csihnan1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/first-national-bank-of-namibia-limited</loc>
@@ -101,29 +81,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/investment-house-namibia-pty-ltd/ihnananx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/investment-house-namibia-pty-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/namibia/investment-house-namibia-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/investment-house-namibia-pty-ltd-/hysanan1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/irwin-jacobs-greene-and-associates-pty-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/namibia/irwin-jacobs-greene-and-associates-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/irwin-jacobs-greene-and-associates-pty-ltd-/ijglnana</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/letshego-bank-namibia-limited</loc>
@@ -131,19 +96,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/letshego-bank-namibia-limited/lfsgnana</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/namibia/namclear-pty-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/namclear-pty-limited/namcnanx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/namibia-equity-brokers-pty-ltd</loc>
@@ -151,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/namibia-equity-brokers-pty-ltd/nboenanx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/namibia/namibian-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/namibian-stock-exchange/xnamnan1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/nedbank-namibia-limited</loc>
@@ -171,19 +116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/namibia/nedbank-namibia-limited/nedsnanx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/namibia/simonis-storm-securities-pty-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/simonis-storm-securities-pty-ltd/flmsnanx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/namibia/standard-bank-namibia-limited</loc>
@@ -204,10 +139,5 @@
     <loc>https://swiftcodedir.com/swift/namibia/trustco-bank-namibia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/namibia/trustco-bank-namibia/trnananx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

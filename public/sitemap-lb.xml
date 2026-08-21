@@ -16,14 +16,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/al-baraka-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/al-baraka-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/al-baraka-bank-s-a-l-/alcvlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/al-bilad-islamic-bank-for-investment-and-finance-psc</loc>
@@ -31,29 +26,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/al-bilad-islamic-bank-for-investment-and-finance-psc/aiiflbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/al-mawarid-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/al-mawarid-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/al-mawarid-bank-s-a-l-/mabalbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/arab-african-international-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/arab-african-international-bank/arailbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/arab-bank-plc</loc>
@@ -141,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/arab-finance-corporation-sal/afcolbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/arab-finance-house-sal-islamic-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/arab-finance-house-sal-islamic-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/arab-finance-house-sal-islamic-bank-/afholbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/arab-investment-bank-sal</loc>
@@ -161,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/arab-investment-bank-sal/arbvlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/audi-investment-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/audi-investment-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/audi-investment-bank-s-a-l-/ausilbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/audi-investment-bank-sal</loc>
@@ -181,49 +141,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/audi-investment-bank-sal/infslbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/audi-private-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/audi-private-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/audi-private-bank-s-a-l-/bsarlbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/b-l-c-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/b-l-c-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/b-l-c-bank-s-a-l-/licolbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-al-madina-sal-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/bank-al-madina-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-al-madina-sal-/madilbl1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-audi-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/bank-audi-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-audi-s-a-l-/audblbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/bank-of-baghdad</loc>
@@ -231,29 +166,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-of-baghdad/babilbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/bank-of-beirut-invest-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-of-beirut-invest-s-a-l/bobplbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-of-beirut-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/bank-of-beirut-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bank-of-beirut-s-a-l-/babelbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/bankmed-sal</loc>
@@ -261,49 +181,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bankmed-sal/medllbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/banque-bemo-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-bemo-sal/eumolbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-credit-national-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-credit-national-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-credit-national-s-a-l-/bcnblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-l-habitat-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-l-habitat-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-de-l-habitat-s-a-l-/lhbalbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/banque-du-credit-populaire-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-du-credit-populaire-s-a-l/nudtlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/banque-du-liban</loc>
@@ -376,57 +271,47 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-joseph-geagea-s-a-l/bjgelbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/banque-libano-francaise</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-libano-francaise/blfslbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb10b2</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb10b2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbbe</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbbe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb1025</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb1025</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb1026</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb1026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb1023</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb1023</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb1022</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb1022</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l-/bmislbb1024</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/banque-misr-liban-s-a-l/bmislbb1024</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -436,19 +321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bbac-sal/bbaclbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/beirut-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/beirut-stock-exchange/xbeylbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/bemo-securitisation-sal</loc>
@@ -456,79 +331,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bemo-securitisation-sal/bemslbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blom-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/blom-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blom-bank-s-a-l-/blomlbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blom-development-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/blom-development-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blom-development-bank-s-a-l-/bdbllbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blominvest-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/blominvest-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/blominvest-bank-s-a-l-/blinlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bsl-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/bsl-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/bsl-bank-s-a-l-/sonblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/byblos-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/byblos-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/byblos-bank-s-a-l-/bybalbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/byblos-invest-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/byblos-invest-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/byblos-invest-bank-s-a-l-/bybilbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/cedrus-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/cedrus-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/cedrus-bank-s-a-l-/cedxlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/cedrus-invest-bank-s-a-l</loc>
@@ -551,19 +386,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/citibank-na-beirut-branch/citilbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/council-for-development-and-reconstruction</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/council-for-development-and-reconstruction/cdralbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/credit-commercial-et-foncier-sal</loc>
@@ -571,29 +396,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-commercial-et-foncier-sal/ccfxlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/credit-financier-invest-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-financier-invest-s-a-l/cefvlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-financier-sal-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/credit-financier-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-financier-sal-/crfclbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/credit-libanais-investment-bank-sal</loc>
@@ -601,19 +411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-libanais-investment-bank-sal/libnlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-libanais-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/credit-libanais-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/credit-libanais-s-a-l-/cliblbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/creditbank-sal</loc>
@@ -621,19 +421,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/creditbank-sal/cbcblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/cscbank-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/cscbank-sal/ccsclbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/emirates-lebanon-bank-sal</loc>
@@ -641,39 +431,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/emirates-lebanon-bank-sal/elbklbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/federal-bank-of-lebanon-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/federal-bank-of-lebanon-s-a-l/fblelbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/fenicia-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/fenicia-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/fenicia-bank-s-a-l-/bkawlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ffa-private-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/ffa-private-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ffa-private-bank-s-a-l-/ffailbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/fidus-sal-groupe-societe-generale-de-banque-au-liban</loc>
@@ -696,19 +466,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/finance-bank/fblblbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/first-national-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/first-national-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/first-national-bank-s-a-l-/finklbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/fransa-invest-bank</loc>
@@ -716,19 +476,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/fransa-invest-bank/frailbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/fransabank-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/fransabank-sal/fsablbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/habib-bank-limited</loc>
@@ -736,19 +486,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/habib-bank-limited/habblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ibl-bank-s-a-l-formerly-intercontinental-bank-of-lebanon-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/ibl-bank-s-a-l-formerly-intercontinental-bank-of-lebanon-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ibl-bank-s-a-l-formerly-intercontinental-bank-of-lebanon-s-a-l-/inlelbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/ibl-investment-bank-sal</loc>
@@ -756,19 +496,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ibl-investment-bank-sal/iblvlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/invest-bank-p-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/invest-bank-p-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/invest-bank-p-s-c-/ibtflbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/jammal-trust-bank-sal</loc>
@@ -776,29 +506,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/jammal-trust-bank-sal/jtbklbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/kafalat-s-a-l-guarantees-for-small-and-medium-enterprises</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/kafalat-s-a-l-guarantees-for-small-and-medium-enterprises/kafalbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lebanese-islamic-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/lebanese-islamic-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lebanese-islamic-bank-s-a-l-/libblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/lebanese-swiss-bank-sal</loc>
@@ -806,19 +521,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lebanese-swiss-bank-sal/lebslbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/lebanon-and-gulf-bank-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lebanon-and-gulf-bank-sal/lgbalbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/lebanon-invest-s-a-l</loc>
@@ -826,19 +531,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lebanon-invest-s-a-l/linvlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/libank-s-a-l-levant-investment-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/libank-s-a-l-levant-investment-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/libank-s-a-l-levant-investment-bank-/libklbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/litex-bank-s-a-l</loc>
@@ -846,19 +541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/litex-bank-s-a-l/litelbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lucid-investment-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/lucid-investment-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/lucid-investment-bank-s-a-l-/lucilbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/meab-sal</loc>
@@ -866,19 +551,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/meab-sal/bamolbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/mecattaf-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/mecattaf-s-a-l/mecalbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/medinvestment-bank-sal</loc>
@@ -886,42 +561,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/medinvestment-bank-sal/mibllbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/medsecurities-investment-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/medsecurities-investment-sal/menvlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/merrill-lynch-pierce-fenner-and-smith-me-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/merrill-lynch-pierce-fenner-and-smith-me-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/merrill-lynch-pierce-fenner-and-smith-me-s-a-l-/mpfslbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l-/midrlbbe</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l/midrlbbe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l-/midrlbbeasa</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/midclear-s-a-l/midrlbbeasa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -931,19 +591,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/middle-east-airlines-airliban/meallbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/middle-east-capital-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/middle-east-capital-group/mecxlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/middle-east-capital-group-s-a-l</loc>
@@ -951,19 +601,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/middle-east-capital-group-s-a-l/middlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/ministry-of-finance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/ministry-of-finance/minflbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/national-bank-of-abu-dhabi</loc>
@@ -971,29 +611,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/national-bank-of-abu-dhabi/nbadlbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/national-bank-of-kuwait-lebanon-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/national-bank-of-kuwait-lebanon-sal/nboklbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/north-africa-commercial-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/north-africa-commercial-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/north-africa-commercial-bank-s-a-l-/nacblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/optimum-invest-sal</loc>
@@ -1001,19 +626,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/optimum-invest-sal/optilbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/paribas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/paribas/parblbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/qatar-national-bank</loc>
@@ -1021,39 +636,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/qatar-national-bank/qnbalbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/rafidain-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/rafidain-bank/rafblbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/saradar-bank-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/saradar-bank-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/saradar-bank-s-a-l-/btlvlbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/saudi-lebanese-bank-sal-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/saudi-lebanese-bank-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/saudi-lebanese-bank-sal-/slbllbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/societe-d-investissements-financier-s-sal</loc>
@@ -1061,48 +656,23 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/societe-d-investissements-financier-s-sal/sodalbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/lebanon/societe-financiere-du-liban-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/societe-financiere-du-liban-sal/lisflbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/societe-generale-de-banque-au-liban-s-a-l-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/societe-generale-de-banque-au-liban-s-a-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/societe-generale-de-banque-au-liban-s-a-l-/sglilbbx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/syrian-lebanese-commercial-bank-sal-</loc>
+    <loc>https://swiftcodedir.com/swift/lebanon/syrian-lebanese-commercial-bank-sal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/syrian-lebanese-commercial-bank-sal-/sylclbbe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/lebanon/united-bank-of-saudi-and-lebanon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/lebanon/united-bank-of-saudi-and-lebanon/ubsllbb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

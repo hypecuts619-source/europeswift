@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/ayandeh-bank/aybkirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/iran/bank-day</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/bank-day/daybirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/iran/bank-eghtesad-novin</loc>
@@ -134,11 +124,6 @@
     <loc>https://swiftcodedir.com/swift/iran/bank-hekmat-iranian</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/bank-hekmat-iranian/hekmirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/iran/bank-keshavarzi</loc>
@@ -2996,102 +2981,102 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthkrj</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthkrj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthbsh</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthbsh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthqaz</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthqaz</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthesf</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthesf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthksh</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthksh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthmas</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthmas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthqom</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthqom</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthshi</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthshi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthtab</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthtab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth248</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth248</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth201</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth201</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth329</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth329</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirthtrd</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirthtrd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth538</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth538</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth331</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth331</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth335</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth335</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth240</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth240</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth504</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth504</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp-/ciybirth</loc>
+    <loc>https://swiftcodedir.com/swift/iran/city-bank-public-corp/ciybirth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3401,29 +3386,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/fnxcard-corporation-ltd/fnxcirt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/helal-iran-medical-devices-co-</loc>
+    <loc>https://swiftcodedir.com/swift/iran/helal-iran-medical-devices-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/helal-iran-medical-devices-co-/himdirt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/iran/iran-venezuela-bi-national-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/iran-venezuela-bi-national-bank/ivbbirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/iran/karafarin-bank</loc>
@@ -3489,11 +3459,6 @@
     <loc>https://swiftcodedir.com/swift/iran/middle-east-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/middle-east-bank/khmiirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/iran/parsian-bank</loc>
@@ -3771,142 +3736,137 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/phoenix-soft-corp-ltd/psclirt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth113</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth113</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth653</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth653</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth803</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth803</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth355</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth355</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth238</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth238</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth358</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth358</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth365</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth365</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth129</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth129</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth227</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth227</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth197</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth197</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth423</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth423</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth147</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth147</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth016</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth016</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth183</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth183</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth414</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth414</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth102</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth102</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth363</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth363</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth224</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth224</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth031</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth031</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth407</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth407</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirthset</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirthset</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth296</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth296</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth079</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth079</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth392</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth392</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i-/pbirirth327</loc>
+    <loc>https://swiftcodedir.com/swift/iran/post-bank-of-iran-p-b-i/pbirirth327</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -4516,122 +4476,122 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth384</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth384</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthesf</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthesf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth601</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth601</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth401</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth401</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthmsh</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthmsh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth373</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth373</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth342</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth342</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth301</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth301</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth300</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth300</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthasf</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthasf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthcnt</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthcnt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthelh</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthelh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthesk</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthesk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthfat</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthfat</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirthkar</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirthkar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth056</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth056</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth002</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth002</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth004</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth004</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth035</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth035</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth038</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth038</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth034</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth034</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth014</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth014</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c-/srmbirth</loc>
+    <loc>https://swiftcodedir.com/swift/iran/sarmaye-bank-p-j-s-c/srmbirth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -4656,28 +4616,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/teheran-stock-exchange/xtehirt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/iran/tosee-taavon-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/iran/tosee-taavon-bank/ttbiirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/iran/tourism-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/iran/tourism-bank/tosmirth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

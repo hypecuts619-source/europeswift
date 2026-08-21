@@ -16,11 +16,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/acb-securities-co-ltd/acbsvn21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/aia-vietnam-life-insurance-company-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,11 +34,6 @@
     <loc>https://swiftcodedir.com/swift/vietnam/an-binh-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/an-binh-commercial-joint-stock-bank/abbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/anz-bank-vietnam-limited</loc>
@@ -66,11 +56,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/asia-commercial-bank/ascbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bangkok-bank-pcl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -91,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bangkok-bank-public-company-limited/bkkbvnv10v5</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bank-of-china</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bank-of-china/bkchvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bank-of-communications-co-ltd-ho-chi-minh-city-branch</loc>
@@ -111,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bank-of-communications-co-ltd-ho-chi-minh-city-branch/commvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bank-of-india</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bank-of-india/bkidvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bank-of-tokyo-mitsubishi-ufj-ltd-the</loc>
@@ -131,19 +96,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bank-of-tokyo-mitsubishi-ufj-ltd-the/botkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bank-sinopac-ho-chi-minh-city-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bank-sinopac-ho-chi-minh-city-branch/sinovnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bao-viet-securities-company</loc>
@@ -151,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bao-viet-securities-company/bvscvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/baoviet-joint-stock-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/baoviet-joint-stock-commercial-bank/bvbvvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bnp-paribas-hanoi-branch</loc>
@@ -171,29 +116,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bnp-paribas-hanoi-branch/bnpavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/bnp-paribas-vietnam-ho-chi-minh-city-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bnp-paribas-vietnam-ho-chi-minh-city-branch/bnpavnvn</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bpce-iom-ho-chi-minh-city-branch-formerly-natixis-branch-in-ho-chi-minh-city-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/bpce-iom-ho-chi-minh-city-branch-formerly-natixis-branch-in-ho-chi-minh-city</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/bpce-iom-ho-chi-minh-city-branch-formerly-natixis-branch-in-ho-chi-minh-city-/bfcevnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/british-american-tobacco-vinataba-jv-ltd</loc>
@@ -201,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/british-american-tobacco-vinataba-jv-ltd/batsvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/china-construction-bank-corporation-ho-chi-minh-city-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/china-construction-bank-corporation-ho-chi-minh-city-branch/pcbcvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/cimb-bank-vietnam-limited</loc>
@@ -221,22 +141,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/cimb-bank-vietnam-limited/cibbvnvn</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a-/citivnvx</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a/citivnvx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a-/citivnvxhcm</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/citibank-n-a/citivnvxhcm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -246,19 +161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/commonwealth-bank-of-australia-ho-chi-minh-city/ctbavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/construction-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/construction-bank/gtbavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/ctbc-bank-co-ltd-hochi-minh-city-branch</loc>
@@ -266,19 +171,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/ctbc-bank-co-ltd-hochi-minh-city-branch/ctcbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/dai-nam-ngan-hang-dai-nam-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/dai-nam-ngan-hang-dai-nam-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/dai-nam-ngan-hang-dai-nam-bank-/dndbvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/dbs-bank-ltd-ho-chi-minh-city-branch</loc>
@@ -286,19 +181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/dbs-bank-ltd-ho-chi-minh-city-branch/dbssvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/deutsche-bank-ho-chi-minh-city-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/deutsche-bank-ho-chi-minh-city-branch/deutvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/donga-bank</loc>
@@ -306,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/donga-bank/eacbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/e-sun-commercial-bank-ltd-dong-nai-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/e-sun-commercial-bank-ltd-dong-nai-branch/esunvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/first-commercial-bank</loc>
@@ -336,24 +211,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/global-petro-sole-member-limited-commercial-bank-gpbank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/global-petro-sole-member-limited-commercial-bank-gpbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/global-petro-sole-member-limited-commercial-bank-gpbank-/gbnkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/ho-chi-minh-securities-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/ho-chi-minh-securities-corporation/hsccvn21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/hochiminh-city-development-joint-stock-commercial-bank</loc>
@@ -386,42 +251,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/horizon-securities-corporation-hrs-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/horizon-securities-corporation-hrs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/horizon-securities-corporation-hrs-/hscrvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-/hsbcvnvx004</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd/hsbcvnvx004</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-/hsbcvnvx003</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd/hsbcvnvx003</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-/hsbcvnvx005</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd/hsbcvnvx005</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-/hsbcvnvxvhn</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd/hsbcvnvxvhn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd-/hsbcvnvx</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/hsbc-bank-vietnam-ltd/hsbcvnvx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -431,19 +291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hsc/hsccvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/hua-nan-commercial-bank-ltd-hochiminh-city-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/hua-nan-commercial-bank-ltd-hochiminh-city-branch/hnbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/icbc-hanoi-branch</loc>
@@ -451,19 +301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/icbc-hanoi-branch/icbkvnvn</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/indovina-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/indovina-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/indovina-bank-ltd-/iabbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/industrial-bank-of-korea-vietnam</loc>
@@ -1251,19 +1091,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-ho-chi-minh-city-branch/koexvn2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-ho-chi-minh-city-branch-formerly-hana-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-ho-chi-minh-city-branch-formerly-hana-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-ho-chi-minh-city-branch-formerly-hana-bank-/hnbnvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-hanoi-branch</loc>
@@ -1271,19 +1101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/keb-hana-bank-hanoi-branch/koexvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/kien-long-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/kien-long-commercial-joint-stock-bank/klbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/kookmin-bank-ho-chi-minh-city-branch</loc>
@@ -1291,19 +1111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/kookmin-bank-ho-chi-minh-city-branch/cznbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/lien-viet-post-joint-stock-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/lien-viet-post-joint-stock-commercial-bank/lvbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/malayan-banking-berhad</loc>
@@ -1326,29 +1136,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/maybank-kim-eng-securities-joint-stock-company/mkesvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mega-international-commercial-bank-co-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/mega-international-commercial-bank-co-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mega-international-commercial-bank-co-ltd-/icbcvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mercedes-benz-vietnam-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/mercedes-benz-vietnam-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mercedes-benz-vietnam-ltd-/dabevnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/military-commercial-joint-stock-bank</loc>
@@ -1406,22 +1201,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mirae-asset-securities-vietnam-limited-liability-company/mawmvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd-/mhcbvnvx</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd/mhcbvnvx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd-/mhcbvnvxhcm</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/mizuho-bank-ltd/mhcbvnvxhcm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1431,19 +1221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/nam-a-commercial-joint-stock-bank/namavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/national-citizen-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/national-citizen-commercial-joint-stock-bank/nvbavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/nonghyup-bank-hanoi-branch</loc>
@@ -1451,19 +1231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/nonghyup-bank-hanoi-branch/nacfvnvh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/north-asia-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/north-asia-commercial-joint-stock-bank/nascvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/ocean-commercial-one-member-limited-liability-bank</loc>
@@ -1471,19 +1241,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/ocean-commercial-one-member-limited-liability-bank/ojbavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/orient-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/orient-commercial-joint-stock-bank/orcovnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/oversea-chinese-banking-corporation-limited</loc>
@@ -1491,19 +1251,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/oversea-chinese-banking-corporation-limited/ocbcvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/petrolimex-group-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/petrolimex-group-commercial-joint-stock-bank/pgblvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/public-bank-vietnam-limited</loc>
@@ -1511,29 +1261,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/public-bank-vietnam-limited/vidpvnv5</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/sacombank-securities-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/sacombank-securities-joint-stock-company/saemvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/sai-gon-ha-noi-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/sai-gon-ha-noi-commercial-joint-stock-bank/shbavnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/saigon-bank-for-industry-and-trade-the</loc>
@@ -1566,39 +1301,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/saigon-commercial-bank/saclvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/saigon-securities-incorporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/saigon-securities-incorporation/saepvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/saigon-thuong-tin-commercial-joint-stock-bank-sacombank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/saigon-thuong-tin-commercial-joint-stock-bank-sacombank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/saigon-thuong-tin-commercial-joint-stock-bank-sacombank-/sgttvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/samsung-chemical-technology-vina-llc-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/samsung-chemical-technology-vina-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/samsung-chemical-technology-vina-llc-/scntvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/samsung-electronics-hcmc-ce-complex</loc>
@@ -1606,19 +1321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/samsung-electronics-hcmc-ce-complex/sectvn31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/samsung-electronics-vietnam-co-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/samsung-electronics-vietnam-co-ltd/sectvn21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/samsung-vina-electronics-co-ltd</loc>
@@ -1666,19 +1371,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/southeast-asia-commercial-joint-stock-bank/seavvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/standard-chartered-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/standard-chartered-bank/scblvnvh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/standard-chartered-bank-vietnam-limited</loc>
@@ -1716,11 +1411,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/sumitomo-mitsui-banking-corporation/smbcvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/taipei-fubon-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1751,19 +1441,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/thang-long-securities-jsc/tlsjvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/the-bank-of-tokyo-mitsubishi-ufj-ltd-hanoi-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/the-bank-of-tokyo-mitsubishi-ufj-ltd-hanoi-branch/botkvnv5</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/the-busan-bank-co-ltd-ho-chi-minh-city-branch</loc>
@@ -1771,19 +1451,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/the-busan-bank-co-ltd-ho-chi-minh-city-branch/pusbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/the-shanghai-commercial-and-savings-bank-ltd-dong-nai-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/the-shanghai-commercial-and-savings-bank-ltd-dong-nai-branch/scsbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/the-siam-commercial-bank-pcl-ho-chi-minh-city-br-anch</loc>
@@ -1791,19 +1461,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/the-siam-commercial-bank-pcl-ho-chi-minh-city-br-anch/sicovnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/thien-viet-securities-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/thien-viet-securities-joint-stock-company/tvsjvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/tienphong-commercial-joint-stock-bank</loc>
@@ -1811,22 +1471,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/tienphong-commercial-joint-stock-bank/tpbvvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd-/uovbvnvxcms</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd/uovbvnvxcms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd-/uovbvnvx</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/united-overseas-bank-ltd/uovbvnvx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1836,19 +1491,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/viet-capital-commercial-joint-stock-bank/vcbcvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/viet-capital-securities-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/viet-capital-securities-joint-stock-company/vcsjvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/viet-nam-thuong-tin-commercial-joint-stock-bank</loc>
@@ -1856,19 +1501,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/viet-nam-thuong-tin-commercial-joint-stock-bank/vnttvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietcapital-securities-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietcapital-securities-joint-stock-company/vcscvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-bank-for-agriculture-and-rural-development</loc>
@@ -2851,11 +2486,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-cong-thuong-ngan-hang/vctnvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-export-import-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3091,797 +2721,792 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-international-commercial-joint-stock-bank/vnibvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx740</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx740</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx742</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx742</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx172</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx172</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx280</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx280</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx862</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx862</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx282</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx282</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx284</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx284</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx285</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx285</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx289</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx289</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx780</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx780</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx682</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx682</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx540</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx540</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx542</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx542</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx640</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx640</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx901</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx901</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx504</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx504</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx600</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx600</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx502</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx502</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx860</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx860</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx820</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx820</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx824</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx824</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx186</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx186</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx480</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx480</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx486</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx486</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx488</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx488</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx490</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx490</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx506</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx506</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx184</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx184</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx680</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx680</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx681</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx681</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx720</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx720</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx724</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx724</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx500</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx500</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx195</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx195</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx384</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx384</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx324</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx324</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx430</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx430</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx340</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx340</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx346</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx346</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx344</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx344</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx162</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx162</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx160</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx160</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx166</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx166</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx169</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx169</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx164</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx164</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx168</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx168</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx161</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx161</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx124</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx124</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx128</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx128</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx322</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx322</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx126</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx126</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx144</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx144</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx131</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx131</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx096</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx096</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx188</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx188</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx142</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx142</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx106</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx106</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx122</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx122</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx136</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx136</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx328</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx328</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx140</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx140</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx129</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx129</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx145</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx145</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx326</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx326</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx320</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx320</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx127</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx127</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx189</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx189</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx146</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx146</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx902</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx902</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx908</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx908</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx924</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx924</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx926</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx926</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx928</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx928</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx940</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx940</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx942</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx942</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx904</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx904</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx906</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx906</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx920</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx920</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx922</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx922</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx944</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx944</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx932</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx932</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx948</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx948</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx946</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx946</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx930</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx930</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx912</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx912</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx910</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx910</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx945</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx945</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx947</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx947</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx903</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx903</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx900</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx900</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx923</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx923</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx250</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx250</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx460</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx460</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx342</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx342</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx343</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx343</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx840</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx840</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx842</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx842</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx510</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx510</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx182</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx182</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx622</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx622</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx620</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx620</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx200</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx200</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx180</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx180</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx704</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx704</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx700</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx700</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx380</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx380</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx382</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx382</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx441</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx441</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx440</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx440</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx444</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx444</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx442</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx442</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx580</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx580</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx400</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx400</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx402</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx402</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx610</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx610</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx248</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx248</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx242</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx242</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx240</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx240</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx244</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx244</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx560</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx560</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx470</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx470</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx484</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx484</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx482</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx482</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx520</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx520</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx306</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx306</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx302</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx302</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx308</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx308</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx300</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx300</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx304</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx304</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx316</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx316</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx450</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx450</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx822</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx822</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx190</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx190</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx662</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx662</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx660</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx660</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx664</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx664</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx360</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx360</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx224</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx224</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx222</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx222</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx220</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx220</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx424</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx424</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx422</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx422</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx420</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx420</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx462</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx462</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx760</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx760</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx762</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx762</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx980</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx980</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx174</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx174</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx821</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx821</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx800</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx800</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx262</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx262</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx260</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx260</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx264</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx264</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx246</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx246</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx880</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx880</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade-/icbvvnvx170</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-joint-stock-commercial-bank-for-industry-and-trade-formerly-vietnam-bank-for-industry-and-trade/icbvvnvx170</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3951,14 +3576,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/viet-nam-ngan-hang-joint-stock-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/viet-nam-ngan-hang-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/viet-nam-ngan-hang-joint-stock-bank-/vingvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-post</loc>
@@ -3966,29 +3586,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-post/vnptvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-prosperity-joint-stock-commercial-bank-formerly-vietnam-jsc-bk-for-private-enterprises-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-prosperity-joint-stock-commercial-bank-formerly-vietnam-jsc-bk-for-private-enterprises</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-prosperity-joint-stock-commercial-bank-formerly-vietnam-jsc-bk-for-private-enterprises-/vpbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-public-joint-stock-commercial-bank-pvcombank-</loc>
+    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-public-joint-stock-commercial-bank-pvcombank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-public-joint-stock-commercial-bank-pvcombank-/wbvnvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-russia-joint-venture-bank</loc>
@@ -4011,19 +3616,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-securities-depository/visdvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-technological-and-commercial-joint-stock-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-technological-and-commercial-joint-stock-bank/vtcbvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vietnam-asia-commercial-joint-stock-bank-ha-noi-city</loc>
@@ -4031,19 +3626,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vietnam-asia-commercial-joint-stock-bank-ha-noi-city/vnacvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vina-securities-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vina-securities-jsc/vsjcvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vinasecurities</loc>
@@ -4051,19 +3636,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vinasecurities/vinavnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/vndirect-securities</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/vndirect-securities/vndsvnv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/vietnam/woori-bank-vietnam-limited</loc>
@@ -4071,18 +3646,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/woori-bank-vietnam-limited/hvbkvnvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/vietnam/wooribank-hochiminh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/vietnam/wooribank-hochiminh/hvbkvn2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

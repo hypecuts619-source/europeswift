@@ -16,29 +16,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/b2b-bank-limited/btbbvcvc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/bank-of-nova-scotia-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/bank-of-nova-scotia-the/noscvcvc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/bank-of-st-vincent-and-the-grenadines-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/bank-of-st-vincent-and-the-grenadines-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/bank-of-st-vincent-and-the-grenadines-ltd-/ncbvvc22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/caribbean-and-overseas-trust-bank</loc>
@@ -46,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/caribbean-and-overseas-trust-bank/cadtvc21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/euro-pacific-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/euro-pacific-bank-limited/epblvcvc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/firstcaribbean-international-bank-barbados-limited</loc>
@@ -66,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/firstcaribbean-international-bank-barbados-limited/fcibvcvc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/government-of-st-vincent-and-the-grenadines</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/government-of-st-vincent-and-the-grenadines/gvvgvcvc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/loyal-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/loyal-bank-limited/loyavcvx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/rbtt-bank-carribean-limited</loc>
@@ -111,18 +71,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/stb-swiss-trust-bank-ltd/stbsvcv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/vanilla-direct-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/vanilla-direct-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-vincent-grenadines/vanilla-direct-bank-ltd-/vdblvcv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

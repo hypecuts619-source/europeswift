@@ -11,34 +11,19 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/100-0-0-banco-banco-universal-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/100-0-0-banco-banco-universal-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/100-0-0-banco-banco-universal-c-a-/fncoveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/activalores-sociedad-de-corretaje-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/activalores-sociedad-de-corretaje-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/activalores-sociedad-de-corretaje-s-a-/asdcvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/araven-finance-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/araven-finance-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/araven-finance-ltd-/arafvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-consolidado</loc>
@@ -46,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-consolidado/aconvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-de-venezuela-banvenez-saca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-de-venezuela-banvenez-saca/arbzvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-del-orinoco-ca</loc>
@@ -66,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-del-orinoco-ca/aorivec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-provincial</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/arrendadora-provincial/arprvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/bamerinvest</loc>
@@ -86,29 +51,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bamerinvest/bamtvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/bancamiga-banco-microfinanciero</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bancamiga-banco-microfinanciero/bmigveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bancaracas-casa-de-bolsa-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/bancaracas-casa-de-bolsa-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bancaracas-casa-de-bolsa-c-a-/bcbovec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-activo-c-a-banco-universal</loc>
@@ -116,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-activo-c-a-banco-universal/activeca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-agricola-de-venezuela-c-a-banco-universal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-agricola-de-venezuela-c-a-banco-universal/bavevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-bicentenario-del-pueblo-de-la-clase-obrera-mujer-y-comunas-banco-universal</loc>
@@ -136,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-bicentenario-del-pueblo-de-la-clase-obrera-mujer-y-comunas-banco-universal/condvecp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-canarias-de-venezuela-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-canarias-de-venezuela-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-canarias-de-venezuela-c-a-/bocavec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-caroni-c-a-banco-universal</loc>
@@ -171,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-central-de-venezuela/bcveveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-comercio-exterior</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-comercio-exterior/bcevveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-desarrollo-agropecuario</loc>
@@ -191,39 +111,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-desarrollo-agropecuario/bdagvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-desarrollo-economico-y-social-de-venezuela</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-desarrollo-economico-y-social-de-venezuela/fivvveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-exportacion-y-comercio-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-exportacion-y-comercio-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-exportacion-y-comercio-c-a-/becuveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-fomento-regional-coro-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-fomento-regional-coro-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-fomento-regional-coro-c-a-/bfrcve21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-fomento-regional-los-andes</loc>
@@ -231,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-fomento-regional-los-andes/bfrave21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-la-fuerza-armada-nacional-bolivariana-banco-universal-c-a-banfanb-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-la-fuerza-armada-nacional-bolivariana-banco-universal-c-a-banfanb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-la-fuerza-armada-nacional-bolivariana-banco-universal-c-a-banfanb-/bfanveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-la-provincia-de-buenos-aires</loc>
@@ -251,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-la-provincia-de-buenos-aires/prbavec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-de-venezuela-s-a-banco-universal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-de-venezuela-s-a-banco-universal/vzlaveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-del-alba</loc>
@@ -271,19 +151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-del-alba/llbaveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-del-caribe-c-a-banco-universal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-del-caribe-c-a-banco-universal/carbveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-del-tesoro-c-a-banco-universal</loc>
@@ -291,19 +161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-del-tesoro-c-a-banco-universal/bdteveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-exterior-c-a-banco-universal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-exterior-c-a-banco-universal/bextveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-financiero</loc>
@@ -341,19 +201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-de-aragua/bharvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-de-la-vivienda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-de-la-vivienda/bhvivec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-del-orinoco-c-a</loc>
@@ -361,39 +211,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-del-orinoco-c-a/hborvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-del-zulia-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-del-zulia-c-a/bhzuve21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-venezolano-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-venezolano-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-hipotecario-venezolano-c-a-/bhvevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-industrial-de-venezuela-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-industrial-de-venezuela-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-industrial-de-venezuela-c-a-/indsveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-interamericano-de-ahorro-y-prestamo-s-a</loc>
@@ -401,32 +231,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-interamericano-de-ahorro-y-prestamo-s-a/biapvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-ahorro-y-prestamo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-ahorro-y-prestamo/bnapvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a-/ncrtveca001</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a/ncrtveca001</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a-/ncrtveca</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-nacional-de-credito-c-a/ncrtveca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -436,22 +256,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-nor-oriental-de-venezuela/bnovve21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a-/bodeve2mccs</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a/bodeve2mccs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a-/bodeve2m</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-occidental-de-descuento-bu-c-a/bodeve2m</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -461,19 +276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-plaza/plzaveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-provincial-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banco-provincial-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-provincial-s-a-/bprovecasuc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banco-provincial-s-a-banco-universal</loc>
@@ -501,29 +306,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banco-sofitasa/sftave22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/bancrecer-s-a-banco-microfinanciero</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bancrecer-s-a-banco-microfinanciero/ccerveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banesco-banco-universal-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banesco-banco-universal-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banesco-banco-universal-c-a-/unioveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/banex-mercado-de-capitales-sa</loc>
@@ -531,19 +321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banex-mercado-de-capitales-sa/bmdcvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banplus-banco-universal-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/banplus-banco-universal-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/banplus-banco-universal-c-a-/behrveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/bfc-banco-fondo-comun-c-a-banco-universal</loc>
@@ -551,29 +331,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/bfc-banco-fondo-comun-c-a-banco-universal/repbveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/caja-venezolana-de-valores-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/caja-venezolana-de-valores-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/caja-venezolana-de-valores-s-a-/cvvcvea1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/caracas-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/caracas-stock-exchange/xcarvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/citibank-n-a-sucursal-venezuela</loc>
@@ -601,29 +366,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/corp-hipotecario-ca/bhcovec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/corporacion-andina-de-fomento</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/corporacion-andina-de-fomento/cafcveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/del-sur-banco-universal-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/del-sur-banco-universal-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/del-sur-banco-universal-c-a-/dsurvecp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/financorp-valores-c-a</loc>
@@ -631,49 +381,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/financorp-valores-c-a/fivavec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/fitch-venezuela-sociedad-calificadora-de-riesgo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/fitch-venezuela-sociedad-calificadora-de-riesgo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/fitch-venezuela-sociedad-calificadora-de-riesgo-s-a-/fripvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/interacciones-mercado-de-capitales-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/interacciones-mercado-de-capitales-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/interacciones-mercado-de-capitales-s-a-/imdcvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/invercapital-casa-de-bolsa-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/invercapital-casa-de-bolsa-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/invercapital-casa-de-bolsa-c-a-/icbovec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/italbursatil-casa-de-bolsa-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/italbursatil-casa-de-bolsa-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/italbursatil-casa-de-bolsa-c-a-/itbuvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/italcambio-c-a</loc>
@@ -681,19 +406,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/italcambio-c-a/italveb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/italcambio-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/italcambio-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/italcambio-c-a-/italveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/mercantil-c-a-banco-universal</loc>
@@ -701,29 +416,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/mercantil-c-a-banco-universal/bamrveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/mercantil-merinvest-casa-de-bolsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/mercantil-merinvest-casa-de-bolsa/mmcbveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/merinvest-sociedad-de-corretaje-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/merinvest-sociedad-de-corretaje-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/merinvest-sociedad-de-corretaje-c-a-/msdevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/ministerio-del-pp-para-la-economia-y-finanzas</loc>
@@ -731,19 +431,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/ministerio-del-pp-para-la-economia-y-finanzas/tsorvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/ministry-of-the-popular-power-for-banking-and-finances-public-credit-national-bureau</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/ministry-of-the-popular-power-for-banking-and-finances-public-credit-national-bureau/mppivec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/novo-banco-s-a-sucursal-venezuela-banco-universal</loc>
@@ -751,29 +441,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/novo-banco-s-a-sucursal-venezuela-banco-universal/bescveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/provincial-banco-de-inversion-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/provincial-banco-de-inversion-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/provincial-banco-de-inversion-s-a-/sfprvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/provincial-de-valores-casa-de-bolsa-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/provincial-de-valores-casa-de-bolsa-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/provincial-de-valores-casa-de-bolsa-c-a-/pvalvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-consolidada</loc>
@@ -796,19 +471,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-de-occidente/sfocve21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-de-venezuela-ca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-de-venezuela-ca/sfvevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-valinvenca</loc>
@@ -816,39 +481,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/sociedad-financiera-valinvenca/sfvavec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/soficredito</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/soficredito/sfcrvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/sofimerca-casa-de-bolsa-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/sofimerca-casa-de-bolsa-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/sofimerca-casa-de-bolsa-c-a-/somevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/tradimpex-bienes-raices-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/tradimpex-bienes-raices-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/tradimpex-bienes-raices-c-a-/trbrvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/valinbank</loc>
@@ -856,19 +501,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/valinbank/valkvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/valores-santander-casa-de-corretaje</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/valores-santander-casa-de-corretaje/vsccvec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/venezuela/valores-vencred-sa</loc>
@@ -876,28 +511,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/valores-vencred-sa/vavevec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/venezuela/venezolano-de-credito-s-a-banco-universal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/venezolano-de-credito-s-a-banco-universal/vzcrveca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/vestcorpartners-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/venezuela/vestcorpartners-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/venezuela/vestcorpartners-c-a-/vecovec1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

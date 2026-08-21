@@ -37,9 +37,11 @@ export function BankSwift() {
   if (!country && countrySlug) {
     country = countriesData.find(c => c.code.toLowerCase() === countrySlug.toLowerCase());
   }
-  const bankData = bankSlug ? mockBanksData[bankSlug] : null;
-  const initialBankName = bankData?.name || location.state?.realBankName || bankSlug?.replace(/-/g, ' ');
+  const cleanBankSlug = (bankSlug || '').toLowerCase().replace(/-+/g, '-').replace(/-$/, '');
+  const bankData = cleanBankSlug ? (mockBanksData[cleanBankSlug] || mockBanksData[bankSlug || '']) : null;
+  const initialBankName = bankData?.name || location.state?.realBankName || cleanBankSlug?.replace(/-/g, ' ');
   const [realBankName, setRealBankName] = useState<string>(initialBankName || '');
+  const [countryBanks, setCountryBanks] = useState<{ name: string; slug: string; primaryBic?: string }[]>([]);
 
   useEffect(() => {
     if (country?.code && bankSlug) {
@@ -50,23 +52,31 @@ export function BankSwift() {
           return res.json();
         })
         .then(data => {
-          if (data && data.bankDetails && data.bankDetails[bankSlug]) {
-            const bankInfo = data.bankDetails[bankSlug];
-            let nameToUse = realBankName;
-            if (bankInfo.bank && (!location.state?.realBankName)) {
-              setRealBankName(bankInfo.bank);
-              nameToUse = bankInfo.bank;
+          if (data && Array.isArray(data.banks)) {
+            setCountryBanks(data.banks);
+          }
+          if (data && data.bankDetails) {
+            // Check direct or normalized key
+            const bankInfo = data.bankDetails[bankSlug] || data.bankDetails[cleanBankSlug];
+            if (bankInfo) {
+              let nameToUse = realBankName;
+              if (bankInfo.bank && (!location.state?.realBankName)) {
+                setRealBankName(bankInfo.bank);
+                nameToUse = bankInfo.bank;
+              }
+              if (Array.isArray(bankInfo.branches)) {
+                setBranches(bankInfo.branches);
+              }
+              // Track this bank view
+              trackView({
+                id: `swift-${country.code}-${cleanBankSlug}`,
+                title: `${nameToUse} (${country.name})`,
+                type: 'swift',
+                url: `/swift/${country.slug.toLowerCase()}/${cleanBankSlug}`
+              });
+            } else {
+              setBranches([]);
             }
-            if (Array.isArray(bankInfo.branches)) {
-              setBranches(bankInfo.branches);
-            }
-            // Track this bank view
-            trackView({
-              id: `swift-${country.code}-${bankSlug}`,
-              title: `${nameToUse} (${country.name})`,
-              type: 'swift',
-              url: `/swift/${countrySlug}/${bankSlug}`
-            });
           } else {
             setBranches([]);
           }
@@ -200,13 +210,13 @@ export function BankSwift() {
         "@type": "ListItem",
         "position": 3,
         "name": country.name,
-        "item": `https://swiftcodedir.com/swift/${country.slug}`
+        "item": `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}`
       },
       {
         "@type": "ListItem",
         "position": 4,
         "name": bankNameStr,
-        "item": `https://swiftcodedir.com/swift/${country.slug}/${bankSlug}${bicCode ? `/${bicCode}` : ''}`
+        "item": `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}${bicCode ? `/${bicCode.toLowerCase()}` : ''}`
       }
     ]
   };
@@ -214,13 +224,13 @@ export function BankSwift() {
   const bankSchema = {
     "@context": "https://schema.org",
     "@type": "BankOrCreditUnion",
-    "name": bankNameStr,
-    "url": `https://www.google.com/search?q=${encodeURIComponent(bankNameStr + " Official Website")}`,
-    "telephone": "+1-800-000-0000",
+    "name": selectedBranchDoc ? `${bankNameStr} - ${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'}` : bankNameStr,
+    "url": `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}${bicCode ? `/${bicCode.toLowerCase()}` : ''}`,
     "address": {
       "@type": "PostalAddress",
       "addressCountry": country.code,
-      "addressLocality": bankData?.headquarters || selectedBranchDoc?.city || ""
+      "addressLocality": selectedBranchDoc?.city || bankData?.headquarters || country.name,
+      ...(selectedBranchDoc?.address && { "streetAddress": selectedBranchDoc.address })
     },
     "identifier": {
       "@type": "PropertyValue",
@@ -244,18 +254,28 @@ export function BankSwift() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": `What is the SWIFT code for ${bankNameStr} in ${country.name}?`,
+        "name": selectedBranchDoc 
+          ? `What is the SWIFT code for ${bankNameStr} (${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'})?`
+          : `What is the SWIFT code for ${bankNameStr} in ${country.name}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `The primary SWIFT/BIC code for ${bankNameStr} is ${primaryBic}. This code is used for international money transfers and identifying the bank globally.`
+          "text": `The official verified SWIFT/BIC code for ${bankNameStr}${selectedBranchDoc?.city ? ` in ${selectedBranchDoc.city}` : ''} is ${primaryBic}. This code is used for routing international wire transfers, cross-border electronic payments, and identifying the bank globally.`
         }
       },
       {
         "@type": "Question",
-        "name": `Is ${bankNameStr} SEPA compliant?`,
+        "name": `Is ${bankNameStr} ISO 20022 and SEPA compliant?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `Yes, ${bankNameStr} supports SEPA (Single Euro Payments Area) transfers, allowing for efficient and standardized electronic payments across Europe.`
+          "text": `Yes, ${bankNameStr} routes cross-border transfers adhering to ISO 20022 structured messaging standards${["AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK", "SI", "ES", "SE", "GB", "CH", "NO", "IS", "LI"].includes(country.code) ? ' and supports SEPA electronic payments across the European banking network' : ''}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `How do I transfer money internationally to ${bankNameStr}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `To send an international wire transfer to ${bankNameStr} in ${country.name}, provide the sender with the beneficiary name, bank SWIFT code (${primaryBic}), account number or IBAN, and the branch address.`
         }
       }
     ]
@@ -265,18 +285,17 @@ export function BankSwift() {
     ? `${selectedBranchDoc.bic} SWIFT Code - ${bankNameStr} (${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'}) 2026 | PDF`
     : authorityData 
       ? `${primaryBic} SWIFT Code - ${bankNameStr} ${country.name} (2026 Verified)` 
-      : `${bankNameStr} SWIFT Code ${primaryBic} (${country.name}) | Verified Directory`;
+      : `${bankNameStr} SWIFT Code ${primaryBic} (${country.name}) | 2026 Directory`;
 
   const pageDescription = selectedBranchDoc
-    ? `Looking for the SWIFT / BIC code for ${bankNameStr} in ${selectedBranchDoc.city || ''}? The exact, verified routing code is ${selectedBranchDoc.bic}. Find branch details and download official PDF format.`
+    ? `Verified SWIFT / BIC code for ${bankNameStr} (${selectedBranchDoc.city || selectedBranchDoc.branch || 'Branch'}) in ${country.name} is ${selectedBranchDoc.bic}. View branch address, ISO 20022 status, and download official PDF.`
     : authorityData 
-      ? `Verify the SWIFT/BIC code for ${bankNameStr} in ${country.name}. The official code is ${primaryBic}. Check branch information, ISO 20022 readiness, and download as PDF.` 
-      : `Looking for the SWIFT / BIC code for ${bankNameStr} in ${country.name}? Find verified branch codes, head office information, and international routing details. Free PDF download available.`;
-
+      ? `Verify the SWIFT/BIC code for ${bankNameStr} in ${country.name}. The official primary code is ${primaryBic}. Check verified branch codes, ISO 20022 readiness, and free PDF download.` 
+      : `Looking for the SWIFT / BIC code for ${bankNameStr} in ${country.name}? Find verified branch codes, head office routing numbers, and transfer guidelines. Free PDF download.`;
 
   const canonicalUrl = bicCode 
-    ? `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}/${bicCode.toUpperCase()}`
-    : `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}`;
+    ? `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}/${bicCode.toLowerCase()}`
+    : `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/${cleanBankSlug}`;
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8">
@@ -649,7 +668,7 @@ export function BankSwift() {
                     return (
                       <TableRow key={branch.bic} className="hover:bg-slate-50/50 dark:hover:bg-slate-900/50">
                         <TableCell className="font-mono font-medium">
-                          <Link to={`/swift/${country.slug.toLowerCase()}/${bankSlug.toLowerCase()}/${branch.bic}`} className="text-[#003399] dark:text-blue-400 hover:underline">
+                          <Link to={`/swift/${country.slug.toLowerCase()}/${cleanBankSlug}/${branch.bic.toLowerCase()}`} className="text-[#003399] dark:text-blue-400 hover:underline">
                             {branch.bic}
                           </Link>
                         </TableCell>
@@ -752,6 +771,46 @@ export function BankSwift() {
               </div>
             </CardContent>
           </Card>
+
+          {countryBanks.length > 1 && (
+            <Card className="border border-slate-200 dark:border-slate-800 shadow-sm">
+              <CardHeader className="pb-3 border-b border-slate-100 dark:border-slate-800">
+                <CardTitle className="text-base font-bold text-slate-900 dark:text-slate-100 flex items-center gap-2">
+                  <Building2 className="w-4 h-4 text-blue-600" />
+                  Other Banks in {country.name}
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="pt-4 space-y-2">
+                {countryBanks
+                  .filter(b => b.slug !== cleanBankSlug && b.slug !== bankSlug)
+                  .slice(0, 8)
+                  .map((b) => (
+                    <Link
+                      key={b.slug}
+                      to={`/swift/${country.slug.toLowerCase()}/${b.slug}`}
+                      className="flex items-center justify-between p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-900 text-xs font-medium text-slate-700 dark:text-slate-300 transition-colors group"
+                    >
+                      <span className="truncate pr-2 group-hover:text-[#003399] dark:group-hover:text-blue-400 capitalize">
+                        {b.name}
+                      </span>
+                      {b.primaryBic && (
+                        <span className="font-mono text-[10px] text-slate-400 shrink-0">
+                          {b.primaryBic}
+                        </span>
+                      )}
+                    </Link>
+                  ))}
+                <div className="pt-2">
+                  <Link
+                    to={`/swift/${country.slug.toLowerCase()}`}
+                    className="text-xs font-semibold text-[#003399] dark:text-blue-400 hover:underline flex items-center gap-1"
+                  >
+                    View all {countryBanks.length} banks in {country.name} →
+                  </Link>
+                </div>
+              </CardContent>
+            </Card>
+          )}
 
           <Card className="border border-emerald-200 dark:border-emerald-900 bg-emerald-50/50 dark:bg-slate-900 shadow-sm">
              <CardContent className="p-6">

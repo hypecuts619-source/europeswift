@@ -16,22 +16,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-congolaise/cbebcgc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo-</loc>
+    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo-/bcbpcgcg</loc>
+    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo/bcbpcgcg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo-/bcbpcgcg001</loc>
+    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-commerciale-internationale-ex-cofipa-congo/bcbpcgcg001</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-congolaise-de-l-habitat/bchccgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-de-developpement-des-etats-de-l-afrique-centrale-bdeac-</loc>
+    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-de-developpement-des-etats-de-l-afrique-centrale-bdeac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-de-developpement-des-etats-de-l-afrique-centrale-bdeac-/bdeacgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-des-etats-de-l-afrique-centrale-d-n-congo</loc>
@@ -81,11 +66,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-espirito-santo-congo/besccgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-internationale-du-congo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -106,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-postale-du-congo/cnngcgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-sino-congolaise-pour-l-afrique</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/banque-sino-congolaise-pour-l-afrique/scaqcgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/bgfibank-congo</loc>
@@ -126,19 +96,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/bgfibank-congo/bgficgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/credit-du-congo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/credit-du-congo/bcmacgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/ecobank-congo</loc>
@@ -146,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/ecobank-congo/ecoccgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/la-congolaise-de-banque-lcb-</loc>
+    <loc>https://swiftcodedir.com/swift/congo-brazzaville/la-congolaise-de-banque-lcb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/la-congolaise-de-banque-lcb-/cragcgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/societe-generale-congo</loc>
@@ -166,18 +116,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/societe-generale-congo/sogecgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-brazzaville/united-bank-for-africa-congo-brazz</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-brazzaville/united-bank-for-africa-congo-brazz/unafcgcg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -21,11 +21,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/r-union/banque-francaise-commerciale-de-l-ocean-indien/bfcorerx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/r-union/bnp-paribas-la-reunion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -41,24 +36,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/r-union/caisse-d-epargne-cepac-formerly-banque-de-la-reunion-</loc>
+    <loc>https://swiftcodedir.com/swift/r-union/caisse-d-epargne-cepac-formerly-banque-de-la-reunion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/r-union/caisse-d-epargne-cepac-formerly-banque-de-la-reunion-/reubrerx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/r-union/caisse-regionale-de-credit-agricole-mutuel-de-la-reunion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/r-union/caisse-regionale-de-credit-agricole-mutuel-de-la-reunion/cgrarer1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/r-union/credit-agricole</loc>
@@ -86,28 +71,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/r-union/oceor-lease-reunion/oclrrer1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/r-union/societe-financiere-pour-le-developpement-de-la-reunion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/r-union/societe-financiere-pour-le-developpement-de-la-reunion/sodirer1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/r-union/societe-reunionnaise-de-fint-sorefi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/r-union/societe-reunionnaise-de-fint-sorefi/sorfrer1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

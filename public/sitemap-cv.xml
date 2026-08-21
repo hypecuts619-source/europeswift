@@ -16,11 +16,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-bai-cabo-verde-s-a/baipcvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cape-verde/banco-comercial-do-atlantico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -46,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-de-cabo-verde/bcavcvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-de-fomento-internacional-s-a-formerly-banco-fiduciario-internacional-i-f-i-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cape-verde/banco-de-fomento-internacional-s-a-formerly-banco-fiduciario-internacional-i-f-i-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-de-fomento-internacional-s-a-formerly-banco-fiduciario-internacional-i-f-i-s-a-/bfiicvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-insular-i-f-i-s-a-r-l-</loc>
+    <loc>https://swiftcodedir.com/swift/cape-verde/banco-insular-i-f-i-s-a-r-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-insular-i-f-i-s-a-r-l-/bilrcvc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cape-verde/banco-interatlantico-sarl</loc>
@@ -76,29 +56,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-interatlantico-sarl/cgdicvcp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-internacional-de-cabo-verde-sa-formerly-banco-espirito-santo-de-cabo-verde-sa-</loc>
+    <loc>https://swiftcodedir.com/swift/cape-verde/banco-internacional-de-cabo-verde-sa-formerly-banco-espirito-santo-de-cabo-verde-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-internacional-de-cabo-verde-sa-formerly-banco-espirito-santo-de-cabo-verde-sa-/besccvcp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-privado-internacional-ifi-</loc>
+    <loc>https://swiftcodedir.com/swift/cape-verde/banco-privado-internacional-ifi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/banco-privado-internacional-ifi-/prifcvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cape-verde/bcn-banco-caboverdiano-de-negocios-sa</loc>
@@ -106,28 +71,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/bcn-banco-caboverdiano-de-negocios-sa/canbcvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cape-verde/caixa-economica-de-cabo-verde-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/caixa-economica-de-cabo-verde-sa/cxeccvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cape-verde/ecobank-cabo-verde</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cape-verde/ecobank-cabo-verde/ecoccvcv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

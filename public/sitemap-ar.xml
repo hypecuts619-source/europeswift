@@ -11,24 +11,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/abaco-cia-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/abaco-cia-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/abaco-cia-financiera-s-a-/aciaarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/american-express-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/american-express-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/american-express-bank-ltd-/aeibarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/balanz-capital-valores-sa</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/balanz-capital-valores-sa/bazvarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-bica-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-bica-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-bica-s-a-/bicaarbs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-bradesco-argentina-s-a</loc>
@@ -56,64 +36,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-bradesco-argentina-s-a/bbdearba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-central-de-la-republica-argentina</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-central-de-la-republica-argentina/bcraarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-cmf-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-cmf-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-cmf-s-a-/cmfbarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a-/clluarb1</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a/clluarb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a-/clluarba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-columbia-s-a/clluarba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-comafi-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-comafi-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-comafi-s-a-/quilarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-cooperativo-del-este-argentino-ltdo-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-cooperativo-del-este-argentino-ltdo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-cooperativo-del-este-argentino-ltdo-/cestarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-credicoop-cooperativo-limitado</loc>
@@ -121,39 +76,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-credicoop-cooperativo-limitado/bcooarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-comercio-s-a-formerly-metropolis-compania-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-comercio-s-a-formerly-metropolis-compania-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-comercio-s-a-formerly-metropolis-compania-financiera-s-a-/mcfaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-corrientes-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-corrientes-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-corrientes-s-a-/bcorarbc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-formosa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-formosa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-formosa-s-a-/bfsaarbf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-galicia-y-buenos-aires</loc>
@@ -161,29 +96,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-galicia-y-buenos-aires/gabaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-inversion-y-comercio-exterior-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-inversion-y-comercio-exterior-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-inversion-y-comercio-exterior-s-a-/bicxarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-ciudad-de-buenos-aires</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-ciudad-de-buenos-aires/baciarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-nacion-argentina</loc>
@@ -296,22 +216,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m-/pamparba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m/pamparba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m-/pamparba200</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m/pamparba200</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m-/pamparba001</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-pampa-s-e-m/pamparba001</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -361,14 +281,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-provincia-del-neuquen-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-provincia-del-neuquen-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-provincia-del-neuquen-s-a-/bpnearba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-republica-oriental-del-uruguay</loc>
@@ -376,19 +291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-la-republica-oriental-del-uruguay/brouarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-san-juan-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-san-juan-sa/bsjuarbj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-santa-cruz-s-a</loc>
@@ -396,19 +301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-santa-cruz-s-a/bpscarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-servicios-y-transacciones-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-servicios-y-transacciones-sa/bstiarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-de-valores</loc>
@@ -416,59 +311,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-de-valores/bavaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-del-chubut-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-del-chubut-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-del-chubut-s-a-/bpcharba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-del-tucuman-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-del-tucuman-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-del-tucuman-s-a-/bdtuarbm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-finansur-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-finansur-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-finansur-s-a-/bfsuarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-hipotecario-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-hipotecario-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-hipotecario-s-a-/bhiparba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-industrial-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-industrial-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-industrial-s-a-/nbiaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-interamericano-de-desarrollo</loc>
@@ -476,29 +341,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-interamericano-de-desarrollo/idesarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-interfinanzas-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-interfinanzas-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-interfinanzas-s-a-/biinarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-itau-argentina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-itau-argentina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-itau-argentina-s-a-/itauarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-julio-sociedad-anonima</loc>
@@ -506,49 +356,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-julio-sociedad-anonima/bjularbc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-macro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-macro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-macro-s-a-/bosuarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-mariva-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-mariva-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-mariva-s-a-/mariarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-mercurio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-mercurio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-mercurio-s-a-/cmerarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-meridian-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-meridian-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-meridian-s-a-/bmrdarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-municipal-de-rosario</loc>
@@ -556,29 +381,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-municipal-de-rosario/munrarbr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-patagonia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-patagonia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-patagonia-s-a-/bsudarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-piano-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-piano-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-piano-s-a-/bapiarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/banco-provincia-de-tierra-del-fuego</loc>
@@ -586,62 +396,52 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-provincia-de-tierra-del-fuego/ttfaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-/roebarb10ba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a/roebarb10ba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-/roebarb10b2</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a/roebarb10b2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-/roebarb10b3</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a/roebarb10b3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-/roebarb10b4</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a/roebarb10b4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a-/roebarb1</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-roela-s-a/roebarb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-saenz-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-saenz-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-saenz-s-a-/bsaearba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a-/bscharbasss</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a/bscharbasss</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a-/bscharba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-santander-rio-s-a/bscharba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -676,14 +476,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-voii-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/banco-voii-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/banco-voii-s-a-/voibarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/bank-of-tokyo-mitsubishi-ufj-ltd-the</loc>
@@ -691,19 +486,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bank-of-tokyo-mitsubishi-ufj-ltd-the/botkarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/bankers-trust-argentina-s-a-sociedad-de-bolsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bankers-trust-argentina-s-a-sociedad-de-bolsa/btabarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/bankers-trust-rio-de-la-plata-sacf</loc>
@@ -711,49 +496,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bankers-trust-rio-de-la-plata-sacf/bktrarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-/bfrparba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a/bfrparba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-/bfrparb10bc</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a/bfrparb10bc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-/bfrparb10b6</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a/bfrparb10b6</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-/bfrparb10b7</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a/bfrparb10b7</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a-/bfrparb10br</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bbva-banco-frances-s-a/bfrparb10br</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bell-investments-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/bell-investments-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bell-investments-s-a-/bennarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/bnp-paribas-succursale-de-buenos-aires</loc>
@@ -761,69 +536,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bnp-paribas-succursale-de-buenos-aires/bnpaarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/bolsa-de-comercio-rosario</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/bolsa-de-comercio-rosario/xrosarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/boston-inversora-de-valores-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/boston-inversora-de-valores-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/boston-inversora-de-valores-s-a-/boivarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/caja-de-valores-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/caja-de-valores-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/caja-de-valores-s-a-/cavlarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-alpe-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/cambio-alpe-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-alpe-s-a-/calparb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-excursiones-turismo-columbus-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/cambio-excursiones-turismo-columbus-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-excursiones-turismo-columbus-s-a-/coluarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-garcia-navarro-ramaglio-y-cia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/cambio-garcia-navarro-ramaglio-y-cia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/cambio-garcia-navarro-ramaglio-y-cia-s-a-/cgnrarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/capital-markets</loc>
@@ -831,69 +571,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/capital-markets/cakrarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/casa-lerchundi-sacif</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/casa-lerchundi-sacif/calsarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/citibank-n-a-/citiarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/corporacion-de-servicios-financieros-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/corporacion-de-servicios-financieros-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/corporacion-de-servicios-financieros-s-a-/fserarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/financiera-buenos-aires-s-a-l-y-c-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/financiera-buenos-aires-s-a-l-y-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/financiera-buenos-aires-s-a-l-y-c-/bueaarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/fitch-argentina-calificadora-de-riesgo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/fitch-argentina-calificadora-de-riesgo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/fitch-argentina-calificadora-de-riesgo-s-a-/friparb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/garcia-navarroy-cia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/garcia-navarroy-cia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/garcia-navarroy-cia-s-a-/gancarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/hsbc-bank-argentina-sa</loc>
@@ -1076,49 +781,39 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a-/icbkarbagcm</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a/icbkarbagcm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a-/icbkarbaclr</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a/icbkarbaclr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a-/icbkarbagcd</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a/icbkarbagcd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a-/icbkarba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/industrial-and-commercial-bank-of-china-argentina-s-a/icbkarba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversionaria-argentina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/inversionaria-argentina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversionaria-argentina-s-a-/ianaarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversiones-unidas-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/inversiones-unidas-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversiones-unidas-s-a-/inunarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/inversora-s-a-compania-financiera</loc>
@@ -1126,19 +821,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversora-s-a-compania-financiera/cfinarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversur-s-r-l-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/inversur-s-r-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/inversur-s-r-l-/invearb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/jpmorgan-chase-bank-n-a-buenos-aires-branch</loc>
@@ -1161,19 +846,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/mba-banco-de-inversiones-sa/mbinarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/mercado-abierto-electronico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/mercado-abierto-electronico/mabtarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/mercado-de-valores-de-buenos-aires-s-a-merval</loc>
@@ -1181,19 +856,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/mercado-de-valores-de-buenos-aires-s-a-merval/xmevarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/mercado-de-valores-de-buenos-aires-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/mercado-de-valores-de-buenos-aires-sa/xbuearb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/merchant-bank-argentina</loc>
@@ -1201,114 +866,84 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/merchant-bank-argentina/meararb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a-/mcfiarb1</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a/mcfiarb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a-/mcfiarbm</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a/mcfiarbm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a-/mcfiarb10b3</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a/mcfiarb10b3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a-/mcfiarb10bs</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/montemar-compania-financiera-s-a/mcfiarb10bs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/moody-s-latin-america-calificadora-de-riesgo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/moody-s-latin-america-calificadora-de-riesgo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/moody-s-latin-america-calificadora-de-riesgo-s-a-/mlacarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/multifinanzas-compania-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/multifinanzas-compania-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/multifinanzas-compania-financiera-s-a-/mfcfarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nobleza-piccardo-s-a-i-c-y-f-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nobleza-piccardo-s-a-i-c-y-f</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nobleza-piccardo-s-a-i-c-y-f-/batsarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-entre-rios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-entre-rios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-entre-rios-s-a-/beraarba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-/bpsfarba</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a/bpsfarba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-/bpsfarbaa86</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a/bpsfarbaa86</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-/bpsfarba000</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a/bpsfarba000</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-/bpsfarbaa45</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a/bpsfarbaa45</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a-/bpsfarba500</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-de-santa-fe-s-a/bpsfarba500</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-del-chaco-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-del-chaco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/nuevo-banco-del-chaco-s-a-/bacharba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/rabello-y-cia-s-a-sociedad-de-bolsa</loc>
@@ -1316,19 +951,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/rabello-y-cia-s-a-sociedad-de-bolsa/rabcarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/argentina/raymond-james-argentina-sociedad-de-bolsa-sociedadanonima</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/raymond-james-argentina-sociedad-de-bolsa-sociedadanonima/rajrarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/repubblica-argentina</loc>
@@ -1336,44 +961,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/repubblica-argentina/reagarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a-/sectarb1830</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a/sectarb1830</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a-/sectarb1</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/samsung-electronics-argentina-s-a/sectarb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/sbs-sociedad-de-bolsa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/sbs-sociedad-de-bolsa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/sbs-sociedad-de-bolsa-s-a-/sbsoarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/t-p-c-g-capital-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/t-p-c-g-capital-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/t-p-c-g-capital-s-a-/tpcgarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/tavelli-y-cia-s-a-sociedad-de-bolsa</loc>
@@ -1381,19 +991,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/tavelli-y-cia-s-a-sociedad-de-bolsa/tavearb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/tutelar-compania-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/tutelar-compania-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/tutelar-compania-financiera-s-a-/tucfarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/argentina/vanexva-bursatil-sa</loc>
@@ -1401,18 +1001,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/argentina/vanexva-bursatil-sa/vnxbarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/vw-argentina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/argentina/vw-argentina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/argentina/vw-argentina-s-a-/argnarb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

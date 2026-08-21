@@ -10,6 +10,7 @@ interface SEOProps {
   ogImage?: string;
   jsonLd?: object | object[];
   robots?: string;
+  includeDataset?: boolean;
 }
 
 export function SEO({
@@ -24,7 +25,8 @@ export function SEO({
   ogType = "website",
   ogImage = "https://swiftcodedir.com/og-image.jpg",
   jsonLd,
-  robots = "index, follow"
+  robots = "index, follow",
+  includeDataset = false
 }: SEOProps) {
   let finalCanonicalUrl = canonicalUrl;
   let finalRobots = robots;
@@ -37,7 +39,7 @@ export function SEO({
     }
 
     if (!finalCanonicalUrl) {
-      let path = location.pathname;
+      let path = location.pathname.toLowerCase();
       // Strip trailing slashes to enforce strict canonical normalization matching the sitemap
       if (path.length > 1 && path.endsWith('/')) {
         path = path.slice(0, -1);
@@ -48,6 +50,15 @@ export function SEO({
     if (!finalCanonicalUrl) {
       finalCanonicalUrl = "https://swiftcodedir.com";
     }
+  }
+
+  // Ensure any explicit canonicalUrl is also normalized to lowercase and trimmed of trailing slashes
+  if (finalCanonicalUrl && finalCanonicalUrl.startsWith('https://swiftcodedir.com')) {
+    let cleanUrl = finalCanonicalUrl.toLowerCase();
+    if (cleanUrl.length > 'https://swiftcodedir.com/'.length && cleanUrl.endsWith('/')) {
+      cleanUrl = cleanUrl.slice(0, -1);
+    }
+    finalCanonicalUrl = cleanUrl;
   }
 
   return (
@@ -83,20 +94,22 @@ export function SEO({
       )}
       
       {/* Dataset / DataCatalog Schema for AEO */}
-      <script type="application/ld+json">
-        {JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "Dataset",
-          "name": "Global Bank Swift & Routing Code Database",
-          "description": "A comprehensive, structured dataset of over 90,000 active SWIFT codes, BICs, and routing numbers across global financial institutions.",
-          "url": "https://swiftcodedir.com",
-          "license": "https://creativecommons.org/licenses/by/4.0/",
-          "creator": {
-            "@type": "Organization",
-            "name": "SwiftcodeDir"
-          }
-        })}
-      </script>
+      {includeDataset && (
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Dataset",
+            "name": "Global Bank Swift & Routing Code Database",
+            "description": "A comprehensive, structured dataset of over 90,000 active SWIFT codes, BICs, and routing numbers across global financial institutions.",
+            "url": "https://swiftcodedir.com",
+            "license": "https://creativecommons.org/licenses/by/4.0/",
+            "creator": {
+              "@type": "Organization",
+              "name": "SwiftcodeDir"
+            }
+          })}
+        </script>
+      )}
     </Helmet>
   );
 }

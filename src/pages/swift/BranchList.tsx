@@ -77,18 +77,35 @@ export function BranchList() {
   // Rough estimation of unique banks
   const uniqueBanksCount = new Set(allBranches.map(b => b.bank)).size;
 
-  const datasetSchema = {
+  const breadcrumbSchema = {
     "@context": "https://schema.org",
-    "@type": "Dataset",
-    "name": `${country.name} Bank Branches Dataset`,
-    "description": `Complete directory of all bank branches in ${country.name} with their respective SWIFT/BIC codes and addresses.`,
-    "url": `https://swiftcodedir.com/swift/${countrySlug}/branches`,
-    "creator": {
-      "@type": "Organization",
-      "name": "SwiftCodeDir"
-    },
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "isAccessibleForFree": true
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://swiftcodedir.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "SWIFT Codes",
+        "item": "https://swiftcodedir.com/swift"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": country.name,
+        "item": `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "All Branches",
+        "item": `https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/branches`
+      }
+    ]
   };
 
   const faqSchema = {
@@ -100,7 +117,15 @@ export function BranchList() {
         "name": `How do I find a specific branch SWIFT code in ${country.name}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `You can use the search bar above to filter all ${allBranches.length} branches in ${country.name} by city or branch name.`
+          "text": `You can use the search bar above to filter all ${allBranches.length} bank branches in ${country.name} by city, bank name, or branch code.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Do I need a branch-specific SWIFT code or a head office code for ${country.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `In most cases, using the primary 8-character bank head office code (or 11-character code ending in XXX) is sufficient for routing international wire transfers. If your recipient's bank explicitly requires a local branch identifier, use the specific 11-character branch BIC listed here.`
         }
       }
     ]
@@ -109,10 +134,10 @@ export function BranchList() {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <SEO 
-        title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data`}
+        title={`${country.name} Bank Branches SWIFT/BIC Codes & Routing Data (2026)`}
         description={`Explore all ${allBranches.length} bank branches in ${country.name}. Find exact SWIFT codes, branch addresses, and routing numbers required for secure wire transfers.`}
         canonicalUrl={`https://swiftcodedir.com/swift/${country.slug.toLowerCase()}/branches`}
-        jsonLd={[datasetSchema, faqSchema]}
+        jsonLd={[breadcrumbSchema, faqSchema]}
       />
       <Breadcrumb className="mb-8">
         <BreadcrumbList>
@@ -125,7 +150,7 @@ export function BranchList() {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbLink href={`/swift/${country.slug}`}>{country.name}</BreadcrumbLink>
+            <BreadcrumbLink href={`/swift/${country.slug.toLowerCase()}`}>{country.name}</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>

@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/addiko-bank-a-d-beograd/haabrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/aik-banka-ad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/aik-banka-ad/aikbrs22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/banca-intesa-ad-beograd</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/banca-intesa-ad-beograd/dbdbrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/bank-of-china-srbija-a-d-beograd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/bank-of-china-srbija-a-d-beograd/bkchrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/british-american-tobacco-a-d-vranje</loc>
@@ -61,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/british-american-tobacco-a-d-vranje/batsrs21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/british-american-tobacco-south-east-europe-doo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/british-american-tobacco-south-east-europe-doo/batsrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/capitalone-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/capitalone-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/capitalone-a-d-/cptorsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/central-securities-depository-and-clearing-house</loc>
@@ -91,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/central-securities-depository-and-clearing-house/csdersb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/credit-agricole-srbija-ad-novi-sad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/credit-agricole-srbija-ad-novi-sad/mebars22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/dijamant-banka-ad-zrenjanin</loc>
@@ -111,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/dijamant-banka-ad-zrenjanin/dijars21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/direktna-banka-ad-kragujevac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/direktna-banka-ad-kragujevac/kragrs22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/efg-securities-a-d-belgrade</loc>
@@ -131,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/efg-securities-a-d-belgrade/efsbrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/erste-bank-a-d-novi-sad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/erste-bank-a-d-novi-sad/gibars22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/eurobank-ad</loc>
@@ -166,19 +101,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/expobank-ad-beograd/likirsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/government-of-the-republic-of-serbia-ministry-of-finance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/government-of-the-republic-of-serbia-ministry-of-finance/upsrrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/halkbank-a-d-beograd</loc>
@@ -186,19 +111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/halkbank-a-d-beograd/cabars22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/jubmes-banka-a-d-beograd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/jubmes-banka-a-d-beograd/jmbnrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/komercijalna-banka-a-d-beograd</loc>
@@ -301,19 +216,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/mb-bank-a-d-nis/mbbnrs21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/mega-euro-banka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/mega-euro-banka/megbrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/mirabank-a-d-beograd-novi-beograd</loc>
@@ -321,102 +226,92 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/mirabank-a-d-beograd-novi-beograd/mrbnrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/mts-banka-a-d-beograd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/mts-banka-a-d-beograd/kmebrs2z</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21001</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21001</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21002</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21002</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21003</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21003</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21004</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21004</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21005</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21005</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21006</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21006</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21007</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21007</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21008</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21008</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21009</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21009</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21pi1</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21pi1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21up1</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21up1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21up2</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21up2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21up3</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21up3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrsbd</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrsbd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrsbg</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrsbg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs-/nbsrrs21jj1</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/narodna-banka-srbije-national-bank-of-serbia-nbs/nbsrrs21jj1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -426,19 +321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/nlb-banka-a-d-beograd/conars22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/opportunity-banka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/opportunity-banka/opsars21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/opportunity-banka-a-d-novi-sad</loc>
@@ -446,19 +331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/opportunity-banka-a-d-novi-sad/oppbrs22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/otp-banka-srbija-a-d-novi-sad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/otp-banka-srbija-a-d-novi-sad/otpvrs22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/pesterbanka</loc>
@@ -466,29 +341,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/pesterbanka/pestrs21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/piraeus-bank-ad-beograd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/piraeus-bank-ad-beograd/pirbrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/poljoprivredno-investiciona-banka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/poljoprivredno-investiciona-banka/pibbrs21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/postal-savings-bank-jsc</loc>
@@ -511,39 +371,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/procredit-bank-a-d-belgrade/prcbrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/racuni-prihoda-i-rashoda-nbs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/racuni-prihoda-i-rashoda-nbs/nbjorsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/raiffeisen-banka-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/raiffeisen-banka-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/raiffeisen-banka-a-d-/rzbsrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/sberbank-srbija-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/sberbank-srbija-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/sberbank-srbija-a-d-/sabrrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/societe-generale-banka-srbija-ad-beograd</loc>
@@ -551,19 +391,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/societe-generale-banka-srbija-ad-beograd/sogyrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/srpska-banka-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/srpska-banka-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/srpska-banka-a-d-/srbnrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/telenor-banka-ad</loc>
@@ -571,19 +401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/telenor-banka-ad/aaaarsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/ts-imperial-clearing-house-llc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/ts-imperial-clearing-house-llc/tchlrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/ts-tristar-imperial-international-credit-institute-llc</loc>
@@ -591,29 +411,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/ts-tristar-imperial-international-credit-institute-llc/tiiers21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/unicredit-bank-srbija-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/unicredit-bank-srbija-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/unicredit-bank-srbija-a-d-/bacxrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/vojvodjanska-banka-a-d-</loc>
+    <loc>https://swiftcodedir.com/swift/serbia/vojvodjanska-banka-a-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/vojvodjanska-banka-a-d-/vbubrs22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/serbia/vtb-banka-ad-beograd</loc>
@@ -621,18 +426,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/serbia/vtb-banka-ad-beograd/mbbgrsbg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/serbia/wise-broker-ad-belgrade</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/serbia/wise-broker-ad-belgrade/wibbrsb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

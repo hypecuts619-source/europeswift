@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/abn-amro-securities-brasil-corretora-de-valores-mobiliarios-sa/aasbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/accesstage-tecnologia-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/accesstage-tecnologia-ltda/acstbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/advanced-corretora-de-cambio-ltda</loc>
@@ -41,29 +31,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/advanced-corretora-de-cambio-ltda/addrbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/agenda-ccvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/agenda-ccvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/agenda-ccvm-ltda-/agcvbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/agk-corretora-de-cambio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/agk-corretora-de-cambio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/agk-corretora-de-cambio-s-a-/agkcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/agora-cor-de-titul-e-val-mob</loc>
@@ -71,19 +46,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/agora-cor-de-titul-e-val-mob/agorbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/alfa-ccvm-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/alfa-ccvm-s-a/alccbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/alpes-c-c-t-v-m-ltda</loc>
@@ -91,49 +56,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/alpes-c-c-t-v-m-ltda/alpvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/american-express-bank-brasil-banco-multiplo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/american-express-bank-brasil-banco-multiplo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/american-express-bank-brasil-banco-multiplo-s-a-/aeibbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/anglo-ferrous-brazil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/anglo-ferrous-brazil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/anglo-ferrous-brazil-s-a-/anfebrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/anz-participacoes-e-servicoes-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/anz-participacoes-e-servicoes-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/anz-participacoes-e-servicoes-ltda-/anzbbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/arc-corretora-de-cambio-associados-gouveia-campedelli-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/arc-corretora-de-cambio-associados-gouveia-campedelli-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/arc-corretora-de-cambio-associados-gouveia-campedelli-s-a-/accvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/ativa-investimentos-s-a-ctcv</loc>
@@ -141,29 +81,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ativa-investimentos-s-a-ctcv/actcbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/ativa-s-a-ctv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ativa-s-a-ctv/atctbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/aureum-sociedade-corretora-de-cambio-e-valores-mobiliarios-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/aureum-sociedade-corretora-de-cambio-e-valores-mobiliarios-ltda/aurebrp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/b3-s-a-brasil-bolsa-balcao</loc>
@@ -186,34 +111,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-abc-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-abc-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-abc-brasil-s-a-/abcbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-abn-amro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-abn-amro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-abn-amro-s-a-/abnabrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-alfa-de-investimento-s-a-sao-paulo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-alfa-de-investimento-s-a-sao-paulo/aufabrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-arbi-s-a</loc>
@@ -236,32 +146,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a-/bbinbrrj</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a/bbinbrrj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a-/bbinbrr10sp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bbm-s-a/bbinbrr10sp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a-/bbmfbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a/bbmfbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a-/bbmfbrspdbl</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bmfbovespa-de-servicos-de-liquidacao-e-custodia-s-a/bbmfbrspdbl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -269,11 +179,6 @@
     <loc>https://swiftcodedir.com/swift/brazil/banco-bmg-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bmg-s-a/bmbcbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-bnp-paribas-brasil-s-a</loc>
@@ -301,299 +206,279 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bonsucesso-sa/bbonbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bpn-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bpn-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bpn-brasil-s-a-/bpbmbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspblm</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspblm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspbhe</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspbhe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspbnu</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspbnu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspbsa</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspbsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspcas</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspcas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspcta</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspcta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspfla</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspfla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspfac</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspfac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspjve</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspjve</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspmns</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspmns</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspnho</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspnho</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspdac</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspdac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsppcy</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsppcy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsptes</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsptes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsppae</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsppae</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsprce</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsprce</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsprjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsprjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspsdr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspsdr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspsts</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspsts</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspcon</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspcon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspbex</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspbex</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspcsh</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspcsh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspoco</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspoco</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspmtz</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspmtz</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a-/bbdebrspvta</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-s-a/bbdebrspvta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprblm</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprblm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprbhe</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprbhe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprbnu</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprbnu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprcas</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprcas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrpr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrpr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprfds</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprfds</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprtsy</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprtsy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprcta</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprcta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprfla</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprfla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprjve</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprjve</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprmns</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprmns</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprpng</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprpng</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprpae</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprpae</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprrce</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprrce</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprrjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprrjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprsdr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprsdr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprsts</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprsts</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprcgb</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprcgb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprofs</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprofs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprcor</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprcor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprnet</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprnet</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo-/bcbbbrprvta</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-bradesco-sa-formerly-kirton-bank-s-a-banco-multiplo/bcbbbrprvta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-btg-pactual-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-btg-pactual-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-btg-pactual-s-a-/bpabbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cacique-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-cacique-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cacique-s-a-/bcuebrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-caixa-geral-brasil-s-a</loc>
@@ -601,19 +486,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-caixa-geral-brasil-s-a/cgdibrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-cargill-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cargill-s-a/bcbzbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-central-do-brasil</loc>
@@ -641,19 +516,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-chase-fleming-sa/grbabrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-citibank-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-citibank-sa/citibrbr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-confidence-de-cambio-sa</loc>
@@ -661,19 +526,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-confidence-de-cambio-sa/bkcobrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-cooperativo-sicredi-sa-bansicredi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cooperativo-sicredi-sa-bansicredi/bcsibrrs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-credit-agricole-brasil-sa</loc>
@@ -681,29 +536,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-credit-agricole-brasil-sa/bagbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cruzeiro-do-sul-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-cruzeiro-do-sul-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-cruzeiro-do-sul-s-a-/bcslbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-da-amazonia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-da-amazonia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-da-amazonia-s-a-/amabbrab</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-daycoval-s-a</loc>
@@ -711,29 +551,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-daycoval-s-a/daycbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-espirito-santo-sa-bandes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-espirito-santo-sa-bandes/bdoebrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-estado-da-bahia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-estado-da-bahia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-estado-da-bahia-s-a-/dbahbrb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-estado-do-rio-de-janeiro-sa</loc>
@@ -741,37 +566,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-estado-do-rio-de-janeiro-sa/bdejbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-parana-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-desenvolvimento-do-parana-sa/badpbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a-/bigabrrjhgf</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a/bigabrrjhgf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a-/bigabrrj</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a/bigabrrj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a-/bigabrrjspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-de-investimentos-credit-suisse-brasil-s-a/bigabrrjspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -796,19 +611,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-la-provincia-de-buenos-aires/prbabrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-de-la-republica-oriental-del-uruguay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-la-republica-oriental-del-uruguay/broubrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-de-tokyo-mitsubishi-ufj-brasil-s-a</loc>
@@ -816,19 +621,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-de-tokyo-mitsubishi-ufj-brasil-s-a/botkbrsx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-digibanco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-digibanco-s-a/dbdibrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-dimensao</loc>
@@ -836,122 +631,117 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-dimensao/bdaobrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjbhe</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjbhe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjbnu</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjbnu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjbsa</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjbsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjppc</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjppc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjsup</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjsup</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjgfn</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjgfn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrj</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjcas</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjcas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjcta</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjcta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjpae</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjpae</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjrce</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjrce</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjrpo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjrpo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjcgr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjcgr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjrj1</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjrj1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjadr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjadr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjrjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjrjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjrj3</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjrj3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjsdr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjsdr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjibr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjibr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjsbo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjsbo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a-/brasbrrjoco</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-brasil-s-a/brasbrrjoco</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -961,34 +751,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-goias-s-a/besgbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a-/seebbrr1</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a/seebbrr1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a-/seebbrr10b2</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-de-sergipe-s-a/seebbrr10b2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-do-para-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-do-para-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-do-para-s-a-/bepabrab</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-do-estado-do-rio-grande-do-sul-s-a</loc>
@@ -1061,39 +841,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-fator-sa/bfatbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-fibra-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-fibra-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-fibra-s-a-/fibibrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-general-motors-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-general-motors-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-general-motors-s-a-/bgembrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-goldmine-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-goldmine-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-goldmine-s-a-/bogobrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-industrial-do-brasil-s-a</loc>
@@ -1101,19 +861,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-industrial-do-brasil-s-a/bibrbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-indusval-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-indusval-s-a/idvlbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-inter-atlantico-de-investimento</loc>
@@ -1121,19 +871,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-inter-atlantico-de-investimento/biaibrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-intermedium-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-intermedium-sa/itembrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-itaubank-s-a</loc>
@@ -1156,152 +896,107 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-/chasbrspdcc</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a/chasbrspdcc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-/chasbrspgcc</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a/chasbrspgcc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-/chasbrsptsm</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a/chasbrsptsm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-/chasbrspkey</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a/chasbrspkey</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a-/chasbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-j-p-morgan-s-a/chasbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-kdb-do-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-kdb-do-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-kdb-do-brasil-s-a-/kodbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-keb-hana-do-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-keb-hana-do-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-keb-hana-do-brasil-s-a-/koexbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-luso-brasileiro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-luso-brasileiro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-luso-brasileiro-s-a-/blbcbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-maxima-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-maxima-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-maxima-s-a-/bmaxbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-do-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-do-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-do-brasil-s-a-/bmbrbrrb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mercantil-s-a-/bmbobrc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a-/mlbobrsxtra</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a/mlbobrsxtra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a-/mlbobrsx</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-merrill-lynch-de-investimentos-s-a/mlbobrsx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mineiro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-mineiro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mineiro-s-a-/minbbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mizuho-do-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-mizuho-do-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-mizuho-do-brasil-s-a-/mhcbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-modal-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-modal-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-modal-s-a-/modabrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a-/msdwbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a/msdwbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a-/msdwbrsptsy</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-morgan-stanley-dean-witter-s-a/msdwbrsptsy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1311,19 +1006,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-nacional-de-credito-cooperativo/bnccbrd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-nacional-de-desenvolvimento-economico-e-social-bndes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-nacional-de-desenvolvimento-economico-e-social-bndes/nacdbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-noroeste-chemical-investimento</loc>
@@ -1331,39 +1016,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-noroeste-chemical-investimento/nocibrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-nossa-caixa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-nossa-caixa-s-a/ncxxbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-original-do-agronegocio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-original-do-agronegocio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-original-do-agronegocio-s-a-/bjbsbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-original-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-original-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-original-s-a-/boribrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-ourinvest-s-a</loc>
@@ -1371,39 +1036,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-ourinvest-s-a/ouribrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-pan-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-pan-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-pan-s-a-/bpnmbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-paulista-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-paulista-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-paulista-s-a-/paulbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-pine-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-pine-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-pine-s-a-/pbbrbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-regional-de-desenvolvimento-do-extremo-sul</loc>
@@ -1431,87 +1076,77 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-rendimento-s-a/rendbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-ribeirao-preto-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-ribeirao-preto-s-a/brpobrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a-/rubabrr1</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a/rubabrr1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a-/rubabrr1sim</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-rural-s-a/rubabrr1sim</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a-/safrbrsprjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a/safrbrsprjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a-/safrbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a/safrbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a-/safrbrspspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-safra-s-a/safrbrspspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrspast</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrspast</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrspspo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrspspo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrspsec</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrspsec</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrspbkr</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrspbkr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a-/bschbrspgeb</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-santander-brasil-s-a/bschbrspgeb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1521,97 +1156,67 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-societe-generale-brasil-s-a/bsogbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sofisa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sofisa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sofisa-s-a-/bsbsbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-standard-de-investimentos-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-standard-de-investimentos-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-standard-de-investimentos-s-a-/sbllbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sul-america-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sul-america-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sul-america-s-a-/bsuabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a-/subrbrs10rb</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a/subrbrs10rb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a-/subrbrs10df</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a/subrbrs10df</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a-/subrbrs10rj</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a/subrbrs10rj</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a-/subrbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-sumitomo-mitsui-brasileiro-s-a/subrbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-topazio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-topazio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-topazio-s-a-/topzbrrs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-ubs-pactual-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-ubs-pactual-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-ubs-pactual-s-a-/bomgbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a-/bavobrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a/bavobrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a-/bavobrspcst</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banco-votorantim-s-a/bavobrspcst</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1621,19 +1226,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-woori-bank-do-brasil/hvbkbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banco-zogbi-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banco-zogbi-sa/bcrsbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bandeirantes-credito-imobiliario</loc>
@@ -1641,19 +1236,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bandeirantes-credito-imobiliario/cimbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/banestes-s-a-banco-do-estado-do-espirito-santo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banestes-s-a-banco-do-estado-do-espirito-santo/beesbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/banif-banco-internacional-do-funchal-brasil-sa</loc>
@@ -1661,29 +1246,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banif-banco-internacional-do-funchal-brasil-sa/bnifbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bank-of-america-merrill-lynch-banco-multiplo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bank-of-america-merrill-lynch-banco-multiplo-s-a/mlbobrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bank-of-china-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/bank-of-china-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bank-of-china-brasil-s-a-/bkchbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bankboston-n-a-brazil</loc>
@@ -1691,19 +1261,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bankboston-n-a-brazil/fnbbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banko-sumitomo-mitsui-brasileiro-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/banko-sumitomo-mitsui-brasileiro-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/banko-sumitomo-mitsui-brasileiro-s-a-/scbrbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/baring-securities-brazil</loc>
@@ -1711,29 +1271,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/baring-securities-brazil/bsecbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bb-distr-de-titulos-e-valores-mobls-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bb-distr-de-titulos-e-valores-mobls-s-a/dtvobrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bb-gestao-de-recursos-distribuidora-e-valores-mobilirios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/bb-gestao-de-recursos-distribuidora-e-valores-mobilirios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bb-gestao-de-recursos-distribuidora-e-valores-mobilirios-s-a-/bbambrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bbm-i-gestao-de-recursos-ltda</loc>
@@ -1741,19 +1286,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bbm-i-gestao-de-recursos-ltda/bbmibrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bcv-banco-de-credito-e-varejo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bcv-banco-de-credito-e-varejo-s-a/schabrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bdmg-banco-de-desenvolvimento-de-minas-gerais</loc>
@@ -1761,19 +1296,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bdmg-banco-de-desenvolvimento-de-minas-gerais/bdmgbrrb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bexs-banco-de-cambio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bexs-banco-de-cambio-s-a/bexsbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bgc-liquidez-dtvm-ltda</loc>
@@ -1781,19 +1306,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bgc-liquidez-dtvm-ltda/bgldbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bittencourt-s-a-ctvc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bittencourt-s-a-ctvc/bictbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bmf-camara-de-derivativos</loc>
@@ -1816,19 +1331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bny-mellon-servicos-financeiros-dtvm-sa/bnymbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/bolsa-de-valores-de-sao-paulo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bolsa-de-valores-de-sao-paulo/xbspbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bolsa-de-valores-do-rio-de-janeiro</loc>
@@ -1836,19 +1341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bolsa-de-valores-do-rio-de-janeiro/xriobrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/br-partners-c-t-v-m-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/br-partners-c-t-v-m-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/br-partners-c-t-v-m-s-a-/pacvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/bradesco-s-a-ctvm</loc>
@@ -1871,19 +1366,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/bram-bradesco-asset-management/bbdmbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/brascan-s-a-corretora-de-titulos-e-valores</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brascan-s-a-corretora-de-titulos-e-valores/bcdtbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/brasil-plural-cctvm-sa</loc>
@@ -1891,32 +1376,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brasil-plural-cctvm-sa/flcebrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/brasil-plural-s-a-banco-multiplo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brasil-plural-s-a-banco-multiplo/plurbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a-/brbsbrdf</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a/brbsbrdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a-/brbsbrd1spa</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/brb-banco-de-brasilia-s-a/brbsbrd1spa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1926,19 +1401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/broker-brasil-corretora-de-cambio-ltda/bbrcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/caixa-economica-do-estado-do-io-grande-do-sul-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/caixa-economica-do-estado-do-io-grande-do-sul-sa/ceesbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/caixa-economica-federal</loc>
@@ -1946,19 +1411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/caixa-economica-federal/cefxbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/camara-interbancaria-de-pagamentos-cip</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/camara-interbancaria-de-pagamentos-cip/ccipbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/cetip-central-de-custodia-e-de-liquidacao-financeira-de-titulos</loc>
@@ -1966,29 +1421,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cetip-central-de-custodia-e-de-liquidacao-financeira-de-titulos/cetibrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/cetip-s-a-balcao-organizado-de-ativos-e-derivativos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cetip-s-a-balcao-organizado-de-ativos-e-derivativos/ctipbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cetro-ctvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/cetro-ctvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cetro-ctvm-ltda-/cectbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/chase-fleming-s-a-ccvm</loc>
@@ -1996,47 +1436,37 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/chase-fleming-s-a-ccvm/grapbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/china-construction-bank-brasil-banco-multiplo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/china-construction-bank-brasil-banco-multiplo-s-a/bicbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-/citibrsprjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a/citibrsprjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-/citibrsphof</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a/citibrsphof</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-/citibrspsec</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a/citibrspsec</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-/citibrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a/citibrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a-/citibrsx</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/citibank-n-a/citibrsx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2046,39 +1476,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/citigroup-global-markets-brasil-cctvm-sa/cgmbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/city-ccvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/city-ccvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/city-ccvm-ltda-/ciccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cm-capital-markets-cctvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/cm-capital-markets-cctvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cm-capital-markets-cctvm-ltda-/cakcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/coinvalores-ccvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/coinvalores-ccvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/coinvalores-ccvm-ltda-/coccbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/commerzbank-brasil-s-a-banco-multiplo</loc>
@@ -2086,29 +1496,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/commerzbank-brasil-s-a-banco-multiplo/cobabrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/companhia-brasileira-de-liquidacao-e-custodia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/companhia-brasileira-de-liquidacao-e-custodia/clcbbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/companhia-providencia-industria-e-comercio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/companhia-providencia-industria-e-comercio/cpicbrp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/concordia-sa-cvmcc</loc>
@@ -2131,19 +1526,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/convencao-s-a-corretora-de-valores-e-cambio/ccvcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/cooperativa-central-credito-rural-rgs-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cooperativa-central-credito-rural-rgs-ltda/cccrbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/cooperativa-de-credito-rural-do-oeste-ltda</loc>
@@ -2151,19 +1536,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cooperativa-de-credito-rural-do-oeste-ltda/ccrlbrb1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/cotacao-distribuidora-de-titulos-e-valores-mobs-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cotacao-distribuidora-de-titulos-e-valores-mobs-s-a/cdtvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/credit-suisse-first-boston-sa-ctvm</loc>
@@ -2171,19 +1546,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/credit-suisse-first-boston-sa-ctvm/csfbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/credit-suisse-hedging-griffo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/credit-suisse-hedging-griffo/hedgbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/cruzeiro-do-sul-corretora-de-valores</loc>
@@ -2191,19 +1556,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/cruzeiro-do-sul-corretora-de-valores/cscvbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/deutsche-bank-cv-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/deutsche-bank-cv-s-a/deutbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/deutsche-bank-s-a-banco-alemao</loc>
@@ -2236,19 +1591,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/distribuidora-bank-of-boston-dtvm-s-a/dibdbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/dourada-cambio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/dourada-cambio/doabbrp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/elite-ccvm-ltda</loc>
@@ -2256,19 +1601,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/elite-ccvm-ltda/elccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/empresa-brasileira-de-correios-e-telegrafos-ect</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/empresa-brasileira-de-correios-e-telegrafos-ect/ebctbrd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/equity-cp-ccv-s-a</loc>
@@ -2276,19 +1611,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/equity-cp-ccv-s-a/eqccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/estrategia-investimentos-s-a-cvc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/estrategia-investimentos-s-a-cvc/estrbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/fator-doria-atherino-s-a-cv</loc>
@@ -2296,19 +1621,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/fator-doria-atherino-s-a-cv/fadabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/fator-s-a-corretora-de-valores</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/fator-s-a-corretora-de-valores/fatobrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/fibra-asset-management-distribuidora-de-titulos-e-valores-mobiliarios-ltda</loc>
@@ -2316,19 +1631,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/fibra-asset-management-distribuidora-de-titulos-e-valores-mobiliarios-ltda/fdtvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/finabank-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/finabank-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda/fcctbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/finasa-suplicy-c-c-v-m-s-a</loc>
@@ -2336,19 +1641,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/finasa-suplicy-c-c-v-m-s-a/fisubrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/fitch-ratings-brasil-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/fitch-ratings-brasil-ltda/fripbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/garantia-dtvm-s-a</loc>
@@ -2356,29 +1651,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/garantia-dtvm-s-a/gadtbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/gavea-investimentos-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gavea-investimentos-ltda/gaivbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gbm-brasil-dtvm-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/gbm-brasil-dtvm-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gbm-brasil-dtvm-s-a-/gbbdbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/gbtd-brasil</loc>
@@ -2386,19 +1666,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gbtd-brasil/gbbrbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/geracao-corretora-de-valores-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/geracao-corretora-de-valores-ltda/gerabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/geracao-futuro-corretora-de-valores-sa</loc>
@@ -2406,29 +1676,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/geracao-futuro-corretora-de-valores-sa/gfcvbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/gib-americas-brasil</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gib-americas-brasil/gibmbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/goldman-sachs-do-brasil-banco-multiplo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/goldman-sachs-do-brasil-banco-multiplo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/goldman-sachs-do-brasil-banco-multiplo-s-a-/goldbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/goldman-sachs-do-brasil-corretora-de-valores-mobiliarios-s-a</loc>
@@ -2436,32 +1691,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/goldman-sachs-do-brasil-corretora-de-valores-mobiliarios-s-a/gsbcbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/gradual-c-c-t-v-m-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/gradual-c-c-t-v-m-ltda/gradbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a-/besbbrspbes</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a/besbbrspbes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a-/besbbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/haitong-banco-de-investimentodo-brasil-s-a/besbbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2471,19 +1716,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/hsbc-brasil-s-a-banco-de-investimento/hsbnbrss</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/hsbc-corretora-de-titulos-e-valores-mobiliarios-s-a-hsbc-ctvm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/hsbc-corretora-de-titulos-e-valores-mobiliarios-s-a-hsbc-ctvm/hctvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/icap-do-brasil-dtvm-ltda</loc>
@@ -2491,19 +1726,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/icap-do-brasil-dtvm-ltda/icbdbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/icatu-dtvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/icatu-dtvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/icatu-dtvm-ltda-/icatbrrj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/indosuez-capital-dtvm-s-a</loc>
@@ -2511,42 +1736,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/indosuez-capital-dtvm-s-a/dtvmbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/indosuez-w-i-carr-securities-brazil-dtvm-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/indosuez-w-i-carr-securities-brazil-dtvm-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/indosuez-w-i-carr-securities-brazil-dtvm-s-a-/wicabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/industrial-and-commercial-bank-of-china-brazil-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/industrial-and-commercial-bank-of-china-brazil</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/industrial-and-commercial-bank-of-china-brazil-/icbkbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v-/ingbbrspata</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v/ingbbrspata</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v-/ingbbrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/ing-bank-n-v/ingbbrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2556,19 +1766,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/intesa-sanpaolo-brasil-s-a-banco-multiplo/bcitbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/intl-fcstone-dtvm-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/intl-fcstone-dtvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/intl-fcstone-dtvm-ltda-/itfdbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/intra-s-a-ccv</loc>
@@ -2576,29 +1776,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/intra-s-a-ccv/incvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/itau-asset-management</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-asset-management/itsabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-iam</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-iam/ituibrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a</loc>
@@ -2676,32 +1861,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-/cbbabrspbhe</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a/cbbabrspbhe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-/cbbabrspcas</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a/cbbabrspcas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-/cbbabrsppae</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a/cbbabrsppae</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-/cbbabrsprjo</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a/cbbabrsprjo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a-/cbbabrsp</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/itau-unibanco-s-a-successor-of-banco-itau-bba-s-a/cbbabrsp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2711,19 +1896,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/jp-morgan-distribuidora/jodibrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/jpm-cctvm-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/jpm-cctvm-s-a/jpccbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/jpm-cor-de-cam-titu-e-val-mob-s-a</loc>
@@ -2731,29 +1906,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/jpm-cor-de-cam-titu-e-val-mob-s-a/jpmcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/liberal-s-a-cor-de-cam-e-val-mob</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/liberal-s-a-cor-de-cam-e-val-mob/libebrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/magliano-s-a-corretora-de-cambio-e-valores-mobiliarios</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/magliano-s-a-corretora-de-cambio-e-valores-mobiliarios/mcalbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/mercedes-benz-do-brasil-ltda</loc>
@@ -2776,29 +1936,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/merrill-lynch-dtvm/mldtbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/merrill-lynch-s-a-corretora-de-titulos-e-valores-mobiliarios</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/merrill-lynch-s-a-corretora-de-titulos-e-valores-mobiliarios/mlcvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/midbank-banco-de-investimento-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/midbank-banco-de-investimento-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/midbank-banco-de-investimento-s-a-/miinbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/mirae-asset-securities-brasil-c-t-v-m-ltda</loc>
@@ -2806,29 +1951,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/mirae-asset-securities-brasil-c-t-v-m-ltda/macbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/mirae-asset-securities-brasil-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/mirae-asset-securities-brasil-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/mirae-asset-securities-brasil-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda-/miaebrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/mobis-brasil-fabricacao-de-auto-pecas-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/mobis-brasil-fabricacao-de-auto-pecas-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/mobis-brasil-fabricacao-de-auto-pecas-ltda-/hymobrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/moody-s-america-latina-ltda</loc>
@@ -2836,29 +1966,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/moody-s-america-latina-ltda/moatbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/morgan-stanley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/morgan-stanley/msspbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/ms-bank-sa-banco-de-cambio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ms-bank-sa-banco-de-cambio/msbobrpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/multiplic-banco-de-investimento-s-a</loc>
@@ -2881,29 +1996,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/multiplic-cvm-s-a/mucvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/nestle-brazil-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/nestle-brazil-ltda/nesnbrsx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/nova-futura-d-t-v-m-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/nova-futura-d-t-v-m-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/nova-futura-d-t-v-m-ltda-/nofvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/novacao-s-a-ccvm</loc>
@@ -2911,39 +2011,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/novacao-s-a-ccvm/noccbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/novinvest-s-a-cvm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/novinvest-s-a-cvm/nocvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/novo-banco-continental-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/novo-banco-continental-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/novo-banco-continental-s-a-/comebrrs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/parana-banco-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/parana-banco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/parana-banco-s-a-/parabrpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/petra-personal-trader-corretora-de-titulos-e-valores-mobiliarios-ltda</loc>
@@ -2951,19 +2031,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/petra-personal-trader-corretora-de-titulos-e-valores-mobiliarios-ltda/ptrabrp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/pioneer-corretora-de-cambio-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/pioneer-corretora-de-cambio-ltda/pccmbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/planibanc-cv-s-a</loc>
@@ -2971,19 +2041,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/planibanc-cv-s-a/placbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/planner-corretora-de-valores-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/planner-corretora-de-valores-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/planner-corretora-de-valores-s-a-/plaebrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/prime-s-a-corretora-de-cambio-e-valores</loc>
@@ -2991,19 +2051,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/prime-s-a-corretora-de-cambio-e-valores/prccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/prosper-s-a-cvc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/prosper-s-a-cvc/prvvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/prudential-do-brasil-seguros-de-vida-sa</loc>
@@ -3011,19 +2061,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/prudential-do-brasil-seguros-de-vida-sa/pbsvbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/quantia-dtvm-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/quantia-dtvm-ltda/quccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/rabobank-brasil</loc>
@@ -3031,19 +2071,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/rabobank-brasil/rabobrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/renascenca-distribuidora-de-titulos-e-valores-mobiliarios-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/renascenca-distribuidora-de-titulos-e-valores-mobiliarios-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/renascenca-distribuidora-de-titulos-e-valores-mobiliarios-ltda-/rdtvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/rmc-s-a-sc</loc>
@@ -3051,42 +2081,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/rmc-s-a-sc/rmcrbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/royal-bank-of-canada-brasil-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/royal-bank-of-canada-brasil-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/royal-bank-of-canada-brasil-s-a-/roycbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/s-hayata-corretora-de-cambio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/s-hayata-corretora-de-cambio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/s-hayata-corretora-de-cambio-s-a-/shaybrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda-/sectbrs1820</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda/sectbrs1820</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda-/sectbrs1</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/samsung-electronica-da-amazonia-ltda/sectbrs1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3096,29 +2111,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/santander-brasil-gesto-de-recursos-ltda/sbgrbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/santander-brasil-s-a-ctvm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/santander-brasil-s-a-ctvm/sabvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/santander-securities-services-brasil-distribuidora-de-ttulos-e-valores-mobilirios-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/santander-securities-services-brasil-distribuidora-de-ttulos-e-valores-mobilirios-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/santander-securities-services-brasil-distribuidora-de-ttulos-e-valores-mobilirios-s-a-/sssbbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/schahin-ccvm-s-a</loc>
@@ -3126,19 +2126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/schahin-ccvm-s-a/schvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/schroder-investment-management-brasil</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/schroder-investment-management-brasil/schrbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/scotiabank-brasil-s-a-banco-multiplo</loc>
@@ -3146,39 +2136,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/scotiabank-brasil-s-a-banco-multiplo/noscbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/slw-corretora-de-valores-e-cambio-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/slw-corretora-de-valores-e-cambio-ltda/scvbbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/socopa-sociedade-corretora-paulista-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/socopa-sociedade-corretora-paulista-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/socopa-sociedade-corretora-paulista-s-a-/scpabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/special-settlement-and-custody-system-selic-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/special-settlement-and-custody-system-selic</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/special-settlement-and-custody-system-selic-/sscsbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/spinelli-s-a-corretora-de-valores-mobiliarios-e-cambio</loc>
@@ -3186,19 +2156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/spinelli-s-a-corretora-de-valores-mobiliarios-e-cambio/scvcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/squanto-investimentos-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/squanto-investimentos-ltd/sqinbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/standard-chartered-bank-brasil-s-a-banco-de-investimento</loc>
@@ -3206,19 +2166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/standard-chartered-bank-brasil-s-a-banco-de-investimento/scblbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/starexport-trading-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/starexport-trading-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/starexport-trading-s-a-/datrbrsx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/stock-s-a-cor-de-cam-e-val</loc>
@@ -3226,19 +2176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/stock-s-a-cor-de-cam-e-val/sccvbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/talarico-corretora-de-cambio-e-titulos-mobiliariosltda-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/talarico-corretora-de-cambio-e-titulos-mobiliariosltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/talarico-corretora-de-cambio-e-titulos-mobiliariosltda-/talabrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/tese-gestao-de-investimentos-ltda</loc>
@@ -3246,19 +2186,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/tese-gestao-de-investimentos-ltda/tegibrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/the-royal-bank-of-scotland-brasil-s-a-banco-de-investimento</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/the-royal-bank-of-scotland-brasil-s-a-banco-de-investimento/rbosbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/theca-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda</loc>
@@ -3266,19 +2196,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/theca-corretora-de-cambio-titulos-e-valores-mobiliarios-ltda/thecbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/titulo-corretora-de-valores-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/titulo-corretora-de-valores-s-a/titubrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/tov-cctvm-ltda</loc>
@@ -3286,19 +2206,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/tov-cctvm-ltda/tovcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/tov-corretora-de-titulos-cambio-e-valores-mobiliarios-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/tov-corretora-de-titulos-cambio-e-valores-mobiliarios-ltda/tctcbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/trustee-investments-s-a</loc>
@@ -3306,29 +2216,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/trustee-investments-s-a/truibrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/ts-tristar-imperial-securities-and-finance-ltda-service-centre-imperial</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ts-tristar-imperial-securities-and-finance-ltda-service-centre-imperial/tisnbrd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ubs-brasil-banco-de-investimento-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/brazil/ubs-brasil-banco-de-investimento-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ubs-brasil-banco-de-investimento-s-a-/ubswbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/ubs-brasil-cctvm</loc>
@@ -3336,19 +2231,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/ubs-brasil-cctvm/lictbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/um-investimentos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/um-investimentos/uminbrs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/brazil/uniprime-norte-do-paran-cooperativa-d</loc>
@@ -3356,28 +2241,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/uniprime-norte-do-paran-cooperativa-d/unpabrpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/votorantim-corretora-de-tit-e-val-mob-ltda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/brazil/votorantim-corretora-de-tit-e-val-mob-ltda/vctmbrsp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/brazil/xp-investimentos-cctvm-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/brazil/xp-investimentos-cctvm-sa/ivccbrr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

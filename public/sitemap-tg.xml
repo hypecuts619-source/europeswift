@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/bank-of-africa-togo/afritgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/banque-atlantique-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-atlantique-togo/attgtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/banque-centrale-des-etats-de-l-afrique-de-l-ouest</loc>
@@ -51,29 +41,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-internationale-pour-l-afrique-au-togo/bilttgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-ouest-africaine-de-developpement-boad-</loc>
+    <loc>https://swiftcodedir.com/swift/togo/banque-ouest-africaine-de-developpement-boad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-ouest-africaine-de-developpement-boad-/boadtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-populaire-pour-l-epargne-et-le-credit-formerly-caisse-d-epargne-du-togo-</loc>
+    <loc>https://swiftcodedir.com/swift/togo/banque-populaire-pour-l-epargne-et-le-credit-formerly-caisse-d-epargne-du-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-populaire-pour-l-epargne-et-le-credit-formerly-caisse-d-epargne-du-togo-/bpectgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/banque-togolaise-pour-le-commerce-et-l-industrie</loc>
@@ -81,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/banque-togolaise-pour-le-commerce-et-l-industrie/btcitgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/bsic-togo-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/bsic-togo-sa/bsahtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/coris-bank-international-togo</loc>
@@ -101,29 +66,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/coris-bank-international-togo/coritgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/depositaire-central-banque-de-reglement-dcbr-togo-</loc>
+    <loc>https://swiftcodedir.com/swift/togo/depositaire-central-banque-de-reglement-dcbr-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/depositaire-central-banque-de-reglement-dcbr-togo-/dcedtgt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/diamondbank-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/diamondbank-togo/dblntgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/ecobank-togo</loc>
@@ -181,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/ecowas-bank-for-investment-and-development/ebidtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/orabank-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/orabank-togo/orbktgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/societe-des-postes-du-togo</loc>
@@ -201,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/societe-des-postes-du-togo/sototgt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/societe-generale-benin-succursale-du-togo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/societe-generale-benin-succursale-du-togo/sogetgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/togo/societe-inter-africaine-de-banque-sa</loc>
@@ -221,28 +151,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/societe-inter-africaine-de-banque-sa/balttgt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/societe-inter-africaine-de-banque</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/togo/societe-inter-africaine-de-banque/siabtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/togo/union-togolaise-de-banque</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/togo/union-togolaise-de-banque/untbtgtg</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

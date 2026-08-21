@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/basisbank-jsc/cbasge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/british-american-tobacco-georgia-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/british-american-tobacco-georgia-limited/batsge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/bsdbank</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/bsdbank/bsdage21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/finca-bank-georgia-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/finca-bank-georgia-jsc/fgeoge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/galt-and-taggart-jsc-securities</loc>
@@ -61,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/galt-and-taggart-jsc-securities/gtjsge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/georgian-investment-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/georgian-investment-group/geigge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/halyk-bank-georgia-jsc</loc>
@@ -81,29 +51,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/halyk-bank-georgia-jsc/habgge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/international-bank-of-azerbaijan-georgia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/international-bank-of-azerbaijan-georgia/ibazge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/international-financial-services-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/international-financial-services-ltd/itfvge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/jsc-bank-of-georgia</loc>
@@ -126,27 +81,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank-/crtuge22092</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank/crtuge22092</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank-/crtuge22087</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank/crtuge22087</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank-/crtuge22086</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank/crtuge22086</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank-/crtuge22</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-cartu-bank/crtuge22</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -156,19 +111,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-caucasus-trust-bankers/ctrbge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/jsc-credo-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-credo-bank/jscrge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/jsc-isbank-georgia</loc>
@@ -176,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-isbank-georgia/isbkge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-liberty-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-liberty-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-liberty-bank-/lbrtge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/jsc-pasha-bank-georgia</loc>
@@ -196,122 +131,112 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-pasha-bank-georgia/pahage22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/jsc-terabank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-terabank/tebage22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22617</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22617</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22655</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22655</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22622</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22622</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22602</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22602</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22624</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22624</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22605</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22605</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22639</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22639</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22643</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22643</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22606</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22606</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22607</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22607</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22687</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22687</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22615</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22615</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22665</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22665</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22668</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22668</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22666</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22666</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22604</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22604</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22670</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22670</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22629</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22629</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia-/ugebge22603</loc>
+    <loc>https://swiftcodedir.com/swift/georgia/jsc-vtb-bank-georgia/ugebge22603</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -321,19 +246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/jsc-ziraat-bank-georgia/tczbge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/llc-mfo-imperial-credit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/llc-mfo-imperial-credit/lmirge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/mfo-intel-express-georgia-ltd</loc>
@@ -341,19 +256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/mfo-intel-express-georgia-ltd/inexge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/national-bank-of-georgia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/national-bank-of-georgia/bnlnge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/procredit-bank-georgia</loc>
@@ -361,19 +266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/procredit-bank-georgia/mibgge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/russian-georgian-bank-of-reconstruction-and-development</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/russian-georgian-bank-of-reconstruction-and-development/rgbrge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/saint-george-bankers-and-trust-llc</loc>
@@ -381,19 +276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/georgia/saint-george-bankers-and-trust-llc/sgtlge21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/georgia/silk-road-bank-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/silk-road-bank-jsc/disnge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/georgia/tbc-bank</loc>
@@ -474,10 +359,5 @@
     <loc>https://swiftcodedir.com/swift/georgia/treasury-service-ministry-of-finance-of-georgia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/georgia/treasury-service-ministry-of-finance-of-georgia/tsmfge22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

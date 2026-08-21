@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/bank-of-nova-scotia-the/noscvivi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/citibank-n-a-/citiviv1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/epay-systems-limited-liability-com</loc>
@@ -51,13 +41,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/foreign-exchange-bank-corp-</loc>
+    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/foreign-exchange-bank-corp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/u-s-virgin-islands/foreign-exchange-bank-corp-/mcsnvivi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

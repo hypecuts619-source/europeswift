@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/asia-alliance-bank/asacuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/central-bank-of-the-republic-uzbekistan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/central-bank-of-the-republic-uzbekistan/cbuzuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/credit-standard-bank</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/credit-standard-bank/criduz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/-hi-tech-bank-private-closed-joint-stock-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/-hi-tech-bank-private-closed-joint-stock-commercial-bank/hpcjuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/infinbank</loc>
@@ -56,29 +36,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/infinbank/infbuz2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/ipoteka-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/ipoteka-bank/uzhouz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-agrobank-</loc>
+    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-agrobank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-agrobank-/pakhuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-savdogar</loc>
@@ -86,19 +51,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-savdogar/jscsuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-asaka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-asaka/asbkuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-bank-turonbank</loc>
@@ -201,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/joint-stock-commercial-xalq-bank-of-the-republic-of-uzbekistan/scpeuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/jsc-aloqabank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/jsc-aloqabank/jscluz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/jsic-bank-ipak-yuli</loc>
@@ -301,19 +246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/kapitalbank-jscb/kachuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/kdb-bank-uzbekistan-jsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/kdb-bank-uzbekistan-jsc/kodbuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/khamkorbank-akb</loc>
@@ -321,19 +256,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/khamkorbank-akb/khkkuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/khorezm-interregion-commodity-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/khorezm-interregion-commodity-exchange/xkceuz31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/microcreditbank</loc>
@@ -341,19 +266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/microcreditbank/micduz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan/nbfauz2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/ojsc-microcreditbank</loc>
@@ -361,19 +276,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/ojsc-microcreditbank/ojmiuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-orient-finance-</loc>
+    <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-orient-finance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-orient-finance-/orfbuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-turkiston</loc>
@@ -381,29 +286,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-turkiston/trksuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-universal-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/pjscb-universal-bank/pjunuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/private-bank-davr-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/uzbekistan/private-bank-davr-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/private-bank-davr-bank-/dvrbuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/-qishloq-qurilish-bank-joint-stock-commercial-bank</loc>
@@ -411,19 +301,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/-qishloq-qurilish-bank-joint-stock-commercial-bank/gjsouz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/ravnaq-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/ravnaq-bank/rvbkuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/trustbank-private-joint-stock-exchange-bank</loc>
@@ -431,39 +311,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/trustbank-private-joint-stock-exchange-bank/trsauz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/universal-bank-private-joint-stock-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-bank-private-joint-stock-commercial-bank/pounuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-broker-s-exchange-tashkent-</loc>
+    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-broker-s-exchange-tashkent</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-broker-s-exchange-tashkent-/xuniuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-commodity-exchange-tashkent-</loc>
+    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-commodity-exchange-tashkent</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/universal-commodity-exchange-tashkent-/xcetuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/ut-bank</loc>
@@ -471,19 +331,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/ut-bank/uztuuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/-uzbek-industrial-and-construction-bank-joint-stock-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/-uzbek-industrial-and-construction-bank-joint-stock-commercial-bank/ujsiuz22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/uzbekistan-republican-currency-exchange-the</loc>
@@ -491,18 +341,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/uzbekistan-republican-currency-exchange-the/xcueuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/uzbekistan/uzbekistan-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/uzbekistan/uzbekistan-stock-exchange/xsteuz21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

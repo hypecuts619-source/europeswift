@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/aib-bank-nv/anibawa1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/aruba/aruba-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/aruba-bank-ltd/arubawax</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/aruba/banco-di-caribe-aruba-n-v</loc>
@@ -36,29 +26,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/banco-di-caribe-aruba-n-v/bdccawaw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/aruba/centrale-bank-van-aruba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/centrale-bank-van-aruba/cbarawaw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/caribbean-mercantile-bank-n-v-</loc>
+    <loc>https://swiftcodedir.com/swift/aruba/caribbean-mercantile-bank-n-v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/caribbean-mercantile-bank-n-v-/cmbaawax</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/aruba/firstcaribbean-int-l-bank-cayman-ltd</loc>
@@ -66,38 +41,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/firstcaribbean-int-l-bank-cayman-ltd/fcibawaw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/aruba/interbank-aruba-nv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/interbank-aruba-nv/iaruawa1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/imtradex-international-n-v-</loc>
+    <loc>https://swiftcodedir.com/swift/aruba/imtradex-international-n-v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/aruba/imtradex-international-n-v-/imieawa1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/rbc-royal-bank-aruba-n-v-formerly-rbtt-bank-aruba-n-v-</loc>
+    <loc>https://swiftcodedir.com/swift/aruba/rbc-royal-bank-aruba-n-v-formerly-rbtt-bank-aruba-n-v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/aruba/rbc-royal-bank-aruba-n-v-formerly-rbtt-bank-aruba-n-v-/rbttawaw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

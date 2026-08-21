@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/access-bank-congo-dr/abngcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/advans-banque-congo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/advans-banque-congo/advbcdkx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/afriland-first-bank-congo-democratique</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/afriland-first-bank-congo-democratique/afcdcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/bank-of-africa-rdc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/bank-of-africa-rdc/africdks</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-centrale-du-congo</loc>
@@ -86,29 +66,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-continentale-africaine-zaire-sarl/cluxcdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-du-credit-agricole-b-c-a-</loc>
+    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-du-credit-agricole-b-c-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-du-credit-agricole-b-c-a-/acrbcdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-internationale-pour-l-afrique-au-congo-biac-</loc>
+    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-internationale-pour-l-afrique-au-congo-biac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-internationale-pour-l-afrique-au-congo-biac-/biaccdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-zairoise-du-commerce-exterieur</loc>
@@ -116,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/banque-zairoise-du-commerce-exterieur/zaexcd31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/bgfibank-rdc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/bgfibank-rdc/bgficdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/byblos-bank-rdc</loc>
@@ -136,29 +91,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/byblos-bank-rdc/bybacdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/caisse-centrale-de-cooperation-economique</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/caisse-centrale-de-cooperation-economique/ccnccdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/citibank-congo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/citibank-congo/citicdkx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/dmexchange-sprl</loc>
@@ -181,19 +121,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/ecobank-republique-democratique-du-congo-sa/ecoccdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/fbnbank-drc-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/fbnbank-drc-sa/bicdcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/fransabank-congo-sarl</loc>
@@ -201,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/fransabank-congo-sarl/frzscdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/nouvelle-banque-de-kinshasa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/nouvelle-banque-de-kinshasa/bkincdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/procredit-bank-congo-sa</loc>
@@ -221,19 +141,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/procredit-bank-congo-sa/prcbcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/rawbank-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/rawbank-sa/rawbcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/sofibanque-sa</loc>
@@ -241,19 +151,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/sofibanque-sa/sfbxcdki</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/standard-bank-rdc-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/standard-bank-rdc-sa/sbiccdkx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/switap</loc>
@@ -261,19 +161,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/switap/swttcd31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/trust-merchant-bank-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/trust-merchant-bank-sa/trmscd3l</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/trust-merchant-bank-sarl</loc>
@@ -281,28 +171,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/trust-merchant-bank-sarl/trmscd3k</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/union-zairoise-de-banques</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/union-zairoise-de-banques/uzbacdk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/congo-kinshasa/united-bank-for-africa-rdc-sarl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/congo-kinshasa/united-bank-for-africa-rdc-sarl/unafcdks</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

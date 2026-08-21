@@ -11,14 +11,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/ab-bank-rwanda-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/rwanda/ab-bank-rwanda-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/ab-bank-rwanda-ltd-/abbrrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/access-bank-rwanda-sa</loc>
@@ -26,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/access-bank-rwanda-sa/bkorrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/bank-of-africa-rwanda-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/bank-of-africa-rwanda-ltd/afrwrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/bank-of-kigali-limited</loc>
@@ -46,32 +31,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/bank-of-kigali-limited/bkigrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/banque-de-l-habitat-du-rwanda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/banque-de-l-habitat-du-rwanda/lhrwrwr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr-</loc>
+    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr-/bnrwrwrp</loc>
+    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr/bnrwrwrp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr-/bnrwrwrw</loc>
+    <loc>https://swiftcodedir.com/swift/rwanda/banque-nationale-du-rwanda-bnr/bnrwrwrw</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -81,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/banque-populaire-du-rwanda-ltd/bprwrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/compagnie-generale-de-banque-cogebanque</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/compagnie-generale-de-banque-cogebanque/cgbkrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/crane-bank-rwanda-ltd</loc>
@@ -101,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/crane-bank-rwanda-ltd/crrwrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/development-bank-of-rwanda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/development-bank-of-rwanda/brdrrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/ecobank-rwanda</loc>
@@ -121,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/ecobank-rwanda/ecocrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/equity-bank-rwanda-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/equity-bank-rwanda-limited/eqblrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/guaranty-trust-bank-rwanda-ltd</loc>
@@ -141,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/guaranty-trust-bank-rwanda-ltd/gtbirwrk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/i-and-m-bank-rwanda-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/i-and-m-bank-rwanda-limited/imrwrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/rwanda/kcb-bank-rwanda-ltd</loc>
@@ -201,18 +136,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/national-bank-of-rwanda/cbrwrwr1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/rwanda/urwego-opportunity-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/rwanda/urwego-opportunity-bank-limited/uobrrwrw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

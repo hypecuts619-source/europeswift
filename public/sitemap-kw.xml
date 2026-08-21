@@ -16,14 +16,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/ahli-united-bank-k-s-c-p-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/ahli-united-bank-k-s-c-p</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/ahli-united-bank-k-s-c-p-/bkmekwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/al-ahli-bank-of-kuwait-k-s-c-p</loc>
@@ -31,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/al-ahli-bank-of-kuwait-k-s-c-p/abkkkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/al-mal-investment-company-k-s-c-closed-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/al-mal-investment-company-k-s-c-closed</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/al-mal-investment-company-k-s-c-closed-/amkckwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/al-mulla-international-exchange-co</loc>
@@ -71,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/al-rajhi-bank-kuwait/rjhikwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/almuzaini-exchange-company-ksc-closed-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/almuzaini-exchange-company-ksc-closed</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/almuzaini-exchange-company-ksc-closed-/aaackwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/aman-exchange-co-wll</loc>
@@ -91,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/aman-exchange-co-wll/axcwkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/arab-fund-for-economic-and-social-development</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/arab-fund-for-economic-and-social-development/afedkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/arzan-financial-group-for-financing-and-investments-k-p-s-c</loc>
@@ -111,19 +76,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/arzan-financial-group-for-financing-and-investments-k-p-s-c/afgpkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/bahrain-exchange-company-wll</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/bahrain-exchange-company-wll/becxkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/bankmuscat</loc>
@@ -131,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/bankmuscat/bmuskwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/bayt-al-mal-investment-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/bayt-al-mal-investment-company/baytkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/bbk</loc>
@@ -151,39 +96,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/bbk/bbkukwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/bnp-paribas-kuwait</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/bnp-paribas-kuwait/bnpakwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/boubyan-bank-k-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/boubyan-bank-k-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/boubyan-bank-k-s-c-/bbynkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/burgan-bank-k-p-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/burgan-bank-k-p-s-c/brgnkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/central-bank-of-kuwait</loc>
@@ -206,14 +131,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/citibank-n-a-/citikwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/commercial-bank-of-kuwait-kpsc-the</loc>
@@ -576,19 +496,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/doha-bank/dohbkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/efg-hermes-ifa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/efg-hermes-ifa/efhikwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/equate-petrochemical-company-kscc</loc>
@@ -596,32 +506,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/equate-petrochemical-company-kscc/eqpckwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/etemadco-exchange-company-w-l-l-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/etemadco-exchange-company-w-l-l</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/etemadco-exchange-company-w-l-l-/etemkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi-/nbadkwkwtfo</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi/nbadkwkwtfo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi-/nbadkwkw</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/first-abu-dhabi-bank-formerly-national-bank-of-abu-dhabi/nbadkwkw</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -629,11 +529,6 @@
     <loc>https://swiftcodedir.com/swift/kuwait/first-securities-brokerage-company-k-s-c-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/first-securities-brokerage-company-k-s-c-c/fsbokwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/global-investment-house</loc>
@@ -651,27 +546,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c-/gulbkwkwtfs</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c/gulbkwkwtfs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c-/gulbkwkwtro</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c/gulbkwkwtro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c-/gulbkwkwvos</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c/gulbkwkwvos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c-/gulbkwkw</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/gulf-bank-k-s-c/gulbkwkw</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -681,19 +576,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-custody-company/gccokwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/gulf-investment-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/gulf-investment-corporation/gcorkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/hsbc-bank-middle-east-limited</loc>
@@ -701,19 +586,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/hsbc-bank-middle-east-limited/hbmekwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/icbc-kuwait-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/icbc-kuwait-branch/icbkkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/independent-petroleum-group</loc>
@@ -721,29 +596,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/independent-petroleum-group/ipghkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/industrial-bank-of-kuwait-k-s-c-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/industrial-bank-of-kuwait-k-s-c-the/ibkukwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/international-financial-line-exchange-co-k-s-c-closed-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/international-financial-line-exchange-co-k-s-c-closed</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/international-financial-line-exchange-co-k-s-c-closed-/iflckwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/investment-dar-company-k-s-c-c-the</loc>
@@ -751,19 +611,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/investment-dar-company-k-s-c-c-the/tidckwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kamco-investment-company-k-s-c-public-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kamco-investment-company-k-s-c-public</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kamco-investment-company-k-s-c-public-/kmcokwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kfic-financial-brokerage</loc>
@@ -771,19 +621,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kfic-financial-brokerage/kffbkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-airways-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-airways-corporation/kacckwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-bahrain-international-exchange-company-ksc-kuwait</loc>
@@ -791,39 +631,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-bahrain-international-exchange-company-ksc-kuwait/kbexkwkf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-clearing-company-s-a-k-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-clearing-company-s-a-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-clearing-company-s-a-k-/kcckkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-finance-house-k-s-c-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-finance-house-k-s-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-finance-house-k-s-c-/kfhokwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-financial-centre-s-a-k-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-financial-centre-s-a-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-financial-centre-s-a-k-/kfcekwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-fund-for-arab-economic-development</loc>
@@ -831,19 +651,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-fund-for-arab-economic-development/kfaekwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-india-international-exchange-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-india-international-exchange-company/kiickwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-international-bank</loc>
@@ -851,19 +661,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-international-bank/kwibkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-international-finance-co-s-a-k-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-international-finance-co-s-a-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-international-finance-co-s-a-k-/kuifkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-investment-authority</loc>
@@ -881,14 +681,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-investment-company-s-a-k-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-investment-company-s-a-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-investment-company-s-a-k-/kicokwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-petroleum-corporation</loc>
@@ -896,49 +691,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-petroleum-corporation/kpcokwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/kuwait-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/kuwait-stock-exchange/xkuwkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/mashreqbank-psc-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/mashreqbank-psc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/mashreqbank-psc-/mshqkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/national-bank-of-kuwait-s-a-k-p-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/national-bank-of-kuwait-s-a-k-p</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/national-bank-of-kuwait-s-a-k-p-/nbokkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/national-investments-company-k-s-c-closed-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/national-investments-company-k-s-c-closed</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/national-investments-company-k-s-c-closed-/nickkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/noor-financial-investment-company</loc>
@@ -946,19 +716,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/noor-financial-investment-company/nfickwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/oman-exchange-co-wll</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/oman-exchange-co-wll/omankwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/public-institution-for-social-security-the</loc>
@@ -966,19 +726,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/public-institution-for-social-security-the/pisukwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/qatar-national-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/qatar-national-bank/qnbakwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/savings-and-credit-bank</loc>
@@ -986,19 +736,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/savings-and-credit-bank/sacbkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/sharq-financial-brokerage-co-</loc>
+    <loc>https://swiftcodedir.com/swift/kuwait/sharq-financial-brokerage-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/sharq-financial-brokerage-co-/shfbkwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/uae-exchange-centre-wll</loc>
@@ -1006,19 +746,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/uae-exchange-centre-wll/uaexkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/union-national-bank-kuwait</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/union-national-bank-kuwait/unbekwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/union-securities-brokerage-co</loc>
@@ -1026,19 +756,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/union-securities-brokerage-co/unsokwk1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/united-arab-shipping-company-s-a-g</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/united-arab-shipping-company-s-a-g/uasckwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/kuwait/united-international-aviation-services-co-w-l-l</loc>
@@ -1046,28 +766,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/united-international-aviation-services-co-w-l-l/uiawkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/warba-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/warba-bank/wrbakwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/kuwait/yusuf-ahmed-alghanim-and-sons-wll</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/kuwait/yusuf-ahmed-alghanim-and-sons-wll/algwkwkw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -11,24 +11,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/america-cdc-casa-de-cambio-s-a-de-c-f-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/america-cdc-casa-de-cambio-s-a-de-c-f</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/america-cdc-casa-de-cambio-s-a-de-c-f-/acsahnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/arrendamientos-y-creditos-atlantida-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/arrendamientos-y-creditos-atlantida-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/arrendamientos-y-creditos-atlantida-s-a-/arcdhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-atlantida</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-atlantida/attdhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-azteca-de-honduras-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-azteca-de-honduras-sa/aztkhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-central-de-honduras</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-central-de-honduras/bcehhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-central-de-honduras-banco-central</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-central-de-honduras-banco-central/bcehhntt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-centroamericano-de-integracion-economica</loc>
@@ -76,59 +46,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-centroamericano-de-integracion-economica/bciehnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-cuscatlan-de-honduras</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-cuscatlan-de-honduras/bacuhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-davivienda-honduras-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-davivienda-honduras-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-davivienda-honduras-s-a-/bgahhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-america-central-honduras-s-a-bac-bamer-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-america-central-honduras-s-a-bac-bamer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-america-central-honduras-s-a-bac-bamer-/bmilhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-desarrollo-rural-honduras-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-desarrollo-rural-honduras-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-desarrollo-rural-honduras-s-a-/prcbhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-honduras-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-honduras-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-honduras-s-a-/honahnt2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-de-las-fuerzas-armadas</loc>
@@ -136,54 +76,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-las-fuerzas-armadas/blfahnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-de-los-trabajadores</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-los-trabajadores/tsbohnta</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a-/bocchntesps</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a/bocchntesps</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a-/bocchnte</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a/bocchnte</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a-/bocchntesrc</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a/bocchntesrc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a-/bocchntetgu</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-de-occidente-s-a/bocchntetgu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-del-pais-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-del-pais-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-del-pais-s-a-/pisahnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-ficohsa</loc>
@@ -191,39 +116,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-ficohsa/fihohnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-financiera-centroamericana-s-a-ficensa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-financiera-centroamericana-s-a-ficensa/cabfhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-financiera-comercial-hondurena-s-a-banco-ficohsa-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-financiera-comercial-hondurena-s-a-banco-ficohsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-financiera-comercial-hondurena-s-a-banco-ficohsa-/fcohhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-grupo-el-ahorro-hondureno-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-grupo-el-ahorro-hondureno-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-grupo-el-ahorro-hondureno-s-a-/bchohnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-del-cafe</loc>
@@ -231,19 +136,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-del-cafe/bhcahnth</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-del-cafe-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-del-cafe-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-del-cafe-s-a-/bhcahnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-para-la-produccion-y-la-vivienda</loc>
@@ -251,29 +146,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-hondureno-para-la-produccion-y-la-vivienda/hopvhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-lafise-honduras-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-lafise-honduras-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-lafise-honduras-s-a-/bccehnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-municipal-autonomo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-municipal-autonomo/bmauhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/banco-nacional-de-desarrollo-agricola</loc>
@@ -291,34 +171,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-popular-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-popular-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-popular-s-a-/pouuhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-promerica-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-promerica-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-promerica-s-a-/bprhhnte</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-sogerin-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/banco-sogerin-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/banco-sogerin-s-a-/sogbhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/british-american-tobacco-central-america-s-a-sucursal-honduras</loc>
@@ -326,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/british-american-tobacco-central-america-s-a-sucursal-honduras/batshn31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-de-bolsa-de-valores-s-a-cabval-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/casa-de-bolsa-de-valores-s-a-cabval</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-de-bolsa-de-valores-s-a-cabval-/cbvchnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/casa-de-cambio</loc>
@@ -346,39 +201,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-de-cambio/csaihnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-de-cambio-roble-viejo-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/casa-de-cambio-roble-viejo-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-de-cambio-roble-viejo-s-a-/ccrvhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-del-bolsa-promociones-e-inversiones-en-bolsa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/casa-del-bolsa-promociones-e-inversiones-en-bolsa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/casa-del-bolsa-promociones-e-inversiones-en-bolsa-s-a-/cbpnhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/central-hondurena-de-valores-y-liquidacion-cehval-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/central-hondurena-de-valores-y-liquidacion-cehval</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/central-hondurena-de-valores-y-liquidacion-cehval-/chvlhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/compania-financiera-s-a-cofisa</loc>
@@ -386,29 +221,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/compania-financiera-s-a-cofisa/cfnchnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/continental-casa-de-bolsa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/continental-casa-de-bolsa-s-a/cncshnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/corporacion-financiera-internacional-cofinter-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/corporacion-financiera-internacional-cofinter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/corporacion-financiera-internacional-cofinter-/cfnihnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/financiera-codimersa-edificio-codimersa</loc>
@@ -416,19 +236,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/financiera-codimersa-edificio-codimersa/fceohnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/financiera-crediq-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/financiera-crediq-sa/firqhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/financiera-finca-honduras</loc>
@@ -436,19 +246,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/financiera-finca-honduras/fifhhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/financiera-solidaria-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/financiera-solidaria-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/financiera-solidaria-s-a-/fiodhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/fomento-financiero-s-a-casa-de-bolsa</loc>
@@ -456,39 +256,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/fomento-financiero-s-a-casa-de-bolsa/ffcbhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/honduras/lafise-valores-casa-de-bolsa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/lafise-valores-casa-de-bolsa/lvcbhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/odef-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/odef-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/odef-financiera-s-a-/odfihnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/servigiros-casa-de-cambio-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/servigiros-casa-de-cambio-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/servigiros-casa-de-cambio-s-a-/seaihnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/sonival-casa-de-bolsa-s-a</loc>
@@ -496,28 +276,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/honduras/sonival-casa-de-bolsa-s-a/soabhnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/tabacalera-hondurena-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/honduras/tabacalera-hondurena-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/tabacalera-hondurena-s-a-/batshnt1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/honduras/tabacalera-istmena-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/honduras/tabacalera-istmena-s-a/batshn41</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

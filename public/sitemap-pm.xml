@@ -16,23 +16,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/st-pierre-miquelon/caisse-d-epargne-cepac-formerly-banque-de-saint-pierre-et-miquelon-</loc>
+    <loc>https://swiftcodedir.com/swift/st-pierre-miquelon/caisse-d-epargne-cepac-formerly-banque-de-saint-pierre-et-miquelon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-pierre-miquelon/caisse-d-epargne-cepac-formerly-banque-de-saint-pierre-et-miquelon-/bdilpmpm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/st-pierre-miquelon/cispm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/st-pierre-miquelon/cispm/cipmpmp1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/al-amoundi-exchange-and-trading/ametsaj1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/al-inma-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/al-inma-bank/inmasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/al-rajhi-bank</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/al-rajhi-bank/rjhisari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/alamoudi-exchange-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/alamoudi-exchange-company/amdisaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/alawwal-bank</loc>
@@ -91,19 +71,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/alawwal-invest/sahcsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/almarai-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/almarai-company/almrsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/alrajhi-commercial-foreign-exchange</loc>
@@ -111,19 +81,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/alrajhi-commercial-foreign-exchange/afexsaj1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-national-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-national-bank/arnbsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-petrolem-investments-corporation</loc>
@@ -131,19 +91,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-petrolem-investments-corporation/apicsadm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-petroleum-investments-corporation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/arab-petroleum-investments-corporation/apiasar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/bank-al-bilad</loc>
@@ -256,11 +206,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/bankmuscat/bmussari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/banque-saudi-fransi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -309,11 +254,6 @@
     <loc>https://swiftcodedir.com/swift/saudi-arabia/bnp-paribas-saudi-arabia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/bnp-paribas-saudi-arabia/bnpasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/credit-suisse-saudi-arabia</loc>
@@ -371,19 +311,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/deutsche-securities-saudi-arabia/deutsarb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/east-africa-maritime</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/east-africa-maritime/eaamsaj1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/efg-hermes-ksa</loc>
@@ -391,19 +321,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/efg-hermes-ksa/efkssar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/emirates-nbd-pjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/emirates-nbd-pjsc/ebilsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/gulf-international-bank-b-s-c-riyadh</loc>
@@ -411,39 +331,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/gulf-international-bank-b-s-c-riyadh/gulfsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/industrial-and-commercial-bank-of-china-riyadh-branch-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/industrial-and-commercial-bank-of-china-riyadh-branch-sa/icbksari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/international-islamic-trade-finance-corporation-member-islamic-development-bank-group-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/international-islamic-trade-finance-corporation-member-islamic-development-bank-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/international-islamic-trade-finance-corporation-member-islamic-development-bank-group-/itfksaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/islamic-corporation-for-the-development-of-the-private-sector-member-islamic-development-bank-group-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/islamic-corporation-for-the-development-of-the-private-sector-member-islamic-development-bank-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/islamic-corporation-for-the-development-of-the-private-sector-member-islamic-development-bank-group-/icdksaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/islamic-development-bank</loc>
@@ -501,19 +401,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/king-abdullah-petroleum-studies-and-research-center/kpsrsadd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/m-mounir-halawani-sons-exchange-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/m-mounir-halawani-sons-exchange-company/hfexsaj1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/merrill-lynch-kingdom-of-saudi-arabia</loc>
@@ -521,19 +411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/merrill-lynch-kingdom-of-saudi-arabia/mlsasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/mohammed-hassan-yella-and-sons-exchange-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/mohammed-hassan-yella-and-sons-exchange-company/mhycsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/morgan-stanley-saudi-arabia</loc>
@@ -556,19 +436,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/nahdi-medical-company/nhdisaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-bahrain</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-bahrain/nbobsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-kuwait</loc>
@@ -576,29 +446,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-kuwait/nboksaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-pakistan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-bank-of-pakistan/nbpasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-biscuits-and-confectionery-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-biscuits-and-confectionery-company/nbccsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-commercial-bank-the</loc>
@@ -641,19 +496,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-food-industries-co-ltd/nafdsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/national-water-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/national-water-company/nwcysari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/ncb-capital-company</loc>
@@ -661,19 +506,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/ncb-capital-company/nccosaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/omar-kassem-alesayi-marketing-co-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/omar-kassem-alesayi-marketing-co-limited/okamsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/qatar-national-bank</loc>
@@ -681,19 +516,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/qatar-national-bank/qnbasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/qinvest-saudi-arabia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/qinvest-saudi-arabia/qinvsar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/riyad-bank</loc>
@@ -716,19 +541,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/sadara-chemical-company/sdccsada</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/sahara-petrochemicals-company-saudi-joint-stock-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/sahara-petrochemicals-company-saudi-joint-stock-company/spcusajb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/samba-financial-group</loc>
@@ -771,59 +586,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-arabian-monetary-authority/samasari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco/aramsadh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-lubricating-oil-refining-company-luberef-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-lubricating-oil-refining-company-luberef</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-lubricating-oil-refining-company-luberef-/lbrfsajd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-mobil-refinery-company-limited-samref-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-mobil-refinery-company-limited-samref</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-mobil-refinery-company-limited-samref-/srmrsadb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-product-trading-co-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-product-trading-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-aramco-product-trading-co-/sapcsadh</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-basic-industries-corporation-sabic-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-basic-industries-corporation-sabic</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-basic-industries-corporation-sabic-/sbhqsarr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-british-bank-the</loc>
@@ -831,29 +616,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-british-bank-the/sabbsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-ceramic-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-ceramic-company/sacysar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-chevron-phillips-co-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-chevron-phillips-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-chevron-phillips-co-/schmsade</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-economic-and-development-company-for-securities</loc>
@@ -861,19 +631,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-economic-and-development-company-for-securities/sedpsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-international-petrochemical-co-sipchem-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-international-petrochemical-co-sipchem</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-international-petrochemical-co-sipchem-/siphsadb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-investment-bank-the</loc>
@@ -881,19 +641,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-investment-bank-the/sibcsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-stock-exchange/tssmsar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-telecom-company</loc>
@@ -901,29 +651,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/saudi-telecom-company/stcosari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/shuaa-capital-saudi-arabia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/shuaa-capital-saudi-arabia/shuasar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/standard-chartered-capital-saudi-arabia-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/standard-chartered-capital-saudi-arabia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/standard-chartered-capital-saudi-arabia-/scblsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/state-bank-of-india</loc>
@@ -931,39 +666,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/state-bank-of-india/sbinsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/supreme-foods-company-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/supreme-foods-company-limited/sufcsar1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/t-c-ziraat-bankasi-a-s-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/t-c-ziraat-bankasi-a-s</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/t-c-ziraat-bankasi-a-s-/tczbsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/the-islamic-corp-for-the-insurance-of-investment-and-export-credit-member-islamic-development-bankgroup-</loc>
+    <loc>https://swiftcodedir.com/swift/saudi-arabia/the-islamic-corp-for-the-insurance-of-investment-and-export-credit-member-islamic-development-bankgroup</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/the-islamic-corp-for-the-insurance-of-investment-and-export-credit-member-islamic-development-bankgroup-/icecsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/the-saudi-fund-for-development</loc>
@@ -971,19 +686,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/the-saudi-fund-for-development/sffdsari</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/united-carton-industries-company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/united-carton-industries-company/ucsasaj1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/yanbu-aramco-sinopec-refining-yasref-limited</loc>
@@ -991,18 +696,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/yanbu-aramco-sinopec-refining-yasref-limited/yasrsadb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/saudi-arabia/zahid-tractor-and-hm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/saudi-arabia/zahid-tractor-and-hm/zthmsaje</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

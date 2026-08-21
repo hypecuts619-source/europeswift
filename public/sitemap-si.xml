@@ -16,24 +16,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/abanka-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/abanka-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/abanka-d-d-/abansi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/addiko-bank-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/addiko-bank-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/addiko-bank-d-d-/haabsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/adriatic-slovenica</loc>
@@ -41,29 +31,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/adriatic-slovenica/adsvsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/alta-invest-investicijske-storitve-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/alta-invest-investicijske-storitve-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/alta-invest-investicijske-storitve-d-d-/popjsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/argonos-borzno-posredniska-hisa-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/argonos-borzno-posredniska-hisa-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/argonos-borzno-posredniska-hisa-d-o-o-/abphsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/bank-of-slovenia</loc>
@@ -111,39 +86,29 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d-/bakosi2xibo</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d/bakosi2xibo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d-/bakosi2x</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/banka-intesa-sanpaolo-d-d/bakosi2x</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banka-sparkasse-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/banka-sparkasse-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banka-sparkasse-d-d-/kspksi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banquecorp-physical-gold-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/banquecorp-physical-gold-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/banquecorp-physical-gold-d-o-o-/bphgsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/bks-bank-ag-bancna-podruznica</loc>
@@ -151,19 +116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/bks-bank-ag-bancna-podruznica/bfkksi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/brokerjet-sparkasse-borzno-posredniska-druzba-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/brokerjet-sparkasse-borzno-posredniska-druzba-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/brokerjet-sparkasse-borzno-posredniska-druzba-d-d-/bspdsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/central-securities-clearing-corporation-kdd</loc>
@@ -171,19 +126,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/central-securities-clearing-corporation-kdd/kddssi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/certius-bph-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/certius-bph-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/certius-bph-d-o-o-/cebdsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/delavska-hranilnica-d-d-ljubljana</loc>
@@ -191,39 +136,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/delavska-hranilnica-d-d-ljubljana/hdelsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/dezelna-banka-slovenije-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/dezelna-banka-slovenije-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/dezelna-banka-slovenije-d-d-/szkbsi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/gbd-gorenjska-borznoposredniska-druzba-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/gbd-gorenjska-borznoposredniska-druzba-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/gbd-gorenjska-borznoposredniska-druzba-d-d-/gbdgsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/generali-insurance-co-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/generali-insurance-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/generali-insurance-co-/geiusi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/gorenjska-banka-d-d-kranj</loc>
@@ -231,49 +156,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/gorenjska-banka-d-d-kranj/goresi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/grawe-zavarovalnica-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/grawe-zavarovalnica-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/grawe-zavarovalnica-d-d-/grzasi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-lon-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-lon-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-lon-d-d-/hlonsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-vipava-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-vipava-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hranilnica-vipava-d-d-/hkvisi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hsbc-kirish-and-co-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/hsbc-kirish-and-co</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/hsbc-kirish-and-co-/hskisi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/ilirika-d-d-ljubljana</loc>
@@ -281,19 +181,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/ilirika-d-d-ljubljana/iliisi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/slovenia/jasmin-muhic</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/jasmin-muhic/jasmsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/kapitalska-druzba</loc>
@@ -301,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kapitalska-druzba/kadrsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/slovenia/kbm-infond-dzu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kbm-infond-dzu/kbizsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/kd-funds</loc>
@@ -321,19 +201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kd-funds/fnddsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kd-skladi-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/kd-skladi-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kd-skladi-d-o-o-/skoosi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/kd-borznoposredniska-druzba-d-o-o</loc>
@@ -341,39 +211,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/kd-borznoposredniska-druzba-d-o-o/bddosi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/slovenia/ljubljana-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/ljubljana-stock-exchange/xljusi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/modra-zavarovalnica-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/modra-zavarovalnica-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/modra-zavarovalnica-d-d-/mozvsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/moja-delnica-bph-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/moja-delnica-bph-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/moja-delnica-bph-d-d-/modpsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/moja-nalozba-pokojninska-drurba</loc>
@@ -381,59 +231,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/moja-nalozba-pokojninska-drurba/mnpdsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/mp-bph-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/mp-bph-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/mp-bph-d-d-/bphbsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nlb-skladi-upravljanje-premozenja-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/nlb-skladi-upravljanje-premozenja-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nlb-skladi-upravljanje-premozenja-d-o-o-/nsupsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d-/kbmasi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d-formerly-kbs-banka-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d-formerly-kbs-banka-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-kreditna-banka-maribor-d-d-formerly-kbs-banka-d-d-/kreksi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-ljubljanska-banka-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/nova-ljubljanska-banka-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/nova-ljubljanska-banka-d-d-/ljbasi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/paysera-lt</loc>
@@ -441,39 +261,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/paysera-lt/payesi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/perspektiva-bpd-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/perspektiva-bpd-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/perspektiva-bpd-d-d-/pebpsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/poteza-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/poteza-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/poteza-d-d-/pobfsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/primorski-financni-center-interfin-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/primorski-financni-center-interfin-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/primorski-financni-center-interfin-d-o-o-/pfcisi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/prva-osebna-zavarovalnica</loc>
@@ -481,19 +281,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/prva-osebna-zavarovalnica/prozsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/publikum-borzno-posredovanje-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/publikum-borzno-posredovanje-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/publikum-borzno-posredovanje-d-d-/pubpsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/republika-slovenija-ministrstvo-za-finance</loc>
@@ -501,19 +291,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/republika-slovenija-ministrstvo-za-finance/rsmfsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/sberbank-banka-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/sberbank-banka-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/sberbank-banka-d-d-/sabrsi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/sid-slovene-export-and-development-bank-inc-ljubljana</loc>
@@ -521,39 +301,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/sid-slovene-export-and-development-bank-inc-ljubljana/sedjsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/slovenia/sid-slovenska-izvozna-in-razvojna-banka-d-d-ljubljana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/sid-slovenska-izvozna-in-razvojna-banka-d-d-ljubljana/sidrsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/skb-banka-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/skb-banka-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/skb-banka-d-d-/skbasi2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/slovenski-drzavni-holding-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/slovenski-drzavni-holding-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/slovenski-drzavni-holding-d-d-/sdrhsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/triglav-druzba-za</loc>
@@ -561,39 +321,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/triglav-druzba-za/trdrsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/slovenia/ts-zeron-imperial-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/ts-zeron-imperial-ltd/zeimsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/unicredit-banka-slovenija-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/unicredit-banka-slovenija-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/unicredit-banka-slovenija-d-d-/bacxsi22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/veritas-b-h-d-o-o-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/veritas-b-h-d-o-o</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/veritas-b-h-d-o-o-/verisi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/slovenia/zavarovalnica-marbor</loc>
@@ -601,18 +341,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/zavarovalnica-marbor/zamasi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/zavarovalnica-triglav-d-d-</loc>
+    <loc>https://swiftcodedir.com/swift/slovenia/zavarovalnica-triglav-d-d</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/slovenia/zavarovalnica-triglav-d-d-/zatrsi21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

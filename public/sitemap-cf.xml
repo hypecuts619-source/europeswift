@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/banque-des-etats-de-l-afrique-centrale-d-n-centrafrique/beaccfcf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/banque-populaire-maroco-centrafricaine-b-p-m-c-</loc>
+    <loc>https://swiftcodedir.com/swift/central-african-republic/banque-populaire-maroco-centrafricaine-b-p-m-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/banque-populaire-maroco-centrafricaine-b-p-m-c-/bpmccfcf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/central-african-republic/banque-sahelo-saharienne-centre-afrique</loc>
@@ -41,28 +31,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/banque-sahelo-saharienne-centre-afrique/bsahcfcf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/central-african-republic/commercial-bank-centrafrique</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/commercial-bank-centrafrique/cbcacfcf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/central-african-republic/ecobank-centrafrique</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/central-african-republic/ecobank-centrafrique/ecoccfcf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

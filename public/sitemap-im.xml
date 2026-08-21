@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/abbey-national-treasury-international-limited-isle-of-man/anilimdx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/baloise-iom-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/baloise-iom-limited/baomimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/bank-of-scotland</loc>
@@ -116,19 +106,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/barclays-private-bank-and-trust-isle-of-man-limited/bpblimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/barclays-private-clients-international-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/barclays-private-clients-international-limited/bfimimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/capital-international-limted</loc>
@@ -166,19 +146,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/capital-international-ltd/caitimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/capital-international-ltd-isle-of-man</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/capital-international-ltd-isle-of-man/caitimd1001</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/cayman-national-bank-and-trust-company-isle-of-man-limited</loc>
@@ -186,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/cayman-national-bank-and-trust-company-isle-of-man-limited/cnbtimdd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/celtic-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/celtic-bank-ltd/celbimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/charlemagne-capital-iom-ltd</loc>
@@ -206,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/charlemagne-capital-iom-ltd/chpmimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/clydesdale-bank-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/clydesdale-bank-plc/clydimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/conister-bank-limited</loc>
@@ -226,19 +176,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/conister-bank-limited/cnniimd2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/equilibrium-solutions-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/equilibrium-solutions-ltd/eqsoimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/finantech-limited</loc>
@@ -246,29 +186,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/finantech-limited/fihtimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/fleming-jersey-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/fleming-jersey-limited/fljeimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/fortis-isle-of-man-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/fortis-isle-of-man-limited/mpieimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/halifax-plc</loc>
@@ -296,19 +221,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/hsbc-bank-plc/midlim21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/hsbc-trust-corporation-isle-of-man-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/hsbc-trust-corporation-isle-of-man-limited/midlimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/isle-of-man-bank</loc>
@@ -351,19 +266,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/kkb-limited/kkbbimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/laxey</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/laxey/laxeimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/lloyds-bank-international-limited</loc>
@@ -416,14 +321,9 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/nedbank-private-wealth-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/nedbank-private-wealth-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/nedbank-private-wealth-ltd-/rflcimdx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/old-mutual-international-iom-limited</loc>
@@ -446,19 +346,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/r-l-stott/rlstimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/ramsey-crookall-and-co-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/ramsey-crookall-and-co-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/ramsey-crookall-and-co-ltd-/raycimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-canada</loc>
@@ -466,32 +356,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-canada/roycimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-international-limited-the</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-international-limited-the/rbosimdx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc-</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc-/rbosimd1</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc/rbosimd1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc-/rbosimd1571</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-bank-of-scotland-isle-of-man-plc/rbosimd1571</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -501,29 +381,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/royal-skandia-treasury/roktimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/shearwater-securities-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/shearwater-securities-limited/shsrimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-investment-corp-</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-investment-corp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-investment-corp-/sbicimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-isle-of-man-limited</loc>
@@ -531,29 +396,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-isle-of-man-limited/sbicimdx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-of-south-africa-ltd-isle-of-man-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-of-south-africa-ltd-isle-of-man-branch/sbzaimdd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-stockbrokers-iom-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-stockbrokers-iom-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-bank-stockbrokers-iom-ltd-/stbtimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/standard-finance-isle-of-man-ltd</loc>
@@ -561,19 +411,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/standard-finance-isle-of-man-ltd/stfiimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/stars-interactive-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/stars-interactive-limited/rtnlimdd</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/sun-life-global-management-limited</loc>
@@ -581,19 +421,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/sun-life-global-management-limited/slgnimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/thomas-miller-investment-isle-of-man-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/thomas-miller-investment-isle-of-man-limited/mimiimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/tibra-structured-products-limited</loc>
@@ -601,19 +431,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/tibra-structured-products-limited/tisrimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/tufton-oceanic-isle-of-man-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/tufton-oceanic-isle-of-man-limited/tosnimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/ulster-bank-i-o-m-limited</loc>
@@ -621,18 +441,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/ulster-bank-i-o-m-limited/ulsbimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/isle-of-man/w-h-ireland-iom-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/isle-of-man/w-h-ireland-iom-limited/irioimd1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

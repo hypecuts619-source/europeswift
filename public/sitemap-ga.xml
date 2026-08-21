@@ -76,11 +76,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/banque-gabonaise-de-developpement/bgadgali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/gabon/bgfibank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -116,17 +111,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a-/citigalxtrd</loc>
+    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a/citigalxtrd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a-/citigalx</loc>
+    <loc>https://swiftcodedir.com/swift/gabon/citibank-n-a/citigalx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/ecobank-gabon/ecocgali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/gabon/gabon-poste</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/gabon/gabon-poste/ccpggali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/gabon/orabank-gabon</loc>
@@ -156,28 +141,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/orabank-gabon/orbkgali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/gabon/uba-gabon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/gabon/uba-gabon/unafgali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/gabon/union-gabonaise-de-banque</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/gabon/union-gabonaise-de-banque/ugabgali</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

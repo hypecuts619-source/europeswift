@@ -543,7 +543,7 @@ export function Home() {
           ].map((c) => (
             <Link 
               key={c.slug}
-              to={`/swift/${c.slug}`}
+              to={`/swift/${c.slug.toLowerCase()}`}
               className="group bg-white dark:bg-slate-900 rounded-3xl p-6 flex flex-col items-center justify-center border border-slate-200 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-800 shadow-sm hover:shadow-[0_8px_30px_rgb(0,51,153,0.12)] dark:hover:shadow-[0_8px_30px_rgb(59,130,246,0.15)] hover:-translate-y-1 will-change-transform transition-all text-center"
             >
               <span className="text-4xl mb-4 group-hover:scale-110 transition-transform grayscale-[0.5] group-hover:grayscale-0">{c.flag}</span>

@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/afriland-first-bank-stp/affsstst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-central-de-sao-tome-e-principe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-central-de-sao-tome-e-principe/cstpstst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-internacional-de-sao-tome-e-principe</loc>
@@ -41,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-internacional-de-sao-tome-e-principe/inoistst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-nacional-de-sao-tome-e-principe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-nacional-de-sao-tome-e-principe/bnststs1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-privado-sao-tome-e-principe</loc>
@@ -61,19 +41,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/banco-privado-sao-tome-e-principe/bpacstst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/bgfibank-sao-tome-et-principe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/bgfibank-sao-tome-et-principe/bgfistst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/ecobank-sao-tome</loc>
@@ -81,18 +51,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/ecobank-sao-tome/ecocstst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/energybank-sao-tome-e-pricipe-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/sao-tome-and-principe/energybank-sao-tome-e-pricipe-s-a/estpstst</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

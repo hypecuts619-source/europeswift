@@ -16,11 +16,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/african-development-bank/afdbcmc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cameroon/afriland-first-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -51,22 +46,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a-/cccbcmc10cd</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a/cccbcmc10cd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a-/cccbcmc1</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a/cccbcmc1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a-/cccbcmc10cy</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/bank-of-credit-and-commerce-cameroon-s-a/cccbcmc10cy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -74,11 +69,6 @@
     <loc>https://swiftcodedir.com/swift/cameroon/banque-atlantique-cameroun</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/banque-atlantique-cameroun/atcrcmcm</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cameroon/banque-des-etats-d-afrique-centrale</loc>
@@ -141,19 +131,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/banque-internationale-du-cameroun-pour-l-epargne-et-le-credit/iclrcmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cameroon/bc-pme-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bc-pme-sa/bpmecmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cameroon/bgfibank-cameroun-sa</loc>
@@ -161,32 +141,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/bgfibank-cameroun-sa/bgficmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/cameroon/british-american-tobacco-cameroun-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/british-american-tobacco-cameroun-s-a/batscmc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a-/citicmcxtrd</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a/citicmcxtrd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a-/citicmcx</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/citibank-n-a/citicmcx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -236,24 +206,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/credit-communautaire-d-afrique-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/credit-communautaire-d-afrique-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/credit-communautaire-d-afrique-s-a-/ccamcmcy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/ecobank-cameroun-sa-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/ecobank-cameroun-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/ecobank-cameroun-sa-/ecoccmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cameroon/karamouzi-s-bank-trust-ltd</loc>
@@ -261,29 +221,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/karamouzi-s-bank-trust-ltd/kbtlcmc1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/national-financial-credit-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/national-financial-credit-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/national-financial-credit-bank-s-a-/nafccmcy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/scb-cameroun-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/scb-cameroun-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/scb-cameroun-s-a-/bcmacmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cameroon/societe-generale-cameroun</loc>
@@ -301,38 +246,28 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a-/scblcmcx</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a/scblcmcx</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a-/scblcmcx0cy</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/standard-chartered-bank-cameroon-s-a/scblcmcx0cy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/union-bank-of-cameroon-ltd-ubc-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/cameroon/union-bank-of-cameroon-ltd-ubc-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/union-bank-of-cameroon-ltd-ubc-ltd-/ucmacmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/cameroon/united-bank-for-africa-cameroon-plc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/cameroon/united-bank-for-africa-cameroon-plc/unafcmcx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

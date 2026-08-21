@@ -11,24 +11,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/amerika-financiera-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/amerika-financiera-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/amerika-financiera-s-a-/amrkpep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-azteca-del-peru-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/banco-azteca-del-peru-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-azteca-del-peru-s-a-/aztkpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-central-de-reserva-del-peru</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-central-de-reserva-del-peru/crpepepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-continental</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-continental/bconpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-de-comercio</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-de-comercio/bdcmpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-de-credito-del-peru</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-de-credito-del-peru/bcplpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-de-la-nacion</loc>
@@ -76,19 +46,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-de-la-nacion/bancpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-financiero-del-peru</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-financiero-del-peru/finapepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-gnb-peru-sa</loc>
@@ -96,19 +56,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-gnb-peru-sa/hbpepepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-iberoamericano</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-iberoamericano/baiopep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-interamericano-de-finanzas</loc>
@@ -116,19 +66,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-interamericano-de-finanzas/bifspepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-internacional-del-peru-interbank-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/banco-internacional-del-peru-interbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-internacional-del-peru-interbank-/binppepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/banco-nor-peru</loc>
@@ -136,39 +76,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-nor-peru/bnpepep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-santander-peru-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/banco-santander-peru-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/banco-santander-peru-s-a-/bsappepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-holdings-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-holdings-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-holdings-s-a-/batspe31</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-s-a-c-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-s-a-c</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/british-american-tobacco-del-peru-s-a-c-/batspep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/caja-rural-de-ahorro-y-credito-chavin-saa</loc>
@@ -196,19 +116,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/camposol/capopepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/cavali-s-a-i-c-l-v-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/cavali-s-a-i-c-l-v</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/cavali-s-a-i-c-l-v-/cvlipepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/celfin-capital-s-a-sociedad-agente-de-bolsa</loc>
@@ -216,29 +126,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/celfin-capital-s-a-sociedad-agente-de-bolsa/ccstpep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/cetco-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/cetco-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/cetco-s-a-/belppepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/citibank-del-peru-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/citibank-del-peru-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/citibank-del-peru-s-a-/citipepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/cooperativa-de-ahorro-y-credito-pacifico</loc>
@@ -246,29 +141,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/cooperativa-de-ahorro-y-credito-pacifico/paccpep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/corporacion-financiera-de-desarrollo-s-a-cofide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/corporacion-financiera-de-desarrollo-s-a-cofide/cofdpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/credibolsa-sociedad-agente-de-bolsa-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/credibolsa-sociedad-agente-de-bolsa-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/credibolsa-sociedad-agente-de-bolsa-s-a-/cbolpep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/financiera-de-credito-del-peru</loc>
@@ -276,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/financiera-de-credito-del-peru/fcpepep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/icbc-peru-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/icbc-peru-bank/icbkpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/intervalores</loc>
@@ -296,29 +166,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/intervalores/intvpep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/jp-morgan-banco-de-inversion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/jp-morgan-banco-de-inversion/chaspepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/peru/kallpa-securities-s-a-b</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/kallpa-securities-s-a-b/kaespep1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/peru/sabmiller-peru</loc>
@@ -361,13 +216,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/peru/scotiabank-peru-s-a-a-</loc>
+    <loc>https://swiftcodedir.com/swift/peru/scotiabank-peru-s-a-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/peru/scotiabank-peru-s-a-a-/bsudpepl</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

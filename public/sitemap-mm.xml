@@ -16,19 +16,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/asia-green-development-bank-limited/agdbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/australia-and-newzealand-banking-group-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/australia-and-newzealand-banking-group-ltd/anzbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/aya-bank-limited</loc>
@@ -36,19 +26,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/aya-bank-limited/ayabmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/ayeyarwaddy-farmers-development-bank-public-company-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/ayeyarwaddy-farmers-development-bank-public-company-limited/ayfdmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/bangkok-bank-public-company-limited-yangon-branch</loc>
@@ -56,19 +36,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/bangkok-bank-public-company-limited-yangon-branch/bkkbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/bank-of-tokyo-mitsubishi-ufj-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/bank-of-tokyo-mitsubishi-ufj-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/bank-of-tokyo-mitsubishi-ufj-ltd-/botkmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/central-bank-of-myanmar</loc>
@@ -76,29 +46,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/central-bank-of-myanmar/cbmymmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/construction-and-housing-development-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/construction-and-housing-development-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/construction-and-housing-development-bank-ltd-/chddmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/co-operative-bank-limited-public-bank-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/co-operative-bank-limited-public-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/co-operative-bank-limited-public-bank-/cpobmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/e-sun-commercial-bank-ltd-yangon-branch</loc>
@@ -106,19 +61,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/e-sun-commercial-bank-ltd-yangon-branch/esunmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/first-private-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/first-private-bank-limited/fpbpmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/global-treasure-bank-public-company-ltd</loc>
@@ -126,29 +71,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/global-treasure-bank-public-company-ltd/mlfbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/industrial-and-commercial-bank-of-china-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/industrial-and-commercial-bank-of-china-yangon-branch/icbkmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/joint-stock-commercial-bank-for-investment-and-development-of-vietnam-yangon-branch-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/joint-stock-commercial-bank-for-investment-and-development-of-vietnam-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/joint-stock-commercial-bank-for-investment-and-development-of-vietnam-yangon-branch-/bidvmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/kanbawza-bank-ltd</loc>
@@ -171,29 +101,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/malayan-banking-berhad-yangon-branch/mbbemmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/mizuho-bank-ltd-yangon-branch-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/mizuho-bank-ltd-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/mizuho-bank-ltd-yangon-branch-/mhcbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/myanma-apex-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/myanma-apex-bank-limited/mmabmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/myanma-economic-bank</loc>
@@ -221,11 +136,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/myanma-foreign-trade-bank/mftbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/myanma-investment-and-commercial-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -246,19 +156,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/myanmar-citizens-bank-limited/mcizmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/myanmar-oriental-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/myanmar-oriental-bank-limited/myormmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/myawaddy-bank-limited</loc>
@@ -266,19 +166,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/myawaddy-bank-limited/mwdbmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/ocbc-bank-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/ocbc-bank-yangon-branch/ocbcmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/people-s-bank</loc>
@@ -286,29 +176,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/people-s-bank/bapsmmm1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/rural-development-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/rural-development-bank-limited/rdevmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/shinhan-bank-co-ltd-yangon-branch-</loc>
+    <loc>https://swiftcodedir.com/swift/myanmar-burma/shinhan-bank-co-ltd-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/shinhan-bank-co-ltd-yangon-branch-/shbkmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/shwe-rural-and-urban-development-bank</loc>
@@ -316,19 +191,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/shwe-rural-and-urban-development-bank/srudmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/small-and-medium-industrial-development-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/small-and-medium-industrial-development-bank/myidmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/state-bank-of-india-yangon-branch</loc>
@@ -336,19 +201,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/state-bank-of-india-yangon-branch/sbinmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/sumitomo-mitsui-banking-corporation-yangon-branch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/sumitomo-mitsui-banking-corporation-yangon-branch/smbcmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/tun-commercial-bank-ltd</loc>
@@ -356,29 +211,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/tun-commercial-bank-ltd/tfbkmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/union-of-burma-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/union-of-burma-bank/ububmmm1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/united-amara-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/united-amara-bank-limited/uabmmmmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/myanmar-burma/united-overseas-bank-limited-yangon-branch</loc>
@@ -399,10 +239,5 @@
     <loc>https://swiftcodedir.com/swift/myanmar-burma/yoma-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/myanmar-burma/yoma-bank-limited/yomammmy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

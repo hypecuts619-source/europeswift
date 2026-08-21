@@ -36,11 +36,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/alfa-bank/alfaby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/bank-belveb-ojsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -211,11 +206,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/-belagroprombank-jsc/bapbby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/belarusbank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -376,29 +366,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/belarusian-bank-for-small-business/bbsbby21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/belarusian-currency-and-stock-exchange</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/belarusian-currency-and-stock-exchange/bcsxby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/belarusky-narodny-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/belarusky-narodny-bank/blnbby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/belinvestbank-jsc</loc>
@@ -456,11 +431,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/belorussian-russian-belgazprombank/olmpby21107</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/belorussian-russian-belgazprombank-joint-stock</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -511,19 +481,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/bps-sberbank/bpsbby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/bta-bank-cjsc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/bta-bank-cjsc/aebkby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/cjsc-trade-capital-bank</loc>
@@ -531,19 +491,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/cjsc-trade-capital-bank/bbtkby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/cjsc-vtb-bank-belarus-</loc>
+    <loc>https://swiftcodedir.com/swift/belarus/cjsc-vtb-bank-belarus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/cjsc-vtb-bank-belarus-/slanby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/fransabank-ojsc</loc>
@@ -551,39 +501,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/fransabank-ojsc/gtbnby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/idea-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/idea-bank/somaby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-technobank-</loc>
+    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-technobank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-technobank-/tecnby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-development-bank-of-the-republic-of-belarus-</loc>
+    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-development-bank-of-the-republic-of-belarus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/joint-stock-company-development-bank-of-the-republic-of-belarus-/brrbby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/jsc-bsb-bank</loc>
@@ -591,19 +521,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/jsc-bsb-bank/unbsby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/minsk-transit-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/minsk-transit-bank/mtbkby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/national-bank-of-republic-belarus</loc>
@@ -611,29 +531,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/national-bank-of-republic-belarus/nbrbby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/ojsc-non-banking-credit-and-financial-organization-home-credit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/ojsc-non-banking-credit-and-financial-organization-home-credit/lojsby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/open-joint-stock-company-paritetbank-minsk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/open-joint-stock-company-paritetbank-minsk/poisby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/priorbank</loc>
@@ -681,19 +586,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/reconversion-and-development-bank-jsb/redjby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/republican-unitary-enterprise-republican-central-ecurities-depository-</loc>
+    <loc>https://swiftcodedir.com/swift/belarus/republican-unitary-enterprise-republican-central-ecurities-depository</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/republican-unitary-enterprise-republican-central-ecurities-depository-/ruerby21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/reshenie-bank</loc>
@@ -701,19 +596,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/reshenie-bank/rshnby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/belarus/severny-investicionny-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/severny-investicionny-bank/sevnby21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/statusbank</loc>
@@ -721,28 +606,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/belarus/statusbank/irjsby22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/trade-and-industrial-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/belarus/trade-and-industrial-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/trade-and-industrial-bank-s-a-/triuby21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/belarus/zepter-bank</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/belarus/zepter-bank/zeptby2x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

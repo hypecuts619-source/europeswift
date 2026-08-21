@@ -21,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/actinvest-sa/actnro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/active-international-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/active-international-sa/acirrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/alior-bank-sa-warsaw-bucharest-branch</loc>
@@ -41,29 +31,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/alior-bank-sa-warsaw-bucharest-branch/albprobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/alpha-bank-romania-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/alpha-bank-romania-sa/bucurobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/alpha-finance-romania-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/alpha-finance-romania-sa/alnrrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/arcelormittal-tubular-products-roman-sa</loc>
@@ -91,34 +66,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/austro-rom-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/austro-rom-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/austro-rom-s-a-/ausmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/b-c-r-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/b-c-r-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/b-c-r-securities-s-a-/bcerrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banc-post-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banc-post-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banc-post-s-a-/bposrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/banca-centrala-cooperatista-creditcoop</loc>
@@ -126,19 +86,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-centrala-cooperatista-creditcoop/crcorobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-comerciala-feroviara-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-comerciala-feroviara-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-comerciala-feroviara-s-a-/bferrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/banca-comerciala-romana-s-a</loc>
@@ -176,587 +126,577 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-romana-de-credite-si-investitii-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-romana-de-credite-si-investitii-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-romana-de-credite-si-investitii-s-a-/mindrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-romaneasca-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-romaneasca-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-romaneasca-s-a-/brmarobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22abi</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22abi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22aba</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22aba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bh4</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bh4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22tra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22tra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ar1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ar1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ar2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ar2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ara</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ara</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bca</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22mma</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22mma</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bhb</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bhb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bna</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bna</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bta</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bva</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bva</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bb4</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bb4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bb3</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bb3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bb2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bb2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bbc</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bbc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bot</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bot</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bvo</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bvo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bbl</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bbl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bb1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bbb</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bbb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bbp</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bbp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bba</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21bbt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21bbt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bbv</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bbv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bza</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bza</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj7</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj7</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21ph1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21ph1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22smc</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22smc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ar4</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ar4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj3</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cj8</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cj8</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bts</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bts</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cja</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cja</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj5</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj5</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj6</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj6</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjm</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21cj4</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21cj4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjz</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjz</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cta</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22dja</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22dja</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjd</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22hda</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22hda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22vld</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22vld</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bvf</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bvf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22svf</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22svf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22vra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22vra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22gla</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22gla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjg</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21gr1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21gr1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22gra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22gra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjh</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjh</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21hd1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21hd1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22isa</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22isa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ar5</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ar5</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22tml</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22tml</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ctm</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ctm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21sb1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21sb1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21hra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21hra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ar3</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ar3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22hro</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22hro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bco</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bco</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21bh2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21bh2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21bh3</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21bh3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21bh1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21bh1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bha</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bha</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22hdp</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22hdp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22nta</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22nta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22aga</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22aga</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22pha</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22pha</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22svr</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22svr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22bzr</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22bzr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22vla</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22vla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22msr</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22msr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22csa</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22csa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ntr</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ntr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22sma</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22sma</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21ab1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21ab1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cva</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cva</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21sb2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21sb2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22sba</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22sba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22mms</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22mms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21ms2</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21ms2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ota</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ota</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ila</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ila</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22sva</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22sva</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22dba</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22dba</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22gja</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22gja</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22msa</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22msa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21ms1</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21ms1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22ntt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22ntt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cvt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cvt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22glt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22glt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22tma</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22tma</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro21tla</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro21tla</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22cjt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22cjt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22mha</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22mha</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22svv</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22svv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a-/btrlro22sja</loc>
+    <loc>https://swiftcodedir.com/swift/romania/banca-transilvania-s-a/btrlro22sja</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22bra</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22bra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22buc</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22buc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22clu</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22clu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22cta</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22cta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22ora</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22ora</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a-/dafbro22tim</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bank-leumi-romania-s-a/dafbro22tim</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -766,29 +706,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bank-of-cyprus-pcl-nicosia-romanian-branch/bcyprobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bcr-banca-pentru-locuinte-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bcr-banca-pentru-locuinte-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bcr-banca-pentru-locuinte-s-a-/bcrlrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bforex-global-trading-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bforex-global-trading-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bforex-global-trading-s-a-/bgltrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/blom-bank-france-s-a-romania-branch</loc>
@@ -796,29 +721,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/blom-bank-france-s-a-romania-branch/blomrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/blue-rock-financial-services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/blue-rock-financial-services/trptro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/bnp-paribas-s-a-paris-sucursala-bucuresti</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bnp-paribas-s-a-paris-sucursala-bucuresti/ftsbrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/brd-groupe-societe-generale-sa</loc>
@@ -841,34 +751,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/brd-securities-groupe-societe-generale-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/brd-securities-groupe-societe-generale-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/brd-securities-groupe-societe-generale-s-a-/bsgsrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bt-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bt-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bt-securities-s-a-/seeero21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bucuresti-global-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/bucuresti-global-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bucuresti-global-invest-s-a-/bugirob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/bursa-de-valori-bucuresti-sa</loc>
@@ -876,19 +771,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/bursa-de-valori-bucuresti-sa/xbserob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/bursa-romana-de-marfuri-romanian-commodities-exchange-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/bursa-romana-de-marfuri-romanian-commodities-exchange-sa/burmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/capa-finance-ifn-sa</loc>
@@ -896,29 +781,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/capa-finance-ifn-sa/patrrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/capital-financial-services-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/capital-financial-services-sa/cpfsrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/capitol-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/capitol-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/capitol-s-a-/catlrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/carpatica-invest-sa</loc>
@@ -926,49 +796,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/carpatica-invest-sa/crnvro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/casa-de-compensare-bucuresti-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/casa-de-compensare-bucuresti-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/casa-de-compensare-bucuresti-s-a-/ccburob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/casa-romana-de-compensatie-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/casa-romana-de-compensatie-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/casa-romana-de-compensatie-s-a-/csrcro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/cec-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/cec-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/cec-bank-s-a-/cecerobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/central-european-investments-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/central-european-investments-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/central-european-investments-s-a-/ceenrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/citibank-europe-plc-dublin-sucursala-romania</loc>
@@ -991,44 +836,24 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/city-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/city-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/city-invest-s-a-/ciyiro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/confident-invest-bucharest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/confident-invest-bucharest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/confident-invest-bucharest-s-a-/coihrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/credit-agricole-bank-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/credit-agricole-bank-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/credit-agricole-bank-romania-s-a-/bsearobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/credit-europe-bank-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/credit-europe-bank-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/credit-europe-bank-romania-s-a-/fnnbrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/delta-valori-mobiliare-d-v-m-s-a</loc>
@@ -1036,99 +861,49 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/delta-valori-mobiliare-d-v-m-s-a/dvmdrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/depozitarul-central-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/depozitarul-central-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/depozitarul-central-s-a-/decnrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/dorinvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/dorinvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/dorinvest-s-a-/dornrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eastern-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/eastern-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/eastern-securities-s-a-/eascrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/egnatia-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/egnatia-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/egnatia-securities-s-a-/egntrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eldainvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/eldainvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/eldainvest-s-a-/eldaro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/equity-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/equity-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/equity-invest-s-a-/eqivrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/esteuro-capital-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/esteuro-capital-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/esteuro-capital-s-a-/escprob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/estinvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/estinvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/estinvest-s-a-/estiro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eteba-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/eteba-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eteba-romania-s-a-/etrorob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/etr-romania</loc>
@@ -1136,29 +911,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/etr-romania/etrmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eurobank-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/eurobank-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/eurobank-securities-s-a-/efesrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eurosavam-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/eurosavam-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/eurosavam-s-a-/eurvrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/eximbank-of-romania</loc>
@@ -1166,109 +926,54 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/eximbank-of-romania/eximrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/fairwind-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/fairwind-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/fairwind-securities-s-a-/unsurob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/finaco-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/finaco-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/finaco-securities-s-a-/fiuerob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/g-i-f-grupul-de-intermediere-financiara-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/g-i-f-grupul-de-intermediere-financiara-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/g-i-f-grupul-de-intermediere-financiara-s-a-/ggifrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/g-m-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/g-m-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/g-m-invest-s-a-/ivterob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/garanti-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/garanti-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/garanti-bank-s-a-/ugbirobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/global-valori-mobiliare-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/global-valori-mobiliare-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/global-valori-mobiliare-s-a-/glvmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/goldring-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/goldring-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/goldring-s-a-/goliro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/harinvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/harinvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/harinvest-s-a-/hariro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/hb-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/hb-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/hb-invest-s-a-/ivtsro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/hti-valori-mobiliare-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/hti-valori-mobiliare-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/hti-valori-mobiliare-s-a-/htvmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/idea-bank-sa</loc>
@@ -1276,29 +981,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/idea-bank-sa/roinrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ieba-trust-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/ieba-trust-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ieba-trust-s-a-/ietrrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ifb-finwest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/ifb-finwest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ifb-finwest-s-a-/iffnro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/ing-bank-n-v-bucharest-branch</loc>
@@ -1306,79 +996,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ing-bank-n-v-bucharest-branch/ingbrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/intercapital-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/intercapital-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/intercapital-invest-s-a-/itinrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/interdealer-capital-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/interdealer-capital-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/interdealer-capital-invest-s-a-/inlnro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/interfinbrok-corporation-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/interfinbrok-corporation-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/interfinbrok-corporation-s-a-/inaoro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/intervam-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/intervam-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/intervam-s-a-/ittrrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/intesa-sanpaolo-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/intesa-sanpaolo-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/intesa-sanpaolo-romania-s-a-/wbanro22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/invest-trust-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/invest-trust-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/invest-trust-s-a-/inutro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/kd-capital-management-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/kd-capital-management-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/kd-capital-management-s-a-/cpmarob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/kira-credito-and-cauzioni-ifn-s-a</loc>
@@ -1386,44 +1036,29 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/kira-credito-and-cauzioni-ifn-s-a/kccfro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/kmg-rompetrol</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/kmg-rompetrol/kmgrrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a-/brelrobu</loc>
+    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a/brelrobu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a-/brelrobucam</loc>
+    <loc>https://swiftcodedir.com/swift/romania/libra-bank-s-a/brelrobucam</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/marfin-bank-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/marfin-bank-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/marfin-bank-romania-s-a-/egnarobx</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/ministry-of-public-finance</loc>
@@ -1431,29 +1066,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ministry-of-public-finance/trezrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/mondial-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/mondial-sa/modlro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/muntenia-global-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/muntenia-global-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/muntenia-global-invest-s-a-/mugirob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/national-bank-of-romania</loc>
@@ -1481,69 +1101,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/national-bank-of-romania-regis/nborroba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/national-bank-of-romania-safir</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/national-bank-of-romania-safir/nborrobb</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/nhl-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/nhl-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/nhl-securities-s-a-/smrsrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/nova-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/nova-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/nova-invest-s-a-/noivro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/oltenia-grup-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/oltenia-grup-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/oltenia-grup-invest-s-a-/olgiro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/otp-bank-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/otp-bank-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/otp-bank-romania-s-a-/otpvrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/patria-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/patria-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/patria-bank-s-a-/carpro22</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/piraeus-bank-romania</loc>
@@ -1551,69 +1136,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/piraeus-bank-romania/pirbrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/porsche-bank-romania-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/porsche-bank-romania-sa/porlrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/prime-transaction-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/prime-transaction-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/prime-transaction-s-a-/prtarob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/procreditbank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/procreditbank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/procreditbank-s-a-/mirorobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-banca-pentru-locuinte-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-banca-pentru-locuinte-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-banca-pentru-locuinte-s-a-/rzblrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-bank-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-bank-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-bank-s-a-/rzbrrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-capital-and-investment-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-capital-and-investment-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/raiffeisen-capital-and-investment-s-a-/racirob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/rasdaq</loc>
@@ -1621,29 +1171,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/rasdaq/xrasrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/rbs-securities-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/rbs-securities-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/rbs-securities-romania-s-a-/aasorob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/roinvest-bucovina-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/roinvest-bucovina-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/roinvest-bucovina-s-a-/roburo21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/romanian-post-national-company</loc>
@@ -1651,29 +1186,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/romanian-post-national-company/roncrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/rombell-securities-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/rombell-securities-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/rombell-securities-s-a-/roecrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/romcapital-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/romcapital-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/romcapital-s-a-/romcro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/romexterra-finance-s-a</loc>
@@ -1681,69 +1201,34 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/romexterra-finance-s-a/fnccro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-c-depozitarul-sibex-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-c-depozitarul-sibex-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-c-depozitarul-sibex-s-a-/desxro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-fortius-finance-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-fortius-finance-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-fortius-finance-s-a-/ssfirob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-orizont-vest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-orizont-vest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-orizont-vest-s-a-/ssovro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-piraeus-securities-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-piraeus-securities-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-piraeus-securities-romania-s-a-/spsmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-romintrade-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-romintrade-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-romintrade-s-a-/ssroro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-vienna-investment-trust-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-vienna-investment-trust-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/s-s-i-f-vienna-investment-trust-s-a-/fiefrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/samsung-electronics-romania-srl</loc>
@@ -1766,19 +1251,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/sc-smith-and-smith-srl/ssrrrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/societate-de-investitii-financiare-broker-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/societate-de-investitii-financiare-broker-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/societate-de-investitii-financiare-broker-s-a-/sifkro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/societatea-nationala-de-compensare-decontare-si-depozitare-pentru-valori-mobiliare-sa</loc>
@@ -1786,49 +1261,24 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/societatea-nationala-de-compensare-decontare-si-depozitare-pentru-valori-mobiliare-sa/sncdrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/speed-transfer-financiar-srl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/speed-transfer-financiar-srl/srfsrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ssif-mobinvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/ssif-mobinvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ssif-mobinvest-s-a-/ssmoro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ssif-stk-trading-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/ssif-stk-trading-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ssif-stk-trading-s-a-/sssrro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/super-gold-invest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/super-gold-invest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/super-gold-invest-s-a-/sugiro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/swiss-capital-sa</loc>
@@ -1836,29 +1286,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/swiss-capital-sa/ksrsrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/t-g-h-investment-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/t-g-h-investment-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/t-g-h-investment-s-a-/tginro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/target-capital-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/target-capital-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/target-capital-s-a-/taciro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/tbi-bank-ead-sofia-bucharest-branch</loc>
@@ -1866,59 +1301,39 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/tbi-bank-ead-sofia-bucharest-branch/tbibrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/tradeville-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/tradeville-sa/vangrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a-/trfdrobssnt</loc>
+    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a/trfdrobssnt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a-/trfdrobs</loc>
+    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a/trfdrobs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a-/trfdrobu</loc>
+    <loc>https://swiftcodedir.com/swift/romania/transfond-s-a/trfdrobu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/trend-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/trend-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/trend-s-a-/teenro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/unicapital-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/unicapital-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/unicapital-s-a-/uncprob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/unicredit-bank-sa</loc>
@@ -1926,19 +1341,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/unicredit-bank-sa/bacxrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/unicredit-ca-ib-securities-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/unicredit-ca-ib-securities-sa/cauerob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/ursus-breweries-sa</loc>
@@ -1946,29 +1351,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ursus-breweries-sa/sabmrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/romania/valahia-capital-sa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/valahia-capital-sa/vactrob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/valmob-intermedia-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/valmob-intermedia-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/valmob-intermedia-s-a-/vaitro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/romania/veneto-banca-s-p-a-italia-montebelluna-sucursala-bucuresti</loc>
@@ -1976,38 +1366,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/veneto-banca-s-p-a-italia-montebelluna-sucursala-bucuresti/bitrrobu</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/ventrust-investment-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/ventrust-investment-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/ventrust-investment-s-a-/veivro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/voltinvest-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/voltinvest-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/romania/voltinvest-s-a-/voltro21</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/w-b-s-romania-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/romania/w-b-s-romania-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/romania/w-b-s-romania-s-a-/wbrorob1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

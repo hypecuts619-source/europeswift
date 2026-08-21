@@ -31,19 +31,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/boi-bank-corporation/boibagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/brs-banque-s-a-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/brs-banque-s-a</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/brs-banque-s-a-/brsfagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/bank-of-nova-scotia-the</loc>
@@ -51,39 +41,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/bank-of-nova-scotia-the/noscagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/caribbean-union-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/caribbean-union-bank-ltd/cunbagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/d-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/d-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/d-bank-ltd-/danlagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/eastern-caribbean-amalgamated-bank-ltd-ecab-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/eastern-caribbean-amalgamated-bank-ltd-ecab</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/eastern-caribbean-amalgamated-bank-ltd-ecab-/ecabagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/firstcaribbean-international-bank-barbados-limited</loc>
@@ -91,29 +61,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/firstcaribbean-international-bank-barbados-limited/fcibagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/global-alliance-building-society-global-alliance-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/global-alliance-building-society-global-alliance-group/gabcaga1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/global-bank-of-commerce-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/global-bank-of-commerce-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/global-bank-of-commerce-ltd-/gbclagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/government-of-antigua-and-barbuda</loc>
@@ -121,29 +76,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/government-of-antigua-and-barbuda/gvabagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/meinl-bank-antigua-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/meinl-bank-antigua-limited/mbalagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/north-international-bank-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/north-international-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/north-international-bank-ltd-/noitagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/royal-bank-of-canada</loc>
@@ -151,28 +91,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/royal-bank-of-canada/roycagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/trium-bank-and-trust-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/antigua-barbuda/trium-bank-and-trust-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/trium-bank-and-trust-ltd-/tbtlagag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/antigua-barbuda/v-t-i-bank-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/antigua-barbuda/v-t-i-bank-ltd/vtibaga1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

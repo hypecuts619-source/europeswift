@@ -11,14 +11,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/bordier-international-bank-and-trust-ltd-</loc>
+    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/bordier-international-bank-and-trust-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/bordier-international-bank-and-trust-ltd-/bibttcg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/turks-caicos-islands/british-caribbean-bank-limited</loc>
@@ -26,19 +21,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/british-caribbean-bank-limited/bcbatcgp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/turks-caicos-islands/first-national-bank-limited</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/first-national-bank-limited/ftnltcg1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://swiftcodedir.com/swift/turks-caicos-islands/firstcaribbean-international-bank-bahamas-limited-turks-and-caicos</loc>
@@ -46,28 +31,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/firstcaribbean-international-bank-bahamas-limited-turks-and-caicos/fcibtcgp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/turks-caicos-islands/scotiabank-turks-and-caicos-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/scotiabank-turks-and-caicos-ltd/nosctcgp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://swiftcodedir.com/swift/turks-caicos-islands/turks-and-caicos-banking-co-ltd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://swiftcodedir.com/swift/turks-caicos-islands/turks-and-caicos-banking-co-ltd/tcbctcgp</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
