@@ -3,5 +3,11 @@ Disallow: /*?ref=
 Allow: /
 Content-Signal: search=yes,ai-input=yes,ai-train=no
 
+User-agent: Bingbot
+User-agent: msnbot
+User-agent: BingPreview
+Allow: /
+Crawl-delay: 1
+
 Sitemap: https://swiftcodedir.com/sitemap.xml
 
