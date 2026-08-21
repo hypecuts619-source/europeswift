@@ -7,6 +7,7 @@
     "dev": "vite",
     "prebuild": "tsx create-sitemap.ts",
     "build": "tsx create-sitemap.ts && vite build",
+    "index": "tsx scripts/submit-indexnow.ts",
     "submit:indexnow": "tsx scripts/submit-indexnow.ts",
     "preview": "vite preview",
     "clean": "rm -rf dist",
