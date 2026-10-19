@@ -360,6 +360,8 @@ export default function App() {
                   <Route path=":routingNumber" element={<RoutingDetails />} />
                 </Route>
 
+                <Route path="routing" element={<Navigate to="/routing-number" replace />} />
+                <Route path="sort-codes" element={<Navigate to="/sort-code" replace />} />
                 <Route path="regulatory-hub" element={<RegulatoryHub />} />
                 <Route path="eudi-readiness" element={<EUDIReadiness />} />
 

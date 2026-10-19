@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { weeklyBlogPosts2026 } from "./weeklyBlogPosts2026";
 
 export interface BlogPost {
   slug: string;
@@ -15,6 +16,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  ...weeklyBlogPosts2026,
   {
     slug: "wells-fargo-swift-code",
     title: "Wells Fargo SWIFT Code (BIC) & Routing Guide [2026]",

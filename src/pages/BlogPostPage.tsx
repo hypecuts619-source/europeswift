@@ -13,11 +13,17 @@ import { Card, CardContent } from "../components/ui/card";
 const keywordLinks = [
   { term: 'SWIFT code', url: '/what-is-a-swift-code' },
   { term: 'BIC code', url: '/swift' },
+  { term: 'SWIFT Checker', url: '/swift-checker' },
   { term: 'IBAN calculator', url: '/iban/calculator' },
   { term: 'IBAN validator', url: '/iban/validator' },
   { term: 'sort code', url: '/sort-code' },
   { term: 'routing number', url: '/routing' },
-  { term: 'BLZ', url: '/blz' }
+  { term: 'ABA routing', url: '/routing' },
+  { term: 'BLZ', url: '/blz' },
+  { term: 'Bankleitzahl', url: '/blz' },
+  { term: 'SEPA transfer', url: '/sepa-transfer-guide' },
+  { term: 'SEPA', url: '/sepa-transfer-guide' },
+  { term: 'banking statistics', url: '/banking-statistics' }
 ];
 
 const relatedRecordsMapping: Record<string, { title: string, links: { name: string, url: string }[] }> = {
@@ -44,6 +50,49 @@ const relatedRecordsMapping: Record<string, { title: string, links: { name: stri
       { name: "Barclays SWIFT Codes", url: "/swift/united-kingdom/barclays" },
       { name: "HSBC SWIFT Codes", url: "/swift/united-kingdom/hsbc" },
       { name: "Lloyds SWIFT Codes", url: "/swift/united-kingdom/lloyds-bank" },
+    ]
+  },
+  'iso-20022': {
+    title: "Major Cross-Border Clearing Hubs",
+    links: [
+      { name: "United States SWIFT Codes", url: "/swift/united-states" },
+      { name: "Germany SWIFT Codes", url: "/swift/germany" },
+      { name: "United Kingdom SWIFT Codes", url: "/swift/united-kingdom" },
+      { name: "Global SWIFT Checker", url: "/swift-checker" }
+    ]
+  },
+  'sepa': {
+    title: "European SEPA & IBAN Directories",
+    links: [
+      { name: "SEPA Transfer Guide", url: "/sepa-transfer-guide" },
+      { name: "France SWIFT Codes", url: "/swift/france" },
+      { name: "Germany SWIFT Codes", url: "/swift/germany" },
+      { name: "European IBAN Hub", url: "/iban/europe" }
+    ]
+  },
+  'middle-east': {
+    title: "Middle East & GCC Directories",
+    links: [
+      { name: "United Arab Emirates SWIFT Codes", url: "/swift/united-arab-emirates" },
+      { name: "Middle East IBAN Hub", url: "/iban/middle-east" },
+      { name: "Global IBAN Validator", url: "/iban/validator" }
+    ]
+  },
+  'apac': {
+    title: "Asia-Pacific Clearing Hubs",
+    links: [
+      { name: "Singapore SWIFT Codes", url: "/swift/singapore" },
+      { name: "Hong Kong SWIFT Codes", url: "/swift/hong-kong" },
+      { name: "Japan SWIFT Codes", url: "/swift/japan" },
+      { name: "Asia IBAN Hub", url: "/iban/asia" }
+    ]
+  },
+  'fedwire': {
+    title: "United States Banking Directory",
+    links: [
+      { name: "JPMorgan Chase SWIFT Codes", url: "/swift/united-states/jpmorgan-chase-bank" },
+      { name: "Bank of America SWIFT Codes", url: "/swift/united-states/bank-of-america" },
+      { name: "US ABA Routing Hub", url: "/routing" }
     ]
   }
 };
