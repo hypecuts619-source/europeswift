@@ -1,0 +1,27 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "europe-swift-bic-directory",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "invocation_logs": true,
+      "persist": true
+    },
+    "traces": {
+      "enabled": false,
+      "head_sampling_rate": 1,
+      "persist": true
+    }
+  }
+  // Uncomment and configure once your domain DNS is on Cloudflare:
+  // ,"routes": [
+  //   { "pattern": "swiftcodedir.com", "custom_domain": true },
+  //   { "pattern": "www.swiftcodedir.com", "custom_domain": true }
+  // ]
+}

@@ -10,6 +10,8 @@
     "index": "tsx scripts/submit-indexnow.ts",
     "submit:indexnow": "tsx scripts/submit-indexnow.ts",
     "preview": "vite preview",
+    "deploy": "npm run build && wrangler deploy",
+    "cf:dev": "wrangler dev",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
@@ -56,6 +58,7 @@
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.3",
-    "vite-plugin-pwa": "^1.3.0"
+    "vite-plugin-pwa": "^1.3.0",
+    "wrangler": "^4.164.0"
   }
 }
